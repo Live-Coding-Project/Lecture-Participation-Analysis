@@ -1,0 +1,8 @@
+,A00,B00,C00,D00
+Review 1,0.38317757009345793,0.39823008849557523,0.6732673267326733,0.7241379310344828
+Review 2,0.44155844155844154,0.25,0.46078431372549017,0.5057471264367817
+Big idea #1,0.0,0.0,0.0,0.0
+Big idea #2,0.33962264150943394,0.3,0.67,0.5057471264367817
+Big Idea #3,0.36792452830188677,0.4074074074074074,0.49473684210526314,0.5529411764705883
+"Big idea #4 - Scenario 1: You are writing a loop to validate a password entered by the user. If the user’s password does not meet the criteria (at least 8 characters), you should prompt the user to try again. Which loop will you use here and why?------------------------------------------------------------------------------------------------------------------------------Scenario 2: You want to loop through a list of student names and print their names in a specified format (last, first). Which loop will you use and why?",0.0,0.0,0.0,0.0
+Big idea #5,0.4852941176470588,0.34210526315789475,0.6341463414634146,0.4838709677419355
