@@ -1,0 +1,324 @@
+,Timestamp,Email Address,"Review - Short Answer: If the user guesses the numbers 2 and 3, how many times will this loop run. Explain your answer!",Exercise: References and Objects - How many unique references and objects are there in the code above?,Exercise: Modifying References and Objects - What will be printed?,Exercise: Modifying a List within a Function - What will be printed?,Exercise: Modifying a String within a Function - What will happen when you run the program below?,Exercise: Basic List Methods - What will be printed?,Exercise: Basic String Methods - What will be printed?,What is one key idea that you learned in today's class? (2- 3 sentences),What questions do you still have about today's lecture? OR What did you find the most confusing about today's lecture?
+0,2022-04-21 15:45:10.287,nbhoot@ucsd.edu,2 times,3 references and 3 objects,A),"[0, 0, 0]",The program will print 'Annie',"[10, 20, 40]",4.0,learned about .dot operaters. Learn about math library functions,
+1,2022-04-21 15:52:56.964,kmaramba@ucsd.edu,At most 2 since the while loop could stop at one or two executions depending on the chosen number.,,,,,,,,
+2,2022-04-21 15:52:57.497,kpompa@ucsd.edu,It will indefinitely. ,,,,,,,,
+3,2022-04-21 15:53:11.058,jwhiteman@ucsd.edu,If the user enters the code 2 and 3 it will run once and then get an error because the only number between 1 and 3 is 2 and 3 is not in there.,,,,,,,,
+4,2022-04-21 15:53:13.177,vtan@ucsd.edu,This loop will run infinitely until the the user guesses the number correctly. We know this because of the break after the body of the if statement ,,,,,,,,
+5,2022-04-21 15:53:31.286,kaalfaro@ucsd.edu,Once,,,,,,,,
+6,2022-04-21 15:53:31.822,mareece@ucsd.edu,"2 times because if it reaches 3 loops it won'r run again due to the while stipulation of <=2 which would bar the code from running again. That is, unless they guess the correct number, in which case the code will terminate on whichever loop the person got the correct answer in.",,,,,,,,
+7,2022-04-21 15:53:34.909,jtgonzales@ucsd.edu,It depends on if the randomizer picks 2 or 3 first or second or third. If your first guess is 2 and number is 2 then the loop stops. Etc. The maximum number of times this loop can run is 3 times.,,,,,,,,
+8,2022-04-21 15:53:37.876,xuz027@ucsd.edu,2.0,,,,,,,,
+9,2022-04-21 15:53:39.638,liz007@ucsd.edu,3 times? Because it would let the user guess until they get the right answer,,,,,,,,
+10,2022-04-21 15:53:45.403,dderasar@ucsd.edu,This loop will run 5 times.,,,,,,,,
+11,2022-04-21 15:53:52.107,glepage@ucsd.edu,2.0,,,,,,,,
+12,2022-04-21 15:53:52.673,asawyer@ucsd.edu,"The loop will only run once because the user guesses the correct number ""2"" on the first try which makes the look immediately break after. ",,,,,,,,
+13,2022-04-21 15:53:58.108,wha@ucsd.edu,"It depends on if the user guessed the correct answer or not. If the user was wrong both times, the loop will stop after two rounds. If they guessed correctly, the loop would stop immediately.",,,,,,,,
+14,2022-04-21 15:53:58.406,orusso@ucsd.edu,We have no idea how many times with loop will run because we do not know what the number is going to be (number is generated from random integer function).,,,,,,,,
+15,2022-04-21 15:54:00.391,ijjones@ucsd.edu,twice. either the user gets it corrects and it ends or the user runs out of attempts and it ends. ,,,,,,,,
+16,2022-04-21 15:54:02.578,djlakhani@ucsd.edu,"2
+The loop will run with each attempt. Two attempts = 2 iterations",,,,,,,,
+17,2022-04-21 15:54:04.116,erguerrero@ucsd.edu,"If 2 and 3 are guessed, the loop will still end after these two numbers are guessed, because round will have reached 2.",,,,,,,,
+18,2022-04-21 15:54:05.302,srachapudi@ucsd.edu,it'll run at most twice,,,,,,,,
+19,2022-04-21 15:54:08.832,kel015@ucsd.edu,"The loop will run twice because after two guesses, round = 3, which falls outside the range of the while loop.",,,,,,,,
+20,2022-04-21 15:54:11.036,ktl001@ucsd.edu,"2,because the round will add to 2 and stop running",,,,,,,,
+21,2022-04-21 15:54:11.894,akwolfe@ucsd.edu,2.0,,,,,,,,
+22,2022-04-21 15:54:13.848,mhle@ucsd.edu,2.0,,,,,,,,
+23,2022-04-21 15:54:15.521,arommid@ucsd.edu,It will <= 2 times depending on if the user gets it correct on the first try. They only get a maximum of 2 tries. ,3 references and 1 object,A),,,,,,
+24,2022-04-21 15:54:20.246,voswal@ucsd.edu,Twice,,,,,,,,
+25,2022-04-21 15:54:21.220,rmerino@ucsd.edu,"If the user guesses the numbers 2 and 3, the code will run only two times as there are only two rounds in while loop for round<= 2. ",,,,,,,,
+26,2022-04-21 15:54:26.907,key010@ucsd.edu,It will run two times because once it reaches 2 the loop breaks.,,,,,,,,
+27,2022-04-21 15:54:32.031,myk001@ucsd.edu,It will be random since the function imported the randint. which randomly pick any one of the numbers between 1 and 3. ,,,,,,,,
+28,2022-04-21 15:54:33.387,hchu@ucsd.edu,1 or 2 times.,,,,,,,,
+29,2022-04-21 15:54:34.215,arodrigues@ucsd.edu,It depends on what the number generated is,,,,,,,,
+30,2022-04-21 15:54:42.372,wjh001@ucsd.edu,Twice,,,,,,,,
+31,2022-04-21 15:54:46.373,yuc096@ucsd.edu,"It depends on the value of number, but the loop will run at most two times.",,,,,,,,
+32,2022-04-21 15:54:46.571,rsuresh@ucsd.edu,"The loop will run 2 times regardless of whether the numbers are correct or not. If the user entered 2, and was given the ability to enter 3, this means 2 was incorrect so the loop would have run a second time. The 2nd time running the loop, if 3 is right, the loop will break and will have been run twice. If it is wrong, both attempts will have been used and round will now be greater than 2, meaning the loop has still been run twice.",,,,,,,,
+33,2022-04-21 15:55:12.232,tnduong@ucsd.edu,"If the user guesses the numbers 2 and 3, this loop will run 3 times because the condition round <= 2 of the while loop will break after the 3rd round.",,,,,,,,
+34,2022-04-21 15:55:51.230,ajett@ucsd.edu,"Depending on what number is randomly generated for the variable <number>, the while loop may run once up to break or run twice either up to break or up to the full while body. If 2 if the number, then the loop will run once and then break. If not 2, then the while loop will run once and then again while round is still less than or equal to 2, and if 3 is the right number, then the loop will break, thus running twice. If 3 is not the right number either, then the loop will run to the end and round will become 3 and the while condition will be false and not run again, thus running only twice.",,,,,,,,
+35,2022-04-21 15:56:24.724,arodrigues@ucsd.edu,It will run at most 2 times but sometimes 1.,,,,,,,,
+36,2022-04-21 15:57:19.839,mbannai@ucsd.edu,"This will run up to two times, unless they guess it correctly on their first try.",,,,,,,,
+37,2022-04-21 15:58:42.310,anslyker@ucsd.edu,"We don't know, so it depends on the randomly generated number and the number that the user guesses. ",,,,,,,,
+38,2022-04-21 15:58:52.622,rdwong@ucsd.edu,it will iterate twice ,,,,,,,,
+39,2022-04-21 15:59:19.893,xw001@ucsd.edu,"If the user's correct for the first time, the loop runs once. Otherwise, the loop runs twice.",,,,,,,,
+40,2022-04-21 15:59:20.867,kmadriaga@ucsd.edu,Twice,,,,,,,,
+41,2022-04-21 16:01:00.253,kmochizuki@ucsd.edu,it will stop if round is 2 or if the player guesses correclty,,,,,,,,
+42,2022-04-21 16:03:26.220,arodrigues@ucsd.edu,,3 references and 2 objects,A),Error: List index out of range,The program will print 'annie',"[10, 20, 40]",4.0,"References point to objects, however, references can point to other references, thus pointing to those reference's objects. Methods are super useful and make programming a lot easier than if we had to do everything by hand.",I don't have any questions and i followed lecture well.
+43,2022-04-21 16:07:16.163,srachapudi@ucsd.edu,,3 references and 2 objects,A),,,,,,
+44,2022-04-21 16:07:25.636,asawyer@ucsd.edu,,2 references and 2 objects,B),,,,,,
+45,2022-04-21 16:07:26.601,kmaramba@ucsd.edu,,3 references and 2 objects,,,,,,,
+46,2022-04-21 16:07:33.336,weh009@ucsd.edu,The amount of loops depends on if the user guesses the number correctly. If the user gets the number on the first attempt the loop will be ended by the break statement. If the user takes more than 2 tries then the loop will also be stopped because the amount of rounds would exceed 2.,2 references and 2 objects,,,,,,,
+47,2022-04-21 16:07:40.239,kmochizuki@ucsd.edu,,3 references and 2 objects,,,,,,,
+48,2022-04-21 16:07:41.338,kmadriaga@ucsd.edu,,3 references and 2 objects,,,,,,,
+49,2022-04-21 16:07:41.623,ksleung@ucsd.edu,"Maximum, the loop will only run twice if neither 2 or 3 is correct because of the condition ""round<=2"". It will run once or twice if the answer is 2 or 3.",3 references and 2 objects,,,,,,,
+50,2022-04-21 16:07:41.773,erguerrero@ucsd.edu,,3 references and 1 object,,,,,,,
+51,2022-04-21 16:07:42.047,akwolfe@ucsd.edu,,3 references and 1 object,,,,,,,
+52,2022-04-21 16:07:46.211,mhle@ucsd.edu,at most 2,2 references and 2 objects,,,,,,,
+53,2022-04-21 16:07:47.633,spaull@ucsd.edu,This loop will run either once or twice depending on what the random number is. If the number is two then it will only run once. ,3 references and 2 objects,,,,,,,
+54,2022-04-21 16:07:50.413,jwhiteman@ucsd.edu,,3 references and 2 objects,,,,,,,
+55,2022-04-21 16:07:52.141,dderasar@ucsd.edu,,3 references and 2 objects,,,,,,,
+56,2022-04-21 16:07:52.250,xw001@ucsd.edu,,3 references and 2 objects,,,,,,,
+57,2022-04-21 16:07:57.040,ajett@ucsd.edu,"Depending on what number is randomly generated for the variable <number>, the while loop may run once up to break or run twice either up to break or up to the full while body. If 2 if the number, then the loop will run once and then break. If not 2, then the while loop will run once and then again while round is still less than or equal to 2, and if 3 is the right number, then the loop will break, thus running twice. If 3 is not the right number either, then the loop will run to the end and round will become 3 and the while condition will be false and not run again, thus running only twice.",3 references and 2 objects,,,,,,,
+58,2022-04-21 16:07:57.878,ijjones@ucsd.edu,at most 2,3 references and 2 objects,,,,,,,
+59,2022-04-21 16:07:57.999,ktl001@ucsd.edu,,2 references and 2 objects,,,,,,,
+60,2022-04-21 16:07:58.353,rsuresh@ucsd.edu,,3 references and 2 objects,,,,,,,
+61,2022-04-21 16:08:03.115,hchu@ucsd.edu,,3 references and 2 objects,,,,,,,
+62,2022-04-21 16:08:04.165,chartman@ucsd.edu,"this loop will run at least once, and only once if their guess is correct, and twice if the first guess is incorrect.",3 references and 1 object,,,,,,,
+63,2022-04-21 16:08:06.675,xuz027@ucsd.edu,,3 references and 2 objects,A),,,,,,
+64,2022-04-21 16:08:09.506,yiw080@ucsd.edu,2 will over 3 after 2times,3 references and 2 objects,,,,,,,
+65,2022-04-21 16:08:10.422,liz007@ucsd.edu,,3 references and 1 object,,,,,,,
+66,2022-04-21 16:08:12.395,jtgonzales@ucsd.edu,,3 references and 2 objects,,,,,,,
+67,2022-04-21 16:08:12.421,myk001@ucsd.edu,,3 references and 2 objects,,,,,,,
+68,2022-04-21 16:08:13.323,ammendoza@ucsd.edu,The loop would run 2 times.,3 references and 2 objects,,,,,,,
+69,2022-04-21 16:08:13.345,voswal@ucsd.edu,,3 references and 2 objects,,,,,,,
+70,2022-04-21 16:08:20.243,wha@ucsd.edu,,2 references and 2 objects,,,,,,,
+71,2022-04-21 16:08:22.838,ijjones@ucsd.edu,,3 references and 3 objects,,,,,,,
+72,2022-04-21 16:08:28.059,h9johnson@ucsd.edu,"At most twice. The while loop condition will always be true for the first iteration, there is a chance the user will guess correct and the loop will break. The condition for the second iteration is true and the user can guess. But in iteration three the condition is false so the loop will stop. ",3 references and 2 objects,,,,,,,
+73,2022-04-21 16:08:29.576,rmerino@ucsd.edu,,2 references and 2 objects,,,,,,,
+74,2022-04-21 16:08:31.264,sil049@ucsd.edu,Once or twice. ,3 references and 2 objects,,,,,,,
+75,2022-04-21 16:08:35.442,mareece@ucsd.edu,,3 references and 2 objects,,,,,,,"I don't really get the x and y part of the lecture when she was explaining references and objects. I get that the variable is in reference to object, but I don't get what x and y were supposed to be."
+76,2022-04-21 16:08:37.450,tnduong@ucsd.edu,,3 references and 2 objects,,,,,,,
+77,2022-04-21 16:08:38.592,orusso@ucsd.edu,"The loop will run at 2 times. If the guess is equivalent to the number, the loop will reach a break and run again for another number. If the guess is not equivalent to the number, the while loop will run two codes anyway. ",3 references and 2 objects,,,,,,,
+78,2022-04-21 16:08:38.971,vtan@ucsd.edu,,3 references and 3 objects,,,,,,,
+79,2022-04-21 16:08:40.294,j6xu@ucsd.edu,the times of this loop will run depend on if the number that the user guesses match with the number that the computer generate.,3 references and 2 objects,,,,,,,
+80,2022-04-21 16:08:43.388,kpompa@ucsd.edu,At least once.,3 references and 1 object,,,,,,,
+81,2022-04-21 16:08:47.851,djlakhani@ucsd.edu,,3 references and 2 objects,,,,,,,
+82,2022-04-21 16:08:48.943,kaalfaro@ucsd.edu,,3 references and 2 objects,,,,,,,
+83,2022-04-21 16:08:50.583,rdwong@ucsd.edu,,3 references and 2 objects,,,,,,,
+84,2022-04-21 16:08:50.902,anslyker@ucsd.edu,a maximum of 2 times based on the generated number and guess,3 references and 2 objects,,,,,,,
+85,2022-04-21 16:08:56.654,mareece@ucsd.edu,,3 references and 2 objects,,,,,,,
+86,2022-04-21 16:12:22.818,kel015@ucsd.edu,,3 references and 2 objects,,,,,,,
+87,2022-04-21 16:18:11.742,kmochizuki@ucsd.edu,,,A),,,,,,
+88,2022-04-21 16:18:15.042,djlakhani@ucsd.edu,,,A),,,,,,
+89,2022-04-21 16:18:16.338,ktl001@ucsd.edu,,,A),,,,,,
+90,2022-04-21 16:18:25.162,chartman@ucsd.edu,,,A),,,,,,
+91,2022-04-21 16:18:25.389,kmaramba@ucsd.edu,,,A),,,,,,
+92,2022-04-21 16:18:27.835,xuz027@ucsd.edu,,,A),,,,,,
+93,2022-04-21 16:18:33.805,ksleung@ucsd.edu,"Maximum, the loop will only run twice if neither 2 or 3 is correct because of the condition ""round<=2"". It will run once or twice if the answer is 2 or 3.",3 references and 2 objects,B),,,,,,
+94,2022-04-21 16:18:34.790,liz007@ucsd.edu,,,A),,,,,,
+95,2022-04-21 16:18:38.490,yiw080@ucsd.edu,,,A),,,,,,
+96,2022-04-21 16:18:38.846,kpompa@ucsd.edu,,3 references and 2 objects,B),,,,,,
+97,2022-04-21 16:18:41.954,erguerrero@ucsd.edu,,,B),,,,,,
+98,2022-04-21 16:18:42.948,mbannai@ucsd.edu,"This will run up to two times, unless they guess it correctly on their first try. Because this function will run as long as the round is less than or equal to 2, and if you guess it right on your first try there is a break.",3 references and 2 objects,A),,,,,,
+99,2022-04-21 16:18:43.860,jwhiteman@ucsd.edu,,,B),,,,,,
+100,2022-04-21 16:18:44.498,vtan@ucsd.edu,,,A),,,,,,
+101,2022-04-21 16:18:45.459,wha@ucsd.edu,,,A),,,,,,
+102,2022-04-21 16:18:46.128,ijjones@ucsd.edu,,3 references and 2 objects,A),,,,,,
+103,2022-04-21 16:18:46.219,rmerino@ucsd.edu,,,A),,,,,,
+104,2022-04-21 16:18:46.888,jtgonzales@ucsd.edu,,,A),,,,,,
+105,2022-04-21 16:18:50.581,akwolfe@ucsd.edu,,,A),,,,,,
+106,2022-04-21 16:18:51.525,weh009@ucsd.edu,,3 references and 2 objects,B),,,,,,
+107,2022-04-21 16:18:51.942,key010@ucsd.edu,,3 references and 2 objects,C),"[11, 12, 13]",The program will print 'Annie',,,,
+108,2022-04-21 16:18:52.772,rdwong@ucsd.edu,,,A),,,,,,
+109,2022-04-21 16:18:55.255,kmadriaga@ucsd.edu,,,A),,,,,,
+110,2022-04-21 16:18:57.507,myk001@ucsd.edu,,,A),,,,,,
+111,2022-04-21 16:18:59.721,kaalfaro@ucsd.edu,,,A),,,,,,
+112,2022-04-21 16:19:02.222,j6xu@ucsd.edu,,,A),,,,,,
+113,2022-04-21 16:19:04.041,ajett@ucsd.edu,"Depending on what number is randomly generated for the variable <number>, the while loop may run once up to break or run twice either up to break or up to the full while body. If 2 if the number, then the loop will run once and then break. If not 2, then the while loop will run once and then again while round is still less than or equal to 2, and if 3 is the right number, then the loop will break, thus running twice. If 3 is not the right number either, then the loop will run to the end and round will become 3 and the while condition will be false and not run again, thus running only twice.",3 references and 2 objects,A),,,,,,
+114,2022-04-21 16:19:04.626,mareece@ucsd.edu,,,D),,,,,,
+115,2022-04-21 16:19:11.719,mhle@ucsd.edu,at most 2,3 references and 2 objects,A),,,,,,
+116,2022-04-21 16:19:15.313,anslyker@ucsd.edu,max of 2 times,3 references and 2 objects,A),,,,,,
+117,2022-04-21 16:19:16.223,hchu@ucsd.edu,,,D),,,,,,
+118,2022-04-21 16:19:19.059,ammendoza@ucsd.edu,There are 2 loops.,3 references and 2 objects,B),,,,,,
+119,2022-04-21 16:19:22.069,xw001@ucsd.edu,,,A),,,,,,
+120,2022-04-21 16:19:27.429,dderasar@ucsd.edu,,,D),,,,,,
+121,2022-04-21 16:19:27.578,h9johnson@ucsd.edu,"At most twice. The while loop condition will always be true for the first iteration, there is a chance the user will guess correct and the loop will break. The condition for the second iteration is true and the user can guess. But in iteration three the condition is false so the loop will stop. ",3 references and 2 objects,A),,,,,,
+122,2022-04-21 16:19:35.011,yuc096@ucsd.edu,,3 references and 2 objects,,,,,,,
+123,2022-04-21 16:19:43.888,voswal@ucsd.edu,,,A),,,,,,
+124,2022-04-21 16:20:00.008,yuc096@ucsd.edu,,,A),,,,,,
+125,2022-04-21 16:20:14.955,mareece@ucsd.edu,,,A),,,,,,
+126,2022-04-21 16:20:45.847,tnduong@ucsd.edu,,,A),,,,,,
+127,2022-04-21 16:21:42.109,weh009@ucsd.edu,,,A),,,,,,
+128,2022-04-21 16:23:21.696,kel015@ucsd.edu,,,A),,,,,,
+129,2022-04-21 16:27:04.216,ktl001@ucsd.edu,,,,"[0, 0, 0]",,,,,
+130,2022-04-21 16:27:18.204,jwhiteman@ucsd.edu,,,,"[11, 12, 13]",,,,,
+131,2022-04-21 16:27:19.659,wha@ucsd.edu,,,,"[0, 0, 0]",,,,,
+132,2022-04-21 16:27:21.679,kmaramba@ucsd.edu,,,,"[0, 0, 0]",,,,,
+133,2022-04-21 16:27:31.162,ksleung@ucsd.edu,"Maximum 2 loops because of the condition ""round <=2"" but it could also run just once.",3 references and 2 objects,A),"[0, 0, 0]",,,,,
+134,2022-04-21 16:27:33.418,rmerino@ucsd.edu,,,,"[0, 0, 0]",,,,,
+135,2022-04-21 16:27:40.351,yuc096@ucsd.edu,,,,"[0, 0, 0]",,,,,
+136,2022-04-21 16:27:40.719,hchu@ucsd.edu,,,,Error: List index out of range,,,,,
+137,2022-04-21 16:27:47.089,srachapudi@ucsd.edu,,,,"[0, 0, 0]",,,,,
+138,2022-04-21 16:27:53.040,erguerrero@ucsd.edu,,,,"[0, 0, 0]",,,,,
+139,2022-04-21 16:27:56.349,xuz027@ucsd.edu,,,,Error: List index out of range,,,,,
+140,2022-04-21 16:27:57.848,ajett@ucsd.edu,"Depending on what number is randomly generated for the variable <number>, the while loop may run once up to break or run twice either up to break or up to the full while body. If 2 if the number, then the loop will run once and then break. If not 2, then the while loop will run once and then again while round is still less than or equal to 2, and if 3 is the right number, then the loop will break, thus running twice. If 3 is not the right number either, then the loop will run to the end and round will become 3 and the while condition will be false and not run again, thus running only twice.",3 references and 2 objects,A),"[0, 0, 0]",,,,,
+141,2022-04-21 16:27:57.965,kmochizuki@ucsd.edu,,,,Error: List index out of range,,,,,
+142,2022-04-21 16:27:58.071,liz007@ucsd.edu,,,,Error: List index out of range,,,,,
+143,2022-04-21 16:28:03.050,kpompa@ucsd.edu,,,,"[0, 0, 0]",,,,,
+144,2022-04-21 16:28:05.113,mhle@ucsd.edu,at most 2,3 references and 2 objects,A),"[0, 0, 0]",,,,,
+145,2022-04-21 16:28:05.266,djlakhani@ucsd.edu,,,,"[0, 0, 0]",,,,,
+146,2022-04-21 16:28:05.266,akwolfe@ucsd.edu,,,,"[11, 12, 13]",,,,,
+147,2022-04-21 16:28:05.680,jtgonzales@ucsd.edu,,,,"[0, 0, 0]",,,,,
+148,2022-04-21 16:28:06.260,mareece@ucsd.edu,,,,"[0, 0, 0]",,,,,
+149,2022-04-21 16:28:14.046,key010@ucsd.edu,,,,"[11, 0, 0]",,,,,
+150,2022-04-21 16:28:14.150,vtan@ucsd.edu,,,,Error: List index out of range,,,,,
+151,2022-04-21 16:28:20.337,hchu@ucsd.edu,,,,"[0, 0, 0]",,,,,
+152,2022-04-21 16:28:20.849,spaull@ucsd.edu,The loop will run either once or twice depending on the random number chosen. If the random number is two then it will only run once. ,3 references and 2 objects,A),"[0, 0, 0]",,,,,
+153,2022-04-21 16:28:22.501,orusso@ucsd.edu,,3 references and 2 objects,A),"[0, 0, 0]",,,,,
+154,2022-04-21 16:28:22.904,myk001@ucsd.edu,,,,"[0, 0, 0]",,,,,
+155,2022-04-21 16:28:26.806,rdwong@ucsd.edu,,,,"[0, 0, 0]",,,,,
+156,2022-04-21 16:28:28.565,kaalfaro@ucsd.edu,,,,"[11, 12, 13]",,,,I learned about objects and references in python.  Objects are containers for values that hide the complexity of their storage. A reference is a reference to an object. For example a=5.0. I also learned about modifying lists and how to tell if a list has been modified or not. ,
+157,2022-04-21 16:28:30.412,kmadriaga@ucsd.edu,,,,"[0, 0, 0]",,,,,
+158,2022-04-21 16:28:31.021,ijjones@ucsd.edu,,,,"[11, 0, 0]",,,,,
+159,2022-04-21 16:28:31.028,r7zhou@ucsd.edu,depends on whether the guess is correct or not.,3 references and 2 objects,A),"[0, 0, 0]",,,,,
+160,2022-04-21 16:28:31.132,yiw080@ucsd.edu,,,,"[0, 0, 13]",,,,,
+161,2022-04-21 16:28:32.647,arommid@ucsd.edu,,,,"[11, 12, 13]",,,,,
+162,2022-04-21 16:28:36.464,anslyker@ucsd.edu,maximum of 2 times,3 references and 2 objects,A),"[0, 0, 0]",,,,,
+163,2022-04-21 16:28:38.213,xw001@ucsd.edu,,,,"[0, 0, 0]",,,,,
+164,2022-04-21 16:28:38.228,dderasar@ucsd.edu,,,,"[0, 0, 0]",,,,,
+165,2022-04-21 16:28:43.095,voswal@ucsd.edu,,,,"[0, 0, 0]",,,,,
+166,2022-04-21 16:28:44.904,chartman@ucsd.edu,,,,"[0, 0, 0]",,,,,
+167,2022-04-21 16:28:45.263,kaalfaro@ucsd.edu,,,,,,,,,I have no questions. 
+168,2022-04-21 16:28:51.046,arommid@ucsd.edu,,,,"[0, 0, 0]",,,,,
+169,2022-04-21 16:29:13.378,j6xu@ucsd.edu,,,,"[0, 0, 0]",,,,,
+170,2022-04-21 16:29:16.153,rsuresh@ucsd.edu,,,A),"[0, 0, 0]",,,,,
+171,2022-04-21 16:29:17.381,tnduong@ucsd.edu,,,,"[0, 0, 0]",,,,,
+172,2022-04-21 16:29:37.225,hac018@ucsd.edu,"It depends. If number equals to 2 or 3, the loop will break. If number equals to 1, the loop will run two times and end.",3 references and 2 objects,A),"[11, 12, 13]",The program will print 'annie',"[10, 20, 30, 40]",4.0,"I learned more complicated method to save a lot of work! Instead of having to make my own function, I can also borrow others' idea to advance my goal in coding.",What happens to the variables in the function. Do they disappear after we called it?
+173,2022-04-21 16:29:47.948,xuz027@ucsd.edu,,,,"[0, 0, 0]",,,,,
+174,2022-04-21 16:29:50.838,arommid@ucsd.edu,,,,,,,,Learned about how lists can be updated and used. Also objects and references were learned. ,none- N/A 
+175,2022-04-21 16:31:10.840,kmontejanoortiz@ucsd.edu,"If the answer is 2, the loop will run once because it will register as guess == number and then print that it's correct and exit the loop. If the answer is 3, it will run twice and print it's correct and exit the loop. If the answer is neither, it will still run twice because the max amount of guesses is two, round <= 2.",3 references and 2 objects,A),"[0, 0, 0]",The program will throw an error,"[10, 20, 30, 40]",Error: Cannot split using a semicolon (;),I learned about basic string methods. These included append and split.,I get confused on some of the modifications of the lists.
+176,2022-04-21 16:31:15.169,arodrigues@ucsd.edu,,,,"[0, 0, 0]",,,,,
+177,2022-04-21 16:31:24.622,kel015@ucsd.edu,,,,"[0, 0, 0]",,,,,
+178,2022-04-21 16:31:36.343,h9johnson@ucsd.edu,at most 2,3 references and 2 objects,A),"[0, 0, 0]",The program will print 'Annie',,,,
+179,2022-04-21 16:31:37.872,ktl001@ucsd.edu,,,,,The program will print 'Annie',,,,
+180,2022-04-21 16:31:39.402,yuc096@ucsd.edu,,,,,The program will throw an error,,,,
+181,2022-04-21 16:31:41.743,kmadriaga@ucsd.edu,,,,,The program will print 'Annie',,,,
+182,2022-04-21 16:31:44.689,spaull@ucsd.edu,The loop will run either once or twice depending on the random number chosen. If the random number is two then it will only run once. ,3 references and 2 objects,A),"[0, 0, 0]",The program will print 'Annie',,,,
+183,2022-04-21 16:31:46.561,rsuresh@ucsd.edu,,,,,The program will print 'Annie',,,,
+184,2022-04-21 16:31:49.682,rmerino@ucsd.edu,,,,,The program will print 'Annie',,,,
+185,2022-04-21 16:31:50.220,voswal@ucsd.edu,,,,,The program will print 'Annie',,,,
+186,2022-04-21 16:31:50.960,jwhiteman@ucsd.edu,,,,,The program will print 'Annie',,,,
+187,2022-04-21 16:31:51.340,asawyer@ucsd.edu,,,,"[0, 0, 0]",The program will print 'Annie',,,,
+188,2022-04-21 16:31:53.339,kpompa@ucsd.edu,,,,,The program will print 'Annie',,,,
+189,2022-04-21 16:31:57.187,xw001@ucsd.edu,,,,,The program will print 'Annie',,,,
+190,2022-04-21 16:31:57.918,rdwong@ucsd.edu,,,,,The program will print 'Annie',,,,
+191,2022-04-21 16:31:58.209,wha@ucsd.edu,,,,,The program will print 'Annie',,,,
+192,2022-04-21 16:31:58.532,kmochizuki@ucsd.edu,,,,,The program will print 'Annie',,,,
+193,2022-04-21 16:31:59.733,djlakhani@ucsd.edu,,,,,The program will print 'Annie',,,,
+194,2022-04-21 16:32:01.464,erguerrero@ucsd.edu,,,,,The program will print 'Annie',,,,
+195,2022-04-21 16:32:02.376,chartman@ucsd.edu,,,,,The program will print 'Annie',,,,
+196,2022-04-21 16:32:03.260,yiw080@ucsd.edu,,,,,The program will print 'Annie',,,,
+197,2022-04-21 16:32:04.068,akwolfe@ucsd.edu,,,,,The program will print 'Annie',,,,
+198,2022-04-21 16:32:06.920,ksleung@ucsd.edu,"Maximum 2 loops because of the condition ""round <=2"" but it could also run just once.",3 references and 2 objects,A),"[0, 0, 0]",The program will print 'Annie',,,,
+199,2022-04-21 16:32:08.343,orusso@ucsd.edu,,3 references and 2 objects,A),"[0, 0, 0]",The program will print 'Annie',,,One key idea that I learned in class today is the idea of objects and references. So objects are a type of container for values that the computer uses to hide the complexity their nature.,One question I still have about todays lecture is the idea of how many times a for loop or while loop will run when it has a conditional statement. 
+200,2022-04-21 16:32:08.766,srachapudi@ucsd.edu,,,,,The program will print 'Annie',,,,
+201,2022-04-21 16:32:10.000,ajett@ucsd.edu,"Depending on what number is randomly generated for the variable <number>, the while loop may run once up to break or run twice either up to break or up to the full while body. If 2 if the number, then the loop will run once and then break. If not 2, then the while loop will run once and then again while round is still less than or equal to 2, and if 3 is the right number, then the loop will break, thus running twice. If 3 is not the right number either, then the loop will run to the end and round will become 3 and the while condition will be false and not run again, thus running only twice.",3 references and 2 objects,A),"[0, 0, 0]",The program will print 'Annie',,,,
+202,2022-04-21 16:32:15.151,jtgonzales@ucsd.edu,,,,,The program will print 'Annie',,,,
+203,2022-04-21 16:32:19.732,kaalfaro@ucsd.edu,,,,,The program will print 'annie',,,,"I still find reading statements embedded in for loop arguments confusing 
+Example: lst[idx-1]=0 
+I have difficulty reading lines like this  "
+204,2022-04-21 16:32:20.670,mhle@ucsd.edu,at most 2,3 references and 2 objects,A),"[0, 0, 0]",The program will print 'Annie',,,,
+205,2022-04-21 16:32:24.457,weh009@ucsd.edu,,,,"[0, 0, 0]",The program will throw an error,,,,
+206,2022-04-21 16:32:24.632,arommid@ucsd.edu,,,,,The program will print 'Annie',,,,
+207,2022-04-21 16:32:25.544,xuz027@ucsd.edu,,,,"[0, 0, 0]",The program will print 'Annie',,,,
+208,2022-04-21 16:32:31.035,kmaramba@ucsd.edu,,,,,The program will throw an error,,,,
+209,2022-04-21 16:32:32.843,hchu@ucsd.edu,,,,,The program will print 'annie',,,,
+210,2022-04-21 16:32:38.468,liz007@ucsd.edu,,,,,The program will print 'Annie',,,,
+211,2022-04-21 16:32:42.727,myk001@ucsd.edu,,,,,The program will throw an error,,,,
+212,2022-04-21 16:32:45.442,j6xu@ucsd.edu,,,,,The program will throw an error,,,,
+213,2022-04-21 16:32:47.067,vtan@ucsd.edu,,,,,The program will throw an error,,,,
+214,2022-04-21 16:32:57.454,mbannai@ucsd.edu,"This will run up to two times, unless they guess it correctly on their first try. Because this function will run as long as the round is less than or equal to 2, and if you guess it right on your first try there is a break.",3 references and 2 objects,A),"[0, 0, 0]",The program will print 'annie',,,,
+215,2022-04-21 16:33:03.297,dderasar@ucsd.edu,,,,,The program will print 'Annie',,,,
+216,2022-04-21 16:33:04.028,mareece@ucsd.edu,,,,,The program will print 'Annie',,,,
+217,2022-04-21 16:33:09.267,anslyker@ucsd.edu,maximum of 2 times,3 references and 2 objects,A),"[0, 0, 0]",The program will print 'Annie',,,,
+218,2022-04-21 16:33:52.187,xw001@ucsd.edu,,,,,The program will throw an error,,,,
+219,2022-04-21 16:34:38.271,key010@ucsd.edu,,,,,The program will print 'Annie',"[10, 30, 20, 30, 40]",5.0,"One key idea that I learned in class today is that one can modify a list by changing the objects of a function. When altering an object, the object of a function can not be assigned something outside of its class. ",Are there any other class types like object?
+220,2022-04-21 16:35:12.743,arodrigues@ucsd.edu,,,,,The program will throw an error,,,,
+221,2022-04-21 16:35:46.439,kel015@ucsd.edu,,,,,The program will throw an error,,,,
+222,2022-04-21 16:36:56.439,ijjones@ucsd.edu,,,,"[0, 0, 0]",The program will throw an error,"[10, 20, 30, 40]",4.0,"Strings and number types are immutable.This means that you can't change it once it is set, you have to override to change.",
+223,2022-04-21 16:39:28.342,vnn001@ucsd.edu,2.0,3 references and 1 object,C),"[11, 0, 0]",The program will print 'ANNIE',"[10, 20, 30, 40]",5.0,I learned what a refernce and object is. I learned two references pointing to two separate objects,Modifying a string within a function is still confusing to me
+224,2022-04-21 16:41:11.564,akwolfe@ucsd.edu,,,,,,,,I learned about basic list methods. I also learned about modifying objects and references.,how to modify a string within a function.
+225,2022-04-21 16:45:26.408,djlakhani@ucsd.edu,,,,,The program will throw an error,"[10, 20, 30, 40]",4.0,You cannot modify the elements of a string,
+226,2022-04-21 16:45:26.467,rdwong@ucsd.edu,,,,,,"[10, 20, 40]",,,
+227,2022-04-21 16:45:42.568,kpompa@ucsd.edu,,,,,The program will throw an error,"[10, 20, 40]",,,
+228,2022-04-21 16:45:44.197,tnduong@ucsd.edu,,,,,The program will throw an error,,,,
+229,2022-04-21 16:45:48.446,mareece@ucsd.edu,,,,,,,,I learned about string methods. These are always very helpful when coding and makes locating and manipulating lists so much easier,
+230,2022-04-21 16:46:16.578,kmadriaga@ucsd.edu,,,,,,"[10, 20, 40]",,,
+231,2022-04-21 16:46:34.079,erguerrero@ucsd.edu,,,,,,"[10, 20, 40]",4.0,"A key idea I learned were the list methods, which seem to be very helpful. They will be very useful for me during some coding assignments.","I have questions regarding some of the list methods but I generally understand it well enough, and practice will help me over time."
+232,2022-04-21 16:46:39.643,ktl001@ucsd.edu,,,,,,None of the above,8.0,I learned about references and objects. Reference holds objects,Na
+233,2022-04-21 16:46:43.676,yic061@ucsd.edu,"2 times 
+",3 references and 2 objects,A),"[0, 0, 0]",The program will print 'Annie',"[10, 20, 30, 40]",Error: Cannot split using a semicolon (;),"we learned the References and Objects and Modifying a List within a Function today, it is so interesting thing.",need to do more practice to review that.
+234,2022-04-21 16:46:44.645,kmaramba@ucsd.edu,,,,,,None of the above,5.0,Using methods to perform specific functions. ,None
+235,2022-04-21 16:47:48.635,sil049@ucsd.edu,Once or twice.-,3 references and 2 objects,A),"[0, 0, 0]",The program will print 'Annie',"[10, 20, 40]",5.0,I learned about the concepts of references and objects. I also learned about how to modify references and objects in terms of lists and strings. ,No.
+236,2022-04-21 16:47:57.627,maliissa@ucsd.edu,2; once for correct and the other for incorrect. ,3 references and 2 objects,B),"[0, 0, 0]",The program will throw an error,None of the above,4.0,"The difference between objects and references; how infinite loops can be implemented, and the break function.",None.
+237,2022-04-21 16:48:00.474,sol020@ucsd.edu,The loop will run twice in maximum because it only has two rounds. ,3 references and 2 objects,A),"[0, 0, 0]",The program will print 'Annie',"[10, 20, 40]",4.0,We learned about the concept of references and objects. We also went through problems and learned how to use basic list methods and modify lists. ,I'm confused about the list methods. 
+238,2022-04-21 16:48:13.456,hchu@ucsd.edu,,,,,,"[10, 30, 20, 30, 40]",4.0,That by importing modules we can use packages of written functions to perform different tasks.,I'm still confused about some of the basic string methods.
+239,2022-04-21 16:48:20.118,jwhiteman@ucsd.edu,,,,,,"[10, 20, 40]",4.0,There where many things that I learned today but one of the main ideas was list and how they change when they are equal or how one moves and prints when we mess with the opreations.,I don't understand element and method and how to use them in a list. 
+240,2022-04-21 16:48:25.847,kpompa@ucsd.edu,,,,,,,4.0,,
+241,2022-04-21 16:48:36.532,arommid@ucsd.edu,,,,,,"[10, 30, 20, 30, 40]",8.0,,
+242,2022-04-21 16:48:43.176,rdwong@ucsd.edu,,,,,,,4.0,,
+243,2022-04-21 16:48:46.977,srachapudi@ucsd.edu,,,,,,,4.0,,
+244,2022-04-21 16:48:54.820,jtgonzales@ucsd.edu,,,,,,,8.0,,
+245,2022-04-21 16:48:57.752,liz007@ucsd.edu,,,,,,,4.0,,
+246,2022-04-21 16:49:01.219,kaalfaro@ucsd.edu,,,,,The program will throw an error,"[10, 20, 40]",Error: Cannot split using a semicolon (;),,
+247,2022-04-21 16:49:10.185,mareece@ucsd.edu,,,,,,,4.0,,
+248,2022-04-21 16:49:12.906,spaull@ucsd.edu,The loop will run either once or twice depending on the random number chosen. If the random number is two then it will only run once. ,3 references and 2 objects,A),"[0, 0, 0]",The program will print 'Annie',"[10, 20, 30, 40]",4.0,One key idea that I learned in today's class was the difference between objects and references. Through being able to identify the difference I can now modify objects and references which can be used with lists.  ,I found that keeping up with the basic list methods were the most confusing because each time you use a list function the list is modified. 
+249,2022-04-21 16:49:14.787,rsuresh@ucsd.edu,,,,,,"[10, 20, 30, 40]",4.0,,
+250,2022-04-21 16:49:14.981,kmochizuki@ucsd.edu,,,,,,,4.0,I learned how to break down references and objects. By doing this I am able to understand the code visually.,I found modifying the list most confusing.
+251,2022-04-21 16:49:19.003,kpompa@ucsd.edu,,,,,,,,I learned about functionalities such as append .split and .remove.,What is confusing is the objects and references.
+252,2022-04-21 16:49:19.482,voswal@ucsd.edu,,,,,,,4.0,,
+253,2022-04-21 16:49:19.686,jortegon@ucsd.edu,I believe because due the break function that the loop will end due to the break and print “sorry! Incorrect guess” ,3 references and 1 object,D),"[0, 0, 13]",The program will throw an error,"[10, 20, 40]",4.0,A reference is the name that refers to the value in a memory. Object is just our group of data and is what the reference refers to ,What’s the difference between using quotation marks for spilt versus : ???
+254,2022-04-21 16:49:21.517,kel015@ucsd.edu,,,,,,"[10, 20, 40]",8.0,I learned how to interpret objects and identify references and objects. This could be useful when looking at your code in a bigger picture.,I found modifying objects and references confusing.
+255,2022-04-21 16:49:25.792,ecoulson@ucsd.edu,"twice, if the answer is the number 2, it will be correct and will stop the loop because of the break in the loop. If they input the number 3, it will break sorry incorrect guess and it will make us enter an input for a second time. ",3 references and 1 object,A),"[0, 0, 0]",The program will throw an error,"[10, 20, 30, 40]",5.0,I learned how to remove a number from a list and replace it with a new number. I learned that you cannot change a letter or number inside of a string. You can only do that action with lists. ,modifying a list with a function. 
+256,2022-04-21 16:49:27.754,rdwong@ucsd.edu,,,,,,,,"I learned that strings are immutable. In addition, I learned about the importance of references and objects. ",I found references and the memory table to be the most confusing
+257,2022-04-21 16:49:29.597,sevtimova@ucsd.edu,2 because the module will only be able to go to 1-2. It will not touch 3.,3 references and 2 objects,B),"[0, 0, 0]",The program will throw an error,"[10, 20, 40]",4.0,"Today I learned that an objects are containers for values that hide the complexity of the storage of values. Adding on to this, an object is a container that stores a type of float/int/list/etc.","I still am slightly confused about how to modify objects, as it is a very new and foreign topic. "
+258,2022-04-21 16:49:32.926,ajett@ucsd.edu,"Depending on what number is randomly generated for the variable <number>, the while loop may run once up to break or run twice either up to break or up to the full while body. If 2 if the number, then the loop will run once and then break. If not 2, then the while loop will run once and then again while round is still less than or equal to 2, and if 3 is the right number, then the loop will break, thus running twice. If 3 is not the right number either, then the loop will run to the end and round will become 3 and the while condition will be false and not run again, thus running only twice.",3 references and 2 objects,A),"[0, 0, 0]",The program will throw an error,"[10, 20, 40]",5.0,,
+259,2022-04-21 16:49:34.469,rmerino@ucsd.edu,,,,,,"[10, 20, 40]",8.0,,
+260,2022-04-21 16:49:37.871,akwolfe@ucsd.edu,,,,,,"[10, 20, 40]",,,
+261,2022-04-21 16:49:40.885,qiw027@ucsd.edu,at most 2,3 references and 2 objects,A),"[0, 0, 0]",The program will throw an error,"[10, 20, 40]",4.0, A reference is a name that refers to a value's specific location in memory. An object is the value that the reference refers to.,No.
+262,2022-04-21 16:49:42.324,myk001@ucsd.edu,,,,,,,4.0,"I have learned about what the reference and object are, and how to modify both list and strings. ",
+263,2022-04-21 16:49:47.742,xw001@ucsd.edu,,,,,,,4.0,,
+264,2022-04-21 16:49:58.003,h4zheng@ucsd.edu,"If the correct answer is 2, then it'll run once as the user guesses the right number right away. If the correct answer is 3 or 1, then it'll run twice since it's either guessed correctly and the loop breaks or it's guessed wrong twice and there's no more chances left for the user.",3 references and 2 objects,A),"[0, 0, 0]",The program will throw an error,"[10, 20, 40]",5.0,"I learned about references and objects, and the list methods.","I'm still a bit confused about the ""Annie"" problem."
+265,2022-04-21 16:49:58.483,dderasar@ucsd.edu,,,,,,,4.0,,
+266,2022-04-21 16:49:59.317,voswal@ucsd.edu,,,,,,,,References and Objects; how to split strings ,the most confusing was refernces and objects
+267,2022-04-21 16:50:02.660,wha@ucsd.edu,,,,,,"[10, 20, 40]",4.0,"Strings are immutable, parts of it cannot be changed after it is inputted. We also learnt about different methods like append to add something in the end, insert to add something to a specific place, etc. ","The last two method for string, split and join is still a little confusing. I don't really know how to use them."
+268,2022-04-21 16:50:02.784,kmadriaga@ucsd.edu,,,,,,,4.0,I learned that there are many different already put in functions that we can use to append lists,Im a little confused on how to use multiple functions to one list ( eg append reverse and insert)
+269,2022-04-21 16:50:03.964,jmchiu@ucsd.edu,"It depends. If the random number is 1, then the user has used up all 2 attempts, so the loop runs 2 times. If the random number is 3, then the user has used up 2 attempts. If the random number is 2, then the user has used up 1 attempt.",3 references and 2 objects,A),"[0, 0, 0]",The program will throw an error,"[10, 20, 40]",4.0,"I learned how to create and use ""import random"" to create a random assortment of integers. I also learned how to modify a list within a function.",
+270,2022-04-21 16:50:04.008,anslyker@ucsd.edu,maximum of 2 times,3 references and 2 objects,A),"[0, 0, 0]",The program will throw an error,"[10, 20, 40]",5.0,"I learned how objects are containers for values and hide the complexity of their storage, while references carry the object. Modification using references and objects is very detailed and is highly based on the order of the references and objects in a code.",I am still confused about the modification within functions and the language involved in the code.
+271,2022-04-21 16:50:04.580,rcarmody@ucsd.edu,It will only run two times because it is restricted to operating for only two rounds. ,3 references and 1 object,A),"[0, 0, 0]",The program will throw an error,"[10, 20, 40]",5.0,How to modify a list,
+272,2022-04-21 16:50:05.022,jmamarad@ucsd.edu,The loop will run at most twice. ,3 references and 2 objects,A),"[0, 0, 0]",The program will throw an error,"[10, 20, 30, 40]",4.0,"One key idea that I learned was the key idea of objects vs. references. A reference can contain an object. If you make a new reference equivalent to a past reference, both will hold the same content address. ",
+273,2022-04-21 16:50:05.308,adward@ucsd.edu,The loop will run 2 times because of the range ,3 references and 2 objects,B),"[0, 0, 0]",The program will throw an error,"[10, 20, 40]",5.0,"one key idea I learned in today's class was modifying references and objects, more specifically in terms of lists. A reference is a name that refers to a value's specific location in memory.","I am still a little confused on how to go about putting it all together in a python shell, especially since we kind of zoomed through it "
+274,2022-04-21 16:50:05.354,h1yoon@ucsd.edu,"1 or 2, since user correct what he/she guess, then it going to be once, but if user could not correct the guess then it  has to be stop because there's break when round <= 2.",3 references and 2 objects,A),"[0, 0, 0]",The program will throw an error,"[10, 20, 40]",5.0,"reference and object, we have to think that if it has same value of object it is a different in computer, so the reference is important. Basic list methods that looks useful to create a function, so we have to memorize these things.","the for loop things still confuse even if today's topic was not specific  for loop, but it still useful for the new topic."
+275,2022-04-21 16:50:06.180,aml015@ucsd.edu,it will run once because of the break,3 references and 2 objects,A),"[0, 0, 0]",The program will throw an error,"[10, 30, 20, 30, 40]",4.0,I learned how to reference objects with lists. Objects that don't have any variables referencing it will be deleted.,
+276,2022-04-21 16:50:06.212,weh009@ucsd.edu,,,,,,"[10, 20, 30, 40]",4.0,I learned about references and objects and how you can use references to refer back to stored object values. You can replace certain values in a stored reference and create different outputs by assigning new reference values to specified objects. An unused object would be crossed out and removed.,Using splits to split chars.
+277,2022-04-21 16:50:06.271,akwolfe@ucsd.edu,,,,,,,4.0,,
+278,2022-04-21 16:50:08.313,yuc096@ucsd.edu,,,,,,None of the above,4.0,"Some methods can only be used on list, not string",No
+279,2022-04-21 16:50:08.967,cbishop@ucsd.edu,1 or 2 because if the user gets it wrong both times it runs the max of 3 then breaks out because round is not <= 2 or it will break out when the guess is correct.,3 references and 2 objects,A),Error: List index out of range,The program will print 'annie',"[10, 20, 40]",4.0,How to understand how python references objects vs creating a new one. This is really nice to know when something is really changed vs just referenced back to.,I don't think anything was too confusing today.
+280,2022-04-21 16:50:09.985,yiw125@ucsd.edu,"2 times, because this loop gonna break any time after two guesses are made.",3 references and 2 objects,B),"[0, 0, 0]",The program will print 'Annie',"[10, 20, 40]",4.0,I learned how to import a random. And the definition and usage of reference and objects.,I got a little confused about the random part
+281,2022-04-21 16:50:10.050,tnduong@ucsd.edu,,,,,,"[10, 20, 30, 40]",,,
+282,2022-04-21 16:50:10.062,mbannai@ucsd.edu,"This will run up to two times, unless they guess it correctly on their first try. Because this function will run as long as the round is less than or equal to 2, and if you guess it right on your first try there is a break.",3 references and 2 objects,A),"[0, 0, 0]",The program will throw an error,"[10, 20, 40]",5.0,"what objects and references are. Also, how references don't store the objects, they store the location of the object.",
+283,2022-04-21 16:50:10.075,d4sanchez@ucsd.edu,"It truly depends on whether rd.randint produces an integer that matches the guess.  If the guess matches the number produces by rd.randint(1,3), it will break the loop.  If the guess fails to match the number, it will keep looping until the guess matches the number or the number of rounds exceeds 2.",3 references and 3 objects,A),"[0, 0, 0]",The program will print 'Annie',"[10, 20, 40]",4.0,I learned about dot operators today.  I also learned why it is important to import a library to ensure that you can use these dot operators.,Dot operators are still a little confusing.
+284,2022-04-21 16:50:10.627,vtan@ucsd.edu,,,,,,"[10, 20, 40]",,,
+285,2022-04-21 16:50:11.158,yiw080@ucsd.edu,,,,,,,,How to adjust list or object within functions. How to use list method to change list and str,So far no
+286,2022-04-21 16:50:13.084,j6xu@ucsd.edu,,,,,,"[10, 20, 40]",5.0,,
+287,2022-04-21 16:50:13.744,hbzhang@ucsd.edu,Infinite ,3 references and 1 object,A),"[0, 0, 0]",The program will throw an error,None of the above,5.0,How to use method. Basic string methods.,Nope
+288,2022-04-21 16:50:14.968,glepage@ucsd.edu,2.0,3 references and 1 object,A),Error: List index out of range,The program will throw an error,,5.0,The idea of methods,
+289,2022-04-21 16:50:17.538,wjh001@ucsd.edu,Twice cuz that person guessed twice,3 references and 2 objects,A),"[0, 0, 13]",The program will print 'Annie',"[10, 20, 40]",4.0,I learned how to use list method and how to use it.,
+290,2022-04-21 16:50:22.205,mlinaresortega@ucsd.edu,"The loop will run 2 times because it will attempt to guess for 2 times, afterwards it will break.",3 references and 2 objects,A),"[0, 0, 0]",The program will throw an error,"[10, 20, 40]",5.0,,
+291,2022-04-21 16:50:24.357,jix042@ucsd.edu,"2 times because the while loop is round<=2. When the number is 1 or 2, they both fulfill this condition.",3 references and 2 objects,A),"[0, 0, 0]",The program will print 'Annie',"[10, 20, 40]",4.0,"In today's class, I learned reference and object and check if references point to the same object. Plus, I have a deeper understanding of import.",
+292,2022-04-21 16:50:26.335,xw001@ucsd.edu,,,,,,"[10, 20, 30, 40]",,,
+293,2022-04-21 16:50:33.420,rsuresh@ucsd.edu,,,,,,,,"One key idea that I learned in today's class is the fact that references are a variable assignment referring to an object. That object can have two references assigned to it, but when one reference is changed, it changes the object, which also changes the other reference related to that object.",The most confusing part about todays lecture was the idea of an immutable string.
+294,2022-04-21 16:50:34.265,rmerino@ucsd.edu,,,,,,,,One key idea I learned in today's class is methods for both lists and strings. I also learned the various ways they can be used in coding.,I kind of find the whole thing about what counts as reference and object.
+295,2022-04-21 16:50:41.591,ammendoza@ucsd.edu,2 times,3 references and 2 objects,A),"[0, 0, 0]",The program will throw an error,"[10, 20, 30, 40]",5.0,That when you go down the line of code to make sure you go in order. This is so you make sure you get the correct value of an object .,
+296,2022-04-21 16:50:50.070,shy020@ucsd.edu,"1 or 2. Because when the number rd generate is 2, the function will break. And if the first guess is wrong, round = 2. after the second loop finish, the loop will stop.",3 references and 2 objects,A),"[0, 0, 0]",The program will print 'Annie',"[10, 20, 40]",4.0,reference and object.,No
+297,2022-04-21 16:51:17.300,aballardo@ucsd.edu,"This loop will run a maximum of 2 times, because that just how the code is set up. But, if the randomly generated integer happens to be 2 on the first guess then it will only run once, or if the first guess happens to be 3 it will run once.",3 references and 2 objects,A),"[0, 0, 0]",The program will throw an error,"[10, 20, 30, 40]",4.0,I learned how to split and join lists. I also learned how to differentiate objects and references,I found differentiating between objects and references confusing.
+298,2022-04-21 16:51:22.467,liz007@ucsd.edu,,,,,,,,"I learned about the concept of referencing and objects. I also learned about list and string methods like append, insert, remove and join.",I didn’t really understand the last part of the lecture where the professor talked about split.
+299,2022-04-21 16:51:37.044,chartman@ucsd.edu,,,,,,"[10, 20, 40]",4.0,"string and integers cannot be modified, only replaced. once rewritten a new variable is saved and the old variable is erased if it is no longer refrenced.",.split is a bit odd but we only just touched on it.
+300,2022-04-21 16:52:07.338,ksleung@ucsd.edu,"Maximum 2 loops because of the condition ""round <=2"" but it could also run just once.",3 references and 2 objects,A),"[0, 0, 0]",The program will throw an error,"[10, 20, 30, 40]",5.0,Methods is really really useful especially for a lot of data. It can be used with pre-done function or self-defined ones.,I think I'm good!
+301,2022-04-21 16:52:13.860,rdauble@ucsd.edu,"The loop will run once if the first guess is correct, twice if the second guess is correct, and twice if both guesses are incorrect.",3 references and 2 objects,A),"[0, 0, 0]",The program will throw an error,"[10, 20, 40]",4.0,"I learned how to import modules. I learned what references and objects are and how to modify them. I learned about basic list methods such as append, insert, and remove.",I have no questions. 
+302,2022-04-21 16:52:43.223,ajett@ucsd.edu,"Depending on what number is randomly generated for the variable <number>, the while loop may run once up to break or run twice either up to break or up to the full while body. If 2 if the number, then the loop will run once and then break. If not 2, then the while loop will run once and then again while round is still less than or equal to 2, and if 3 is the right number, then the loop will break, thus running twice. If 3 is not the right number either, then the loop will run to the end and round will become 3 and the while condition will be false and not run again, thus running only twice.",3 references and 2 objects,A),"[0, 0, 0]",The program will throw an error,"[10, 20, 40]",5.0,"Today I learned that certain objects are immutable, so the values cannot be updated in the same ways lists can. This includes strings, integers, and floats, and for the instance of strings, a character within the string cannot be updated with indexing as the string is immutable and needs to be overwritten.","In the Basic String Methods exercise, does the split method also create an empty string after d;?"
+303,2022-04-21 16:52:45.819,xw001@ucsd.edu,,,,,,,,I learned that int and str are immutable. There are specific methods for int and str.,I still need to work on using methods in general.
+304,2022-04-21 16:53:19.646,kpan@ucsd.edu,The loop will run a max of 2 times unless the user guesses the correct number in the first try. This is because of the condition in the while loop. ,3 references and 2 objects,A),"[0, 0, 0]",The program will throw an error,"[10, 20, 30, 40]",5.0,"I learned about references, objects, and different methods. Some methods I learned were split, append, and insert. ",I don't have any questions. This lesson was pretty clear. 
+305,2022-04-21 16:57:49.742,mhle@ucsd.edu,max 2,3 references and 2 objects,A),"[0, 0, 0]",The program will throw an error,"[10, 20, 40]",5.0,One key idea I learned was what the difference is between a reference and an object. There are also modifications you can use on these.,The most confusing thing is string methods. 
+306,2022-04-21 16:57:59.134,yix024@ucsd.edu,4.0,3 references and 2 objects,A),"[0, 0, 0]",The program will print 'Annie',"[10, 30, 20, 30, 40]",4.0,I have learned modifying a functions.,
+307,2022-04-21 17:08:53.909,vtan@ucsd.edu,,,,,,,,"One key idea I learned today in class were methods that differed from the built functions that we had been learning previously. Not only did we learn about how python would store values in variables, we also learned to apply methods into our code and be able to generate random integers, remove elements from our lists, and etc in our code. ",I think I found the topics towards the end of the class the most confusing. I’m still a little confused about append and using methods to split lists. 
+308,2022-04-21 17:16:21.704,zuzermeno@ucsd.edu,It will run about 3 times or so until you get the correct answer.,3 references and 2 objects,A),"[0, 0, 0]",The program will throw an error,"[10, 20, 30, 40]",5.0,One key idea that I learned today was methods and objects. Objects are basically containers for values that hide the complexity of the storage.,What I found most confusing is while loops
+309,2022-04-21 17:27:37.694,tnduong@ucsd.edu,,,,,,,5.0,,
+310,2022-04-21 17:31:24.113,tnduong@ucsd.edu,,,,,,,,"One key idea that I learn in today's class is how to use methods and what are references and objects. There are different kind of methods that use for difference situations such as append, insert, remove, etc. There are also methods like split and join to split or join a specific variable in another variable.",Nothing
+311,2022-04-21 17:31:57.078,orusso@ucsd.edu,,3 references and 2 objects,A),"[0, 0, 0]",The program will throw an error,"[10, 20, 40]",4.0,One key idea that I learned in class today is the idea of objects and references. So objects are a type of container for values that the computer uses to hide the complexity their nature.,One question I still have about todays lecture is the idea of how many times a for loop or while loop will run when it has a conditional statement. 
+312,2022-04-21 17:35:35.622,cwalstromvangor@ucsd.edu,1.0,3 references and 2 objects,A),"[0, 0, 0]",The program will throw an error,"[10, 20, 30, 40]",3.0,I learned how to use different methods and what each method means. I am excited to use these methods.,
+313,2022-04-21 21:31:22.506,melai@ucsd.edu,"In this code, it would run up to 2x unless the user guesses it correctly on the first try. This code would keep on running as long as it is less than or equal to 2. ",3 references and 2 objects,A),"[0, 0, 0]",The program will throw an error,"[10, 20, 40]",4.0,I learned the difference between reference and object. A reference is a name that refers to a value's specific location in memory and an object is the value that the reference refers to.,
+314,2022-04-21 22:29:24.710,dderasar@ucsd.edu,,,,,,,,One key idea that I learned in today's class was the idea of modifying references and objects in Python.,I found the concept of modifying a string within a function pretty confusing.
+315,2022-04-22 00:11:13.964,argonzalez@ucsd.edu,It will run twice unless they guess it correctly the first time. This is because the maximum number of times it can run us two.,3 references and 1 object,A),"[11, 0, 0]",The program will print 'Annie',"[10, 20, 30, 40]",4.0,I learned about modifying a string. I also learned how that could affect functions and their outputs.,I am still somewhat confused about the addition of “.” And than additions to change the lists.
+316,2022-04-22 00:25:18.796,nduque@ucsd.edu,It will only execute once. Only two wrong guesses allowed until the loop stops. If guests correctly it will also stop.,3 references and 2 objects,A),"[0, 0, 13]",The program will print 'Annie',"[10, 20, 40]",4.0,Learned how to modify a list,no
+317,2022-04-22 10:35:27.256,jccole@ucsd.edu,"This is my third time writing this out, my internet keeps shutting off.",3 references and 3 objects,B),"[0, 0, 13]",The program will print 'annie',"[10, 20, 40]",4.0,I learned about modifying sequences like lists within functions,N/a
+318,2022-04-22 12:53:59.723,h9johnson@ucsd.edu,at most 2,3 references and 2 objects,A),"[0, 0, 0]",The program will throw an error,"[10, 20, 40]",4.0,"We learned about references and object, how to modify lists and that you cant modify other types ",I'm still having trouble remembering the format/structure of the different functions 

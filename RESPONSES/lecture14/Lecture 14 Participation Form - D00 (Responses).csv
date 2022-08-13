@@ -1,0 +1,153 @@
+,Timestamp,Email Address,What will happen when we run print(image)?,1,2,What is one key idea that you learned in today's class? (2- 3 sentences),What questions do you still have about today's lecture? OR What did you find the most confusing about today's lecture?
+0,2022-05-12 15:41:32.700,wkennardy@ucsd.edu,Error,,,,
+1,2022-05-12 15:50:37.056,tnduong@ucsd.edu,it will print out all the tuples of the image.,,,,
+2,2022-05-12 15:54:07.938,wha@ucsd.edu,2D list of the image,,,,
+3,2022-05-12 15:54:10.776,orusso@ucsd.edu,a 2d list of the tuples of the image,,,,
+4,2022-05-12 15:54:13.822,dcui@ucsd.edu,"""cat.png""",,,,
+5,2022-05-12 15:54:14.735,ijjones@ucsd.edu,image is not defined,The purpose of the mystery function is to apply black filter in a certain region of the image.,,,
+6,2022-05-12 15:54:19.813,e1lee@ucsd.edu,it will print the object,,,,
+7,2022-05-12 15:54:24.574,kmochizuki@ucsd.edu,it will give me the code for the image,,,,
+8,2022-05-12 15:54:27.030,ktl001@ucsd.edu,2d lists of tuples will print,,,,
+9,2022-05-12 15:54:28.357,yic070@ucsd.edu,the pic will show on the screen,,,,
+10,2022-05-12 15:54:29.898,xrochaquiroz@ucsd.edu,We will get the code we saved in 'cat.png',,,,
+11,2022-05-12 15:54:31.497,lduga@ucsd.edu,Error,,,,
+12,2022-05-12 15:54:31.790,swiraja@ucsd.edu,An error code will be presented,,,,
+13,2022-05-12 15:54:32.889,c9williams@ucsd.edu,Image will be printed maybe ,,,,
+14,2022-05-12 15:54:33.452,mareece@ucsd.edu,You will get an error message ,,,,
+15,2022-05-12 15:54:34.028,yuc096@ucsd.edu,we will get a 2d list,,,,
+16,2022-05-12 15:54:44.348,wetran@ucsd.edu,tuples of the pixels in the images will be listed on the screen,,,,
+17,2022-05-12 15:54:49.746,vtan@ucsd.edu,Should print out the image fo the cat with the original brightness ,,,,
+18,2022-05-12 15:54:52.802,mhle@ucsd.edu,It will load the image in the file. ,,,,
+19,2022-05-12 15:54:55.140,djlakhani@ucsd.edu,The 2d list of tuples that represent the image will be printed,,,,
+20,2022-05-12 15:54:56.732,tnduong@ucsd.edu,"When we run print(image), the program will print our all the tuples of the pixels in the image.",,,,
+21,2022-05-12 15:54:58.582,mbannai@ucsd.edu,"it will return the name of the image, not the actual image",,,,
+22,2022-05-12 15:55:00.007,xuz027@ucsd.edu,It will print the 2d list of tuple,,,,
+23,2022-05-12 15:55:00.332,Arommid@ucsd.edu,The CSE8AImage file will run the load_img function with the cat.png image and print this output. ,,,,
+24,2022-05-12 15:55:00.618,srachapudi@ucsd.edu,it'll print a 2d list of tupules,,,,
+25,2022-05-12 15:55:00.588,jpenaloz@ucsd.edu,when you run print(image) it will have an error,,,,
+26,2022-05-12 15:55:01.652,yiw080@ucsd.edu,None,,,,
+27,2022-05-12 15:55:03.158,ijjones@ucsd.edu,pixels,,,,
+28,2022-05-12 15:55:03.193,xw001@ucsd.edu,It will open the image file.,,,,
+29,2022-05-12 15:55:05.353,liz007@ucsd.edu,The rgb values of the image will be printed ,,,,
+30,2022-05-12 15:55:08.600,kpompa@ucsd.edu,The original img definition will be printed. ,,,,
+31,2022-05-12 15:55:10.428,voswal@ucsd.edu,it will print all the pixels of the image in the form of a tuple,,,,
+32,2022-05-12 15:55:15.101,yix024@ucsd.edu,Is not defined.,,,,
+33,2022-05-12 15:55:17.233,anslyker@ucsd.edu,the list of tuples that make up the image will be printed,,,,
+34,2022-05-12 15:55:23.254,rmerino@ucsd.edu,Display an error.,,,,
+35,2022-05-12 15:55:28.173,hchu@ucsd.edu,The tuples of the image,,,,
+36,2022-05-12 15:55:31.353,akwolfe@ucsd.edu,nothing,,,,
+37,2022-05-12 15:55:38.122,kmadriaga@ucsd.edu,it will print the tuples,,,,
+38,2022-05-12 15:55:40.707,miz015@ucsd.edu,It will print out all the tuples of the image ,,,,
+39,2022-05-12 15:55:55.925,h9johnson@ucsd.edu,It will print a list of tuples for the image,,,,
+40,2022-05-12 15:55:56.130,swiraja@ucsd.edu,,"It serves as a black filter, and also reduce the height and width of an image by half",,,
+41,2022-05-12 15:56:04.919,dderasar@ucsd.edu,"There will be a new image called ""img"" that will be stored in the file ""CSE8Image""",,,,
+42,2022-05-12 15:56:11.565,yic070@ucsd.edu,The pixels will be printed ,,,,
+43,2022-05-12 15:56:13.799,mareece@ucsd.edu,it will print every pixel in the form of a tuple,,,,
+44,2022-05-12 15:57:08.141,obandopadhyay@ucsd.edu,it prints the pixels of the image,,,,
+45,2022-05-12 15:57:18.742,xw001@ucsd.edu,It will print tuples of all pixels in the image.,,,,
+46,2022-05-12 15:57:36.888,wkennardy@ucsd.edu,,It makes the images becomes half darker,,,
+47,2022-05-12 15:58:39.488,hac018@ucsd.edu,a 2D list with tuple as its element,The mystery function will turn top left one fourth into white.,D,I learned that we can modify images with tuple. This is a very good real life application!,
+48,2022-05-12 16:07:21.814,wkennardy@ucsd.edu,,,A,,
+49,2022-05-12 16:08:04.978,miz015@ucsd.edu,,It will change the top left quarter (1/4th) of the image to pure black pixels. ,A,I learned how to change the brightness of an image using python by levels. I also learned how to draw checker patterns on images using python. ,I found the making checkers patterns on the image by using python the most confusing. 
+50,2022-05-12 16:10:27.487,yif011@ucsd.edu,image' is undefined,check the range of height and width of the inserted image,,,
+51,2022-05-12 16:16:40.897,ammendoza@ucsd.edu,the image will be printed ,"The outer for loop runs for half the rows and half the columns and assigned them to 0, 0.",D,Make sure you go line by line so you do not make a mistake. Make sure you check patterns throughly.,
+52,2022-05-12 16:17:00.192,rdwong@ucsd.edu,It will return the rgb values ,,,,
+53,2022-05-12 16:18:22.392,jwhiteman@ucsd.edu,It will print out the image.,,,,
+54,2022-05-12 16:18:51.682,rdwong@ucsd.edu,,the purpose of the mystery function is to create an image using the rgb values ,,,
+55,2022-05-12 16:19:03.325,jwhiteman@ucsd.edu,,The purpose of the mystery img or function is so that we get something random.,,,
+56,2022-05-12 16:19:13.647,yic070@ucsd.edu,,Converting 1/4 of the image into black,D,Tuples are not iterable; how to show an image on the screen,
+57,2022-05-12 16:19:14.349,jwhiteman@ucsd.edu,,,B,,
+58,2022-05-12 16:19:29.365,mareece@ucsd.edu,,This function turns the upper left corner of the function black,D,I learned about tuples and basic image transformations.,"However, i am still confused about the RGB values and how to manipulate them . "
+59,2022-05-12 16:21:33.061,aadarwis@ucsd.edu,error,It shifts the image's width and height with the arguments passed into the function,,,
+60,2022-05-12 16:22:01.115,myk001@ucsd.edu,,,B,,
+61,2022-05-12 16:23:52.536,mtn011@ucsd.edu,an image shows up in the preview,"for half the columns and half the rows the image tiple is changed to (0,0,0)",C,we learned how to do checker patterns.,Using nested for loops for images still confuses me.
+62,2022-05-12 16:24:37.788,jwhiteman@ucsd.edu,,,,One important thing that I learn today is mystery. What mystery does is it declares a new variable to zero.,I don't have any questions on anything today.
+63,2022-05-12 16:24:56.384,asawyer@ucsd.edu,, i dont know,D,,How to create different test cases 
+64,2022-05-12 16:27:08.967,hbzhang@ucsd.edu,Print out the code of the image,The purpose of mystery function is like calling a function but with image.,C,Different patterns and how image transformation. Also how to change brightness of a image,Nope
+65,2022-05-12 16:31:05.887,glepage@ucsd.edu,it will give use a 2D list of all of the image using tuple,,,,
+66,2022-05-12 16:31:36.940,rdwong@ucsd.edu,,,B,,
+67,2022-05-12 16:31:53.399,cwalstromvangor@ucsd.edu,"It is printing all the tuples of the image, no matter how many.",This will take an image and put a black filter onto the picture.,C,"I learned that if you use print(img) it will just print the tuples/pixels of the image. In the example from class, with the picture of the cat, there were so many pixels that it looked like it was going on forever, but really it was just a very large picture with a lot of pixels.",
+68,2022-05-12 16:32:16.212,akwolfe@ucsd.edu,,"to get it to print out an image with a certain color
+",,,
+69,2022-05-12 16:32:43.607,ktl001@ucsd.edu,,It will turn the pixels in thr first half of the image to black. Divide the range by 2 and create a new tuple with values 0,,,
+70,2022-05-12 16:33:17.874,ktl001@ucsd.edu,,,B,,
+71,2022-05-12 16:34:34.573,ktl001@ucsd.edu,,,,Tuples can be notified. Thus you need to create a new tuple to replace. You can create transformation by changing values of the tuples,nA
+72,2022-05-12 16:35:04.042,hchu@ucsd.edu,,,C,That we can adjust the brightness of the image by doing changes on each index of the pixel. ,I'm still confused about the image transformation.
+73,2022-05-12 16:36:03.090,djlakhani@ucsd.edu,,"Mystery function will convert a section of the image black, 1/4th of the top left corner",,,
+74,2022-05-12 16:37:33.557,orusso@ucsd.edu,,,D,One key idea that I learned was how to do simple image transformations. I can now write a function to adjust the brightness and color different parts of my images,The most confusing part of today's lecture is understanding what the functions actually do
+75,2022-05-12 16:37:41.582,srachapudi@ucsd.edu,,,D,,
+76,2022-05-12 16:37:56.396,sil049@ucsd.edu,The 2D-list of tuples of the picture will be shown.,"Dividing the image into four identical blocks, the function is to change the top left quarter block of the image into black. ",B,I learned to change the brightness of an image. I also learned about how to do the checher pattern within some part of an image.,No.
+77,2022-05-12 16:39:51.909,jiparais@ucsd.edu,"When you run print(image),",I am not sure what this is for. Does the code make a portion of the image black?,D,"One key idea I learned in today's class was the process of working through making code to edit an image, such as creating a checker pattern of colors on the image. For example: using the def checker_pattern(img, start_row, start_col, length) function.",I am confused by modifying photos in general. I feel like I have to review this and the past lecture a few times before I get to a place i am comfortable in. I was completely lost during this participation form and lecture.
+78,2022-05-12 16:40:59.462,sevtimova@ucsd.edu,it opens up and displays an image on the browser,the purpose of the mystery function is to return the absolute value of the sum of its elements.,B,"In lecture today, I learned how to write stacked for loops that will get a certain area of the image, and modify it in some way. By stacking for loops, I am able to alter an image both vertically and horizontally at the same time.",I am still a little confused on how to use the create image function
+79,2022-05-12 16:43:54.278,yix024@ucsd.edu,"Is keep printing number, and it won't stop. There is lot of image.",,B,"When we run print(image), since there is too many image, it will keep running so many numbers.",
+80,2022-05-12 16:44:09.255,e1lee@ucsd.edu,,this will make a quarter white,,,
+81,2022-05-12 16:44:19.054,yic061@ucsd.edu,entering this will this keep popping up numbers.,the purpose of the mystery function ,B,,no ~
+82,2022-05-12 16:44:32.340,weh009@ucsd.edu,All tuples of the image will be printed ,"The mystery function replaces each tuple with 0,0,0 and turns the image black",D,I learned how to manipulate tuples and modify them to create new images with the modified tuples. Learned about the basic functions to call function that can be implemented to modify images.,
+83,2022-05-12 16:44:41.407,obandopadhyay@ucsd.edu,,This mystery function turns half the image black in colour.,D,,
+84,2022-05-12 16:44:53.606,glepage@ucsd.edu,,,,Learned about the idea of brightness and how to adjust the brightness. I also learned about how to change or edit the colors on certain parts of the image.,
+85,2022-05-12 16:45:15.570,spaull@ucsd.edu,If we run print(image) the image will not print and it will give an error.,The purpose of this function is to transform the image to have a black filter. ,A,"One key idea that I learned in today's class was about filters and images. I learned how to create a filter for an image, such as a black filter. ",I thought that doing the checker pattern was the most confusing about today's lecture. 
+86,2022-05-12 16:45:24.437,sevtimova@ucsd.edu,the image is displayed on the screen of the browser,it takes the sum of the functions and makes the absolute value of the sum,B,I learned about stacking for loops on one another so that I am able to take the space of an image and transform it using tuples. Doing this allows me to modify the image both vertically and horizontally. ,I am still confused about the create image function. 
+87,2022-05-12 16:45:50.142,e1lee@ucsd.edu,,,,one key idea i learned in class today is how to use pixels to edit images. we also learned how it can create images,one confusing thing about todays class was learning how to edit pictures even though tuples are immutable
+88,2022-05-12 16:47:28.690,rsuresh@ucsd.edu,"When print(img) is run, the output will be a 2D list of tuples containing all the pixels within the image inside the 2D list.","The mystery function below turns any image given into a half black screen. The function is designed to set each (255,255,255) white pixel to a (0,0,0) tuple in the range of half the height and half the width, which represents a black color. In essence, it takes the 8x8 white image created, and transforms it to an 4x4 black image with the remainder of the image remaining white.",A,"Because tuples are immutable, you must reassign the pixel tuple value using indexing within the definition of the tuple itself. The tuple, especially within the for loop, must be reassigned using the parentheses and three elements, but each element can be edited within this reassignment taking the use of a temporary pixel reassignment.","One thing I am still confused about from today's lecture is why you do not have to return the image within a function to run the function and enable the transformation, as seen in the questions above."
+89,2022-05-12 16:47:49.156,Arommid@ucsd.edu,,,,"Modifying images and saving them in files- then manipulating these 2D arrays to change the pixel values. 
+",
+90,2022-05-12 16:48:25.616,adward@ucsd.edu,I can't remember,this basically allows us to pull a certain image from a file ,B,I learned about imaging in python. I also learned about going check patterns and such ,I guess i would ask what do yall recommend in terms of practicing? like where and what are good ways of practicing this information?
+91,2022-05-12 16:48:26.892,tnduong@ucsd.edu,,The purpose of the mystery function below is turn the top left corner of the image into black pixels.,,,
+92,2022-05-12 16:48:35.858,jpenaloz@ucsd.edu,,The purpose of the mystery function is to brighten the image. ,B,One thing I learned in class today was how to do a checkered pattern on an image. I learned to do this by doing a double for loop for row and column. ,I found the modifying of images still confusing 
+93,2022-05-12 16:48:46.795,rcarmody@ucsd.edu,A list of the pixels will be produced.,The mystery function is going to make all the pixels in an image black,C,,
+94,2022-05-12 16:48:52.721,yiw080@ucsd.edu,,To change the color to black for certain pix,A,How to import function and use it to change a picture and other transformations. How to create image and change it,So far no
+95,2022-05-12 16:48:59.609,e1lee@ucsd.edu,,,A,,
+96,2022-05-12 16:49:06.787,mhle@ucsd.edu,It will load all of the pixels ,This function will black out half of the image. ,B,One key idea that I learned in today's class is how to load in images. I also learned how to change the coloring of an image by creating our own functions. ,The most confusing thing is making our own functions that change the images.
+97,2022-05-12 16:49:08.049,h3cai@ucsd.edu,"when we run print(image), all the pixels of the image will be printed.",It returns a non negative integer.,B,"I learned that (R,G,B) stands for Red, Green, Blue
+Black= (0,0,0)
+White = (255, 255, 255)
+Reducing color= Heading towards black",The live action coding to find images were a little confusing
+98,2022-05-12 16:49:13.635,akwolfe@ucsd.edu,,,B,how to import a file correctly. How to make sure an image is printed,how to do the checker pattern
+99,2022-05-12 16:49:16.108,dcui@ucsd.edu,,,,I learned how to create a function to decrease the brightness of an image. I also learned how to import images and use the various functions from CSE8Image,Creating the bounds of the checkerboard
+100,2022-05-12 16:49:19.460,mlinaresortega@ucsd.edu,,The purpose of the mystery function is to get the top left of the image turn into black pixels,,,
+101,2022-05-12 16:49:20.397,jmchiu@ucsd.edu,All the pixels of the image/tuples,The mystery function takes the given image and turns the top left quarter of the image black.,D,I have learned how to modify an image by changing the RGB values in each tuple. I also learned more about extracting an image from file to modify.,
+102,2022-05-12 16:49:22.230,anslyker@ucsd.edu,the pixels will print indefinitely because the cat picture has so many pixels,half of the image will be blacked out,B,"I learned that nested for loops are very important in image transformations. It is very important to specify exactly what pixels, rows, and columns you are referring to and utilizing height and width to do so. Also, tuples are immutable so you have to typecast them as integers for code to run properly.","I am still a little confused on all of the details to load an image, and how to correctly modify images."
+103,2022-05-12 16:49:22.613,aml015@ucsd.edu,"If we run print(image), the tuples will be printed",it helps define non negative integers,B,I learned how to edit pixels for an image by creating a new tuple.,
+104,2022-05-12 16:49:26.567,xrochaquiroz@ucsd.edu,,The function will loop until it goes through every pixel in our rows. ,C,"Tuples are immutable. In order for our code onto scale a pixels by levels, we need to create a new tuple object and have it adjusted to whatever reference point is on the new object we are creating. ",I found the color tiling to be the most confusing. 
+105,2022-05-12 16:49:27.810,cbishop@ucsd.edu,it will print out all of the rgb values of an image,it seems like it will make the top left corner of an image blacked out.,D,"How to alter an image to reduce the brightness, or similar changes in the rgb values to change how the image is displayed. We also now can filter images to be only displayed in different levels of one color.",I think I would just like to know more about how you  get more advanced filters like those in photoshop
+106,2022-05-12 16:49:30.557,ecoulson@ucsd.edu,the image will be displayed in the form of tuples ,to apply black to the region ,B,I earned the different RBG values for particular colors. I learned that the RBG values can increase and reduce the brightness of the picture. ,the checker.txt file was very complex. 
+107,2022-05-12 16:49:35.791,h1yoon@ucsd.edu,image pop up,"change RGB value to (0,0,0) which is range(height,width(img)//2)",A,"definition of change pixel of Image, we can make definition with 2D list of tuples, so it's easily can change image's pixel by using the definition, it's useful to make more bright, brightness, change color ,etc. ",Do we have to memorize the function call from the import CSE8A ??
+108,2022-05-12 16:49:36.165,tnduong@ucsd.edu,,,D,,
+109,2022-05-12 16:49:38.746,h4zheng@ucsd.edu,The cat image will be shown.,To make the image half the size and black out the whole image.,D,"The pixel numbers can only be integers, so we should either use int function or ceil function in order to get the functional result.",none.
+110,2022-05-12 16:49:40.806,yuc096@ucsd.edu,,Make the left upper quarter of the image white,B,Print a image will only show the list,No
+111,2022-05-12 16:49:42.277,shy020@ucsd.edu,the image will be shown,the pixels in the top left corner will turn black.,B,how to modify an image. how to print an image,no
+112,2022-05-12 16:49:49.486,aballardo@ucsd.edu,I think it'll print the 2d list of tuples that compose the image,I think it makes the upper left corner black,D,"I learned how to further alter images. Specifically how to darken them, build a code to do what I want, and how to make a checkered picture.",
+113,2022-05-12 16:49:54.884,mbannai@ucsd.edu,it will print the tuples of the image,this is creating white parts on an image that is creating a checkered pattern,A,,
+114,2022-05-12 16:50:04.953,qiw027@ucsd.edu,It will print every pixel of the image. ,It will delete the upper right of the image. ,D,I learned how to make color filters on images. ,No
+115,2022-05-12 16:50:11.189,kel015@ucsd.edu,tuples would be printed,,,,
+116,2022-05-12 16:50:18.223,rmerino@ucsd.edu,,The purpose of the mystery function is to put a black filter over half of an image.,,I learned how to use 2D lists and for loops in tandem with images. This also taught me how images can be filtered using code.,I have no questions.
+117,2022-05-12 16:51:43.889,yif011@ucsd.edu,image' is undefined,check the range of height and width of the inserted image,D,,
+118,2022-05-12 16:53:02.063,wjh001@ucsd.edu,I dont know,"I think its to find out the odd numbers
+",C,I think i now know how to shift the images and when to use the technique ,No
+119,2022-05-12 16:53:22.691,xw001@ucsd.edu,,This function takes an image and creates a black rectangle/square that has half the height and the width of the image.,D,I learned about several CSE8AImage modules. I learned how to create a txt file containing tuples of an image. I also learned how to create a new image.,I need to be more familiar with range and 2d lists.
+120,2022-05-12 16:58:32.391,jix042@ucsd.edu,The function will print number Infinitely.,Print an image in a specific location,C,"In today's class, I learned image transformation. I learned to apply to practical problems by storing images in 2D lists and using nested for loops to manipulate them.",
+121,2022-05-12 17:01:36.228,xig001@ucsd.edu,It will be an error because python can't find where it is.,The purpose of this function is to make the image's height and width 2 times smaller and to store it in mystery.txt.,C,I learned how to do image transformations. I also learned to do checker pattern for the image. ,
+122,2022-05-12 17:03:00.149,rdwong@ucsd.edu,,,,One key idea I learned in today's class was about tuples and imaging. I did not understand how tuples worked previously but I understand now. ,
+123,2022-05-12 17:10:55.760,vtan@ucsd.edu,,The mystery function will print out a black out image ,A,"One key idea i learned in class today was how to print out images by pixels in class. In addition, modify the colors of pixels ",N/a
+124,2022-05-12 17:12:22.826,kmaramba@ucsd.edu,It will print the entire list of tuples or pixels of the image.,The function blacks out one fourth of the image.,,How to use some of the functions  from the custom CSE8A image module. ,Analyzing nested for loops.
+125,2022-05-12 17:14:19.365,mmn004@ucsd.edu,It will print the desired image,It creates an image of a white background,A,How to create images and print out images. Also learned how to change image color,No questions
+126,2022-05-12 17:19:04.371,kpompa@ucsd.edu,,The purpose of the mystery function is to change the color of the image.,A,I learned how to code for the brightness level of the RBG images. ,I am still confused about how to call and print an image.
+127,2022-05-12 17:21:04.765,jmamarad@ucsd.edu,It will print a 2D list of all of the pixel values that make up the image.,It saves a text file of a pattern with one white box and 3 black boxes in the form of a 2D list with tuples. ,D,"I learned how to form color grids on images. I also learned how to manipulate the colors of those grids as well as their length, width and height.",
+128,2022-05-12 17:28:18.031,kpan@ucsd.edu,,The mystery function changes certain pixels in the rows and columns in the image to black. ,C,In today's class I learned how to work with small images. I also learned how to change the color of pixels in images. ,
+129,2022-05-12 17:32:07.201,vnn001@ucsd.edu,lower intensity picture,the purpose of the mystery function is a command that is given towards a specific type of function and will be called depending on what parameters and conditions are in the function. It holds true to its name mystery as one does not know beforehand.,C,One key thing i learned today in class was checker patterns. I also learned more about images and edge cases.,
+130,2022-05-12 17:37:30.563,h9johnson@ucsd.edu,,,,We learned the basics of transforming an image. We did an example of reducing the brightness of a cat image and started and example of creating a red and green checker pattern over the center of a cat image. ,I understand the concepts but still creating the code for transforming an image is a little confusing. 
+131,2022-05-12 17:39:36.175,liz007@ucsd.edu,,,,I learned about how the write a code to alter the color of an image.,I guess I’m just not that familiar with some of the new functions
+132,2022-05-12 17:39:43.677,wha@ucsd.edu,,"The top left part of the img will become black, ",A,How to change the brightness of an image. Also how to change just a portion of an image.,
+133,2022-05-12 18:13:12.444,tnduong@ucsd.edu,,,,One key idea that I learned in today's class is the concept of image transformation. I could change the color of the pixels in the image.,
+134,2022-05-12 18:17:00.762,zuzermeno@ucsd.edu,it prints out the tuple of the image,"given a list of integers, the function returns the absolute value of the sum of its elements.",B,One key idea I learned today was seeing the checker pattern. Putting in edstem and seeing how the all the infinite numbers were pixels so up was pretty cool.,Something I am still confused about is the step up on the images and how to write the function to get like a low or high brightness.
+135,2022-05-12 18:21:36.932,j6xu@ucsd.edu,,create_img is not defined,B,,
+136,2022-05-12 18:37:38.230,kmontejanoortiz@ucsd.edu,it will print the image in tuples.,I think this function takes half of an image and makes it black and then saves it as a text file.,B,I learned how to create images in python. I also learned how to change rgb values in tuples.,I still find the for loops we worked on a little bit confusing but I think I would need more examples of them to fully understand.
+137,2022-05-12 19:07:28.741,rdauble@ucsd.edu,When we run print(img) it will print all of the pixels in the image in the form of tuples.  ,This function will change the color of the pixels in the top left quadrant of the image to black.,D,I learned how to change the brightness of an image using python. I also learned how to create checkered patterns on images using python. ,I don't have any questions.
+138,2022-05-12 20:16:00.997,voswal@ucsd.edu,,,B,pixels and filters on pics,
+139,2022-05-12 20:46:38.181,niho@ucsd.edu,It will print out the pixels as tuples.,It makes the top left quarter of the image black. ,D,How to brighten and un-brighten an image,
+140,2022-05-12 21:41:24.768,jccole@ucsd.edu,The image will be printed,0.0,B,Images,
+141,2022-05-12 22:39:11.470,h2seo@ucsd.edu,The image would be printed. ,The purpose of the mystery function is to adjust the size of the image and print it out. ,B,Mystery function helps user to adjust the size of the image. For loop function is used many times during the process of programming. ,The concept of checker pattern was a little confusing for me. 
+142,2022-05-12 23:26:59.538,dderasar@ucsd.edu,,,B,One key idea that I learned in today's class was how to use the CSE8AImage Library and work with images.,I found the concept of basic image transformation pretty confusing.
+143,2022-05-12 23:31:27.756,ahrogers@ucsd.edu,,I do not know for sure. If I were to guess I'd say this function's purpose is to have half of the height and width 's colors become black ?,B,I'm starting to understand how to alter images' colors with code. The only thing I fully understand how to do with images is how to save the altered image under a new filename. ,2d lists are still very confusing to me.
+144,2022-05-12 23:40:01.546,nduque@ucsd.edu,It will print all the pixels in the image ,to create a frame work for that will lighten the image ,A,I learned how to scale pixels as well as how to use tuples,syntax of scaling with nested loops
+145,2022-05-12 23:58:20.248,argonzalez@ucsd.edu,It will print an RGB form if the pixels.,This function is running a nested for loop in order to print the RGB pixel form of the image and printing only certaint pixels using a 2d array or list. Than it is saving it in mystery.txt,B,I learned about nested for loops and RGB forms of images. I also learned about 2d arrays and lists and how they are called.,I am still confused on calling 2d arrays and lists.

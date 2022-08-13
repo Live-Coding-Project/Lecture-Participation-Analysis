@@ -1,0 +1,510 @@
+,Timestamp,Email Address,Review: What test case will fail the program at this point?,1,2,3,4,What is one key idea that you learned in today's class? (2- 3 sentences),What questions do you still have about today's lecture? OR What did you find the most confusing about today's lecture?,Do you have any feedback on the midterm exam? What was good? Suggestions? We may use your feedback while designing the final exam for CSE 8A.
+0,2022-05-05 11:03:38.823,l6tong@ucsd.edu,"[1,2,3][4,5,6]",,,,,,,
+1,2022-05-05 11:04:54.592,x2su@ucsd.edu,case 2,,,,,,,
+2,2022-05-05 11:07:14.742,l6tong@ucsd.edu,,"2, 3, 2, 1","[40, 50, 60], 60, Error",D,,,,
+3,2022-05-05 11:07:58.440,g4rodriguez@ucsd.edu,Test Case #1,,,,,,,
+4,2022-05-05 11:12:32.878,x2su@ucsd.edu,,"2, 6, 2, 1",,,,,,
+5,2022-05-05 11:12:41.630,ayachanin@ucsd.edu,,"2, 3, 2, 1",,,,,,
+6,2022-05-05 11:14:41.875,l6tong@ucsd.edu,,,,,"for i in range len{(data):
+      print date[i][day]",,,
+7,2022-05-05 11:18:55.947,zwilliams@ucsd.edu,,,,,,,,
+8,2022-05-05 11:20:44.825,ndriggett@ucsd.edu,The second,"2, 3, 2, 1","20, 20, 90",,,,,
+9,2022-05-05 11:27:01.944,vrchauhan@ucsd.edu,Test case 3,,,,,,,
+10,2022-05-05 11:29:28.017,ftaraporevala@ucsd.edu,"lst1 = [1,2,3] lst2=[4,5,6]",,,,,,,
+11,2022-05-05 11:29:34.708,j3zhong@ucsd.edu,"lstA = [4, 5, 6]
+lstB = [1, 2, 3]",,,,,,,
+12,2022-05-05 11:29:37.106,capena@ucsd.edu,"lstA = [1, 2, 3]
+lstB = [6, 4, 5]",,,,,,,
+13,2022-05-05 11:29:45.780,mzlarsen@ucsd.edu,"lstA = [1,2,3,4,5,6]
+lstB = []
+",,,,,,,
+14,2022-05-05 11:29:48.843,mit002@ucsd.edu,"if you use the assert function to test the program. The test case that will fail the program at the that point would be lA[6, 5, 4], lB[5, 3, 2]",,,,,,,
+15,2022-05-05 11:29:50.729,e5lim@ucsd.edu,"lstA = [4, 5, 6] and lstB = [3, 2, 1]",,,,,,,
+16,2022-05-05 11:29:57.267,tsimmonds@ucsd.edu,change index and form,,,,,,,
+17,2022-05-05 11:30:06.390,ayachanin@ucsd.edu,If there is nothing in the list,,,,,,,
+18,2022-05-05 11:30:07.135,hgolay@ucsd.edu,"lstA = [1,2,3]
+lstB= [4,5,6]",,,,,,,
+19,2022-05-05 11:30:12.364,vyeh@ucsd.edu,"lstA: [1,3,5]
+lstB: [2,4,6]",,,,,,,
+20,2022-05-05 11:30:12.775,jtm002@ucsd.edu,"lstA = [4,5,6]
+lstB = [1,2,3]",,,,,,,
+21,2022-05-05 11:30:15.618,sgaribayzaguilan@ucsd.edu,test case 3,,,,,,,
+22,2022-05-05 11:30:19.003,mschaar@ucsd.edu,"[1,2,3] [6,5,4]",,,,,,,
+23,2022-05-05 11:30:19.859,l3wang@ucsd.edu,"lstA=[4,5,6] lstB=[1,2,3]",,,,,,,
+24,2022-05-05 11:30:32.071,gmendez@ucsd.edu,The program will fail between lines 12 and 17 because we are returning list 1 and not list 2,,,,,,,
+25,2022-05-05 11:30:34.907,mahmadi@ucsd.edu,not sure ,,,,,,,
+26,2022-05-05 11:30:34.962,ammorrison@ucsd.edu,the second test case,,,,,,,
+27,2022-05-05 11:30:36.684,pfuentes@ucsd.edu,3.0,,,,,,,
+28,2022-05-05 11:30:36.770,teferrarimoreno@ucsd.edu,"lst1 = [6,5,4]
+lst2=[3,2,1]",,,,,,,
+29,2022-05-05 11:30:41.475,dsemsem@ucsd.edu,The third test case will fail since there's no while loop in the second elif statement.,,,,,,,
+30,2022-05-05 11:30:41.576,mljimenez@ucsd.edu,Test case 2,,,,,,,
+31,2022-05-05 11:30:42.532,j6zou@ucsd.edu,"listA = [1, 2, 3], listB = [5, 4, 6]",,,,,,,
+32,2022-05-05 11:30:55.873,lcruzpaz@ucsd.edu,Probably inputting a number less than 0?,,,,,,,
+33,2022-05-05 11:30:56.593,s2qi@ucsd.edu,the while loop will fail the program.,,,,,,,
+34,2022-05-05 11:30:57.691,gramirezmaldonado@ucsd.edu,"I'm not quite sure, i'm still a bit confused. is it if j is > than the len(lst)?",,,,,,,
+35,2022-05-05 11:30:59.957,tleaf@ucsd.edu,"lstA = [-1,0]?
+lstB = [0,-1]?",,,,,,,
+36,2022-05-05 11:31:00.715,mnmorales@ucsd.edu,,"1, 3, 1, 1",,,,,,
+37,2022-05-05 11:31:05.467,iandrews@ucsd.edu,"Maybe try a list in reverse, so [4,5,6] and [1,2,3]",,,,,,,
+38,2022-05-05 11:31:06.166,vrchauhan@ucsd.edu,,"2, 3, 2, 1",,,,,,
+39,2022-05-05 11:31:07.286,msitu@ucsd.edu,[ ],,,,,,,
+40,2022-05-05 11:31:09.332,rojiang@ucsd.edu,"lstA = []
+lstB = []
+I have no idea :(",,,,,,,
+41,2022-05-05 11:31:09.709,tgrimes@ucsd.edu,"lstA: [1,2,3]
+lstB: [4,5,6]",,,,,,,
+42,2022-05-05 11:31:10.249,c2ding@ucsd.edu,test case 1,,,,,,,
+43,2022-05-05 11:31:11.913,juc010@ucsd.edu,"[3, 4, 5, 6] [7,8,9]",,,,,,,
+44,2022-05-05 11:31:13.022,ckeay@ucsd.edu,"List a = [ 2, -3, J] list b = [-6,-7,A]",,,,,,,
+45,2022-05-05 11:31:18.224,mglovins@ucsd.edu,"[1,2,3] [5,6,7,4]",,,,,,,
+46,2022-05-05 11:31:18.577,r2diaz@ucsd.edu,,,,,,,,
+47,2022-05-05 11:31:20.467,ajagarlamudi@ucsd.edu,test case 3 ,,,,,,,
+48,2022-05-05 11:31:21.054,cllian@ucsd.edu,"A = [4,5,6], B= [1,2,3]",,,,,,,
+49,2022-05-05 11:31:25.329,jdaguio@ucsd.edu,Test case #2 will fail the program ,,,,,,,
+50,2022-05-05 11:31:31.871,ilai@ucsd.edu,not sure,,,,,,,
+51,2022-05-05 11:31:32.878,mnmorales@ucsd.edu,unsure ,,,,,,,
+52,2022-05-05 11:31:39.973,b1lin@ucsd.edu,"lstA = [1, 2, 3]
+lstB = [4, 5, 6]",,,,,,,
+53,2022-05-05 11:31:40.590,mmao@ucsd.edu,The second test case will fail. ,,,,,,,
+54,2022-05-05 11:31:41.395,k5mendez@ucsd.edu,"lstA = [4,5,6]
+lstB = [1,2,3]",,,,,,,
+55,2022-05-05 11:31:43.292,ssayson@ucsd.edu,"lst 1 = [4, 5, 6] lst 2 = [3,2,1]",,,,,,,
+56,2022-05-05 11:31:47.385,nneal@ucsd.edu,test case #1,,,,,,,
+57,2022-05-05 11:31:48.910,ewattier@ucsd.edu, Dont Know,,,,,,,
+58,2022-05-05 11:31:54.121,sgomezmartinez@ucsd.edu,"[1, 2, 3 4] [5, 6, 8]",,,,,,,
+59,2022-05-05 11:31:56.686,r2diaz@ucsd.edu,the second test case ,,,,,,,
+60,2022-05-05 11:31:56.503,tristanmcoop@gmail.com,The second,,,,,,,
+61,2022-05-05 11:31:58.649,ejs001@ucsd.edu,"lstA = [4, 5, 6,]
+lstB = [1, 2, 3]",,,,,,,
+62,2022-05-05 11:31:58.691,j1kuo@ucsd.edu,case2,,,,,,,
+63,2022-05-05 11:31:58.928,ahipol@ucsd.edu,"[3, 4,1,2]",,,,,,,
+64,2022-05-05 11:31:59.849,aycastil@ucsd.edu,If the list input is empty?,,,,,,,
+65,2022-05-05 11:32:07.487,jom009@ucsd.edu,Second,,,,,,,
+66,2022-05-05 11:32:11.693,iangulo@ucsd.edu,"[1,2,3][4,5,6]",,,,,,,
+67,2022-05-05 11:32:13.639,g1grimal@ucsd.edu,test case #2?,,,,,,,
+68,2022-05-05 11:32:18.928,jforonda@ucsd.edu,"lstA[1,2,3]
+lstB = [4,5,6] ",,,,,,,
+69,2022-05-05 11:32:46.176,m5lee@ucsd.edu,empty list,,,,,,,
+70,2022-05-05 11:32:49.696,mlruiz@ucsd.edu,"lstA=[4,5,6]
+lstB= [1,2,3]",,,,,,,
+71,2022-05-05 11:32:50.658,ndong@ucsd.edu,"lst A = [4,5,6]
+lst B = [1,2,3]",,,,,,,
+72,2022-05-05 11:32:58.938,zbai@ucsd.edu,"lstA = [1,2,3]
+lstB = [4,5,6]","2, 6, 2, 1",,,,,,
+73,2022-05-05 11:33:03.312,mfrancisco@gmail.com,Test case1,,,,,,,
+74,2022-05-05 11:33:05.403,juz001@ucsd.edu,"A = [1,2,3] B = [4,5,6]",,,,,,,
+75,2022-05-05 11:33:08.576,szbates@ucsd.edu,"[4, 5, 6]
+[1, 2, 3]",,,,,,,
+76,2022-05-05 11:33:17.677,mfrancisco@gmail.com,,"2, 3, 2, 1",,,,,,
+77,2022-05-05 11:33:22.080,aagamataalmeida@ucsd.edu,"lstaA=[2,3,5]
+lstB=[4,5,6]",,,,,,,
+78,2022-05-05 11:33:30.144,adw005@ucsd.edu,"lstA = [4, 5, 6]
+lstB = [1, 2, 3]",,,,,,,
+79,2022-05-05 11:33:31.405,mfrancisco@gmail.com,,,"[10, 20, 30], 20, 90",,,,,
+80,2022-05-05 11:33:53.136,mfrancisco@gmail.com,,,,A,,,,
+81,2022-05-05 11:33:56.742,aramoson@ucsd.edu,"lstA= [1,2,3]
+lastB= [6,7,8]",,,,,,,
+82,2022-05-05 11:33:59.019,zwilliams@ucsd.edu,"A = [4, 5, 6]
+B = [1, 2, 3]",,,,,,,
+83,2022-05-05 11:34:12.803,mil049@ucsd.edu,test case 2,,,,,,,
+84,2022-05-05 11:36:25.481,mfrancisco@gmail.com,,,,,I am actually not sure ,,,
+85,2022-05-05 11:37:59.498,htobias@ucsd.edu,not sure,,,,,,,
+86,2022-05-05 11:39:18.196,mfrancisco@gmail.com,,,,,,"I learned the importance of multiple test cases. In the review, it was important to try every case to make sure your code works properly ","I think for today, I found nested loops very confusing. I did not understand why they are needed necessarily  ","The midterm exam went very well, just overall felt really long for a student who does not have a super solid background of python. However, overall not too bad "
+87,2022-05-05 11:43:59.475,x4mao@ucsd.edu,,"2, 3, 2, 1","[10, 20, 30], 20, 90",B,,,,
+88,2022-05-05 11:45:06.689,s2qi@ucsd.edu,,"2, 3, 2, 1",,,,,,
+89,2022-05-05 11:46:31.449,ronoy@ucsd.edu,"lstA: [4,5,6]
+lstB: [1,2,3]",,,,,,,
+90,2022-05-05 11:46:36.924,tsimmonds@ucsd.edu,,"2, 6, 2, 1",,,,,,
+91,2022-05-05 11:48:51.156,g4rodriguez@ucsd.edu,,"2, 3, 2, 1",,,,,,
+92,2022-05-05 11:49:02.183,j6zou@ucsd.edu,,"2, 6, 2, 1",,,,,,
+93,2022-05-05 11:49:04.960,htobias@ucsd.edu,,"2, 6, 2, 1",,,,,,
+94,2022-05-05 11:49:05.376,ftaraporevala@ucsd.edu,,"2, 3, 2, 1",,,,,,
+95,2022-05-05 11:49:06.654,sgomezmartinez@ucsd.edu,,"2, 6, 2, 1",,,,,,
+96,2022-05-05 11:49:11.689,vrchauhan@ucsd.edu,,"2, 3, 2, 1",,,,,,
+97,2022-05-05 11:49:12.283,mnmorales@ucsd.edu,,"1, 3, 1, 1",,,,,,
+98,2022-05-05 11:49:14.063,e5lim@ucsd.edu,,"2, 6, 2, 1",,,,,,
+99,2022-05-05 11:49:16.155,tleaf@ucsd.edu,,"2, 3, 2, 1",,,,,,
+100,2022-05-05 11:49:19.208,mahmadi@ucsd.edu,,"2, 6, 2, 1",,,,,,
+101,2022-05-05 11:49:20.143,gramirezmaldonado@ucsd.edu,,"2, 3, 2, 1",,,,,,
+102,2022-05-05 11:49:20.609,aagamataalmeida@ucsd.edu,,"2, 6, 2, 1",,,,,,
+103,2022-05-05 11:49:21.007,jdaguio@ucsd.edu,,"2, 3, 2, 1",,,,,,
+104,2022-05-05 11:49:23.190,ckeay@ucsd.edu,,"2, 3, 2, 1",,,,,,
+105,2022-05-05 11:49:25.990,sgaribayzaguilan@ucsd.edu,,"1, 3, 1, 1",,,,,,
+106,2022-05-05 11:49:27.933,gmendez@ucsd.edu,,"2, 3, 2, 1",,,,,,
+107,2022-05-05 11:49:28.069,cllian@ucsd.edu,,"2, 6, 2, 1",,,,,,
+108,2022-05-05 11:49:28.309,aycastil@ucsd.edu,,"1, 3, 1, 1",,,,,,
+109,2022-05-05 11:49:32.094,ammorrison@ucsd.edu,,"2, 6, 2, 1",,,,,,
+110,2022-05-05 11:49:32.349,mschaar@ucsd.edu,,"2, 3, 2, 1",,,,,,
+111,2022-05-05 11:49:32.755,dtorresm@ucsd.edu,,"2, 3, 2, 1",,,,,,
+112,2022-05-05 11:49:33.079,mljimenez@ucsd.edu,,"2, 3, 2, 1",,,,,,
+113,2022-05-05 11:49:35.460,nthiyagarajan@gmail.com,,"2, 6, 2, 1",,,,,,
+114,2022-05-05 11:49:35.588,juz001@ucsd.edu,,"2, 3, 2, 1",,,,,,
+115,2022-05-05 11:49:36.262,vyeh@ucsd.edu,,"1, 3, 1, 1",,,,,,
+116,2022-05-05 11:49:38.608,ayachanin@ucsd.edu,,"2, 6, 2, 1",,,,,,
+117,2022-05-05 11:49:38.701,szbates@ucsd.edu,,"2, 3, 2, 1",,,,,,
+118,2022-05-05 11:49:40.048,zwilliams@ucsd.edu,"A = 4,5,6
+B = 1,2,3","2, 6, 2, 1",,,,,,
+119,2022-05-05 11:49:43.213,m5lee@ucsd.edu,,"2, 6, 2, 1",,,,,,
+120,2022-05-05 11:49:44.178,l3wang@ucsd.edu,,"2, 3, 2, 1",,,,,,
+121,2022-05-05 11:49:47.455,s2qi@ucsd.edu,,"2, 3, 2, 1",,,,,,
+122,2022-05-05 11:49:48.398,dsemsem@ucsd.edu,,"2, 3, 2, 1",,,,,,
+123,2022-05-05 11:49:49.054,mzlarsen@ucsd.edu,,"2, 6, 2, 1",,,,,,
+124,2022-05-05 11:49:50.839,j3zhong@ucsd.edu,,"2, 3, 2, 1",,,,,,
+125,2022-05-05 11:49:51.378,mhagstrum@ucsd.edu,,"1, 3, 1, 1","[40, 50, 60], 60, Error",,,,,
+126,2022-05-05 11:49:51.785,nneal@ucsd.edu,,"2, 3, 2, 1",,,,,,
+127,2022-05-05 11:49:51.789,ahipol@ucsd.edu,,"2, 3, 2, 1",,,,,,
+128,2022-05-05 11:49:52.207,c2ding@ucsd.edu,"lst1=[4,5,6]
+lst2=[1,2,3]","2, 3, 2, 1",,,,,,
+129,2022-05-05 11:49:52.406,b1lin@ucsd.edu,,"2, 3, 2, 1",,,,,,
+130,2022-05-05 11:49:52.713,jtm002@ucsd.edu,,"2, 6, 2, 1",,,,,,
+131,2022-05-05 11:49:53.196,adw005@ucsd.edu,,"2, 6, 2, 1",,,,,,
+132,2022-05-05 11:49:53.287,ewattier@ucsd.edu,,"2, 3, 2, 1",,,,,,
+133,2022-05-05 11:49:53.737,k5mendez@ucsd.edu,,"2, 3, 2, 1",,,,,,
+134,2022-05-05 11:49:54.103,lcruzpaz@ucsd.edu,,"2, 3, 2, 1",,,,,,
+135,2022-05-05 11:49:55.185,mec005@ucsd.edu,,"2, 6, 2, 1",,,,,,
+136,2022-05-05 11:49:55.442,juc010@ucsd.edu,,"1, 3, 1, 1",,,,,,
+137,2022-05-05 11:49:55.371,tgrimes@ucsd.edu,,"1, 3, 1, 1",,,,,,
+138,2022-05-05 11:49:55.599,ajagarlamudi@ucsd.edu,,"2, 3, 2, 1",,,,,,
+139,2022-05-05 11:49:57.626,pfuentes@ucsd.edu,,"2, 6, 2, 1",,,,,,
+140,2022-05-05 11:49:57.909,capena@ucsd.edu,,"2, 6, 2, 1",,,,,,
+141,2022-05-05 11:49:57.919,mmao@ucsd.edu,,"2, 6, 2, 1",,,,,,
+142,2022-05-05 11:49:58.001,hgolay@ucsd.edu,,"2, 6, 2, 1",,,,,,
+143,2022-05-05 11:49:59.588,ssayson@ucsd.edu,,"2, 3, 2, 1",,,,,,
+144,2022-05-05 11:50:01.758,mit002@ucsd.edu,,"2, 6, 2, 1",,,,,,
+145,2022-05-05 11:50:02.099,rojiang@ucsd.edu,,"2, 3, 2, 1",,,,,,
+146,2022-05-05 11:50:02.195,ejs001@ucsd.edu,,"2, 3, 2, 1",,,,,,
+147,2022-05-05 11:50:02.755,jforonda@ucsd.edu,,"2, 3, 2, 1",,,,,,
+148,2022-05-05 11:50:03.463,msitu@ucsd.edu,,"2, 3, 2, 1",,,,,,
+149,2022-05-05 11:50:04.153,dmontoto@ucsd.edu,,"2, 3, 2, 1",,,,,,
+150,2022-05-05 11:50:04.227,aramoson@ucsd.edu,,"2, 3, 2, 1",,,,,,
+151,2022-05-05 11:50:04.854,iandrews@ucsd.edu,,"2, 3, 2, 1",,,,,,
+152,2022-05-05 11:50:05.264,r2diaz@ucsd.edu,,"2, 6, 2, 1",,,,,,
+153,2022-05-05 11:50:05.797,snunga@ucsd.edu,,"2, 3, 2, 1","[40, 50, 60], 60, Error",,,,,
+154,2022-05-05 11:50:07.058,g1grimal@ucsd.edu,,"2, 3, 2, 1",,,,,,
+155,2022-05-05 11:50:08.494,a5flores@ucsd.edu,"[1, 2, 3]","2, 3, 2, 1",,,,,,
+156,2022-05-05 11:50:09.531,tferrarimoreno@ucsd.edu,,"2, 3, 2, 1",,,,,,
+157,2022-05-05 11:50:12.074,jom009@ucsd.edu,,"2, 3, 2, 1",,,,,,
+158,2022-05-05 11:50:17.357,mil049@ucsd.edu,,"2, 3, 2, 1",,,,,,
+159,2022-05-05 11:50:17.871,ndong@ucsd.edu,,"1, 3, 1, 1",,,,,,
+160,2022-05-05 11:50:35.522,ronoy@ucsd.edu,,"2, 3, 2, 1",,,,,,
+161,2022-05-05 11:50:51.046,capena@ucsd.edu,,"2, 6, 2, 1",,,,,,
+162,2022-05-05 11:51:38.123,afaisal@ucsd.edu,test case 3,"1, 3, 1, 1",,,,,,
+163,2022-05-05 11:51:58.813,ziyin@ucsd.edu,,"2, 6, 2, 1",,,,,,
+164,2022-05-05 11:54:15.954,mpcunana@ucsd.edu,,"2, 6, 2, 1",,,,,,
+165,2022-05-05 11:55:14.861,tsimmonds@ucsd.edu,,,"20, 20, 90",,,,,
+166,2022-05-05 11:55:45.407,mec005@ucsd.edu,,,"[40, 50, 60], 60, Error",,,,,
+167,2022-05-05 11:55:50.743,ftaraporevala@ucsd.edu,,,"[40, 50, 60], 60, Error",,,,,
+168,2022-05-05 11:56:30.488,x2su@ucsd.edu,,,"[40, 50, 60], 60, Error",B,,,,
+169,2022-05-05 11:57:25.915,cichiang@ucsd.edu,,"2, 6, 2, 1","[40, 50, 60], 60, Error",,,,,
+170,2022-05-05 11:59:12.584,gmendez@ucsd.edu,,,"[10, 20, 30], 20, 90",,,,,
+171,2022-05-05 11:59:20.498,szbates@ucsd.edu,,,"[10, 20, 30], 20, 90",,,,,
+172,2022-05-05 11:59:21.223,iangulo@ucsd.edu,,"2, 3, 2, 1",,,,,,
+173,2022-05-05 11:59:24.095,mit002@ucsd.edu,,,"[40, 50, 60], 60, Error",,,,,
+174,2022-05-05 11:59:25.043,cllian@ucsd.edu,,,"[40, 50, 60], 60, Error",,,,,
+175,2022-05-05 11:59:27.751,ckeay@ucsd.edu,,,"[10, 20, 30], 20, 90",,,,,
+176,2022-05-05 11:59:30.147,tgrimes@ucsd.edu,,,"[40, 50, 60], 60, Error",,,,,
+177,2022-05-05 11:59:30.789,ilai@ucsd.edu,,"2, 3, 2, 1","[10, 20, 30], 20, 90",,,,,
+178,2022-05-05 11:59:34.384,g4rodriguez@ucsd.edu,,,"[40, 50, 60], 60, Error",,,,,
+179,2022-05-05 11:59:35.546,mahmadi@ucsd.edu,,,"[40, 50, 60], 60, Error",,,,,
+180,2022-05-05 11:59:36.483,l3wang@ucsd.edu,,,"[40, 50, 60], 60, Error",,,,,
+181,2022-05-05 11:59:36.996,mzlarsen@ucsd.edu,,,"[40, 50, 60], 60, Error",,,,,
+182,2022-05-05 11:59:38.531,capena@ucsd.edu,,,"[40, 50, 60], 60, Error",,,,,
+183,2022-05-05 11:59:40.446,hgolay@ucsd.edu,,,"[40, 50, 60], 60, Error",,,,,
+184,2022-05-05 11:59:40.792,juz001@ucsd.edu,,,"[10, 20, 30], 20, 90",,,,,
+185,2022-05-05 11:59:42.581,j6zou@ucsd.edu,,,"[40, 50, 60], 60, Error",B,,,,
+186,2022-05-05 11:59:44.428,sgaribayzaguilan@ucsd.edu,,,"[10, 20, 30], 20, 90",,,,,
+187,2022-05-05 11:59:44.473,ammorrison@ucsd.edu,,,"20, 20, 90",,,,,
+188,2022-05-05 11:59:45.012,htobias@ucsd.edu,,,"[40, 50, 60], 60, Error",,,,,
+189,2022-05-05 11:59:45.473,gramirezmaldonado@ucsd.edu,,,"[40, 50, 60], 60, 90",,,,,
+190,2022-05-05 11:59:46.078,e5lim@ucsd.edu,,,"[40, 50, 60], 60, Error",,,,,
+191,2022-05-05 11:59:46.659,pfuentes@ucsd.edu,,,"[40, 50, 60], 60, Error",,,,,
+192,2022-05-05 11:59:46.663,s2qi@ucsd.edu,,,"[40, 50, 60], 60, 90",,,,,
+193,2022-05-05 11:59:46.739,mljimenez@ucsd.edu,,,"[40, 50, 60], 60, Error",,,,,
+194,2022-05-05 11:59:47.245,j3zhong@ucsd.edu,,,"[40, 50, 60], 60, 90",,,,,
+195,2022-05-05 11:59:47.394,jtm002@ucsd.edu,,,"[40, 50, 60], 60, Error",,,,,
+196,2022-05-05 11:59:47.883,dsemsem@ucsd.edu,,,"[40, 50, 60], 60, Error",,,,,
+197,2022-05-05 11:59:47.948,tleaf@ucsd.edu,,,"[40, 50, 60], 60, Error",,,,,
+198,2022-05-05 11:59:48.466,b1lin@ucsd.edu,,,"[40, 50, 60], 60, Error",,,,,
+199,2022-05-05 11:59:48.676,tferrarimoreno@ucsd.edu,,,"[40, 50, 60], 60, Error",,,,,
+200,2022-05-05 11:59:49.093,jforonda@ucsd.edu,,,"[10, 20, 30], 20, 90",,,,,
+201,2022-05-05 11:59:49.939,adw005@ucsd.edu,,,"[40, 50, 60], 60, Error",,,,,
+202,2022-05-05 11:59:50.330,cechi@ucsd.edu,,,"[40, 50, 60], 60, Error",,,,,
+203,2022-05-05 11:59:50.381,aagamataalmeida@ucsd.edu,,,"[10, 20, 30], 20, 90",,,,,
+204,2022-05-05 11:59:50.409,nthiyagarajan@gmail.com,,,"[40, 50, 60], 60, Error",,,,,
+205,2022-05-05 11:59:50.429,ahipol@ucsd.edu,,,"[40, 50, 60], 60, 90",,,,,
+206,2022-05-05 11:59:50.986,k5mendez@ucsd.edu,,,"[40, 50, 60], 60, Error",,,,,
+207,2022-05-05 11:59:51.894,rojiang@ucsd.edu,,,"[40, 50, 60], 60, Error",,,,,
+208,2022-05-05 11:59:52.024,juc010@ucsd.edu,,,"[10, 20, 30], 20, 90",,,,,
+209,2022-05-05 11:59:52.119,nneal@ucsd.edu,,,"[40, 50, 60], 60, Error",,,,,
+210,2022-05-05 11:59:52.216,lcruzpaz@ucsd.edu,,,"[40, 50, 60], 60, Error",,,,,
+211,2022-05-05 11:59:52.366,r2diaz@ucsd.edu,,,"[40, 50, 60], 60, Error",,,,,
+212,2022-05-05 11:59:52.586,mlruiz@ucsd.edu,,"2, 6, 2, 1","[10, 20, 30], 20, 90",,,,,
+213,2022-05-05 11:59:52.997,sgomezmartinez@ucsd.edu,,,"[40, 50, 60], 60, Error",,,,,
+214,2022-05-05 11:59:53.171,c2ding@ucsd.edu,,,"[40, 50, 60], 60, Error",,,,,
+215,2022-05-05 11:59:53.628,mschaar@ucsd.edu,,,"[40, 50, 60], 60, Error",,,,,
+216,2022-05-05 11:59:54.737,j1kuo@ucsd.edu,,"2, 6, 2, 1","[10, 20, 30], 20, 90",,,,,
+217,2022-05-05 11:59:55.071,zwilliams@ucsd.edu,"A = 4,5,6
+B = 1,2,3","2, 6, 2, 1","[40, 50, 60], 60, Error",,,,,
+218,2022-05-05 11:59:55.313,mnmorales@ucsd.edu,,,"[10, 20, 30], 20, 90",,,,,
+219,2022-05-05 11:59:55.406,vyeh@ucsd.edu,,,"[40, 50, 60], 60, Error",,,,,
+220,2022-05-05 11:59:56.360,iangulo@ucsd.edu,,,"[10, 20, 30], 20, 90",,,,,
+221,2022-05-05 11:59:57.534,ayachanin@ucsd.edu,,,"[10, 20, 30], 20, 90",,,,,
+222,2022-05-05 11:59:57.954,g1grimal@ucsd.edu,,,"[40, 50, 60], 60, Error",,,,,
+223,2022-05-05 11:59:58.095,jdaguio@ucsd.edu,,,"[40, 50, 60], 60, 90",,,,,
+224,2022-05-05 11:59:58.202,zbai@ucsd.edu,,,"[40, 50, 60], 60, Error",,,"Sometimes it's hard to see error in the program. We may run by ourselves many times and try different inputs, which is helpful for debugging.",N/A.,good
+225,2022-05-05 11:59:58.453,mmao@ucsd.edu,,,"[10, 20, 30], 20, 90",,,,,
+226,2022-05-05 12:00:01.637,ewattier@ucsd.edu,,,"[40, 50, 60], 60, 90",,,,,
+227,2022-05-05 12:00:02.507,dtorresm@ucsd.edu,,,"[10, 20, 30], 20, 90",,,,,
+228,2022-05-05 12:00:03.267,mil049@ucsd.edu,,,"[40, 50, 60], 60, Error",,,,,
+229,2022-05-05 12:00:03.302,jom009@ucsd.edu,,,"[40, 50, 60], 60, Error",,,,,
+230,2022-05-05 12:00:03.548,msitu@ucsd.edu,,,"[40, 50, 60], 60, Error",,,,,
+231,2022-05-05 12:00:04.372,ejs001@ucsd.edu,,,"[40, 50, 60], 60, Error",,,,,
+232,2022-05-05 12:00:05.149,ndong@ucsd.edu,,,"[40, 50, 60], 60, Error",,,,,
+233,2022-05-05 12:00:10.531,ajagarlamudi@ucsd.edu,,,"[40, 50, 60], 60, Error",,,,,
+234,2022-05-05 12:00:14.943,vrchauhan@ucsd.edu,,,"[40, 50, 60], 60, 90",,,,,
+235,2022-05-05 12:00:20.359,m5lee@ucsd.edu,,,"[40, 50, 60], 60, 90",,,,,
+236,2022-05-05 12:00:20.738,ssayson@ucsd.edu,,,"[40, 50, 60], 60, Error",,,,,
+237,2022-05-05 12:00:44.906,ziyin@ucsd.edu,,,"[10, 20, 30], 20, 90",,,,,
+238,2022-05-05 12:00:45.648,iandrews@ucsd.edu,,,"[40, 50, 60], 60, Error",,,,,
+239,2022-05-05 12:00:46.274,aycastil@ucsd.edu,,,"[40, 50, 60], 60, Error",,,,,
+240,2022-05-05 12:00:58.851,aramoson@ucsd.edu,,,"[40, 50, 60], 60, Error",,,,,
+241,2022-05-05 12:01:02.865,tristanmcoop@gmail.com,,"2, 3, 2, 1","[40, 50, 60], 60, Error",,,,,
+242,2022-05-05 12:01:35.173,ronoy@ucsd.edu,,,"[40, 50, 60], 60, Error",,,,,
+243,2022-05-05 12:04:14.891,tsimmonds@ucsd.edu,,,,B,,,,
+244,2022-05-05 12:08:37.992,x2su@ucsd.edu,,,,C,,,,
+245,2022-05-05 12:08:41.209,aramoson@ucsd.edu,,,,C,,,,
+246,2022-05-05 12:09:35.868,aagamataalmeida@ucsd.edu,,,,A,,,,
+247,2022-05-05 12:10:59.904,mnmorales@ucsd.edu,,,,B,,,,
+248,2022-05-05 12:11:02.123,s2qi@ucsd.edu,,,,D,,,,
+249,2022-05-05 12:11:05.126,pfuentes@ucsd.edu,,,,D,,,,
+250,2022-05-05 12:11:08.074,ftaraporevala@ucsd.edu,,,,B,,,,
+251,2022-05-05 12:11:09.554,sgaribayzaguilan@ucsd.edu,,,,B,,,,
+252,2022-05-05 12:11:13.256,sgomezmartinez@ucsd.edu,,,,D,,,,
+253,2022-05-05 12:11:13.752,htobias@ucsd.edu,,,,B,,,,
+254,2022-05-05 12:11:14.777,g4rodriguez@ucsd.edu,,,,B,,,,
+255,2022-05-05 12:11:15.671,juz001@ucsd.edu,,,,A,,,,
+256,2022-05-05 12:11:16.060,mahmadi@ucsd.edu,,,,B,,,,
+257,2022-05-05 12:11:20.513,vyeh@ucsd.edu,,,,B,,,,
+258,2022-05-05 12:11:22.553,vrchauhan@ucsd.edu,,,,C,,,,
+259,2022-05-05 12:11:22.773,j6zou@ucsd.edu,,,,B,,,,
+260,2022-05-05 12:11:24.911,tleaf@ucsd.edu,,,,B,,,,
+261,2022-05-05 12:11:28.507,tsimmonds@ucsd.edu,,,,D,,,,
+262,2022-05-05 12:11:29.668,ckeay@ucsd.edu,,,,B,,,,
+263,2022-05-05 12:11:35.468,ammorrison@ucsd.edu,,,,B,,,,
+264,2022-05-05 12:11:35.660,mschaar@ucsd.edu,,,,A,,,,
+265,2022-05-05 12:11:36.599,mmao@ucsd.edu,,,,D,,,,
+266,2022-05-05 12:11:37.351,ahipol@ucsd.edu,,,,B,,,,
+267,2022-05-05 12:11:37.688,k5mendez@ucsd.edu,,,,B,,,,
+268,2022-05-05 12:11:38.427,jdaguio@ucsd.edu,,,,B,,,,
+269,2022-05-05 12:11:40.876,gramirezmaldonado@ucsd.edu,,,,B,,,,
+270,2022-05-05 12:11:40.917,mljimenez@ucsd.edu,,,,D,,,,
+271,2022-05-05 12:11:42.189,jforonda@ucsd.edu,,,,A,,,,
+272,2022-05-05 12:11:44.164,ajagarlamudi@ucsd.edu,,,,B,,,,
+273,2022-05-05 12:11:44.619,tferrarimoreno@ucsd.edu,,,,C,,,,
+274,2022-05-05 12:11:47.644,juc010@ucsd.edu,,,,A,,,,
+275,2022-05-05 12:11:49.177,nthiyagarajan@ucsd.edu,,,,D,,,,
+276,2022-05-05 12:11:50.501,ndriggett@ucsd.edu,,,,D,,,,
+277,2022-05-05 12:11:52.209,cichiang@ucsd.edu,,,,B,,,,
+278,2022-05-05 12:11:52.615,cllian@ucsd.edu,,,,A,,,,
+279,2022-05-05 12:11:52.977,j3zhong@ucsd.edu,,,,A,,,,
+280,2022-05-05 12:11:53.692,mzlarsen@ucsd.edu,,,,B,,,,
+281,2022-05-05 12:11:53.768,msitu@ucsd.edu,,,,B,,,,
+282,2022-05-05 12:11:54.925,ewattier@ucsd.edu,,,,B,,,,
+283,2022-05-05 12:11:55.233,l3wang@ucsd.edu,,,,B,,,,
+284,2022-05-05 12:11:55.530,ssayson@ucsd.edu,,,,B,,,,
+285,2022-05-05 12:11:55.552,mhagstrum@ucsd.edu,,,,A,,,,
+286,2022-05-05 12:11:57.878,mlruiz@ucsd.edu,,,,B,,,,
+287,2022-05-05 12:11:58.407,capena@ucsd.edu,,,,A,,,,
+288,2022-05-05 12:11:58.871,ndong@ucsd.edu,,,,C,,,,
+289,2022-05-05 12:11:58.902,zwilliams@ucsd.edu,"A = 4,5,6
+B = 1,2,3","2, 6, 2, 1","[40, 50, 60], 60, Error",B,,,,
+290,2022-05-05 12:11:59.158,szbates@ucsd.edu,,,,D,,,,
+291,2022-05-05 12:12:00.094,gmendez@ucsd.edu,,,,C,,,,
+292,2022-05-05 12:12:01.026,b1lin@ucsd.edu,,,,C,,,,
+293,2022-05-05 12:12:02.625,tgrimes@ucsd.edu,,,,B,,,,
+294,2022-05-05 12:12:03.330,r2diaz@ucsd.edu,,,,A,,,,
+295,2022-05-05 12:12:03.761,cechi@ucsd.edu,,,,D,,,,
+296,2022-05-05 12:12:04.821,e5lim@ucsd.edu,,,,B,,,,
+297,2022-05-05 12:12:06.863,aycastil@ucsd.edu,,,,A,,,,
+298,2022-05-05 12:12:06.937,mit002@ucsd.edu,,,,B,,,,
+299,2022-05-05 12:12:07.136,dsemsem@ucsd.edu,,,,B,,,,
+300,2022-05-05 12:12:08.345,nneal@ucsd.edu,,,,A,,,,
+301,2022-05-05 12:12:09.072,rojiang@ucsd.edu,,,,A,,,,
+302,2022-05-05 12:12:09.511,eqi@ucsd.edu,,"2, 3, 2, 1","[10, 20, 30], 20, 90",A,,,,
+303,2022-05-05 12:12:09.766,hgolay@ucsd.edu,,,,A,,,,
+304,2022-05-05 12:12:11.708,ziyin@ucsd.edu,,,,B,,,,
+305,2022-05-05 12:12:12.772,mec005@ucsd.edu,,,"[40, 50, 60], 60, Error",C,,,,
+306,2022-05-05 12:12:14.522,j1kuo@ucsd.edu,,,,C,,,,
+307,2022-05-05 12:12:16.297,g1grimal@ucsd.edu,,,,B,,,,
+308,2022-05-05 12:12:17.394,lcruzpaz@ucsd.edu,,,,B,,,,
+309,2022-05-05 12:12:22.124,zbai@ucsd.edu,,,,B,,,,
+310,2022-05-05 12:12:25.127,dtorresm@ucsd.edu,,,,B,,,,
+311,2022-05-05 12:12:25.348,snunga@ucsd.edu,,,,B,,,,
+312,2022-05-05 12:12:28.525,dmontoto@ucsd.edu,,,,B,,,,
+313,2022-05-05 12:12:28.968,m5lee@ucsd.edu,,,,D,,,,
+314,2022-05-05 12:12:30.206,jtm002@ucsd.edu,,,,A,,,,
+315,2022-05-05 12:12:31.559,adw005@ucsd.edu,,,,B,,,,
+316,2022-05-05 12:12:32.561,tristanmcoop@gmail.com,,,,B,,,,
+317,2022-05-05 12:13:07.289,mil049@ucsd.edu,,,,B,,,,
+318,2022-05-05 12:13:11.119,afaisal@ucsd.edu,,,"[40, 50, 60], 60, 90",B,"for i in range(len(day))
+total = 0
+for d in range(len(wdata)
+avg= total/len(wdata[r])
+print(total)",i learned about 2d lists. We also learned how to nest for loops.,I'm still kind of confused about the nested for loops,The first half was fine. Last half was difficult.
+319,2022-05-05 12:13:21.800,ronoy@ucsd.edu,,,,D,,,,
+320,2022-05-05 12:14:36.630,jom009@ucsd.edu,,,,B,,,,
+321,2022-05-05 12:14:52.475,iandrews@ucsd.edu,,,,B,,,,
+322,2022-05-05 12:15:01.326,c2ding@ucsd.edu,,"2, 6, 2, 1",,B,,,,
+323,2022-05-05 12:16:11.768,g4rodriguez@ucsd.edu,,,,,i dont know :( very confused,"I learned that you can make a list of lists and produce a specific value from those lists. For example, you can find a specific temperature from a specific city when you have multiple cities and multiple temperatures. ",Nested for loops are still confusing for me.,I thought the midterm went far better than i expected. 
+324,2022-05-05 12:16:12.256,g1grimal@ucsd.edu,,,,,,I learned about variable updates in nested for loops. ,I am still confused about how to determine what will be printed,The midterm exam seemed doable/ not too rigorous
+325,2022-05-05 12:17:02.264,ftaraporevala@ucsd.edu,,,,,"def get_a_days_weather(list, day):
+    weather = []
+    for i in range(len(list)):
+        weather = weather.append(list[i][day])
+    return weather",you can access an item in a 2-d list or list of lists by using two brackets. you can also access all items in these list using nested for loops.,I found the use of the assert statement most confusing,"It was very easy, but a lot of busy work"
+326,2022-05-05 12:17:24.538,pfuentes@ucsd.edu,,,,,"def get_a_days_weather(wdata, day): 
+        for r in range(data):
+              for j in range(data):
+                    print(weather)
+         Return data ",,,
+327,2022-05-05 12:17:45.751,mschaar@ucsd.edu,,,,,"Still confused with this topic but
+for r in range(len(data)):
+    for c in range(len(data[i]))
+        #confused on this part 
+",I learned about nested for loops. They can be useful with 2d lists.,Im confused on nested for loops.,It was good. 
+328,2022-05-05 12:18:15.860,ziz047@ucsd.edu,The test case that will fail the program is 2?,"2, 3, 2, 1","[10, 20, 30], 20, 90",A,,,,
+329,2022-05-05 12:18:57.038,ndriggett@ucsd.edu,,,,,,The uses of 2d lists and how to use nested for loops in order to work with them.,,"It felt like a good length, and a good challenge."
+330,2022-05-05 12:19:18.476,pfuentes@ucsd.edu,,,,,,I thought that there are more complex ways of looking at data in pyhton,Nested loops are confusing as well as 2d lists,
+331,2022-05-05 12:20:03.136,aramoson@ucsd.edu,,,,,"cities= ['Chennai', 'Madison', 'San Diego']
+data= [[23,24,25,27,26],[0,-1,1,-3,-2], [9,10,11,12,11]]
+
+def get_a_days_weather(data, day):","I learned about neste loops, and how they can be used to target specific index's of lists of lists.",nested loop functions are still confusing.,"The way we had to format the test cases was really confusing and hard for me, I had code that worked perfectly but the way I formatted the test cases wouldn't let me pass."
+332,2022-05-05 12:20:49.210,ejs001@ucsd.edu,,,,,,One key idea I learned in class is using nested for loops. I then learned how this concept works and how it can be applied to lists. ,I have no pending questions ,The midterm was very fair which made me feel confident in my answer choices. I would like the same format for the final too. 
+333,2022-05-05 12:21:18.015,tferrarimoreno@ucsd.edu,,,,,,I learned about nested loops. Also learned about 2d list and how to access each index. ,I just have to wrap my head around how to use the lists in the nested loops. ,The last coding challenge was supper difficult. 
+334,2022-05-05 12:21:21.314,aycastil@ucsd.edu,,,,,,I learned about the end= function. I learned how it helps organize elements when they get printed.,I find it confusing on how I can use nested for loops and 2d lists together.,The midterm was easy but difficult for the final coding challenge.
+335,2022-05-05 12:21:32.614,vrchauhan@ucsd.edu,,,,,,I learned how to debug. This involves creating Test Cases to see if your code is correct a can is running without any bugs,I am still confused on how to write Test Cases. ,I think Midterm was good. 
+336,2022-05-05 12:21:39.747,mil049@ucsd.edu,,,,,,Today I learned about nested for loops. I also learned about how it with lists.,I found the variable updates most confusing.,
+337,2022-05-05 12:21:50.104,dsemsem@ucsd.edu,,,,,"create a for loop, likely with a nested for loop but I am not sure how to go about this...",Nested for loops are loops that are indented/within an outside for loop. Indentation is very important with these different for loops.,It was confusing to see a whole list act as a single item in a bigger list. I think this is mainly due to the fact that I didn't think you were able to see it as such before.,"The midterm was actually not bad and I was unnecessarily overstressing about it. I love how it was basically a take-home midterm in which you managed your own time to complete the code challenges, because I don't know how I could possibly due all of this in an allotted time."
+338,2022-05-05 12:22:11.059,mahmadi@ucsd.edu,,,,,not sure,,,
+339,2022-05-05 12:22:18.107,zwilliams@ucsd.edu,"A = 4,5,6
+B = 1,2,3","2, 6, 2, 1","[40, 50, 60], 60, Error",B,,How to use nested loops. And how to spot bugs and debug them,,The midterm went well and it took a good amount of time and effort in order to complete it
+340,2022-05-05 12:22:34.703,tristanmcoop@gmail.com,,,,,,I learned what a 2d list is. I got clarification on how nested for loops work and why we use range(len()) in for loops.,"I'm still confused on why range(len()) is used so often. When I write code, I find I can do the assignments without using it as much as shown in lecture, on stepik, etc. Am I doing something wrong?","I had trouble figuring out what was expected of us for coding challenge #1 because it was extremely easy compared to the programming assignments. The code was essentially already given to us. Additionally, showing all of our test cases like that is somewhat of a new thing."
+341,2022-05-05 12:22:46.039,juz001@ucsd.edu,,,,,,I learned about debugging,I found assessing second list using nested for loop to be the most confusing part about today's lecture,One thing good about the midterm exam is that every type of question are separated.
+342,2022-05-05 12:22:55.529,l3wang@ucsd.edu,,,,,"lst=[]
+for i in range(len(wdata)):
+    for d in range(wdata[i]):
+        if wdata[i][d]=wdata[i][day]:
+            lst.append(wdata[i][d])
+return lst",I learn about list and list. And how to use end=.,,
+343,2022-05-05 12:22:55.659,szbates@ucsd.ed,,,,,:(,r stands for row and c stands for column,I am confused about all of it :(( but especially 2d lists I think??,The midterm was good! I really liked the setup and resource options
+344,2022-05-05 12:22:57.129,nneal@ucsd.edu,,,,,,"Nested loops are useful for dealing with data within data. Now we can write programs that loop within a loop, covering more data.","I find it a little confusing to figure out what order things get printed in the loop for example, I didn't get how j and i was ordered and printed.",I think the midterm was good! It was a good coverage of the things we've learned without being overwhelming/just memorizing stuff (and actually apply what we've learned).
+345,2022-05-05 12:22:59.237,l6tong@ucsd.edu,,,,,,how to write 2d list,,
+346,2022-05-05 12:23:00.249,ajagarlamudi@ucsd.edu,,,,,,I learned about 2d lists. I also learned about nested for loops.,,I think the midterm exam was good.
+347,2022-05-05 12:23:02.287,sgomezmartinez@ucsd.edu,,,,,,One key idea that I learned today was that nested for loops can reiterate through lists in lists. There was a lot of nesting today.,Today the most confusing thing was keeping track of what the for loops do.,I thought the midterm was good. I was just confused on reiterating. 
+348,2022-05-05 12:23:12.522,zbai@ucsd.edu,,,,,"for i in range(len(data)):
+    total = 0
+    for c in range(len(data[i])):
+        total += data[i][c]
+    if day > len(data):
+        return ""day "" + day + "" is invalid!""
+    return total
+
+",,,
+349,2022-05-05 12:23:19.049,j3zhong@ucsd.edu,,,,,,"one key idea that i learned is that we can store lists within lists for the purpose of storing 2d lists in our program. this also means that when referencing a specific element within a list in the list of lists, we need to use 2 indexes ex: lst_of_lsts[2][3]",none,none
+350,2022-05-05 12:23:19.917,cichiang@ucsd.edu,,,,,,One key idea that I learned today is the usage of nested for loops.,I'm still a little confused about implementing nested for loops,"I liked the 72 hour time frame! I think coding can be pretty overwhelming when you get stuck on a bug or question, so having multiple days to work on it helped to refresh my mind and work more clearly and figure things out :-)"
+351,2022-05-05 12:23:25.681,tgrimes@ucsd.edu,,,,,,nested for loops will be useful in coding applications,"in that test case example we did in the beginning of class I was thinkning an altervative test case could have been repeated numbers for exmaple:
+lstA: [2,3,3]
+lstB: [2,4,5]","I think it was fair and reasonable, it seemed a little long but we were given sufficient time to do it however doing it in one sitting in under 3 hours could have been challenging."
+352,2022-05-05 12:23:33.979,s2qi@ucsd.edu,,,,,"data = [[23, 24, 25, 27, 26],
+        [0, -1, 1, -3, -2],
+        [9, 10, 11, 12, 11]]
+
+def get_a_days_weather(data, day):
+    new_lst =[]
+    for r in range(len(data)):
+         for c in range(len(data[r])):
+                new_lst.apend(data[r][c])
+     return new_lst
+","I learned how to combine 2rd list with for loops. Also, I know how to set up 2rd lst.",No question,It was hard. Can we have less short answer questions in our final exam?
+353,2022-05-05 12:23:37.858,ndong@ucsd.edu,,,,,,"I learned the importance of indentations and depending on where it is indented, there is an order how it prints. I also learned about 2d lists and remembering the indexes there as well.",I am still confused about the last part of 2d lists using nested for loops ,
+354,2022-05-05 12:23:44.577,mit002@ucsd.edu,,,,,,"A key idea that I learned in class today is that you can make a 2d list where each list of list follows the same index method that we previously learned. In regards to testing, it is important to use print statements to check what is wrong with your code and use a multitude of test cases to ensure that your code is running smoothly.",Something I found confusing was the 2d list and updating the list. ,I thought the midterm exam was good! I really liked that it mimicked all the homework problems that we did. 
+355,2022-05-05 12:24:02.813,mnmorales@ucsd.edu,,,,,,One key idea I learned in class today is how nested for loops work. Its interesting to see how the placement of return/print affects the output. ,,There were some parts in the coding section where I felt the instructions could have been more clear. 
+356,2022-05-05 12:24:10.186,ahipol@ucsd.edu,,,,,,Its not just data types that can be stored in lists. 2D lists are when lists are stored within lists.,Nested loops are still confusing to me,
+357,2022-05-05 12:24:10.888,jdaguio@ucsd.edu,,,,,,I learned how to identify the outputs of 2D lists. ,"I found nested ifs to be a bit confusing, so I think I need more practice on those.",I thought the midterm exam was fair! I liked the structure of the exam
+358,2022-05-05 12:24:37.969,ronoy@ucsd.edu,,,,,not sure,,,
+359,2022-05-05 12:24:37.876,x2su@ucsd.edu,,,,,,update variable. List,,I think it is fair
+360,2022-05-05 12:24:38.881,zpires@ucsd.edu,I don't know ,"2, 3, 2, 1","[40, 50, 60], 60, Error",C,Didn't cover in class,One key idea I learned is that for loops can exist within other for loops. This essentially just causes a list within a list and more attention to detail is necessary.,"I think the concept of nested for loops is still a bit unclear, but practice with them should help with any confusion.",I believe the midterm was fair and resembled what we covered in class.
+361,2022-05-05 12:24:42.266,a5flores@ucsd.edu,"[1, 2, 3]","2, 3, 2, 1","[10, 20, 30], 20, 90",C,,Figuring out what will be printed. Having to recognize errors.,How many times a phase will be printed.,
+362,2022-05-05 12:24:44.775,mzlarsen@ucsd.edu,,,,,,"I learned about nested for loops. Also, placement oof initializing a variable is important",I found nested for loops a little confusing,"I liked the midterm, it was easier than the PAs which is good! "
+363,2022-05-05 12:24:45.309,htobias@ucsd.edu,,,,,"def get_a_days_weather(wdata, day):
+    lst = []
+    if day >= 0 and day <= 4:
+        for i in range(len(wdata)):
+            lst.append(wdata[i][day])
+        return lst
+    else:
+        return ""day "" + str(day) + "" is invalid!""","I learned about nested 2d lists. In the list lst = [[1,2,3], [4,5,6]], you would access 4 with lst[1][0].",,it went well.
+364,2022-05-05 12:24:58.187,c2ding@ucsd.edu,,,,,Don't need to answer,"I learned the nested for loops. Besides, I learned testing and debugging.",Nothing confused so far.,Midterm is good. Just one thing is that I didn't go the answer for my clarification question.
+365,2022-05-05 12:25:03.995,nthiyagarajan@ucsd.edu,,,,,,One key idea I learned about was nested for loops. These nested loops allow the inner loop to run as many times as the outer loop.,I found the variable updates in nested for loops the most confusing because there are a lot of different parts that you need to understand.,I though the midterm was pretty fair and I liked that it was open ended so we could use anything we learned to solve the coding problems.
+366,2022-05-05 12:25:28.530,mahmadi@ucsd.edu,,,,,,we learned how to debug a code. Accessing 2d Lists using Nested For Loops,Variable Updates in Nested For Loops,I wish there was no Video or it was shorter. As there were many technical difficulties to upload such a large file. 
+367,2022-05-05 12:25:31.770,rojiang@ucsd.edu,,,,,,use print statement to help debug,still bad logic on nested loop,"I felt not bad, but for last coding challenge I spent more time on it"
+368,2022-05-05 12:25:34.543,k5mendez@ucsd.edu,,,,,,"One key idea I learned in today's class was that it is important to test your code. By testing, you should have several test cases that are tested to see if your code is actually working.",I found debugging a bit confusing today.,I thought the midterm was easy and fair for what we have learned so far.
+369,2022-05-05 12:25:41.253,iandrews@ucsd.edu,,,,,I am not sure. ,"One key idea I learned in today's class is the idea of nested for loops, 2d lists, and how to use nested for loops to access elements in 2d lists. ","I do not have any more questions at this time. One thing I found a little bit confusing was nested loops and iterating through i and j, but I think I can figure it out. ","The Midterm was pretty good. At first, the test cases idea was a little confusing when I was trying to understand it, but I think it was a good idea in theory. I think in the future, I would try and have a debugging section in the midterm. So, instead of having the midterm week 5, push the midterm back to week 6 or 7 and incorporate the debugging element. It just feels like debugging is something that belongs on the midterm and not after it. You could potentially create a debugging section like the True/False and MCQs. "
+370,2022-05-05 12:26:21.157,tsimmonds@ucsd.edu,,,,,"[0 , 9, -1, 24, 23]",the difference between global and local scope. Local scope variables are erased after a function runs. ,discussing asserts,"The midterm was good, I was content with it."
+371,2022-05-05 12:26:46.431,msitu@ucsd.edu,,,,,,"You can make lists of lists and indexing will treat each list as an item within a larger list as well. So if we had [lst1,lst2,lst3], the index 0 of the entire list would be lst1.",The nestled for loops are still very confusing.,The midterm was very good! I have no suggestions.
+372,2022-05-05 12:26:47.355,hgolay@ucsd.edu,,,,,,One key idea I learned from todays lecture was how to properly run and understand nested for loops. I also learned a lot more about the range and index functions from the nested loops excerises. Thank you!,"The most confusing part of today's lecture is conceptualizing the code and debugging. I can't ever catch the errors with my code at first glance, so it is difficult to find where my errors are, but the debugging method should be helpful in the future.","The midterm exam format was perfect! It wasn't hard enough to be impossible, but it also wasn't easy enough to not use knowledge and truly think about the code. I also really like the video and questions aspect of the exam, it was vital to help conceptualize our coding!"
+373,2022-05-05 12:26:57.761,gramirezmaldonado@ucsd.edu,,,,,"I'm not sure, i need to review this lecture. ","I learned a few different things in today's lecture, but i would not say that I grasped them fully. ",The whole lecture was a bit confusing for me. I will have to rewatch at a slower pace to fully grasp. ,No i thought it was good.
+374,2022-05-05 12:27:02.815,e5lim@ucsd.edu,,,,,,One key idea I learned was that you can find the value of something inside a list in a list of lists through writing 2 brackets by each other. I thought that you needed to put the first brackets in parentheses - like (data[0])[1] - but you don't. You just need to have the two brackets.,I am still a bit confused about assert statements.,"I liked the midterm, its contents weren't too difficult but also not too easy. It also covered most of what we learned from the quarter."
+375,2022-05-05 12:27:17.064,ronoy@ucsd.edu,,,,,,"i got to learn a bit more on nested loops. though we went over it in class, i still need to understand it more. ",the basic concept of nested loops,i liked the midterm layout where there were multiple parts. it wasn't hard to navigate
+376,2022-05-05 12:27:25.370,jforonda@ucsd.edu,,,,,,"2 loops together, a loop nested within a loop is called a nested for loop. 2d array is used for nested loops. The first loop iterates through the row number and the second loop runs through the elements. ",,"As someone who is pretty intimidated by coding, I overall felt pretty good about the midterm. It was pretty straightforward and nothing came as a surprise. Of course I struggled a bit, but the resources that were allowed were helpful and the FAQ was also helpful."
+377,2022-05-05 12:27:27.661,gmendez@ucsd.edu,,,,,,I learned things like nesting for loops. It doesn’t look too complicated to be honest.,,The midterm was alright. I did struggle a little for the second coding challenge. But i think I did pretty good.
+378,2022-05-05 12:27:40.205,ammorrison@ucsd.edu,,,,,,I learned about 2d lists. I also learned about debugging!,I am still slightly confused about debugging. ,The midterm exam was very stressful. I am not sure how I did which makes me nervous. 
+379,2022-05-05 12:28:17.592,cllian@ucsd.edu,,,,,,How Python goes over iterations in for loops within for loops.,"I don't necessarily have any questions, but sometimes it is confusing to find the proper expression when calling on particular lists or list items for for loops within for loops.","I thought that it was a moderate level of difficulty, so overall it was okay. "
+380,2022-05-05 12:28:54.657,aagamataalmeida@ucsd.edu,,,,,,I learned about lists in nested for loops. As well as variables updates in nested for loops.,Not for now,The midterm was good 
+381,2022-05-05 12:29:21.862,vyeh@ucsd.edu,,,,,(didn't have time to do this one in lecture),I learned about nested for loops and 2D lists. It gave me a better visualization on how things are printed using these methods. ,I think the review section on testing and debugging was confusing because there's a lot of things to consider when checking for errors and sometimes it's hard for me to determine where to look.,"I think the conceptual questions and short answer ones were good for me, but my greatest concern was the coding parts because I wasn't able to solve them (I only managed to solve one of them but there was still a minor error in it) and I think that will cost me a lot of points :("
+382,2022-05-05 12:30:27.563,m5lee@ucsd.edu,,,,,,"I learned about nested for loops and how you can use them to return different statements or phrases a certain number of times and in a certain order outside of just x number of times through a single for loop.  With nested for loops, I also learned what to set each loop to iterate over.","I'm still a little confused on how the 2d lists works in terms of their outputs.  I don't really have a specific question about it, it's just taking a while for me to understand that concept fully.",I thought that the midterm was fair and reasonable in terms of format and material and I would be fine with the final following those same lines. 
+383,2022-05-05 12:30:49.530,ckeay@ucsd.edu,,,,,,I learned more about debugging and strategically placing print() to help with debugging. I also gained a better understanding of nested for loops. ,I'm having trouble tracking the updated variables through the code. I will rewatch this lecture for clarification. ,"I thought the midterm was very fair and reasonable. It did take around 3 hours complete, but I didn't run into any bugs or issues the way I have previously on PAs. "
+384,2022-05-05 12:31:12.412,mmao@ucsd.edu,,,,,,One key idea I learned in today's class is nested for loops. Nested for loops have outer loops and inner loos. The inner loop will run as many times as the outer loop runs. ,What I found most confusing about today's lecture is how to access 2d lists using nested for loops. ,I think that it was really good that the midterm allowed us to work on it throughout the weekend as it allowed me to digest the questions. I also think the setup of the midterm instructions and test cases were pretty okay to understand.
+385,2022-05-05 12:34:48.895,mljimenez@ucsd.edu,,,,,,"One key idea I learned was nested loops, I learned how to have two loops used together to produce a statement repeated multiple times. I also learned how to put lists in lists. ","Todays lecture was pretty clear to me, and I did not find it confusing, it was explained well and I understood when I made a mistake. ","The midterm was easier than I thought, although I would have hoped the test cases would have been more explained as I did not understand what it was saying I had to do. Overall easy midterm that I feel good about, and was able to finish with good time. "
+386,2022-05-05 12:35:53.246,r2diaz@ucsd.edu,,,,,,One thing I learned was debugging more in depth. I also learned about how to utilize asserts to help me with that.  ,I don't really understand the 2d lists. ,I think it was really nice actually! I don't feel like it was impossible but still tested me on what ive learned so far. 
+387,2022-05-05 12:37:53.726,nbeam@ucsd.edu,"lstA=[1,2,3] lstB=[2,4,6]","1, 6, 1, 0","[40, 50, 60], 60, Error",B,,we learned more about testing. We also learned about 2d lists and nested for loops,testing is a little confusing. as well as following the logic behind nested for loops,
+388,2022-05-05 12:59:35.760,b1lin@ucsd.edu,,,,,"return [wdata[0][day],wdata[1][day],wdata[2][day]","In today's class we reviewed writing test cases using asserts. Moreover, we also learned nested for loop and 2d lists.",I'm still a little confused about the the use of asserts and design of test cases. ,It's better than PAs. 
+389,2022-05-05 13:02:23.076,juc010@ucsd.edu,,,,,,One key thing I learned in class today was how to use nested loops. They're a bit confusing but I think I'll understand it with more practice.,"I'm just a bit uneasy with all the new topics we've learned so far, but I think I just need more practice with them. ",I think the midterm exam was a perfect level of difficulty. It was easy but also a bit challenging. 
+390,2022-05-05 13:10:55.551,lcruzpaz@ucsd.edu,,,,,,Today's lecture brought 2 main ideas that are nested for loops and 2d lists. With nested loops you can have 2 loops within each other and that can further reduce the amount of code and make things simpler.,Today's most confusing part about lecture was the for loops class example because I couldn't understand why we got 6 prints instead of 3.,I think it was straightforward and if you studied and did the work it wouldn't have been too much of a challenge.
+391,2022-05-05 13:16:11.770,adw005@ucsd.edu,,,,,,"Nothing completely new, just refresher on nested loops, and the exact syntax for 2D lists, as I have learned about nested loops before, and have knowledge on 2D arrays.",,
+392,2022-05-05 14:13:56.933,d5pham@ucsd.edu,"[4,5,6] [1,2,3]","2, 3, 2, 1","[40, 50, 60], 60, Error",B,,Order in which nested for loops activate,,
+393,2022-05-05 14:22:12.476,kygu@ucsd.edu,print,"2, 6, 2, 1","[10, 20, 30], 20, 90",D,"for i in range(len(data)):
+    for j in range(len(data[i]))):
+         print(data",nested for loop,It is kind of hard to understand the logic for the loop,it was not that hard but I am not really sure if I explain enough for the frq
+394,2022-05-05 14:23:28.377,ziyin@ucsd.edu,,,,,,how to debug and test the code; how to connect the for loop and list.,connecting for loop and list,i think there are different formats are very good so that i can check what's my strength and weakness for coding.
+395,2022-05-05 14:36:50.557,c1chi@ucsd.edu,,,,,,I learnt about debugging and testing. I also learnt about variable updates in nested for loops ,No questions ,Good design of questions 
+396,2022-05-05 14:51:14.352,dherrerameza@ucsd.edu,"lstA = [4, 5, 6,]
+lstB = [1, 2, 3 ]
+",,"20, 20, 90",A,,,,
+397,2022-05-05 15:06:05.282,c1chi@ucsd.edu,Testing demo ,"2, 6, 2, 1",,,,,,
+398,2022-05-05 15:17:22.827,c1chi@ucsd.edu,,"2, 6, 2, 1","[40, 50, 60], 60, Error",,,,,
+399,2022-05-05 15:32:15.131,tristanmcoop@gmail.com,,,,,,,,
+400,2022-05-05 15:32:58.054,ewattier@ucsd.edu,,,,,,How to use test cases within debugging a code. Along with nested for loops within function. ,"2d list seem hard to grasp given the examples we've done in class, will these always contain such a large potion of user input or are they long processes in general?",
+401,2022-05-05 16:17:02.004,sgaribayzaguilan@ucsd.edu,,,,,,,,The midterm was good! Easier than the PAs so please don't change that for the final 
+402,2022-05-05 16:49:23.772,h3cai@ucsd.edu,,"2, 6, 2, 1","[40, 50, 60], 60, Error",B,,"i learned that Assert- If the actual output == expected output
+Debugging- updating our code to fix bugs","the material in the beginning of lecture was too fast, i had trouble understanding it",
+403,2022-05-05 16:53:56.209,k9zhou@ucsd.edu,,,"[40, 50, 60], 60, Error",,,,none.,it was easier than those PAs. you can make it harder.
+404,2022-05-05 17:03:21.253,snunga@ucsd.edu,,,,,,One key idea I learned in today's class is that an outer for loop is just a regular for loop. The inner and outer for loops are just repeatedly executing the code inside.,When are nested for loops necessary?,It was a fair exam–a mix of easy and tricky questions. I liked how there were different question formats. I also liked how we were asked to explain our code over video (like with the PAs) because that really tests and enhances our understanding. It does seem like it would be very easy to lose points on many of the questions. I wish the rubrics for each question were stated explicitly. Some instructions seem intentionally a bit vague.
+405,2022-05-05 19:24:09.513,rlopezmo@ucsd.edu,"List A [1,2,3] 
+List B [3,2,1]","2, 6, 2, 1","[40, 50, 60], 60, Error",B,"data = [[23, 24, 25, 27, 26], [0, -1, 1, -3, -2], [9, 10, 11, 12, 11]]
+def get_a_days_weather(data, day):
+    if day < 0:
+        print('day ' + str(day) + ' is invalid!')
+    else:
+        weather = []
+        weather.append(data[0][day])
+        weather.append(data[1][day])
+        weather.append(data[2][day])
+        print(weather)",The nested loops are awesome. it allows for much more complicated loops.,,It was great! 
+406,2022-05-05 19:25:32.833,zhy011@ucsd.edu,,"2, 6, 2, 1","[10, 20, 30], 20, 90",B,Idk,,,
+407,2022-05-05 21:36:53.293,s3gill@ucsd.edu,The test case that will fail is the loop. ,"2, 3, 2, 1","20, 20, 90",A,"(what’s,day): 
+   for data in get_a_days_weather 
+ return data ",How to write variable updates in nested loops. Also about how nested loops work. ,I am confused about variables in loops.,I think that this class is going well so far. 
+408,2022-05-05 23:51:41.385,jom009@ucsd.edu,,,,,,A key idea I learned was about 2d lists which is fairly new concept within a kinda known concept. But I had a intro in to getting to understand how to reference access these 2d lists in a program.,I’m still a bit lost on the point and doing of test cases.,I have none.
+409,2022-05-06 10:14:15.293,mglovins@ucsd.edu,,,,,,nested for loops have an inner loop and an outer loop. The inner loop is entered after the first iteration of the outer loop then you stay in the inner loop until it ends. ,2D lists and iterating through each piece of the list in a big list. ,"I liked being able to work on it for a bit, then leave and come back to it when I got too frustrated. "

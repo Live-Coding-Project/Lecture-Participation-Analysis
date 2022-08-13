@@ -1,0 +1,1851 @@
+,Timestamp,Email Address,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,What is one key idea that you learned in today's class? (2- 3 sentences),What questions do you still have about today's lecture? OR What did you find the most confusing about today's lecture?,What is your feedback on the midterm review? What was helpful? What suggestions (if any) do you have to make it better? We could use your suggestions for the final review.
+0,2022-04-28 15:39:51.240,rdwong@ucsd.edu,False,,,,,,,,,,,,,,,,,
+1,2022-04-28 15:40:38.514,h9johnson@ucsd.edu,False,,,,,,,,,,,,,,,,,
+2,2022-04-28 15:40:39.240,xuz027@ucsd.edu,False,,,,,,,,,,,,,,,,,
+3,2022-04-28 15:40:39.397,spaull@ucsd.edu,False,,,,,,,,,,,,,,,,,
+4,2022-04-28 15:40:43.118,chartman@ucsd.edu,True,,,,,,,,,,,,,,,,,
+5,2022-04-28 15:40:47.630,djlakhani@ucsd.edu,False,float,"2 , 1","""2"" * ""3"", ""2"" + 3",20.0,,,,0.0,,"lst[1], lst[-2]",,,,,,,
+6,2022-04-28 15:40:54.640,lduga@ucsd.edu,True,,,,,,,,,,,,,,,,,
+7,2022-04-28 15:40:56.510,hchu@ucsd.edu,False,,,,,,,,,,,,,,,,,
+8,2022-04-28 15:40:57.531,myk001@ucsd.edu,False,,,,,,,,,,,,,,,,,
+9,2022-04-28 15:40:58.620,ksleung@ucsd.edu,True,int,,,,,,,,,,,,,,,,
+10,2022-04-28 15:41:02.359,mbannai@ucsd.edu,False,,,,,,,,,,,,,,,,,
+11,2022-04-28 15:41:06.350,wha@ucsd.edu,False,,,,,,,,,,,,,,,,,
+12,2022-04-28 15:41:08.723,chuffman@ucsd.edu,False,,,,,,,,,,,,,,,,,
+13,2022-04-28 15:41:09.138,mhle@ucsd.edu,False,,,,,,,,,,,,,,,,,
+14,2022-04-28 15:41:10.034,kpompa@ucsd.edu,False,,,,,,,,,,,,,,,,,
+15,2022-04-28 15:41:11.043,liz007@ucsd.edu,False,,,,,,,,,,,,,,,,,
+16,2022-04-28 15:41:15.783,jpenaloz@ucsd.edu,False,,,,,,,,,,,,,,,,,
+17,2022-04-28 15:41:19.748,mareece@ucsd.edu,False,,,,,,,,,,,,,,,,,
+18,2022-04-28 15:41:20.795,yif011@ucsd.edu,False,,,,,,,,,,,,,,,,,
+19,2022-04-28 15:41:22.491,ajett@ucsd.edu,False,,,,,,,,,,,,,,,,,
+20,2022-04-28 15:41:22.923,kmochizuki@ucsd.edu,False,,,,,,,,,,,,,,,,,
+21,2022-04-28 15:41:24.508,lduga@ucsd.edu,False,,,,,,,,,,,,,,,,,
+22,2022-04-28 15:41:27.357,erguerrero@ucsd.edu,False,,,,,,,,,,,,,,,,,
+23,2022-04-28 15:41:31.556,srachapudi@ucsd.edu,True,,,,,,,,,,,,,,,,,
+24,2022-04-28 15:41:34.686,melai@ucsd.edu,False,,,,,,,,,,,,,,,,,
+25,2022-04-28 15:41:41.312,yuc096@ucsd.edu,True,,,,,,,,,,,,,,,,,
+26,2022-04-28 15:41:42.000,e1lee@ucsd.edu,False,,,,,,,,,,,,,,,,,
+27,2022-04-28 15:41:42.951,erko@ucsd.edu,False,,,,,,,,,,,,,,,,,
+28,2022-04-28 15:41:44.028,voswal@ucsd.edu,True,,,,,,,,,,,,,,,,,
+29,2022-04-28 15:41:44.095,kel015@ucsd.edu,False,,,,,,,,,,,,,,,,,
+30,2022-04-28 15:41:44.577,erguerrero@ucsd.edu,False,,,,,,,,,,,,,,,,,
+31,2022-04-28 15:41:45.288,dcui@ucsd.edu,True,,,,,,,,,,,,,,,,,
+32,2022-04-28 15:41:49.517,weh009@ucsd.edu,False,,,,,,,,,,,,,,,,,
+33,2022-04-28 15:41:55.926,rmerino@ucsd.edu,False,,,,,,,,,,,,,,,,,
+34,2022-04-28 15:41:57.576,tnduong@ucsd.edu,True,,,,,,,,,,,,,,,,,
+35,2022-04-28 15:41:57.650,orusso@ucsd.edu,False,,,,,,,,,,,,,,,,,
+36,2022-04-28 15:41:58.142,xw001@ucsd.edu,False,,,,,,,,,,,,,,,,,
+37,2022-04-28 15:41:58.254,ijjones@ucsd.edu,False,float,"2 , 1","""2"" * ""3"", ""2"" + 3",15.0,. If you were to put number 42 an error will occur since you are inputing a int type when its asking for a string type.,"2 type conversions. You are converting a string into a float (1), then a float to an int (2). ","def find_max(x, y, z):
+    if x > y and x > z:
+        return x
+    elif y > x and y > z:
+        return y
+    else:
+        return z",,,,,,,,,,
+38,2022-04-28 15:42:00.116,ktl001@ucsd.edu,False,,,,,,,,,,,,,,,,,
+39,2022-04-28 15:42:02.363,ejreyes@ucsd.edu,False,float,"2 , 1",,,,,,,,,,,,,,,
+40,2022-04-28 15:42:09.567,anslyker@ucsd.edu,False,,,,,,,,,,,,,,,,,
+41,2022-04-28 15:42:10.657,kmadriaga@ucsd.edu,False,,,,,,,,,,,,,,,,,
+42,2022-04-28 15:42:17.985,yiw080@ucsd.edu,False,,,,,,,,,,,,,,,,,
+43,2022-04-28 15:42:44.426,ksleung@ucsd.edu,True,int,"2 , 2","""2"" + ""3"", ""2"" + 3",20.0,,,,,,,,,,,,,
+44,2022-04-28 15:44:09.839,aml015@ucsd.edu,True,,,,,,,,,,,,,,,,,
+45,2022-04-28 15:45:20.606,xw001@ucsd.edu,True,,,,,,,,,,,,,,,,,
+46,2022-04-28 15:46:13.668,dcui@ucsd.edu,,int,,,,,,,,,,,,,,,,
+47,2022-04-28 15:46:14.392,chartman@ucsd.edu,,int,,,,,,,,,,,,,,,,
+48,2022-04-28 15:46:14.977,djlakhani@ucsd.edu,,float,,,,,,,,,,,,,,,,
+49,2022-04-28 15:46:15.068,erguerrero@ucsd.edu,,int,,,,,,,,,,,,,,,,
+50,2022-04-28 15:46:18.429,mbannai@ucsd.edu,True,float,,,,,,,,,,,,,,,,
+51,2022-04-28 15:46:18.969,lduga@ucsd.edu,False,float,"2 , 1","""2"" * ""3"", ""2"" + 3",20.0,num * 2 = 4242,,,,,,,,,,,,
+52,2022-04-28 15:46:19.736,mareece@ucsd.edu,,float,,,,,,,,,,,,,,,,
+53,2022-04-28 15:46:19.963,orusso@ucsd.edu,True,int,,,,,,,,,,,,,,,,
+54,2022-04-28 15:46:19.978,kel015@ucsd.edu,,int,,,,,,,,,,,,,,,,
+55,2022-04-28 15:46:21.299,voswal@ucsd.edu,,float,,,,,,,,,,,,,,,,
+56,2022-04-28 15:46:21.554,mhle@ucsd.edu,True,float,,,,,,,,,,,,,,,,
+57,2022-04-28 15:46:21.746,xig001@ucsd.edu,True,int,,,,,,,,,,,,,,,,
+58,2022-04-28 15:46:22.105,wha@ucsd.edu,True,int,,,,,,,,,,,,,,,,
+59,2022-04-28 15:46:22.573,spaull@ucsd.edu,True,float,,,,,,,,,,,,,,,,
+60,2022-04-28 15:46:23.621,yiw080@ucsd.edu,,int,,,,,,,,,,,,,,,,
+61,2022-04-28 15:46:24.251,anslyker@ucsd.edu,False,int,,,,,,,,,,,,,,,,
+62,2022-04-28 15:46:26.803,yuc096@ucsd.edu,,int,,,,,,,,,,,,,,,,
+63,2022-04-28 15:46:27.110,kpompa@ucsd.edu,True,float,,,,,,,,,,,,,,,,
+64,2022-04-28 15:46:27.422,erko@ucsd.edu,,float,,,,,,,,,,,,,,,,
+65,2022-04-28 15:46:29.234,glepage@ucsd.edu,None of the above,float,,,,,,,,,,,,,,,,
+66,2022-04-28 15:46:32.973,kmochizuki@ucsd.edu,,int,,,,,,,,,,,,,,,,
+67,2022-04-28 15:46:34.579,ajett@ucsd.edu,True,float,,,,,,,,,,,,,,,,
+68,2022-04-28 15:46:35.141,srachapudi@ucsd.edu,,int,,,,,,,,,,,,,,,,
+69,2022-04-28 15:46:37.372,xw001@ucsd.edu,True,float,,,,,,,,,,,,,,,,
+70,2022-04-28 15:46:38.597,ktl001@ucsd.edu,,float,,,,,,,,,,,,,,,,
+71,2022-04-28 15:46:42.620,chuffman@ucsd.edu,,float,,,,,,,,,,,,,,,,
+72,2022-04-28 15:46:42.847,rmerino@ucsd.edu,,int,,,,,,,,,,,,,,,,
+73,2022-04-28 15:46:43.108,myk001@ucsd.edu,,str,,,,,,,,,,,,,,,,
+74,2022-04-28 15:46:46.302,liz007@ucsd.edu,,int,,,,,,,,,,,,,,,,
+75,2022-04-28 15:46:53.569,hchu@ucsd.edu,,float,"1 , 1","""2"" * ""3"", ""2"" + 3",,,,,,,,,,,,,,
+76,2022-04-28 15:46:53.531,melai@ucsd.edu,True,int,,,,,,,,,,,,,,,,
+77,2022-04-28 15:46:53.827,weh009@ucsd.edu,,float,,,,,,,,,,,,,,,,
+78,2022-04-28 15:46:55.629,h9johnson@ucsd.edu,True,int,,,,,,,,,,,,,,,,
+79,2022-04-28 15:46:56.513,e1lee@ucsd.edu,,float,,,,,,,,,,,,,,,,
+80,2022-04-28 15:46:56.516,yif011@ucsd.edu,True,int,,,,,,,,,,,,,,,,
+81,2022-04-28 15:46:58.434,xuz027@ucsd.edu,False,float,,,,,,,,,,,,,,,,
+82,2022-04-28 15:47:02.159,Kmadriaga@ucsd.edu,True,float,,,,,,,,,,,,,,,,
+83,2022-04-28 15:47:06.283,tnduong@ucsd.edu,,float,,,,,,,,,,,,,,,,
+84,2022-04-28 15:47:08.201,ijjones@ucsd.edu,True,float,"2 , 1","""2"" * ""3"", ""2"" + 3",15.0,,,,,,,,,,,,,
+85,2022-04-28 15:47:08.310,jpenaloz@ucsd.edu,,int,,,,,,,,,,,,,,,,
+86,2022-04-28 15:47:57.055,rdwong@ucsd.edu,False,float,,,,,,,,,,,,,,,,
+87,2022-04-28 15:47:59.507,arodrigues@ucsd.edu,False,float,,,,,,,,,,,,,,,,
+88,2022-04-28 15:48:54.047,djlakhani@ucsd.edu,,,"2 , 1",,,,,,,,,,,,,,,
+89,2022-04-28 15:48:54.346,lduga@ucsd.edu,,,,,,,"3, string to float to integer.
+num = 3.14",,,,,,,,,,,
+90,2022-04-28 15:49:04.921,chartman@ucsd.edu,,,"2 , 1",,,,,,,,,,,,,,,
+91,2022-04-28 15:49:06.604,mareece@ucsd.edu,,,"2 , 2",,,,,,,,,,,,,,,
+92,2022-04-28 15:49:10.807,wha@ucsd.edu,True,float,"2 , 1",,,,,,,,,,,,,,,
+93,2022-04-28 15:49:11.143,mhle@ucsd.edu,True,float,"2 , 1",,,,,,,,,,,,,,,
+94,2022-04-28 15:49:12.515,kmochizuki@ucsd.edu,,,"2 , 2",,,,,,,,,,,,,,,
+95,2022-04-28 15:49:12.644,dcui@ucsd.edu,,,"1 , 1",,,,,,,,,,,,,,,
+96,2022-04-28 15:49:13.956,xuz027@ucsd.edu,,,"2 , 1",,,,,,,,,,,,,,,
+97,2022-04-28 15:49:14.484,arodrigues@ucsd.edu,,,"2 , 1","""2"" * ""3"", ""2"" + 3",,,,,,,,,,,,,,
+98,2022-04-28 15:49:15.053,erguerrero@ucsd.edu,,,"2 , 2",,,,,,,,,,,,,,,
+99,2022-04-28 15:49:15.477,tnduong@ucsd.edu,,,"2 , 1",,,,,,,,,,,,,,,
+100,2022-04-28 15:49:24.080,orusso@ucsd.edu,True,float,"2 , 1",,,,,,,,,,,,,,,
+101,2022-04-28 15:49:26.631,erko@ucsd.edu,,,"2 , 1",,,,,,,,,,,,,,,
+102,2022-04-28 15:49:27.026,yuc096@ucsd.edu,,,"2 , 2",,,,,,,,,,,,,,,
+103,2022-04-28 15:49:33.115,myk001@ucsd.edu,,,"2 , 1",,,,,,,,,,,,,,,
+104,2022-04-28 15:49:33.314,yiw080@ucsd.edu,,,"2 , 2",,,,,,,,,,,,,,,
+105,2022-04-28 15:49:33.949,mbannai@ucsd.edu,True,float,"2 , 2",,,,,,,,,,,,,,,
+106,2022-04-28 15:49:36.161,jpenaloz@ucsd.edu,,,"2 , 2",,,,,,,,,,,,,,,
+107,2022-04-28 15:49:37.804,melai@ucsd.edu,True,float,"2 , 1",,,,,,,,,,,,,,,
+108,2022-04-28 15:49:42.622,ajett@ucsd.edu,True,float,"2 , 1",,,,,,,,,,,,,,,
+109,2022-04-28 15:49:42.938,xw001@ucsd.edu,True,float,"2 , 2",,,,,,,,,,,,,,,
+110,2022-04-28 15:49:43.436,chuffman@ucsd.edu,,,"2 , 1",,,,,,,,,,,,,,,
+111,2022-04-28 15:49:45.489,kel015@ucsd.edu,,,"2 , 1",,,,,,,,,,,,,,,
+112,2022-04-28 15:49:46.887,ktl001@ucsd.edu,,,"2 , 1",,,,,,,,,,,,,,,
+113,2022-04-28 15:49:48.320,yif011@ucsd.edu,True,float,"2 , 2",,,,,,,,,,,,,,,
+114,2022-04-28 15:49:49.137,liz007@ucsd.edu,,,"2 , 1",,,,,,,,,,,,,,,
+115,2022-04-28 15:49:50.244,aadarwis@ucsd.edu,False,int,"2 , 2",,,,,,,,,,,,,,,
+116,2022-04-28 15:49:53.072,rmerino@ucsd.edu,,,"2 , 1",,,,,,,,,,,,,,,
+117,2022-04-28 15:49:54.350,weh009@ucsd.edu,,,"2 , 2",,,,,,,,,,,,,,,
+118,2022-04-28 15:49:59.979,srachapudi@ucsd.edu,,,"2 , 2",,,,,,,,,,,,,,,
+119,2022-04-28 15:50:00.669,kpompa@ucsd.edu,,float,"2 , 1",,,,,,,,,,,,,,,
+120,2022-04-28 15:50:02.460,Kmadriaga@ucsd.edu,True,float,"2 , 2",,,,,,,,,,,,,,,
+121,2022-04-28 15:50:06.524,e1lee@ucsd.edu,,,"2 , 1",,,,,,,,,,,,,,,
+122,2022-04-28 15:50:11.584,anslyker@ucsd.edu,False,float,"1 , 1",,,,,,,,,,,,,,,
+123,2022-04-28 15:50:26.833,nbhoot@gmail.com,None of the above,int,"2 , 1","""2"" * ""3"", ""2"" + 3",15.0,Num * 2 = 84,Num = 3,"Line 5
+3
+2
+7
+1
+4
+6",0.0,"If o-11 
+Return good morning ",lst[1],It has to do total += num[n],0.0,"If the user enters “Iliana” as the input for name, the program will print ""Thank you, Iliana!"", If the user does not enter any name and presses enter, the program will print ""Invalid Name!""",Func:,Object references via reassingning variables,N/a,All of it was helpful
+124,2022-04-28 15:51:01.070,rdwong@ucsd.edu,False,float,"2 , 1",,,,,,,,,,,,,,,
+125,2022-04-28 15:51:07.674,mareece@ucsd.edu,,,"2 , 1",,,,,,,,,,,,,,,
+126,2022-04-28 15:51:48.051,xw001@ucsd.edu,True,float,"2 , 1",,,,,,,,,,,,,,,
+127,2022-04-28 15:51:57.985,asawyer@ucsd.edu,False,float,"2 , 1","""2"" + 3, ""2"" * 3",20.0,"And error because you first have to convert num into an int for ""num * 2"" in order to execute the code.",2 type conversions; string -> float -> integer,,,,,,,,,,,
+128,2022-04-28 15:52:56.473,weh009@ucsd.edu,,,"2 , 1",,,,,,,,,,,,,,,
+129,2022-04-28 15:52:59.040,voswal@ucsd.edu,,,"2 , 1","""2"" * ""3"", ""2"" + 3",,,,,,,,,,,,,,
+130,2022-04-28 15:55:29.260,e1lee@ucsd.edu,,,,"""2"" * ""3"", ""2"" + 3",,,,,,,,,,,,,,
+131,2022-04-28 15:55:44.992,erguerrero@ucsd.edu,,,,"""2"" + ""3"", ""2"" * ""3"", ""2"" + 3",,,,,,,,,,,,,,
+132,2022-04-28 15:55:50.889,djlakhani@ucsd.edu,,,,"""2"" * ""3"", ""2"" + 3",,,,,,,,,,,,,,
+133,2022-04-28 15:55:52.657,kmadriaga@ucsd.edu,True,float,"2 , 1","""2"" * ""3"", ""2"" + 3",,,,,,,,,,,,,,
+134,2022-04-28 15:55:55.281,h9johnson@ucsd.edu,True,float,"2 , 1","""2"" * ""3"", ""2"" + 3",,,,,,,,,,,,,,
+135,2022-04-28 15:55:58.069,myk001@ucsd.edu,,,,"""2"" + 3",,,,,,,,,,,,,,
+136,2022-04-28 15:55:59.454,dcui@Ucsd.edu,,,,"""2"" * ""3"", ""2"" + 3",,,,,,,,,,,,,,
+137,2022-04-28 15:55:59.406,weh009@ucsd.edu,,,,"""2"" + 3, ""2"" * 3",,,,,,,,,,,,,,
+138,2022-04-28 15:56:00.180,aadarwis@ucsd.edu,,,,"""2"" + ""3"", ""2"" * ""3"", ""2"" + 3",,,,,,,,,,,,,,
+139,2022-04-28 15:56:01.322,ijjones@ucsd.edu,,float,"2 , 1","""2"" * ""3"", ""2"" + 3",,it will print out incorrect value. it would print 1212 instead of 42*2. ,,,,,,,,,,,,
+140,2022-04-28 15:56:04.087,erko@ucsd.edu,,,,"""2"" + ""3"", ""2"" + 3",,,,,,,,,,,,,,
+141,2022-04-28 15:56:04.837,kpompa@ucsd.edu,,,,"""2"" + 3",,,,,,,,,,,,,,
+142,2022-04-28 15:56:05.713,liz007@ucsd.edu,,,,"""2"" * ""3"", ""2"" + 3",,,,,,,,,,,,,,
+143,2022-04-28 15:56:08.004,chartman@ucsd.edu,,,,"""2"" * ""3""",,,,,,,,,,,,,,
+144,2022-04-28 15:56:11.415,xuz027@ucsd.edu,,,"2 , 1","""2"" * ""3"", ""2"" + 3",,,,,,,,,,,,,,
+145,2022-04-28 15:56:13.572,mareece@ucsd.edu,,,,"""2"" * ""3"", ""2"" + 3",,,,,,,,,,,,,,
+146,2022-04-28 15:56:14.558,jpenaloz@ucsd.edu,,,,"""2"" * ""3"", ""2"" + 3",,,,,,,,,,,,,,
+147,2022-04-28 15:56:17.558,wha@ucsd.edu,True,float,"2 , 1","""2"" * ""3"", ""2"" + 3",,,,,,,,,,,,,,
+148,2022-04-28 15:56:22.237,tnduong@ucsd.edu,,,,"""2"" * ""3"", ""2"" + 3",,,,,,,,,,,,,,
+149,2022-04-28 15:56:22.822,chuffman@ucsd.edu,,,,"""2"" + 3",,,,,,,,,,,,,,
+150,2022-04-28 15:56:28.581,anslyker@ucsd.edu,False,float,"2 , 1","""2"" * ""3"", ""2"" + 3",,,,,,,,,,,,,,
+151,2022-04-28 15:56:29.122,xw001@ucsd.edu,True,float,"2 , 1","""2"" * ""3"", ""2"" + 3",,,,,,,,,,,,,,
+152,2022-04-28 15:56:30.889,ktl001@ucsd.edu,,,,"""2"" * ""3"", ""2"" + 3",,,,,,,,,,,,,,
+153,2022-04-28 15:56:32.442,kel015@ucsd.edu,,,,"""2"" * ""3"", ""2"" + 3",,,,,,,,,,,,,,
+154,2022-04-28 15:56:33.625,srachapudi@ucsd.edu,,,,"""2"" * ""3"", ""2"" + 3",,,,,,,,,,,,,,
+155,2022-04-28 15:56:34.127,ajett@ucsd.edu,True,float,"2 , 1","""2"" * ""3"", ""2"" + 3",,,,,,,,,,,,,,
+156,2022-04-28 15:56:34.155,rmerino@ucsd.edu,,,,"""2"" + ""3"", ""2"" + 3",,,,,,,,,,,,,,
+157,2022-04-28 15:56:34.426,weh009@ucsd.edu,,,,"""2"" + ""3"", ""2"" * ""3"", ""2"" + 3",,,,,,,,,,,,,,
+158,2022-04-28 15:56:34.467,mhle@ucsd.edu,True,float,"2 , 1","""2"" * ""3"", ""2"" + 3",,,,,,,,,,,,,,
+159,2022-04-28 15:56:37.803,melai@ucsd.edu,True,float,"2 , 1","""2"" + 3, ""2"" * 3",,,,,,,,,,,,,,
+160,2022-04-28 15:56:38.903,kmochizuki@ucsd.edu,,,,"""2"" * ""3"", ""2"" + 3",,,,,,,,,,,,,,
+161,2022-04-28 15:56:42.208,yiw080@ucsd.edu,,,,"""2"" * ""3"", ""2"" + 3",,,,,,,,,,,,,,
+162,2022-04-28 15:57:26.345,arodrigues@ucsd.edu,,,,,20.0,"Since the user entered the number 42, num is a variable that is going to hold the value of 42, then, inside of the print function, num is multiplied by 2 and printed out after the string ""num * 2 =""",,,,,,,,,,,,
+163,2022-04-28 15:58:21.890,weh009@ucsd.edu,,,,,15.0,,,,,,,,,,,,,
+164,2022-04-28 15:58:35.386,dderasar@ucsd.edu,,,,"""2"" * ""3"", ""2"" + 3",,,,,,,,,,,,,,
+165,2022-04-28 15:58:54.328,ijjones@ucsd.edu,,,,,15.0,,,,,,,,,,,,,
+166,2022-04-28 15:59:00.674,tnduong@ucsd.edu,,,,,20.0,,,,,,,,,,,,,
+167,2022-04-28 15:59:08.138,chartman@ucsd.edu,,,,,20.0,,,,,,,,,,,,,
+168,2022-04-28 15:59:11.100,mbannai@ucsd.edu,True,float,"2 , 1","""2"" * ""3"", ""2"" + 3",20.0,,,,,,,,,,,,,
+169,2022-04-28 15:59:15.413,e1lee@ucsd.edu,,,,,20.0,,,,,,,,,,,,,
+170,2022-04-28 15:59:16.152,voswal@ucsd.edu,,,,,20.0,,,,,,,,,,,,,
+171,2022-04-28 15:59:16.327,wha@ucsd.edu,True,float,"2 , 1","""2"" * ""3"", ""2"" + 3",20.0,,,,,,,,,,,,,
+172,2022-04-28 15:59:18.081,mareece@ucsd.edu,,,,,15.0,,,,,,,,,,,,,
+173,2022-04-28 15:59:18.484,h9johnson@ucsd.edu,True,float,"2 , 1","""2"" * ""3"", ""2"" + 3",20.0,,,,,,,,,,,,,
+174,2022-04-28 15:59:18.599,djlakhani@ucsd.edu,,,,,20.0,,,,,,,,,,,,,
+175,2022-04-28 15:59:25.061,yiw080@ucsd.edu,,,,,20.0,,,,,,,,,,,,,
+176,2022-04-28 15:59:25.680,srachapudi@ucsd.edu,,,,,20.0,,,,,,,,,,,,,
+177,2022-04-28 15:59:26.847,xuz027@ucsd.edu,,,,"""2"" * ""3"", ""2"" + 3",20.0,,,,,,,,,,,,,
+178,2022-04-28 15:59:28.004,erguerrero@ucsd.edu,,,,,20.0,,,,,,,,,,,,,
+179,2022-04-28 15:59:30.460,myk001@ucsd.edu,,,,,20.0,,,,,,,,,,,,,
+180,2022-04-28 15:59:34.746,melai@ucsd.edu,,,,"""2"" * ""3"", ""2"" + 3",20.0,,,,,,,,,,,,,
+181,2022-04-28 15:59:38.157,dcui@ucsd.edu,,,,,20.0,,,,,,,,,,,,,
+182,2022-04-28 15:59:40.813,yuc096@ucsd.edu,,,,"""2"" * ""3"", ""2"" + 3",20.0,,,,,,,,,,,,,
+183,2022-04-28 15:59:41.526,jpenaloz@ucsd.edu,,,,,15.0,,,,,,,,,,,,,
+184,2022-04-28 15:59:48.564,mhle@ucsd.edu,True,float,"2 , 1","""2"" * ""3"", ""2"" + 3",20.0,,,,,,,,,,,,,
+185,2022-04-28 15:59:50.914,aadarwis@ucsd.edu,,,,,20.0,,,,,,,,,,,,,
+186,2022-04-28 15:59:52.304,rmerino@ucsd.edu,,,,,20.0,,,,,,,,,,,,,
+187,2022-04-28 15:59:54.544,kmochizuki@ucsd.edu,,,,,20.0,,,,,,,,,,,,,
+188,2022-04-28 15:59:56.151,erko@ucsd.edu,,,,,20.0,,,,,,,,,,,,,
+189,2022-04-28 15:59:56.364,kel015@ucsd.edu,,,,,20.0,,,,,,,,,,,,,
+190,2022-04-28 16:00:05.682,liz007@ucsd.edu,,,,,15.0,,,,,,,,,,,,,
+191,2022-04-28 16:00:07.698,chuffman@ucsd.edu,,,,,20.0,,,,,,,,,,,,,
+192,2022-04-28 16:00:10.645,arodrigues@ucsd.edu,,,,,,,"What the user entered is of type string, which is then converted into type float, which is then converted into type int, this integer value then gets stored in a variable named num. The program will then output ""num = 3"".",,,,,,,,,,,
+193,2022-04-28 16:00:10.997,xw001@ucsd.edu,True,float,"2 , 1","""2"" * ""3"", ""2"" + 3",20.0,,,,,,,,,,,,,
+194,2022-04-28 16:00:11.603,ktl001@ucsd.edu,,,,,20.0,,,,,,,,,,,,,
+195,2022-04-28 16:00:12.658,ajett@ucsd.edu,True,float,"2 , 1","""2"" * ""3"", ""2"" + 3",20.0,,,,,,,,,,,,,
+196,2022-04-28 16:00:12.464,kpompa@ucsd.edu,,,,"""2"" * ""3"", ""2"" + 3",10.0,,,,,,,,,,,,,
+197,2022-04-28 16:00:19.493,glepage@ucsd.edu,True,float,,,15.0,,,,,,,,,,,,,
+198,2022-04-28 16:00:22.588,anslyker@ucsd.edu,False,float,"2 , 1","""2"" * ""3"", ""2"" + 3",20.0,,,,,,,,,,,,,
+199,2022-04-28 16:00:30.241,lduga@ucsd.edu,,,,,,,,"def find_max(x,y,z):
+     if x > y and x < z:
+          return x
+     elif y > x and y > x:
+          return y
+    else:
+         return z",1.0,"def print_greeting(hour):
+     if hour<=11 and hour>=0:
+          return ""Good Morning""
+     elif hour<=18 and hour>=12:
+          return ""Good Afternoon""
+     elif hour<=23 and hour>=19:
+          return ""Good Evening""
+     else:
+          return ""hour is invalid""","lst[1], lst[-2]",n looks at the rang of the length of the list. Remove range(len(nums)) and just put nums in for n in nums,0.0,"If the user enters “Iliana” as the input for name, the program will print ""Thank you, Iliana!"", If the user does not enter any name and presses enter, the program will print ""Invalid Name!""","def get_username(email):
+     name = email.split(""a"")
+     return name[0]",Reviewing for the midterm so nothing new,,
+200,2022-04-28 16:00:32.239,kmadriaga@ucsd.edu,,,,,20.0,,,,,,,,,,,,,
+201,2022-04-28 16:00:45.418,dderasar@ucsd.edu,,,,,20.0,,,,,,,,,,,,,
+202,2022-04-28 16:00:45.740,mareece@ucsd.edu,,,,,20.0,,,,,,,,,,,,,
+203,2022-04-28 16:01:07.562,weh009@ucsd.edu,,,,,20.0,,,,,,,,,,,,,
+204,2022-04-28 16:01:34.950,ijjones@ucsd.edu,,,,,20.0,"it would give 1212 instead of 42*2 which is 82. it does this because you're multiplying a string by a number, which replicates the string. ",,,,,,,,,,,,
+205,2022-04-28 16:02:14.701,niho@ucsd.edu,True,float,"2 , 1","""2"" * ""3"", ""2"" + 3",15.0,num * 2 = 4242 because num is a string,3; num to float to int; num to string,"def find_max(x,y,z);
+      if x > y and x > z:
+          return x
+      elif y > x and y > z:
+          return y
+       else:
+          return z",1.0,"if time >= 0 and time <= 11:
+        return ""Good Morning""
+elif time >= 12 and time <= 18:
+        return ""Good Afternoon""
+elif time >= 19 and time <= 23:
+        return ""Good Evening""
+else:
+        return ""hour is invalid""","lst[1], lst[-2], lst[len(lst)-1]","it says for n in range(len(nums)):, it should be for n in nums to get the actual values in the list. alternatively, you could keep that for loop and change total += n to total += nums[n]",0.0,"If the user enters “Iliana” as the input for name, the program will print ""Thank you, Iliana!"", If the user does not enter any name and presses enter, the program will print ""Invalid Name!""","list1 = list(email)
+x = """"
+i = 0
+while list1[i] != '@': 
+      x.append(list1[i])
+      i++
+      if i == len(list1):
+              break
+return x",references and objects,not really sure,very helpful; very in depth
+206,2022-04-28 16:02:23.428,weh009@ucsd.edu,,,,,,Num * 2 = 84 is printed. The input is taken and the input of 42 is mutiplied by 2,,,,,,,,,,,,
+207,2022-04-28 16:02:35.073,mhle@ucsd.edu,True,float,"2 , 1","""2"" * ""3"", ""2"" + 3",20.0,This would print 4242 because num is a string. ,,,,,,,,,,,,
+208,2022-04-28 16:02:36.297,ktl001@ucsd.edu,,,,,,"num * 2 = 84, the input value is 42 thus a print statement will print a string as well as the multiple of 42 and 2",,,,,,,,,,,,
+209,2022-04-28 16:02:37.061,chartman@ucsd.edu,,,,,,"num will store a string variable, and will multiply the number by 2. this will duplicate the number. so if the user inputs 4, it will return 44.",,,,,,,,,,,,
+210,2022-04-28 16:02:39.233,orusso@ucsd.edu,True,float,"2 , 1","""2"" * ""3"", ""2"" + 3",20.0,"424242 because the input the user gave is of data type string. When a string it multiplied by a number, it performs replication of that string.",,,,,,,,,,,,
+211,2022-04-28 16:02:47.012,melai@ucsd.edu,,,,,,There will be an error. You cannot multiply a string by an integer value. ,,,,,,,,,,,,
+212,2022-04-28 16:02:55.018,mareece@ucsd.edu,,,,,,4242 because the string was not converted into a float or int that can be multiplied like a regular number,,,,,,,,,,,,
+213,2022-04-28 16:02:56.958,ijjones@ucsd.edu,,,,,,"it would give 1212 instead of 42*2 which is 84. it does this because you're multiplying a string by a number, which replicates the string. If you wanted 42*2 you would need to typecast num into an into",,,,,,,,,,,,
+214,2022-04-28 16:03:06.349,kmadriaga@ucsd.edu,,,,,,there will be an error because num needs to be converted into an integer ,,,,,,,,,,,,
+215,2022-04-28 16:03:11.836,kmochizuki@ucsd.edu,,,,,,"it will be whatever is input repeated 3 times, this is because input is automatically converted to a string",,,,,,,,,,,,
+216,2022-04-28 16:03:12.304,yiw080@ucsd.edu,,,,,,Error since the input 42 is a string can’t *2,,,,,,,,,,,,
+217,2022-04-28 16:03:31.074,voswal@ucsd.edu,,,,,,"""4242"" because it takes 42 as a string unless its specified",,,,,,,,,,,,
+218,2022-04-28 16:03:34.408,e1lee@ucsd.edu,,,,,,num * 2 = 84 because num is set to 42 and 42 times 2 is 84. It is then printed after the string num * 2 = because there is a comma.,,,,,,,,,,,,
+219,2022-04-28 16:03:35.325,arodrigues@ucsd.edu,,,,,,,,"def find_max(x, y, z):
+    if x > y and x > z:
+        return x
+    elif y > x and y > z:
+        return y
+    else:
+        return z",,,,,,,,,,
+220,2022-04-28 16:03:40.941,liz007@ucsd.edu,,,,,,"Error, because num is taking in a string ",,,,,,,,,,,,
+221,2022-04-28 16:03:42.734,kel015@ucsd.edu,,,,,,"After the user inputs 42, 42 is stored in num, and ""num * 2 = 42 * 2"" will be printed.",,,,,,,,,,,,
+222,2022-04-28 16:03:44.809,ajett@ucsd.edu,True,float,"2 , 1","""2"" * ""3"", ""2"" + 3",20.0,"The console will display ""4242"" as a result of the print statement because input returns a string form of the user's input, thus num is a string that is replicated twice.",,,,,,,,,,,,
+223,2022-04-28 16:03:45.298,jpenaloz@ucsd.edu,,,,,,it will print “num * 2 =“ and then print the num 2 times,,,,,,,,,,,,
+224,2022-04-28 16:03:46.835,yuc096@ucsd.edu,,,,,,num * 2 = 4242,,,,,,,,,,,,
+225,2022-04-28 16:03:47.260,srachapudi@ucsd.edu,,,,,,"user is prompted to enter a number, they enter 42. ""num * 2 = 4242"" will be printed ",,,,,,,,,,,,
+226,2022-04-28 16:03:48.638,djlakhani@ucsd.edu,,,,,,"num * 2 = 4242
+The input datatype is a string. multiplying by 2 will replicate the string.",,,,,,,,,,,,
+227,2022-04-28 16:03:52.037,xuz027@ucsd.edu,,,,,20.0,"4242, because the default type of input is string. ""42"" * 2 = 4242",,,,,,,,,,,,
+228,2022-04-28 16:03:52.088,wha@ucsd.edu,True,float,"2 , 1","""2"" * ""3"", ""2"" + 3",20.0,"The system will give ""num * 2 = 84. since 42 is the value stored in the variable num and num is multiplied by 2.",,,,,,,,,,,,
+229,2022-04-28 16:03:52.111,myk001@ucsd.edu,,,,,,"Once the user input the number of 42, this program will print ""num * 2 = 84"". ",,,,,,,,,,,,
+230,2022-04-28 16:03:52.397,dcui@ucsd.edu,,,,,,"It will print num * 2 = 4242 because 42 was inputted as a string so num * 2 = ""42"" * 2",,,,,,,,,,,,
+231,2022-04-28 16:03:53.798,kpompa@ucsd.edu,,,,,20.0,42*2 = num * 2,,,,,,,,,,,,
+232,2022-04-28 16:03:55.570,mbannai@ucsd.edu,True,float,"2 , 1","""2"" * ""3"", ""2"" + 3",20.0,"you will get the number that the person input doubled, so for this one you'll get 84",,,,,,,,,,,,
+233,2022-04-28 16:03:56.568,aadarwis@ucsd.edu,,,,,,I am pretty sure it would be an error since there is no + sign and you cannot add integers to strings rather a string has to hold the value of the integer ,,,,,,,,,,,,
+234,2022-04-28 16:03:57.318,rmerino@ucsd.edu,,,,,,When the following lines of code are executed the code will return an error.,,,,,,,,,,,,
+235,2022-04-28 16:03:57.337,ksleung@ucsd.edu,True,float,"2 , 1","""2"" * ""3"", ""2"" + 3",20.0,"The code will print ""num * 2 = 84"". ",,,0.0,,"lst[1], lst[-2]",,,"If the user enters “Iliana” as the input for name, the program will print ""Thank you, Iliana!"", If the user does not enter any name and presses enter, the program will print ""Invalid Name!""",,,,
+236,2022-04-28 16:04:04.600,tnduong@ucsd.edu,,,,,,"The string “Enter a number: “ will be printed on the console because of the line number equal input “Enter a number: “ was executed and cause that print statement. Then the string “ num * 2 = 84” will be printed because of the print statement print(“num * 2 =“, num * 2) so the input store in the variable which is 42 will multiply with two and printed out along with the rest of the string.",,,,,,,,,,,,
+237,2022-04-28 16:04:05.774,yif011@ucsd.edu,True,float,"2 , 1","""2"" * ""3"", ""2"" + 3",20.0,num *2 = 84,,,,,,,,,,,,
+238,2022-04-28 16:04:07.029,erko@ucsd.edu,,,,,,an error will occur,,,,,,,,,,,,
+239,2022-04-28 16:04:12.167,erguerrero@ucsd.edu,,,,,,"There will be an error because there needs to be a plus sign rather than a comma. Otherwise, if there was a plus sign, 84 would be printed after ""num * 2 ="".",,,,,,,,,,,,
+240,2022-04-28 16:04:26.676,chuffman@ucsd.edu,,,,,,It will print “num*2= “4242” because num is a string,,,,,,,,,,,,
+241,2022-04-28 16:05:13.062,dderasar@ucsd.edu,,,,,,"When the lines of code are executed, the output will be ""num * 2 = 84"". This will happen because the user will input 42 and then the print statement will print out that as the output.",,,,,,,,,,,,
+242,2022-04-28 16:05:20.424,anslyker@ucsd.edu,False,float,"2 , 1","""2"" * ""3"", ""2"" + 3",20.0,"It will result in 42 being printed twice, instead of 42*2, because num is a string, not an integer",,,,,,,,,,,,
+243,2022-04-28 16:05:48.166,arodrigues@ucsd.edu,,,,,,"The number which is user inputted will be of type string, multiplying a string by two will replicate it, in this case the user entered ""42"", so after multiplying the string by two, we will have ""4242"". The program will output ""num * 2 = 4242""",,,,,,,,,,,,
+244,2022-04-28 16:06:22.836,xw001@ucsd.edu,True,float,"2 , 1","""2"" * ""3"", ""2"" + 3",20.0,"“num * 2 = 4242” will be printed. The first part of the printed statement is a string, and the second part is multiplying the input by 2. The input is a string, and “42” times 2 is “4242.”",,,,,,,,,,,,
+245,2022-04-28 16:06:24.100,mareece@ucsd.edu,,,,,,,"2 type conversions. The first is from a string into a float, the second is from a float into an int.",,,,,,,,,,,
+246,2022-04-28 16:06:58.893,orusso@ucsd.edu,True,float,"2 , 1","""2"" * ""3"", ""2"" + 3",,,"There are two type conversations happening, from string to float and from float to integer. The code will print 3.",,,,,,,,,,,
+247,2022-04-28 16:07:04.678,mhle@ucsd.edu,True,float,"2 , 1","""2"" * ""3"", ""2"" + 3",20.0,4242 would be the output because num is a string.,There are 2 type conversions and they are float and int. 3 would be printed if 3.14 is inputed. ,,,,,,,,,,,
+248,2022-04-28 16:07:06.875,e1lee@ucsd.edu,,,,,,,2 type conversions happen. the first is a float conversion and then a integer conversion. What gets printed is: num = 3,,,,,,,,,,,
+249,2022-04-28 16:07:17.122,srachapudi@ucsd.edu,,,,,,,"2 conversions. the user inputs their number, which is saved as str, then is converted to float, and then becomes stored in num as the int 3. the message will print ""num = 3""",,,,,,,,,,,
+250,2022-04-28 16:07:17.352,ijjones@ucsd.edu,,,,,,,2 type conversions. you are converting a string into a float (1) and a float into an int (2).,"def find_max(x, y, z):
+    if x > y and x > z:
+        return x
+    elif y > x and y > z:
+        return y
+    else:
+        return z",,,,,,,,,,
+251,2022-04-28 16:07:21.819,chartman@ucsd.edu,,,,,,,"there are 2 conversions. float and int. these convert the string to a float, and then to an integer.",,,,,,,,,,,
+252,2022-04-28 16:07:27.706,kmochizuki@ucsd.edu,,,,,,,"3 are happening, 1 for the conversion of the input to string, str to float, float to int",,,,,,,,,,,
+253,2022-04-28 16:07:30.637,melai@ucsd.edu,,,,,,,There are two type conversions. String to float and float to integer. output would be num=3,,,,,,,,,,,
+254,2022-04-28 16:07:32.044,jwhiteman@ucsd.edu,False,,,,,,,,,,,,,,,,,
+255,2022-04-28 16:07:32.490,yuc096@ucsd.edu,,,,,,,num = 3,,,,,,,,,,,
+256,2022-04-28 16:07:34.797,wha@ucsd.edu,True,float,"2 , 1","""2"" * ""3"", ""2"" + 3",20.0,num * 2 = 4242 for 42 stored in the variable num is a string. A string multiplied with 2 means the system will print this string two times.,"2 times, string to a float, and float to an integer",,,,,,,,,,,
+257,2022-04-28 16:07:40.613,jwhiteman@ucsd.edu,,str,,,,,,,,,,,,,,,,
+258,2022-04-28 16:07:44.751,aadarwis@ucsd.edu,,,,,,,3.0,,,,,,,,,,,
+259,2022-04-28 16:07:46.603,kmadriaga@ucsd.edu,,,,,,,"3 conversions: string -> float -> integer 
+If we enter 3.14 we would get 3 ",,,,,,,,,,,
+260,2022-04-28 16:07:47.320,erko@ucsd.edu,,,,,,,"3 conversions: #1- 3.14 becomes a string when input, #2- becomes a string, #3- becomes an integer",,,,,,,,,,,
+261,2022-04-28 16:07:51.523,xuz027@ucsd.edu,,,,,,4242.0,"num =3,   2 type conversions. float, int",,,,,,,,,,,
+262,2022-04-28 16:07:53.202,ktl001@ucsd.edu,,,,,,,"num = 3, 2 converstion of float to int",,,,,,,,,,,
+263,2022-04-28 16:07:55.752,rmerino@ucsd.edu,,,,,,,"There are 2 type conversions happening in the code, which are the int and float functions. The float function turns the inputted string into a floating number and the int function turns that floating number into an integer. The code will print out num = 3.",,,,,,,,,,,
+264,2022-04-28 16:07:56.270,tnduong@ucsd.edu,,,,,,,2 type conversions will happen and they are int and float which is mean int will cast the input variable to the integer variable and float will cast the input into the float variable.,,,,,,,,,,,
+265,2022-04-28 16:07:57.873,jwhiteman@ucsd.edu,,,"2 , 1",,,,,,,,,,,,,,,
+266,2022-04-28 16:08:00.736,dcui@ucsd.edu,,,,,,,There are 2 type conversions float and int. It will print num = 3 because integer version of 3.14 turned into a float is 3,,,,,,,,,,,
+267,2022-04-28 16:08:00.866,kpompa@ucsd.edu,,,,,,,"There are two type conversions (int and float). What will be printed is a sting of num = 3.14.
+",,,,,,,,,,,
+268,2022-04-28 16:08:01.603,hchu@ucsd.edu,,,"2 , 1","""2"" * ""3"", ""2"" + 3",20.0,"The output would be ""num * 2 = the input number *2"" because first it asks the user for an input of a number and store the value in num. ""num * 2="" would concatenate with the number the user enters times 2 and returns that value.",There are two types of conversions and they are string to float and float to integer.,"def find_max(x, y, z):
+    if x > y and x > z:
+        return x
+    elif y > x and y > z:
+        return y
+    else:
+        return z",0.0,"def print_greeting(hour):
+    if hour < 0 or hour > 23:
+        return ""hour is invalid""
+    elif hour >= 0:
+        if hour <= 11:
+            return ""Good morning""
+        if hour <= 18:
+            return ""Good afternoon""
+        if hour <= 23:
+            return ""Good evening""",,,,,,"One key idea that I wasn't aware of was that we need to execute ""and"" first when ""or"" and ""and"" both appear. Also, it's essential to remember the order of execution.",,I think it was very helpful. I would suggest that more examples on the while loops that are relatively more complicated and letting ourselves study the basic concepts such as types of variable on our own to seize our time more efficiently.
+269,2022-04-28 16:08:02.949,weh009@ucsd.edu,,,,,,,2 conversions. A conversion from str to float and then float to int.,,,,,,,,,,,
+270,2022-04-28 16:08:05.338,djlakhani@ucsd.edu,,,,,,,"1st: string to float (""3.14"" to 3.14)
+2nd: float to integer (3.14 to 3)",,,,,,,,,,,
+271,2022-04-28 16:08:05.593,erguerrero@ucsd.edu,,,,,,,"There are two type conversions, one being a string converted into a float and the next converted into an integer. ""num = 3"" will be printed.",,,,,,,,,,,
+272,2022-04-28 16:08:07.388,liz007@ucsd.edu,,,,,,,The num can’t be both int and float so it would give us an error,,,,,,,,,,,
+273,2022-04-28 16:08:08.865,yiw080@ucsd.edu,,,,,,,"2 type ,str to float,float to int num=3",,,,,,,,,,,
+274,2022-04-28 16:08:10.305,arodrigues@ucsd.edu,,,,,,,"there are two type conversions happening, string to float, then float to int. The program will output ""num = 3""",,,,,,,,,,,
+275,2022-04-28 16:08:10.410,jwhiteman@ucsd.edu,,,,"""2"" + ""3"", ""2"" + 3",,,,,,,,,,,,,,
+276,2022-04-28 16:08:12.035,jpenaloz@ucsd.edu,,,,,,,3 will be printed because the string “3.14” is first converted into the float 3.14 then is converted to an integer 3. num = 3 will print,,,,,,,,,,,
+277,2022-04-28 16:08:13.053,ajett@ucsd.edu,True,float,"2 , 1","""2"" * ""3"", ""2"" + 3",20.0,"The console will display ""4242"" as a result of the print statement because input returns a string form of the user's input, thus num is a string that is replicated twice.","There are two type conversions happening, first a string to a float, then a float to an integer. Thus, num becomes 3 because of int, and prints num = 3.",,,,,,,,,,,
+278,2022-04-28 16:08:13.583,voswal@ucsd.edu,,,,,,,3.0,,,,,,,,,,,
+279,2022-04-28 16:08:13.934,myk001@ucsd.edu,,,,,,,"First the input of ""3.14"" which is string will be converted into float then into integer so that generate 3. there are total 2 type of conversions. ",,,,,,,,,,,
+280,2022-04-28 16:08:27.489,jwhiteman@ucsd.edu,,,,,10.0,,,,,,,,,,,,,
+281,2022-04-28 16:08:39.622,chuffman@ucsd.edu,,,,,,,There’s 2 type conversions. 1 from the str of input to a float and 1 from the float to an integer.  “num = 3” will be printed,,,,,,,,,,,
+282,2022-04-28 16:08:40.201,mbannai@ucsd.edu,True,float,"2 , 1","""2"" * ""3"", ""2"" + 3",20.0,"num acts as a variable and and stores the number that you input as a string. Then, in the print line, you will get the number written twice, so 4242.","there are 2 type conversions. With the input it creates a string, float converts it to a decimal number, so 3.14, and int converts it to a whole number, so 3.",,,,,,,,,,,
+283,2022-04-28 16:08:46.723,anslyker@ucsd.edu,False,float,"2 , 1","""2"" * ""3"", ""2"" + 3",20.0,,"There are 2 type conversions: turning a string to a float, and then a float to an integer. It takes the input and makes it a float, then that float is type casted as an integer, so num will be printed as 3",,,,,,,,,,,
+284,2022-04-28 16:08:56.145,jwhiteman@ucsd.edu,,,,,,,num,x,,,,,,,,,,
+285,2022-04-28 16:08:56.348,dderasar@ucsd.edu,,,,,,,"There are 2 type conversions happening in the code above. The first being that the input function, which normally takes in a string, is being converted to a float which, in turn, gets converted to an int. ",,,,,,,,,,,
+286,2022-04-28 16:09:24.046,jwhiteman@ucsd.edu,,,,,,num2 ,num,y,0.0,,,,,,,,,
+287,2022-04-28 16:09:38.655,kel015@ucsd.edu,,,,,,,"2 types convertions; first string input as a float, then float as an integer. 3.14 would be inputted as a string to be converted to a float by float(), which would then be converted to an integer by int().",,,,,,,,,,,
+288,2022-04-28 16:10:02.473,mareece@ucsd.edu,,,,,,,,"def find_max(x,y,z):
+      if x > y and x > z:
+             return x
+      elif y > x and y > z:
+             return y
+      else:
+             return z",,,,,,,,,,
+289,2022-04-28 16:10:04.773,jwhiteman@ucsd.edu,,,,,,,,,0.0,0>23,"lst[-1], lst[-2]",0.0,1.0,"If the user enters “Iliana” as the input for name, the program will print ""Thank you, Iliana!""",gerald,,,
+290,2022-04-28 16:10:27.901,mhle@ucsd.edu,True,float,"2 , 1","""2"" * ""3"", ""2"" + 3",20.0,This would be 4242 because num is a string. ,There are two type conversions: float and int. 3 would be the output. ,"def find_max(x,y,z):
+    if x > y and x>z:
+         return x
+     elif y >x and y>z:
+          return y
+      else:
+            return z",,,,,,,,,,
+291,2022-04-28 16:10:46.019,chartman@ucsd.edu,,,,,,,,"def find_max(x, y, z):
+    if x > y and x > z:
+        return x
+    elif y > x and y > z:
+	return y
+    else:
+        return z",0.0,,,,,,,,,
+292,2022-04-28 16:11:19.649,arodrigues@ucsd.edu,,,,,,,,,0.0,,,,,,,,,
+293,2022-04-28 16:11:21.664,xw001@ucsd.edu,True,float,"2 , 1","""2"" * ""3"", ""2"" + 3",20.0,"“num * 2 = 4242” will be printed. The first part of the printed statement is a string, and the second part is multiplying the input by 2. The input is a string, and “42” times 2 is “4242.”","There are two types of conversions happening here: str to float, and float to int. ""num = 3"" will be printed. The input ""3.14"" is first converted to a float 3.14. 3.14 is then converted to an integer 3.",,,,,,,,,,,
+294,2022-04-28 16:11:25.112,dcui@ucsd.edu,,,,,,,,"def find_max(x, y, z):
+    if x > y and x > z:
+        return x 
+    elif y > x and y > z:
+        return y 
+    else:
+        return z 
+",,,,,,,,,,
+295,2022-04-28 16:11:25.242,wha@ucsd.edu,,,,,,,,"def find_max(x, y, z):
+       if x > y and x > z:
+            return x
+       elif y > x and y > z:
+            return y
+       else:
+            return z",,,,,,,,,,
+296,2022-04-28 16:11:43.679,kmadriaga@ucsd.edu,,,,,,,,"def find_max(x, y, z):
+	if  x > y and x > z:
+		return x
+	elif y > x and y > z:
+		return y
+	else:
+		return z",,,,,,,,,,
+297,2022-04-28 16:11:45.979,orusso@ucsd.edu,,,,,,,,"def find_max(x,y,x):
+    if x>y and x>z:
+        return x
+    elif y>x and y>z:
+        return y
+    else:
+        return z",,,,,,,,,,
+298,2022-04-28 16:11:47.499,e1lee@ucsd.edu,,,,,,,,"def find_max(x, y, z):
+    if x > y and x > z:
+        return x
+    elif y > x and y > z:
+        return y
+    else:
+        return z",,,,,,,,,,
+299,2022-04-28 16:11:58.344,kmochizuki@ucsd.edu,,,,,,,,"
+def find_max(x,y,z):
+    if x>y and x>z:
+        return x
+    elif y>x and y>z:
+        return y
+    else:
+        return z
+",,,,,,,,,,
+300,2022-04-28 16:12:14.352,myk001@ucsd.edu,,,,,,,,"First, def find_max(x,y,z) should be on the very top. Then return x should be under the if x>y and x>z: . Next, return y should be under elif y>x and y>z: . Lastly else: and return z should be  followed at the very end. ",,,,,,,,,,
+301,2022-04-28 16:12:23.971,tnduong@ucsd.edu,,,,,,,,"def find_max(x, y, z):
+if x > y and x > z:
+return x
+elif y > x and y > z:
+return y
+else:
+return z",,,,,,,,,,
+302,2022-04-28 16:12:28.007,ijjones@ucsd.edu,,,,,,,,"def find_max(x, y, z):
+    if x > y and x > z:
+        return x
+    elif y > x and y > z:
+        return y
+    else:
+        return z",0.0,"def print_greeting(hour):
+    if hour > 0 and hour <= 11:
+        return ""Good Morning""
+    elif hour >= 12 and hour <= 18:
+        return ""Good Morning""
+    elif hour >= 19 and hour <= 23:
+        return ""Good Morning""
+    else:
+        return ""hour is invalid""",,,,,,,,
+303,2022-04-28 16:12:29.216,ktl001@ucsd.edu,,,,,,,,"def find_max(x, y, z):
+     if x > y and x > z:
+         return x 
+     elif y > x and y > z:
+          return y
+     else:
+          return z
+
+
+
+",,,,,,,,,,
+304,2022-04-28 16:12:34.573,erguerrero@ucsd.edu,,,,,,,,"def find_max(x, y, x):
+     if x > y and x > z:
+          return x
+     elif y > x and y > z:
+          return y
+     else:
+          return z",,,,,,,,,,
+305,2022-04-28 16:12:38.260,kpompa@ucsd.edu,,,,,,,,"def find_max(x, y, z):
+    if x > y and x > z:
+        return x
+    elif y > x and y > z:
+        return y
+    else:
+        return z",,,,,,,,,,
+306,2022-04-28 16:12:38.363,ajett@ucsd.edu,True,float,"2 , 1","""2"" * ""3"", ""2"" + 3",20.0,"The console will display ""4242"" as a result of the print statement because input returns a string form of the user's input, thus num is a string that is replicated twice.","There are two type conversions happening, first a string to a float, then a float to an integer. Thus, num becomes 3 because of int, and prints num = 3.","def find_max(x, y, z):
+    if x > y and x > z:
+        return x
+    elif y > x and y > z:
+        return y
+    else:
+        return z",,,,,,,,,,
+307,2022-04-28 16:12:38.429,djlakhani@ucsd.edu,,,,,,,,"def find_max(x, y, z):
+    if x > y and x > z:
+        return x
+    elif y > x and y > z:
+        return y
+    else:
+        return z",,,,,,,,,,
+308,2022-04-28 16:12:40.343,rmerino@ucsd.edu,,,,,,,,"def find_max(x, y, z):
+       if x > y and x > z:
+              return x
+       elif y > x and y > z:
+              return y
+       else:
+               return z",,,,,,,,,,
+309,2022-04-28 16:12:41.527,xuz027@ucsd.edu,,,,,,,,"def find_max(x, y, z):
+    if x > y and x > z :
+           return x
+    elif y > x and y >z :
+             return y
+       else : 
+           return z
+",,,,,,,,,,
+310,2022-04-28 16:12:45.946,erko@ucsd.edu,,,,,,,,"def find_max(x, y, x):
+     if x>y and x>z:
+          return x
+     else:
+          return z
+      elif y>x and y>z:
+          return y",,,,,,,,,,
+311,2022-04-28 16:12:51.669,anslyker@ucsd.edu,False,float,"2 , 1","""2"" * ""3"", ""2"" + 3",20.0," It will result in 4242, not 84, because 42 is a string and not an integer","there are 2 type conversions: a string being converted to a float which is then converted to an integer. It takes the input and makes it a float, then that float is type casted as an integer, so num will be printed as 3","def find_max(x,y,z):
+       if x>y and x>z:
+             return x
+       elif y>x and y>z:
+             return y
+       else:
+             return z
+",,,,,,,,,,
+312,2022-04-28 16:13:01.648,aadarwis@ucsd.edu,,,,,,,,"def find_max(x, y, z): 
+       if x > y and x > z: 
+              if x > y and x > z: 
+              return x 
+       elif y > x and y > z 
+             return y 
+     else: 
+            return  z
+
+",,,,,,,,,,
+313,2022-04-28 16:13:13.851,xw001@ucsd.edu,,,,,,,,"def find_max(x, y, z):
+      if x > y and x > z:
+            return x
+      elif y > x and y > z:
+            return y
+      else:
+            return z",,,,,,,,,,
+314,2022-04-28 16:13:20.174,yuc096@ucsd.edu,,,,,,,,"def find_max(x, y, z):
+if x > y and x > z:
+    return x
+elif y > x and y > z:
+    return y
+else:
+    return z",,,,,,,,,,
+315,2022-04-28 16:13:38.603,mbannai@ucsd.edu,True,float,"2 , 1","""2"" * ""3"", ""2"" + 3",20.0,"num acts as a variable in this and in the print statement, it will multiply the string by 2, so you will get 4242.","2 because you will get a string, that will be converted to a float (3.14), which will then be converted to an integer (3).","def find_max(x,y,z):
+    if x>y and x>z:
+        return x
+    elif y>x and y>z:
+        return y
+    else:
+        return z",,,,,,,,,,
+316,2022-04-28 16:13:38.679,kpompa@ucsd.edu,,str,,,,,,,0.0,,,,,,,,,
+317,2022-04-28 16:13:39.815,e1lee@ucsd.edu,,,,,,,,,0.0,,,,,,,,,
+318,2022-04-28 16:14:00.551,chuffman@ucsd.edu,,,,,,,,"def find_max(x,y,z)
+    if x>y and x>z:
+         return x
+    elif y>x and y>z:
+         return y
+     else:
+         return z",,,,,,,,,,
+319,2022-04-28 16:14:03.344,kel015@ucsd.edu,,,,,,,,"def find_max(x, y, z):
+       if x > y and x > z:
+           return x
+       elif y > x and y > z:
+           return y
+       else:
+           return z",,,,,,,,,,
+320,2022-04-28 16:14:28.196,jpenaloz@ucsd.edu,,,,,,,,"def find_max(x, y, z)
+    if x > y and x > z:
+        return x
+    elif y > x and y > z:
+        return y
+    else:
+        return z",,,,,,,,,,
+321,2022-04-28 16:14:34.727,dderasar@ucsd.edu,,,,,,,,"def find_max(x, y, z):
+       if x > y and x > z:
+                return x
+       if y > z and y > x:
+                return y
+       else:
+               return z",,,,,,,,,,
+322,2022-04-28 16:14:37.004,liz007@ucsd.edu,,,,,,,,"def find_max(x, y, z):
+     if x > y and x > z:
+          return x
+     elif y > x and y > z:
+          return y
+     else:
+          return z",,,,,,,,,,
+323,2022-04-28 16:15:56.310,hchu@ucsd.edu,,,,,,,,,,,"lst[1], lst[-2]",,0.0,"If the user enters “Iliana” as the input for name, the program will print ""Thank you, Iliana!"", If the user does not enter any name and presses enter, the program will print ""Invalid Name!""","def get_username(email): 
+    name = email.split(""@"")
+    final = name[0]
+    print(final)
+get_username(""gerald@eng.ucsd.edu"")",,,
+324,2022-04-28 16:16:38.210,mhle@ucsd.edu,True,float,"2 , 1","""2"" * ""3"", ""2"" + 3",20.0,4242 because num is a string,2 type conversions: float and int. 3 would be the output. ,"def find_max(x,y,z):
+    if x > y and x>z:
+         return x
+     elif y >x and y>z:
+          return y
+      else:
+            return z",0.0,,,,,,,,,
+325,2022-04-28 16:16:39.395,ajett@ucsd.edu,True,float,"2 , 1","""2"" * ""3"", ""2"" + 3",20.0,"The console will display ""4242"" as a result of the print statement because input returns a string form of the user's input, thus num is a string that is replicated twice.","There are two type conversions happening, first a string to a float, then a float to an integer. Thus, num becomes 3 because of int, and prints num = 3.","def find_max(x, y, z):
+    if x > y and x > z:
+        return x
+    elif y > x and y > z:
+        return y
+    else:
+        return z",0.0,,,,,,,,,
+326,2022-04-28 16:16:41.554,ktl001@ucsd.edu,,,,,,,,,0.0,,,,,,,,,
+327,2022-04-28 16:16:42.398,djlakhani@ucsd.edu,,,,,,,,,0.0,,,,,,,,,
+328,2022-04-28 16:16:44.464,orusso@ucsd.edu,,,,,,,,,0.0,,,,,,,,,
+329,2022-04-28 16:16:47.539,dcui@ucsd.edu,,,,,,,,,0.0,,,,,,,,,
+330,2022-04-28 16:16:47.609,kmadriaga@ucsd.edu,,,,,,,,,0.0,,,,,,,,,
+331,2022-04-28 16:16:49.378,erguerrero@ucsd.edu,,,,,,,,,0.0,,,,,,,,,
+332,2022-04-28 16:16:50.792,myk001@ucsd.edu,,,,,,,,,1.0,,,,,,,,,
+333,2022-04-28 16:16:52.329,ijjones@ucsd.edu,,,,,,,,,0.0,"def print_greeting(hour):
+    if hour > 0 and hour <= 11:
+        return ""Good Morning""
+    elif hour >= 12 and hour <= 18:
+        return ""Good Morning""
+    elif hour >= 19 and hour <= 23:
+        return ""Good Evening""
+    else:
+        return ""hour is invalid""",,,,,,,,
+334,2022-04-28 16:16:53.937,kmochizuki@ucsd.edu,,,,,,,,,0.0,,,,,,,,,
+335,2022-04-28 16:16:54.268,wha@ucsd.edu,,,,,,,,,0.0,,,,,,,,,
+336,2022-04-28 16:16:54.798,yif011@ucsd.edu,,,,,,,"num=3, because ",,1.0,,,,,,,,,
+337,2022-04-28 16:16:57.600,dderasar@ucsd.edu,,,,,,,,,0.0,,,,,,,,,
+338,2022-04-28 16:17:03.156,kel015@ucsd.edu,,,,,,,,,0.0,,,,,,,,,
+339,2022-04-28 16:17:03.574,mbannai@ucsd.edu,True,float,"2 , 1","""2"" * ""3"", ""2"" + 3",20.0,"num acts as a variable in this and in the print statement, it will multiply the string by 2, so you will get 4242.","2 because you will get a string, that will be converted to a float (3.14), which will then be converted to an integer (3).","def find_max(x,y,z):
+    if x>y and x>z:
+        return x
+    elif y>x and y>z:
+        return y
+    else:
+        return z",0.0,,,,,,,,,
+340,2022-04-28 16:17:03.937,srachapudi@ucsd.edu,,,,,,,,,0.0,,,,,,,,,
+341,2022-04-28 16:17:05.316,xuz027@ucsd.edu,,,,,,,,,0.0,,,,,,,,,
+342,2022-04-28 16:17:05.659,yuc096@ucsd.edu,,,,,,,,,0.0,,,,,,,,,
+343,2022-04-28 16:17:05.687,liz007@ucsd.edu,,,,,,,,,0.0,,,,,,,,,
+344,2022-04-28 16:17:07.128,tnduong@ucsd.edu,,,,,,,,,0.0,,,,,,,,,
+345,2022-04-28 16:17:09.135,melai@ucsd.edu,,,,,,,,"def find_max(x,y,z):
+     if x>y and x>z:
+           return x
+    elif y>x and y>z:
+           return y 
+    else: 
+          return z 
+
+",1.0,,,,,,,,,
+346,2022-04-28 16:17:11.716,aadarwis@ucsd.edu,,,,,,,,,1.0,,,,,,,,,
+347,2022-04-28 16:17:12.633,rmerino@ucsd.edu,,,,,,,,,0.0,,,,,,,,,
+348,2022-04-28 16:17:13.310,erko@ucsd.edu,,,,,,,,,0.0,,,,,,,,,
+349,2022-04-28 16:17:13.686,jpenaloz@ucsd.edu,,,,,,,,,0.0,,,,,,,,,
+350,2022-04-28 16:17:14.666,chuffman@ucsd.edu,,,,,,,,,0.0,,,,,,,,,
+351,2022-04-28 16:17:23.786,weh009@ucsd.edu,,,,,,,,,0.0,,,,,,,,,
+352,2022-04-28 16:17:26.803,voswal@ucsd.edu,,,,,,,,,0.0,,,,,,,,,
+353,2022-04-28 16:17:53.587,xw001@ucsd.edu,,,,,,,,,0.0,,,,,,,,,
+354,2022-04-28 16:17:56.343,anslyker@ucsd.edu,False,float,"2 , 1","""2"" * ""3"", ""2"" + 3",20.0,"It will result in 4242, not 84, because 42 is a string and not an integer","There are 2 type conversions: a string being converted to a float which is then converted to an integer. It takes the input and makes it a float, then that float is type casted as an integer, so num will be printed as 3","def find_max(x,y,z):
+       if x>y and x>z:
+             return x
+       elif y>x and y>z:
+             return y
+       else:
+            return z
+",0.0,"
+
+",,,,,,,,
+355,2022-04-28 16:18:38.581,mareece@ucsd.edu,,,,,,,,,0.0,"def print_greeting(hour):
+      if  hour > 0 and hour <=11:
+             print (""Good Morning"")
+      elif hour >= 12 and hour <= 18:
+             print (""Good Afternoon"")
+      elif hour >= 19 and hour <= 23:
+             print (""Good Evening"")
+     else:
+             print (""hour is invalid"")",,,,,,,,
+356,2022-04-28 16:18:49.598,rdwong@ucsd.edu,,,,"""2"" * ""3""",10.0,,,,0.0,,lst[-1],,,,,,,
+357,2022-04-28 16:19:00.015,hchu@ucsd.edu,,,,,,,,,,,,"The issue is that the index of 0,1,2 was being added instead of the values in the list. Corrected version of the code would be:
+def sum_list(nums):
+    total=0
+    for n in range(len(nums)):
+        total += nums[n]
+    return total
+print(sum_list([10,20,30]))",,,,,,
+358,2022-04-28 16:20:18.842,arodrigues@ucsd.edu,,,,,,,,,,"def print_greeting(hour):
+    if hour >= 0 and hour <= 11:
+        return ""Good Morning""
+    elif hour >= 12 and hour <= 18:
+        return ""Good Afternoon""
+    elif hour >= 19 and hour <= 23:
+        return ""Good Evening""
+    else:
+        return ""hour is invalid""
+
+If the return statements in my function were changed to print statements, then my function would output the result right away instead of storing it to be output later.",,,,,,,,
+359,2022-04-28 16:20:23.497,orusso@ucsd.edu,,,,,,,,,,,"lst[1], lst[-2]",,,,,,,
+360,2022-04-28 16:20:25.964,chartman@ucsd.edu,,,,,,,,,,"def print_greeting(hour):
+	if hour <= 11:
+		return ""Good Morning""
+	elif hour <= 18:
+		return ""Good Afternoon""
+	elif hour <= 23:
+		return ""Good Evening""
+	else:
+		return ""hour is invalid""
+
+print(print_greeting(13))",lst[1],,,,,,,
+361,2022-04-28 16:20:36.866,dderasar@ucsd.edu,,,,,,,,,,,"lst[1], lst[-2]",,,,,,,
+362,2022-04-28 16:20:37.146,ijjones@ucsd.edu,,,,,,,,,,,"lst[1], lst[-2]",,,,,,,
+363,2022-04-28 16:20:38.129,dcui@ucsd.edu,,,,,,,,,,,"lst[1], lst[-2]",,,,,,,
+364,2022-04-28 16:20:39.166,mareece@ucsd.edu,,,,,,,,,,,lst[-2],,,,,,,
+365,2022-04-28 16:20:39.798,ktl001@ucsd.edu,,,,,,,,,,,"lst[1], lst[-2]",,,,,,,
+366,2022-04-28 16:20:43.004,chartman@ucsd.edu,,,,,,,,,,,"lst[1], lst[-2]",,,,,,,
+367,2022-04-28 16:20:43.234,mbannai@ucsd.edu,True,float,"2 , 1","""2"" * ""3"", ""2"" + 3",20.0,"num acts as a variable in this and in the print statement, it will multiply the string by 2, so you will get 4242.","2 because you will get a string, that will be converted to a float (3.14), which will then be converted to an integer (3).","def find_max(x,y,z):
+    if x>y and x>z:
+        return x
+    elif y>x and y>z:
+        return y
+    else:
+        return z",0.0,,"lst[1], lst[-2]",,,,,,,
+368,2022-04-28 16:20:43.835,kpompa@ucsd.edu,,,,,,,,,,"if we change return to print, it will give us an output of none. ","lst[1], lst[len(lst)-1]",,,,,,,
+369,2022-04-28 16:20:44.668,xuz027@ucsd.edu,,,,,,,,,,,"lst[1], lst[-2]",,,,,,,
+370,2022-04-28 16:20:45.700,kmochizuki@ucsd.edu,,,,,,,,,,,"lst[1], lst[-2]",,,,,,,
+371,2022-04-28 16:20:46.475,weh009@ucsd.edu,,,,,,,,,,,"lst[1], lst[-2], lst[len(lst)-1]",,,,,,,
+372,2022-04-28 16:20:47.267,ajett@ucsd.edu,True,float,"2 , 1","""2"" * ""3"", ""2"" + 3",20.0,"The console will display ""4242"" as a result of the print statement because input returns a string form of the user's input, thus num is a string that is replicated twice.","There are two type conversions happening, first a string to a float, then a float to an integer. Thus, num becomes 3 because of int, and prints num = 3.","def find_max(x, y, z):
+    if x > y and x > z:
+        return x
+    elif y > x and y > z:
+        return y
+    else:
+        return z",0.0,,"lst[1], lst[-2]",,,,,,,
+373,2022-04-28 16:20:49.240,kel015@ucsd.edu,,,,,,,,,,,"lst[1], lst[-2]",,,,,,,
+374,2022-04-28 16:20:49.925,voswal@ucsd.edu,,,,,,,,,,,"lst[1], lst[-2]",,,,,,,
+375,2022-04-28 16:20:50.193,yiw080@ucsd.edu,,,,,,,,,0.0,,"lst[1], lst[-2]",,,,,,,
+376,2022-04-28 16:20:54.011,yuc096@ucsd.edu,,,,,,,,,,,"lst[1], lst[-2]",,,,,,,
+377,2022-04-28 16:20:55.092,aadarwis@ucsd.edu,,,,,,,,,,,"lst[1], lst[-1], lst[len(lst)-1]",,,,,,,
+378,2022-04-28 16:20:55.965,arodrigues@ucsd.edu,,,,,,,,,,,"lst[1], lst[-2]",,,,,,,
+379,2022-04-28 16:20:56.010,rmerino@ucsd.edu,,,,,,,,,,,"lst[1], lst[-2]",,,,,,,
+380,2022-04-28 16:20:57.119,liz007@ucsd.edu,,,,,,,,,,,"lst[1], lst[-2], lst[len(lst)-1]",,,,,,,
+381,2022-04-28 16:20:58.137,erguerrero@ucsd.edu,,,,,,,,,,,"lst[1], lst[-2]",,,,,,,
+382,2022-04-28 16:20:59.930,jpenaloz@ucsd.edu,,,,,,,,,,"def print_greeting(hour):
+    if 0 < hour < 11
+         return “Good Morning”","lst[1], lst[-2]",,,,,,,
+383,2022-04-28 16:21:02.944,chuffman@ucsd.edu,,,,,,,,,,,"lst[1], lst[-2]",,,,,,,
+384,2022-04-28 16:21:04.478,djlakhani@ucsd.edu,,,,,,,,,,,"lst[1], lst[-2]",,,,,,,
+385,2022-04-28 16:21:04.531,srachapudi@ucsd.edu,,,,,,,,,,,"lst[1], lst[-2]",,,,,,,
+386,2022-04-28 16:21:04.886,xw001@ucsd.edu,,,,,,,,,,"if hour < 0 or hour > 23:
+      return ""Good Morning""
+elif ","lst[1], lst[-2]",,,,,,,
+387,2022-04-28 16:21:08.681,e1lee@ucsd.edu,,,,,,,,,,,"lst[1], lst[-2]",,,,,,,
+388,2022-04-28 16:21:10.209,wha@ucsd.edu,,,,,,,,,,"if hour >= 0 and hour <= 11:
+     return ""Good Morning""
+elif hour > 11 and hour <= 18:
+     return ""Good Afternoon
+elif hour > 18 and hour <= 23:
+     return ""Good Evening""
+else:
+     return ""hour is invalid""","lst[1], lst[-2]",,,,,,,
+389,2022-04-28 16:21:10.993,kmadriaga@ucsd.edu,,,,,,,,,,,"lst[1], lst[-2]",,,,,,,
+390,2022-04-28 16:21:13.299,erko@ucsd.edu,,,,,,,,,,,"lst[1], lst[-2]",,,,,,,
+391,2022-04-28 16:21:14.361,yif011@ucsd.edu,,,,,,,,,,,"lst[1], lst[-2]",,,,,,,
+392,2022-04-28 16:21:16.164,tnduong@ucsd.edu,,,,,,,,,,"def print_greeting(hour):
+if hour <= 11:
+print(“Good Morning”)
+elif hour >= 12 and hour <= 18:
+print(“Good Afternoon”)
+elif hour >= 19 and hour <= 23:
+print(“Good Evening”)
+elif hour < 0 or hour > 23:
+print(“hour is invalid”)
+",,,,,,,,
+393,2022-04-28 16:21:17.996,myk001@ucsd.edu,,,,,,,,,,,"lst[1], lst[-2]",,,,,,,
+394,2022-04-28 16:21:44.546,weh009@ucsd.edu,,,,,,,,,,,"lst[1], lst[-2]",,,,,,,
+395,2022-04-28 16:21:49.968,melai@ucsd.edu,,,,,,,,,,,"lst[1], lst[-2]",,,,,,,
+396,2022-04-28 16:22:15.701,anslyker@ucsd.edu,False,float,"2 , 1","""2"" * ""3"", ""2"" + 3",20.0,"It will result in 4242, not 84, because 42 is a string and not an integer","There are 2 type conversions: a string being converted to a float which is then converted to an integer. It takes the input and makes it a float, then that float is type casted as an integer, so num will be printed as 3
+","def find_max(x,y,z):
+       if x>y and x>z:
+             return x
+       elif y>x and y>z:
+             return y
+       else:
+            return z
+",0.0,"def print_greeting(hour):
+      if hour >= 0 or hour < 12:
+             return ""Good Morning""
+      elif hour > 11 or hour < 19:
+             return ""Good Afternoon""
+      elif hour > 18 or hour <= 23:
+             return ""Good Evening""
+      if hour < 0 or hour > 23:
+            return ""hour is invalid","lst[1], lst[-2]",,,,,,,
+397,2022-04-28 16:22:20.418,kmadriaga@ucsd.edu,,,,,,,,,,"def print_greeting(hour):
+	if hour < 0 or > 23:
+		return(“hour is invalid”)
+	elif hour >= 0 and <= 11:
+		return(“Good Morning”)
+	elif hour >= 12 and <= 18:
+		return(“Good Afternoon”)
+	else: 
+		return(“Good Evening”)
+",,,,,,,,
+398,2022-04-28 16:22:27.615,tnduong@ucsd.edu,,,,,,,,,,,"lst[1], lst[-2]",,,,,,,
+399,2022-04-28 16:22:46.936,mareece@ucsd.edu,,,,,,,,,,,"lst[1], lst[-2]",,,,,,,
+400,2022-04-28 16:24:32.450,arodrigues@ucsd.edu,,,,,,,,,,,,"The error with the code is that inside of the for loop body, the indices of the numbers are actually being summed together instead of the numbers itself, to fix this issue, we would have to replace the n with nums[n] inside of the for loop. Below is the corrected version of the code.
+
+def sum_list(nums):
+    total = 0
+    for n in range(len(nums)):
+        total += nums[n]
+    return total",,,,,,
+401,2022-04-28 16:25:30.761,yuc096@ucsd.edu,,,,,,,,,,,,"n is not equal to the value of the number in the list.
+for n in range(len(nums)):
+      total += nums[n]
+return total",,,,,,
+402,2022-04-28 16:25:37.122,xuz027@ucsd.edu,,,,,,,,,,,,"the issue with the code is for loop. 
+should be:
+for n in nums:
+         total += n",,,,,,
+403,2022-04-28 16:25:38.742,arodrigues@ucsd.edu,,,,,,,,,,,,,0.0,,,,,
+404,2022-04-28 16:25:39.595,tnduong@ucsd.edu,,,,,,,,,,,,The issue with the code is the range(len(nums)) in the for loop. The issue will be fix if rewrite the for loop statement as for n in nums:,,,,,,
+405,2022-04-28 16:25:46.453,kmochizuki@ucsd.edu,,,,,,,,,,,,n is counting the indexes and is run 3 times so 0+1+2=3 which is why the output is 3. to fix the code you should have total = total + nums[n],,,,,,
+406,2022-04-28 16:25:49.758,aadarwis@ucsd.edu,,,,,,,,,,,,We received the sums of the amount of integers in the list but not the sum of the integers themselves in the list. To fix this we would use the sum() function,,,,,,
+407,2022-04-28 16:25:53.126,yiw080@ucsd.edu,,,,,,,,,,,,Range len(num) is 3 so add up will get 3. Not use range but element in list to integer then add up,,,,,,
+408,2022-04-28 16:26:00.685,hac018@ucsd.edu,True,float,"2 , 1","""2"" * ""3"", ""2"" + 3",20.0,"num will be set equal to 42 as a string.
+Then it will print num * 2 = 4242
+This is because 42 is a string, and a repetition occurred.","The input 3.14 will first be converted from a string to float 3.14, then it will be converted to a integer as 3. Then num equals to 3. The system will print out num = 3.","def find_max(x, y, z):
+    if x > y and x > z:
+        return x
+    elif y > x and y > z:
+        return y
+    else:
+        return z",0.0,"def print_greeting(hour):
+    if hour >= 0 and hour <= 11:
+        return ""Good Morning""
+    elif hour >= 12 and hour <= 18:
+        return ""Good Afternoon""
+    elif hour >= 19 and hour <= 23:
+        return ""Good Evening""
+    else:
+        return ""hour is invalid""","lst[1], lst[-2]","Because instead of the elements in the list, total is added with the index of the list.",0.0,"If the user enters “Iliana” as the input for name, the program will print ""Thank you, Iliana!"", If the user does not enter any name and presses enter, the program will print ""Invalid Name!""","def get_username(email):
+    list1 = email.split(""@"")
+    return list1[0]","I got some good review on some concepts I missed. Like the order of and, or.","I am still kind of confused about the reference. I thought when we put them as the same object, they will change as others' change.",Pretty helpful :D
+409,2022-04-28 16:26:08.119,melai@ucsd.edu,,,,,,,,,,,,The issue with the code is that it prints the length of the list. Can take out the len() portion and just make it range(nums),,,,,,
+410,2022-04-28 16:26:22.840,dcui@ucsd.edu,,,,,,,,,,,,"Total is summing the index positions not the actual elements of the list. To fix the code change the total += n inside the for loop to total += nums[n] so that instead of summing the index position, it sums the element of the list corresponding to the indexes. 
+
+def sum_list(nums):
+    total = 0
+    for n in range(len(nums)):
+         total += nums[n]
+    return total 
+print(sum_list([10, 20, 30]))",,,,,,
+411,2022-04-28 16:26:24.543,orusso@ucsd.edu,,,,,,,,,,,,"The issue with the code is that it performs the iterations for the wrong variable and wrong sequence. Instead of summing up the elements in the list, it just adds up the indexes of the range(3). To fix the issue, we must change line 4 to make it perform iterations in each element in the list. 
+
+def sum_list(nums):
+   total = 0
+   for n in nums:
+      total += n
+   return total
+",,,,,,
+412,2022-04-28 16:26:27.098,xw001@ucsd.edu,,,,,,,,,,,,"The total is adding numbers in range 0 to 2 together, yielding a result of 3. To fix this, the fourth line should be replaced with total += sum_list[n].",,,,,,
+413,2022-04-28 16:26:38.919,wha@ucsd.edu,,,,,,,,,,,,Change range(len(nums)) to nums. You want the system is look at the numbers in the list nums. Not from 0 to 3(exclusive) which is what the range(len(nums)) gives you.,,,,,,
+414,2022-04-28 16:26:42.340,chuffman@ucsd.edu,,,,,,,,,,,,"Line 4 is changes the value of total to total + n. Instead, this line should be total= total + n",,,,,,
+415,2022-04-28 16:26:59.623,arodrigues@ucsd.edu,,,,,,,,,,,,,,"If the user enters “Iliana” as the input for name, the program will print ""Thank you, Iliana!"", If the user does not enter any name and presses enter, the program will print ""Invalid Name!""",,,,
+416,2022-04-28 16:27:02.939,ajett@ucsd.edu,True,float,"2 , 1","""2"" * ""3"", ""2"" + 3",20.0,"The console will display ""4242"" as a result of the print statement because input returns a string form of the user's input, thus num is a string that is replicated twice.","There are two type conversions happening, first a string to a float, then a float to an integer. Thus, num becomes 3 because of int, and prints num = 3.","def find_max(x, y, z):
+    if x > y and x > z:
+        return x
+    elif y > x and y > z:
+        return y
+    else:
+        return z",0.0,,"lst[1], lst[-2]","The issue is the for loop statement since n in the range of the length of the list will give an index value. In the call, the range would be from 0 to 2, so adding each n is 0 + 1 + 2, thus 3. So, the addition is correct, but the values need to be the actual values of the list instead of the index values—so instead of range it should just be nums.
+def sum_list(nums):
+    total = 0
+    for n in nums:
+        total += n
+    return total",,,,,,
+417,2022-04-28 16:27:13.255,e1lee@ucsd.edu,,,,,,,,,,,,The issue is the for statement is written incorrectly. The statement in the code says for n in range(len(nums)): and range(len(nums)) is equal to 3. This leads to n being equal to three and nothing else. Instead of this it should be for n in nums. This would go through every element in the list of numbers and add them.,,,,,,
+418,2022-04-28 16:27:21.388,ktl001@ucsd.edu,,,,,,,,,,,,"the for loop is written wrong because the range(len(nums) is taking the rage to be length of nums which would add the index rather then the numbers of the list, instead replace that with just num and the for loop will run through the numbers in the list
+for n in nums:
+     total +=n 
+return total
+",,,,,,
+419,2022-04-28 16:27:28.236,srachapudi@ucsd.edu,,,,,,,,,,,,"n in range if len of nums will take numbers from 0-3. so its adding 0 + 1 + 3. instead of taking range from len nums we have to write ""for n in nums""",,,,,,
+420,2022-04-28 16:27:44.102,jpenaloz@ucsd.edu,,,,,,,,,,,,"the issue with the code is the range(len(nums)) you would rewrite it as:
+def sum_list(nums):
+    total = 0
+    for n in nums:
+        total += n
+    return total",,,,,,
+421,2022-04-28 16:27:46.539,ijjones@ucsd.edu,,,,,,,,,,,,its is returning the amount of times it iterating the list. You need a variable to store the value at index n then sum them together ,,,,,,
+422,2022-04-28 16:27:47.997,kpompa@ucsd.edu,,,,,,,,,,,,The variable n needs to be defined so that the actual int is added to the list. Instead what was printed was the index of the total. ,,,,,,
+423,2022-04-28 16:27:48.502,djlakhani@ucsd.edu,,,,,,,,,,,,"the issue with the code is that range(len(nums)) will iterate over the ""wrong"" list. To access every individual element of the list you need to iterate over the list not a range of numbers.
+
+def sum_list(nums):
+    total = 0
+    for n in nums:
+        total = total + n
+    return total",,,,,,
+424,2022-04-28 16:28:10.545,dderasar@ucsd.edu,,,,,,,,,,,,"The issue here is that the loop is compiling and running the addition of the number of elements in the list rather than the addition of the elements of the list. To fix the issue, we need to change the conditions of the for loop. The correct version would be =
+
+def sum_list(nums):
+    total = 0
+    for n in nums:
+        total += n
+return total ",,,,,,
+425,2022-04-28 16:28:19.380,rmerino@ucsd.edu,,,,,,,,,,,,"The issue with the code is that it uses the len function on nums which make it so the for loop does not cycle through the lists' elements, but the length of list. To fix it take out the len function",,,,,,
+426,2022-04-28 16:28:22.163,liz007@ucsd.edu,,,,,,,,,,,,Because the function did not add the numbers in the list but instead combined it.,,,,,,
+427,2022-04-28 16:28:27.971,cwalstromvangor@ucsd.edu,True,int,"2 , 1","""2"" * ""3"", ""2"" + 3",20.0,"Due to the fact that the variable num is never specified as a int, python will assume it's a string and therefore treat it as such printing, 4242. If the programmer wanted to get 84 to be printed, they would need to specify that num = int(input(""Enter a number: "")).","The first type is float() takes the input that is entered and makes it a integer number, which means the programmer is telling python that the input is going to be a number with a decimal place. Then, int() is called which tells python to take away anything after the decimal place, in this case making 3.14 into 3. So what will be printed if the user inputs 3.14 is num = 3.","def find_max(x, y, z):
+       if x > y and x > z:
+                return x
+       elif y > x and y > z:
+                return y
+       else:
+                return z",0.0,"def greeting(hour):
+    if hour in range(0,12):
+        return ""Good Morning""
+    elif hour in range(12,19):
+        return ""Good Afternoon""
+    elif hour in range(19,24):
+        return ""Good Evening""
+    else:
+        return ""hour is invalid""
+
+hour = #input whatever hour here
+print(greeting(hour))","lst[1], lst[-2]","The issue here is that the for loop is iterating though the indexes in the list instead of the actual numbers in the list. To fix this issue change it to iterating through the characters in the list, consider:
+def sum_list(nums):
+	    total = 0
+	    for num in nums:
+	        total += num
+	    return total
+	print(sum_list([10, 20, 30]))
+",0.0,"If the user enters “Iliana” as the input for name, the program will print ""Thank you, Iliana!"", If the user does not enter any name and presses enter, the program will print ""Invalid Name!""","def get_username(email):
+    list1 = list(email)
+    list2 = list1[:list1.index(""@"")]
+    final = """".join(list2)
+    return final
+    
+
+# Sample test cases
+print(get_username(""gerald@eng.ucsd.edu""))
+print(get_username(""melsherief@eng.ucsd.edu"")) ",I didn't really learned anything new but it was a really helpful review for the midterm.,None.,This was very helpful!
+428,2022-04-28 16:28:37.620,kmadriaga@ucsd.edu,,,,,,,,,,,,"the issue is we used range(len(nums)): this results in using the length of the list, which is 3 and range(3) = 0, 1, 2.
+
+Corrected version: 
+def sum_list(nums):
+	total = 0
+	for n in nums:
+		total += n 
+	return total ",,,,,,
+429,2022-04-28 16:29:05.892,xw001@ucsd.edu,,,,,,,,,,"if hour < 0 or hour > 23:
+      return ""hour is invalid""
+elif hour >= 0 and hour <= 11:
+      return ""Good Morning""
+elif hour >= 12 and hour <= 18:
+      return “Good Afternoon”
+else:
+      return “Good Evening”",,,,,,,,
+430,2022-04-28 16:29:23.111,erguerrero@ucsd.edu,,,,,,,,,,,,"The issue is that for every number in the list, it will add 1 to the total, instead of adding the value of the list. It should say:
+def sum_list(nums):
+     total = 0
+     for n in nums:
+          total += 
+     return total",,,,,,
+431,2022-04-28 16:30:21.370,weh009@ucsd.edu,,,,,,,,,,,,"def sum_list(nums):
+    total = 0
+    for n in nums:
+        total += n
+    return total
+nums= [10, 20, 30]
+# Expected: 60 but got: 3
+print(sum_list(nums))
+
+It should look for the value of n in nums not the index value.",,,,,,
+432,2022-04-28 16:30:42.347,erko@ucsd.edu,,,,,,,,,,,,"The issue is that n goes through the range of the length of nums, which takes the index thus getting the result of 3.",,,,,,
+433,2022-04-28 16:31:42.184,arodrigues@ucsd.edu,,,,,,,,,,,,,,,"def get_username(email):
+    return (email.split(""@""))[0]",,,
+434,2022-04-28 16:31:49.346,mareece@ucsd.edu,,,,,,,,,,,,"used the range(len()) function which returned 3 instead of putting the numbers. The function is adding the index values instead of the values of the list, thus it is adding 0 + 1 + 2. Instead, just use nums as it is the list itself.",,,,,,
+435,2022-04-28 16:33:26.996,erko@ucsd.edu,,,,,,,,,,,,,0.0,,,,,
+436,2022-04-28 16:33:52.629,xw001@ucsd.edu,,,,,,,,,,,,"The total is adding numbers in range 0 to 2 together, yielding a result of 3. To fix this, the fourth line should be replaced with total += nums[n].",,,,,,
+437,2022-04-28 16:35:52.105,kel015@ucsd.edu,,,,,,,,,,,,"""total"" is the initialization, and total+=n essentially means total = total + n. n represents each item within the list. This list has 3 times, so total = 0 + 1 + 2 after all iterations. This is why 3 was returned. To get 60, we would need to change range() to just nums(), as range refers to the indexes of the list.",,,,,,
+438,2022-04-28 16:35:53.025,ajett@ucsd.edu,True,float,"2 , 1","""2"" * ""3"", ""2"" + 3",20.0,"The console will display ""4242"" as a result of the print statement because input returns a string form of the user's input, thus num is a string that is replicated twice.","There are two type conversions happening, first a string to a float, then a float to an integer. Thus, num becomes 3 because of int, and prints num = 3.","def find_max(x, y, z):
+    if x > y and x > z:
+        return x
+    elif y > x and y > z:
+        return y
+    else:
+        return z",0.0,,"lst[1], lst[-2]","The issue is the for loop statement since n in the range of the length of the list will give an index value. In the call, the range would be from 0 to 2, so adding each n is 0 + 1 + 2, thus 3. So, the addition is correct, but the values need to be the actual values of the list instead of the index values—so instead of range it should just be nums.
+def sum_list(nums):
+    total = 0
+    for n in nums:
+            total += n
+    return total",0.0,,,,,
+439,2022-04-28 16:36:09.181,djlakhani@ucsd.edu,,,,,,,,,,,,,0.0,,,,,
+440,2022-04-28 16:36:09.494,sil049@ucsd.edu,True,float,"2 , 1","""2"" * ""3"", ""2"" + 3",20.0,"It will print ""num * 2 = 4242"". In the ""print"", ""num * 2 ="" is a string. So the program will print exactly these characters. After the comma, the string ""num"" will time 2, meaning the output after the comma will be a string ""4242"".","The input ""3.14"" at first is a string. Then, it becomes a float after the float conversion. Finally, it becomes ""3"", an integer. So in the print, the value ""3"" is stored in ""num"". There are two type conversions - string to float and float to integer. ","def find_max(x, y, z):
+    if x > y and x > z:
+        return x
+    elif y > x and y> z:
+        return y
+    else:
+        return z       ",0.0,"    if hour >= 0 or hour <= 11:
+        return ""Good Morning""
+    elif hour >= 12 and hour <= 18:
+        return ""Good Afternoon""
+    elif hour >= 19 and hour <= 23:
+        return ""Good Evening""
+    else:
+        return ""hour is invalid""","lst[1], lst[-2]","def sum_list(nums):
+    total = 0
+    for n in range(len(nums)):
+        total += nums[n]
+    return total
+The issue is that the original function calculates the sum of indice. What we need is the sum of the list of numbers. So I changed total += n to total += nums[n], where n is index of each number in the list. ",0.0,"If the user enters “Iliana” as the input for name, the program will print ""Thank you, Iliana!"", If the user does not enter any name and presses enter, the program will print ""Invalid Name!""","    username = email[:-13]
+    return username",I learned to pay attention to the precedence and data types. I also realize to be careful to all the details.,No. ,It was very helpful.
+441,2022-04-28 16:36:14.569,tnduong@ucsd.edu,,,,,,,,,,,,,0.0,,,,,
+442,2022-04-28 16:36:16.435,erguerrero@ucsd.edu,,,,,,,,,,,,,1.0,,,,,
+443,2022-04-28 16:36:20.615,aadarwis@ucsd.edu,,,,,,,,,,,,,1.0,,,,,
+444,2022-04-28 16:36:24.207,e1lee@ucsd.edu,,,,,,,,,,,,,0.0,,,,,
+445,2022-04-28 16:36:26.388,mbannai@ucsd.edu,True,float,"2 , 1","""2"" * ""3"", ""2"" + 3",20.0,"num acts as a variable in this and in the print statement, it will multiply the string by 2, so you will get 4242.","2 because you will get a string, that will be converted to a float (3.14), which will then be converted to an integer (3).","def find_max(x,y,z):
+    if x>y and x>z:
+        return x
+    elif y>x and y>z:
+        return y
+    else:
+        return z",0.0,,"lst[1], lst[-2]","in the for loop statement, they wrote for n in range(len(nums)) which adds the indexes, not the values. To fix this, change the for statement to for n in nums.
+
+def sum_list(nums):
+    total=0
+    for n in nums:
+        total+=n
+    return total",0.0,,,,,
+446,2022-04-28 16:36:26.989,kmochizuki@ucsd.edu,,,,,,,,,,,,,0.0,,,,,
+447,2022-04-28 16:36:31.976,xw001@ucsd.edu,,,,,,,,,,,,,0.0,,,,,
+448,2022-04-28 16:36:33.654,rmerino@ucsd.edu,,,,,,,,,,,,,0.0,,,,,
+449,2022-04-28 16:36:36.458,yiw080@ucsd.edu,,,,,,,,,,,,,0.0,,,,,
+450,2022-04-28 16:36:36.784,wha@ucsd.edu,,,,,,,,,,,,,0.0,,,,,
+451,2022-04-28 16:36:39.672,kpompa@ucsd.edu,,,,,,,,,,,,,0.0,,,,,
+452,2022-04-28 16:36:40.088,myk001@ucsd.edu,,,,,,,,,,,,,1.0,,,,,
+453,2022-04-28 16:36:45.107,dcui@ucsd.edu,,,,,,,,,,,,,0.0,,,,,
+454,2022-04-28 16:36:47.390,melai@ucsd.edu,,,,,,,,,,,,,0.0,,,,,
+455,2022-04-28 16:36:52.121,liz007@ucsd.edu,,,,,,,,,,,,,1.0,,,,,
+456,2022-04-28 16:36:52.567,srachapudi@ucsd.edu,,,,,,,,,,,,,0.0,,,,,
+457,2022-04-28 16:36:55.536,mareece@ucsd.edu,,,,,,,,,,,,,0.0,,,,,
+458,2022-04-28 16:36:58.349,ijjones@ucsd.edu,,,,,,,,,,,,,0.0,,,,,
+459,2022-04-28 16:37:00.979,weh009@ucsd.edu,,,,,,,,,,,,,0.0,,,,,
+460,2022-04-28 16:37:01.140,yuc096@ucsd.edu,,,,,,,,,,,,,0.0,,,,,
+461,2022-04-28 16:37:01.491,chartman@ucsd.edu,,,,,,,,,,,,"you shouldn't use range for this, as when we add and save the total, it will save the total of the index locations. 0+1+2 = 3. To fix this, we take out range and len, and just keep nums.
+def sum_list(nums):
+    total = 0
+    for n in nums:
+        total += n
+    return total 
+
+print(sum_list([10, 20, 30]))",0.0,,,,,
+462,2022-04-28 16:37:09.890,chuffman@ucsd.edu,,,,,,,,,,,,,0.0,,,,,
+463,2022-04-28 16:37:11.722,kel015@ucsd.edu,,,,,,,,,,,,,0.0,,,,,
+464,2022-04-28 16:37:13.367,arodrigues@ucsd.edu,,,,,,,,,,,,,,,,"In today's class I didn't really learn anything new. It did, however, serve as a really good review for me to remember the concepts we have learned so that I can apply them so the midterm this upcoming weekend!",I do not have questions and did not find lecture confusing.,It was definitely helpful! Going through many of the concepts we have learned during lecture was a great way to refresh my memory of the stuff we have learned so far.
+465,2022-04-28 16:37:19.886,ktl001@ucsd.edu,,,,,,,,,,,,,0.0,,,I learned that input variables are strings. I also learned that range can be used in for loops to iterate through indexes. ,I found the reference and objects most confusing,It was very helpful I wished there were more challenging problems and writing excersises. 
+466,2022-04-28 16:37:23.522,yif011@ucsd.edu,,,,,,,,,,,,d,0.0,,,,,
+467,2022-04-28 16:37:25.531,erko@ucsd.edu,,,,,,,,,,,,,,"If the user enters “Iliana” as the input for name, the program will print ""Thank you, Iliana!"", If the user does not enter any name and presses enter, the program will print ""Invalid Name!""",,,,
+468,2022-04-28 16:37:33.651,xuz027@ucsd.edu,,,,,,,,,,,,,0.0,,,,,
+469,2022-04-28 16:37:42.629,dderasar@ucsd.edu,,,,,,,,,,,,,1.0,,,,,
+470,2022-04-28 16:38:03.205,kpompa@ucsd.edu,,,,,,,,,,,,,,"If the user enters “Iliana” as the input for name, the program will print ""Thank you, Iliana!"", If the user does not enter any name and presses enter, the program will print ""Invalid Name!""",,,,
+471,2022-04-28 16:38:21.218,jpenaloz@ucsd.edu,,,,,,,,,,,,,0.0,,,,,
+472,2022-04-28 16:39:20.072,jmamarad@ucsd.edu,True,float,"2 , 1","""2"" * ""3"", ""2"" + 3",20.0,"The code will print ""num * 2 = 84"" because the first line of code stores 42 in num, and the second line of code will print a string alongside the integer product of num and 2. An int and str are able to be printed together in this instance because they are separated by a comma and are not being concatenated.","There are two type conversions happening, the first being a float conversion and the second being an int conversion. Assuming the user enters 3.14, the program will print ""num = 3"" since converting a float value into an int will cut off everything after the decimal point. ","def find_max(x,y,z):
+    if x > y and x > z:
+        return x
+    elif y > x and y > z:
+        return y
+    else:
+        return z ",0.0,"def print_greeting(hour):
+    hour = input('Enter hour between 1-23: ')
+    if hour >= 0 or hour <= 11:
+        return 'Good Morning'
+    elif hour >= 12 or hour <= 18:
+        return 'Good Afternoon'
+    elif hour >=19 or hour <= 23:
+        return 'Good Evening'
+    elif hour < 0 or hour > 23:
+        return 'hour is invalid'","lst[1], lst[-2]","def sum_list(nums):
+    total = 0 
+    for n in nums:
+        total += n
+    return total",0.0,"If the user enters “Iliana” as the input for name, the program will print ""Thank you, Iliana!"", If the user does not enter any name and presses enter, the program will print ""Invalid Name!""","def get_username(email):
+    spl_email = email.split('@')
+    username = spl_email[0]
+    return username ",,,It was very helpful! I don't often have classes that hold review sessions that go this in depth. I now have a better awareness of what I need to study for the midterm. 
+473,2022-04-28 16:39:36.117,e1lee@ucsd.edu,,,,,,,,,,,,,,"If the user enters “Iliana” as the input for name, the program will print ""Thank you, Iliana!"", If the user does not enter any name and presses enter, the program will print ""Invalid Name!""",,,,
+474,2022-04-28 16:40:49.431,mareece@ucsd.edu,,,,,,,,,,,,,,"If the user enters “Iliana” as the input for name, the program will print ""Thank you, Iliana!"", If the user does not enter any name and presses enter, the program will print ""Invalid Name!""",,,,
+475,2022-04-28 16:41:05.133,dcui@ucsd.edu,,,,,,,,,,,,,,"If the user enters “Iliana” as the input for name, the program will print ""Thank you, Iliana!"", If the user does not enter any name and presses enter, the program will print ""Invalid Name!""",,,,
+476,2022-04-28 16:41:15.449,ajett@ucsd.edu,True,float,"2 , 1","""2"" * ""3"", ""2"" + 3",20.0,"The console will display ""4242"" as a result of the print statement because input returns a string form of the user's input, thus num is a string that is replicated twice.","There are two type conversions happening, first a string to a float, then a float to an integer. Thus, num becomes 3 because of int, and prints num = 3.","def find_max(x, y, z):
+    if x > y and x > z:
+            return x
+    elif y > x and y > z:
+            return y
+    else:
+            return z",0.0,,"lst[1], lst[-2]","The issue is the for loop statement since n in the range of the length of the list will give an index value. In the call, the range would be from 0 to 2, so adding each n is 0 + 1 + 2, thus 3. So, the addition is correct, but the values need to be the actual values of the list instead of the index values—so instead of range it should just be nums.
+def sum_list(nums):
+    total = 0
+    for n in nums:
+            total += n
+    return total",0.0,"If the user enters “Iliana” as the input for name, the program will print ""Thank you, Iliana!"", If the user does not enter any name and presses enter, the program will print ""Invalid Name!""",,,,
+477,2022-04-28 16:41:18.926,melai@ucsd.edu,,,,,,,,,,,,,,"If the user enters “Iliana” as the input for name, the program will print ""Thank you, Iliana!"", If the user does not enter any name and presses enter, the program will print ""Invalid Name!""",,,,
+478,2022-04-28 16:41:19.181,wha@ucsd.edu,,,,,,,,,,,,,,"If the user enters “Iliana” as the input for name, the program will print ""Thank you, Iliana!"", If the user does not enter any name and presses enter, the program will print ""Invalid Name!""",,,,
+479,2022-04-28 16:41:20.403,rmerino@ucsd.edu,,,,,,,,,,,,,,"If the user enters “Iliana” as the input for name, the program will print ""Thank you, Iliana!"", If the user does not enter any name and presses enter, the program will print ""Invalid Name!""",,,,
+480,2022-04-28 16:41:29.261,kmadriaga@ucsd.edu,,,,,,,,,,,,,0.0,"If the user enters “Iliana” as the input for name, the program will print ""Thank you, Iliana!"", If the user does not enter any name and presses enter, the program will print ""Invalid Name!""",,,,
+481,2022-04-28 16:41:30.943,tnduong@ucsd.edu,,,,,,,,,,,,,,"If the user enters “Iliana” as the input for name, the program will print ""Thank you, Iliana!"", If the user does not enter any name and presses enter, the program will print ""Invalid Name!""",,,,
+482,2022-04-28 16:41:37.453,erguerrero@ucsd.edu,,,,,,,,,,,,,,"If the user enters “Iliana” as the input for name, the program will print ""Thank you, Iliana!"", If the user does not enter any name and presses enter, the program will print ""Invalid Name!""",,,,
+483,2022-04-28 16:41:44.138,xw001@ucsd.edu,,,,,,,,,,,,,,"If the user enters “Iliana” as the input for name, the program will print ""Thank you, Iliana!"", If the user does not enter any name and presses enter, the program will print ""Invalid Name!""",,,,
+484,2022-04-28 16:41:48.926,djlakhani@ucsd.edu,,,,,,,,,,,,,,"If the user enters “Iliana” as the input for name, the program will print ""Thank you, Iliana!"", If the user does not enter any name and presses enter, the program will print ""Invalid Name!""",,,,
+485,2022-04-28 16:41:50.770,ktl001@ucsd.edu,,,,,,,,,,,,,,"If the user enters “Iliana” as the input for name, the program will print ""Thank you, Iliana!"", If the user does not enter any name and presses enter, the program will print ""Invalid Name!""",,,,
+486,2022-04-28 16:41:50.946,kmochizuki@ucsd.edu,,,,,,,,,,,,,,"If the user enters “Iliana” as the input for name, the program will print ""Thank you, Iliana!"", If the user does not enter any name and presses enter, the program will print ""Invalid Name!""",,,,
+487,2022-04-28 16:41:51.813,aadarwis@ucsd.edu,,,,,,,,,,,,,,"If the user enters “Iliana” as the input for name, the program will print ""Thank you, Iliana!"", If the user does not enter any name and presses enter, the program will print ""Invalid Name!""",,,,
+488,2022-04-28 16:41:57.077,kel015@ucsd.edu,,,,,,,,,,,,,,"If the user enters “Iliana” as the input for name, the program will print ""Thank you, Iliana!"", If the user does not enter any name and presses enter, the program will print ""Invalid Name!""",,,,
+489,2022-04-28 16:41:57.685,mbannai@ucsd.edu,True,float,"2 , 1","""2"" * ""3"", ""2"" + 3",20.0,"num acts as a variable in this and in the print statement, it will multiply the string by 2, so you will get 4242.","2 because you will get a string, that will be converted to a float (3.14), which will then be converted to an integer (3).","def find_max(x,y,z):
+    if x>y and x>z:
+        return x
+    elif y>x and y>z:
+        return y
+    else:
+        return z",0.0,,"lst[1], lst[-2]","in the for loop statement, they wrote for n in range(len(nums)) which adds the indexes, not the values. To fix this, change the for statement to for n in nums.
+
+def sum_list(nums):
+    total=0
+    for n in nums:
+        total+=n
+    return total",0.0,"If the user enters “Iliana” as the input for name, the program will print ""Thank you, Iliana!"", If the user does not enter any name and presses enter, the program will print ""Invalid Name!""",,,,
+490,2022-04-28 16:42:05.133,jpenaloz@ucsd.edu,,,,,,,,,,,,,,"The while loop will never terminate!, If the user enters “Iliana” as the input for name, the program will print ""Thank you, Iliana!"", If the user does not enter any name and presses enter, the program will print ""Invalid Name!""",,,,
+491,2022-04-28 16:42:05.665,ijjones@ucsd.edu,,,,,,,,,,,,,,"If the user enters “Iliana” as the input for name, the program will print ""Thank you, Iliana!"", If the user does not enter any name and presses enter, the program will print ""Invalid Name!""",,,,
+492,2022-04-28 16:42:05.743,liz007@ucsd.edu,,,,,,,,,,,,,,"If the user enters “Iliana” as the input for name, the program will print ""Thank you, Iliana!"", If the user does not enter any name and presses enter, the program will print ""Invalid Name!""",,,,
+493,2022-04-28 16:42:06.304,dderasar@ucsd.edu,,,,,,,,,,,,,,"If the user enters “Iliana” as the input for name, the program will print ""Thank you, Iliana!"", If the user does not enter any name and presses enter, the program will print ""Invalid Name!""",,,,
+494,2022-04-28 16:42:11.203,yuc096@ucsd.edu,,,,,,,,,,,,,,"The while loop will never terminate!, If the user enters “Iliana” as the input for name, the program will print ""Thank you, Iliana!"", If the user does not enter any name and presses enter, the program will print ""Invalid Name!""",,,,
+495,2022-04-28 16:42:13.134,chuffman@ucsd.edu,,,,,,,,,,,,,,"The while loop will never terminate!, If the user enters “Iliana” as the input for name, the program will print ""Thank you, Iliana!"", If the user does not enter any name and presses enter, the program will print ""Invalid Name!""",,,,
+496,2022-04-28 16:42:13.638,yiw080@ucsd.edu,,,,,,,,,,,,,,"If the user enters “Iliana” as the input for name, the program will print ""Thank you, Iliana!"", If the user does not enter any name and presses enter, the program will print ""Invalid Name!""",,,,
+497,2022-04-28 16:42:15.082,myk001@ucsd.edu,,,,,,,,,,,,,,"If the user does not enter any name and presses enter, the program will print ""Invalid Name!""",,"I have learnt I still had a  minor confusions from the basic usage of python such as booleans, or types of the python. Also i have noticed that there are multiple different ways to corrrect the inforrect coding. ",,
+498,2022-04-28 16:42:16.000,xuz027@ucsd.edu,,,,,,,,,,,,,0.0,"If the user enters “Iliana” as the input for name, the program will print ""Thank you, Iliana!"", If the user does not enter any name and presses enter, the program will print ""Invalid Name!""",,,,
+499,2022-04-28 16:42:16.930,srachapudi@ucsd.edu,,,,,,,,,,,,,,"If the user enters “Iliana” as the input for name, the program will print ""Thank you, Iliana!"", If the user does not enter any name and presses enter, the program will print ""Invalid Name!""",,,,
+500,2022-04-28 16:42:35.865,h4zheng@ucd.edu,False,float,"2 , 1","""2"" * ""3"", ""2"" + 3",20.0,"First the num will be equal to 42, then it will print out ""num * 2 = 84"".","first number 3.14 will be put in as a string, then converted to a float number, then converted to an int number, which makes the output printed out as ""num = 3"".","def find_max(x, y, z):
+      if x > y and x >z:
+          return x
+      elif y > x and y > z:
+          return y
+      else:
+      return z",1.0,,"lst[1], lst[-2]",should be total += nums[n],0.0,"If the user enters “Iliana” as the input for name, the program will print ""Thank you, Iliana!"", If the user does not enter any name and presses enter, the program will print ""Invalid Name!""",,Midterm is due Monday 10AM.,none.,Yes it was helpful.
+501,2022-04-28 16:42:36.317,asawyer@ucsd.edu,,,,"""2"" * ""3"", ""2"" + 3",,,,"def find_max(x, y, z):
+     if x>y and x>z:
+          return x
+     if y>x and y>z:
+          return y
+     else:
+          return z",0.0,,"lst[1], lst[-2]","
+",,"If the user enters “Iliana” as the input for name, the program will print ""Thank you, Iliana!"", If the user does not enter any name and presses enter, the program will print ""Invalid Name!""",,,,
+502,2022-04-28 16:43:10.145,j6xu@ucsd.edu,False,float,"1 , 1","""2"" + ""3"", ""2"" * ""3"", ""2"" + 3",20.0,num*2 = 4242 will be executed because the default of the input is a string when num*2 is only going to print out the string twice. ,two types of conversions are happening in the code above: int and float. num = 3 will be printed out.,"def, if, return x, elif, return y, else, return z",0.0,,lst[-2],"n is the index of the list. the code return three because there are only 0, 1, 2 index in the list by changing total += n to total += nums[n] would fix the issue.",0.0,"If the user enters “Iliana” as the input for name, the program will print ""Thank you, Iliana!"", If the user does not enter any name and presses enter, the program will print ""Invalid Name!""",,,,
+503,2022-04-28 16:43:23.645,erguerrero@ucsd.edu,,,,,,,,,,,,,,,,One key idea I learned more about was the range. That is something I did not fully understand previously but now i am able to understand it way more.,"I found the errors section most confusing but after looking at it again, it makes way more sense.","Overall, everything was generally helpful, but more personal reflection and studying needs to occur to be more prepared."
+504,2022-04-28 16:43:50.075,weh009@ucsd.edu,,,,,,,,,,,,,,"If the user does not enter any name and presses enter, the program will print ""Invalid Name!""",,,,
+505,2022-04-28 16:44:46.238,d4sanchez@ucsd.edu,True,float,"2 , 2","""2"" * ""3"", ""2"" + 3",5.0,"""numnum =4242"" 
+
+The word ""num"" is printed twice due to the multiplication by 2, and the variable num with the value ""42"" as a string is printed twice","String converted into float, which is then converted into an integer, which is then included into the print ""num = 3""","def find_max(x, y, z):
+     if x > y and x > z
+         return x
+     elif y > x and y > z
+          return y
+     else:
+           return z",0.0,"def print_greeting(hour)
+     if hour == range(0, 12):
+                print(""Good morning"")
+     if hour == range(12, 19):
+                print(""Good afternoon"")
+     if hour == range(19, 24):
+                print(""Good evening"")
+     else:
+                 print(""hour is invalid"")
+
+print_greeting(param)","lst[1], lst[-2]","Change for n in range(len(nums)): to ""for n in nums:"" and total += int(n)",0.0,"If the user enters a number as the input for name (e.g., 123), the program will print ""Invalid Name!""",,Further knowledge of stacking if conditions.  Also further understanding of while loops,None,None
+506,2022-04-28 16:45:18.877,mhle@ucsd.edu,True,float,"2 , 1","""2"" * ""3"", ""2"" + 3",20.0,4242 would be printed because num is a string. ,two type conversions: float and int and 3 would be the output. ,"def find_max(x,y,z):
+    if x > y and x>z:
+         return x
+     elif y >x and y>z:
+          return y
+      else:
+            return z",0.0,"if hour < 12:
+    return (""Good Morning"")
+elif hour <19:
+    return (""Good Afternoon"")
+elif hour < 24:
+      return (""Good Evening"")
+else: 
+      return (""hour is invalid"")","lst[1], lst[-2]","Issue: you are adding the positions of the elements together. 
+The body of the code should look like:
+total = 0 
+for n in range(len(nums)):
+     total += nums [n]
+return total ",0.0,"If the user enters “Iliana” as the input for name, the program will print ""Thank you, Iliana!"", If the user does not enter any name and presses enter, the program will print ""Invalid Name!""","new = email.split(""@"")
+return new[0]",Today I reviewed all of the concepts that will be on the midterm. From this review I remembered the order of precedence for certain functions. ,The most confusing problems are the parsons problems. ,It was helpful going through each section again from day 1. 
+507,2022-04-28 16:46:12.097,djlakhani@ucsd.edu,,,,,,,,,,,,,,,"def get_username(email):
+    a = email.split(""@"")
+    return a[0]",,,
+508,2022-04-28 16:46:39.462,orusso@ucsd.edu,,,,,,,,,,,,,0.0,"If the user enters “Iliana” as the input for name, the program will print ""Thank you, Iliana!"", If the user does not enter any name and presses enter, the program will print ""Invalid Name!""","def get_username(email):
+   email_split = email.split(""@"")
+   username = email_split[0]
+   return username","One key idea that I learned in class is the idea of interchanging the values of two variables. To do this, you need to define a third variable that is equal to the first variable so the value will not be forgotten.","The most confusing part of today's lecture was the question regarding to references, objects, and methods. ","The midterm review was very helpful in reminding very basic concepts, but I have a feeling that the midterm itself will be much harder and the level will be incomparable to this. "
+509,2022-04-28 16:46:42.932,wha@ucsd.edu,,,,,,,,,,,,,,,"new = email.split(""@"")
+return new[0]",,,
+510,2022-04-28 16:47:06.975,spaull@ucsd.edu,True,float,"2 , 1","""2"" * ""3"", ""2"" + 3",20.0,"When the following lines are executed it would print num * 2 = 4242 because it will print the string ""num * 2 ="" and then execute the multiplication of a string (""42"") *2.","there are two types of conversions happening in the code, which is converting a string into a float, then the float into an integer. If the user enters 3.14 it will print num = 3. ","def find_max(x,y,z):
+       if x>y and x>z:
+              return x
+       elif y >x and y>z:
+              return y
+       else:
+              return z",0.0,"if hour<=11 and hour>=0: 
+       return ""Good Morning""
+elif hour>= 12 and hour <= 18:
+        return ""Good Afternoon""
+elif hour >= 19 and hour <= 23:
+        return ""Good Evening""
+else:
+        return ""hour is invalid""","lst[1], lst[-2]",When running the for loop n is the range of the length of the list and not the actual values within the list. To fix the issue you would replace of range(len(nums)) with nums. ,0.0,"If the user enters “Iliana” as the input for name, the program will print ""Thank you, Iliana!"", If the user does not enter any name and presses enter, the program will print ""Invalid Name!""","x = email.split(@)
+return x[0]",One key idea that I learned in today's class was to read the questions carefully and to explain my answer thoroughly. By reading the questions I will fully understand what it is asking me to do and by explaining my answer with a lot of details this will allow the grader to understand my thought process. ,I found that variables was the most confusing about today's lecture. ,It was helpful
+511,2022-04-28 16:47:21.526,rdwong@ucsd.edu,,,,,,,,,,,,,,,,,I'm confused about the newer concepts like stacking but I will review that on my own. ,"I think the midterm review was helpful. It was nice to review topics that I have not seen in a long time such as basic division, float, etc. Reviewing the fundamentals is highly important for my success. "
+512,2022-04-28 16:47:23.602,cbishop@ucsd.edu,True,float,"2 , 1","""2"" * ""3"", ""2"" + 3",20.0,"it will print ""num * 2 = 4242"" because input creates a string","first it converts the input into a float from a string, and then converts that float into an integer. in the end it will print ""num = 3""","def 
+tab if
+2 tab return x
+tab elif
+2 tab return y
+tab else
+2 tab return z
+",0.0,"if time >= 0:
+print (""Good Morning"")
+elif time >= 12:
+print(""Good Afternoon"")
+elif time >= 19:
+print ""Good Evening""
+else: 
+print(""hour is invalid"")","lst[1], lst[-2]",instead of range(len(nums)) it should just be  for n in nums.,0.0,"If the user enters “Iliana” as the input for name, the program will print ""Thank you, Iliana!"", If the user does not enter any name and presses enter, the program will print ""Invalid Name!""","split_email = email.split('@')
+print (split_email[0])",Review. ,,I think it was quite helpful. Maybe we could do more coding examples.
+513,2022-04-28 16:47:30.615,aadarwis@ucsd.edu,,,,,,,,,,,,,,,,That i need to really review string methods. I also need to review while loops ,,Extremely helpful thank you
+514,2022-04-28 16:47:30.660,tnduong@ucsd.edu,,,,,,,,,,,,,,,"def get_username(email):
+username = “”
+i = email.index(“@“)
+for x in email[:i]:
+username += x
+return username",,,
+515,2022-04-28 16:47:36.185,xuz027@ucsd.edu,,,,,,,,,,,,,,,"temp = email.split(""@"")
+return temp[0]
+",,,
+516,2022-04-28 16:47:47.803,rmerino@ucsd.edu,,,,,,,,,,,,,,,"def get_username(email):
+       for letter in email:
+",,,
+517,2022-04-28 16:47:49.579,ijjones@ucsd.edu,,,,,,,,,,,,,,,"def get_username(email):
+    email = email.split(""@"")
+    email = email[0]
+    return email
+",,,
+518,2022-04-28 16:48:08.002,kmadriaga@ucsd.edu,,,,,,,,,,,,,,,"def get_username(email):
+      indx = email.index[“@“]
+      username = email[0:indx]
+      return username ",,,
+519,2022-04-28 16:48:27.249,evt.simona@gmail.com,True,float,"2 , 1","""2"" * ""3"", ""2"" + 3",20.0,"Since the user has to provide a response to the input, it will be ""42"" as a string not an integer. Then since this is multiplied by 2, it will be replicated as ""42 42."" The rest will be printed as is. ","This function is first a string, which is then converted into a float, and then into an integer.","def find_max(x,y,z):
+    if x > y and x > z:
+        return x
+    elif y > x and y > z:
+        return y
+    elif z > x and z > y:
+       return z",0.0,"def print_greeting(hour):
+if 0 < hour < 11:
+print ""Good Morning""
+if 12 < hour < 18
+print ""Good Afternoon""
+if 19 < hour < 23:
+print ""Good Evening""
+else:
+print ""Hour is invalid""","lst[1], lst[-2]","The issue is that the n and range is wrong for the index, I would reassign the variable n. ",1.0,"If the user enters “Iliana” as the input for name, the program will print ""Thank you, Iliana!"", If the user does not enter any name and presses enter, the program will print ""Invalid Name!""","username = input(""Enter username"")
+email_adress = username + ""eng@ucsd.edu""",A key idea that I learned in class today was a review of the precedence of equations. This was very helpful because it reminded me of the specific order I must interpret functions.,I am most confused about x = y a concept that reassigns the variables to each other. ,"I would like some more walking through, instead of consecutive practice problems."
+520,2022-04-28 16:48:30.425,dderasar@ucsd.edu,,,,,,,,,,,,,,,"The function is = 
+
+def get_username(email):
+       ",,,
+521,2022-04-28 16:48:31.424,ktl001@ucsd.edu,,,,,,,,,,,,,,,"def get_username(email)
+     email.split(""@"")
+     return email[0]",,,
+522,2022-04-28 16:48:32.126,chuffman@ucsd.edu,,,,,,,,,,,,,,,"def get_username(email):
+     email.split(“@“)
+     return email[0]",,,
+523,2022-04-28 16:48:32.214,dcui@ucsd.edu,,,,,,,,,,,,,,,"def get_username(email):
+    return email.split(""@"")[0]
+    
+    ",,,
+524,2022-04-28 16:48:38.188,weh009@ucsd.edu,,,,,,,,,,,,,,,"name = email.split(""@"")
+return name","Reviist past materials like order precedence. Proper execution of while and for loops. Using expressions etc, lists and times where it would result in errors.",Sometimes I would forget order precedence and that would mess up my answer.,I think it does a good job covering the basic topics for the midterm.
+525,2022-04-28 16:48:48.153,yuc096@ucsd.edu,,,,,,,,,,,,,,,"def get_username(email):
+        a = email.index('@')
+        return email[:a]",,,
+526,2022-04-28 16:49:19.995,srachapudi@ucsd.edu,,,,,,,,,,,,,,,,i need to review some earlier concepts,im still a little confused by the object reference one,"the review questions were helpful, i think it would've been nice to maybe do the review in small groups with a TA, so maybe in lab or discussion. "
+527,2022-04-28 16:49:20.189,e1lee@ucsd.edu,,,,,,,,,,,,,,"If the user does not enter any name and presses enter, the program will print ""Invalid Name!""","def get_username(email):
+    email = email.split(""@"")
+    return email[0]",,,
+528,2022-04-28 16:49:20.180,glepage@ucsd.edu,,,,,,,,,,,,,,,,It was review today but I did learn more about the stack functions. It was also useful to go over the call function again.,,"It was helpful, I did like how you went all the way back to the original content."
+529,2022-04-28 16:49:27.347,ecoulson@ucsd.edu,True,float,"2 , 1","""2"" * ""3"", ""2"" + 3",20.0,"it would be the number 42 replicated twice, and pushed together side by side 
+num  * 2 = 4242","the function will print num = 3 because it is a float inside an integer, so we will have to drop the decimal after 3. 
+we convert a string to a float, and then a float to an integer ","def find_max(x, y, z):
+       if x > y and x > z: 
+              return x
+      elif y > x and y > z:
+             return y
+      else:
+             return z ",0.0,"def print_greeting(hour):
+     if hour > 0 and hour < 12:
+           print(""Good Morning"")
+    if hour > 12 and hour < 19:
+          print(""Good Afternoon"")
+   if hour > 19 and hour < 24:
+         print(""Good Evening"")
+   if hour < 0 or >23
+        print(""hour in invalid"")","lst[1], lst[-2]","he wanted to get 60 because he wanted to get the sum of all of the numbers in the bracket. He got 3 instead because it added the index of the list instead of adding the numbers in the list. To fix this, we rewrite the range expression to say range(3) ",1.0,"If the user enters “Iliana” as the input for name, the program will print ""Thank you, Iliana!"", If the user does not enter any name and presses enter, the program will print ""Invalid Name!""","def get_username(email):
+    user1 = username 
+    user1.split@email
+    print(user1)",I learned how to fix an error in a for loop using range. ,how to use references and multiple methods. ,I think it was very helpful because we had at least one question that went over each topic that we had learned so far. 
+530,2022-04-28 16:49:31.390,jwhiteman@ucsd.edu,,,,,,,,,,,,,,,, I feel like I didn't learn anything it was just review. One thing that I need to work on is while loop.,I have no question but the most confusing stuff in loops.,I feel like the form was help as even when I got things wrong it help to see you explain my it was the answer it was. 
+531,2022-04-28 16:49:41.560,maliissa@ucsd.edu,False,int,"2 , 1","""2"" * ""3"", ""2"" + 3",20.0,Replication of strings.,"2 conversions are occuring; first is the integer conversion and the second is the float conversion.
+Putting 3.14 will print a value of 3.","def find_max(x, y, z):
+      if x > y and x > z:
+           return x
+     elif y > x and y > z:
+           return y
+      else:
+           return z",0.0,"def print_greeting(hour):
+        if 0 <= int(hour) <= 11:
+               return ""Good morning""
+       elif 12 <= int(hour) <= 18:
+               return ""Good Afternoon""
+       elif 19 <= int(hour) <= 23:
+               return ""Good evening""
+       else:
+              return ""hour is invalid""
+
+If we change the return statements to print statements, there should be no difference however we will receive a ""None"" statement at the bottom of our execution because the function is never returned.","lst[1], lst[-2]","The issue is with the for loop: ""for n in range(len(nums))""
+Len(nums) = 3
+Instead, here is a corrected version of the code:
+def sum_list(nums):
+       total = 0
+       for n in nums:
+           total += n
+       return total",1.0,"If the user enters “Iliana” as the input for name, the program will print ""Thank you, Iliana!"", If the user does not enter any name and presses enter, the program will print ""Invalid Name!""","def get_username(email):
+        email = input(""Enter your email address: "")
+        ""@"".split(email)
+        if email [0] = ""gerald"":
+             return (""The username in the email address gerald@eng.ucsd.edu is gerald"")
+        elif email[0] = ""mai""
+            return (""The username in the email address mai@eng.ucsd.edu is Mai"")",The usefulness of having a strong mastery over the basics,None,"It was super helpful, thanks!"
+532,2022-04-28 16:50:12.205,rdwong@ucsd.edu,,float,"1 , 1","""2"" * ""3""",10.0,,,,0.0,,lst[-1],,0.0,"If the user enters a number as the input for name (e.g., 123), the program will print ""Invalid Name!""",,,,
+533,2022-04-28 16:50:13.237,dcui@ucsd.edu,,,,,,,,,,,,,,,,That and takes precedence in order over or and that range defaults to step 1.,Methods,It was helpful
+534,2022-04-28 16:50:18.334,kel015@ucsd.edu,,,,,,,,,,,,,,,"parts = email.split(""@"")
+return parts[0]",,,
+535,2022-04-28 16:50:21.799,erko@ucsd.edu,,,,,,,,,,,,,,,"def get_username(email):
+     parts = email.split(""@"")
+     return parts[0]",,,
+536,2022-04-28 16:50:24.241,tnduong@ucsd.edu,,,,,,,,,,,,,,,,One key idea that I learned in today’s class is how to do the explanation writing question. I could answer the writing question and understand the concept of it. ,Nothing,It was more helpful if there are more videos of how to explain the code and answer writing question.
+537,2022-04-28 16:50:25.413,yiw080@ucsd.edu,,,,,,,,,,,,,,,,,,It is helpful
+538,2022-04-28 16:50:25.482,melai@ucsd.edu,,,,,,,,,,,,,,,"parts=email.split(""@"")
+return parts[0]",,,
+539,2022-04-28 16:50:26.323,mlinaresortega@ucsd.edu,True,int,"2 , 1","""2"" * ""3"", ""2"" + 3",20.0,"When the user inputs the number 42, it will store as a string. So it will print the string twice as it states in the print function, ""4242"".","the user entered is stored as a type of string which is then converted into a float, which means it will be stored with decimals, 3.14. Then it will, convert into an integer, which stores it as a whole number, so it will turn into 3.","def find_max(x,y,z):
+         if x>y and x>z:
+               return x
+         elif y>x and y>x:
+               return y
+         else:
+              return z",0.0,,lst[1],,0.0,"If the user enters “Iliana” as the input for name, the program will print ""Thank you, Iliana!"", If the user does not enter any name and presses enter, the program will print ""Invalid Name!""","def get_usrename(email):
+         parts = email.split(""@"")
+         return parts[0]",,,
+540,2022-04-28 16:50:26.681,xig001@ucsd.edu,True,float,"2 , 1","""2"" * ""3"", ""2"" + 3",20.0,The output will be num*2 = 84. Because the code will first print the tri(num*2 = ) and also an int(84). ,"The output is num = 3. There are 3 conversions. The input first are conversed to a float, and the float(3.14) is conversed to an int 3. ","def find_max(x,y,z):
+   if x>y and x>z
+       return x
+   elif y>x and y>z:
+       return y
+   else:
+       return z",0.0,"def print_greeting (hours):
+if ","lst[1], lst[-2], lst[len(lst)-1]",I think the issue is the range part. We can change it to just the nums.,0.0,"If the user enters “Iliana” as the input for name, the program will print ""Thank you, Iliana!"", If the user does not enter any name and presses enter, the program will print ""Invalid Name!""","part =email.split(""@"")
+return part[0]","I reviewed the key terms in midterm, and I think I remembered important topics that I was not familiar with before. The review is really helpful for me.",,It is helpful for me. 
+541,2022-04-28 16:50:28.217,anslyker@ucsd.edu,False,float,"2 , 1","""2"" * ""3"", ""2"" + 3",20.0,"It will result in 4242, not 84, because 42 is a string and not an integer","there are 2 type conversions: a string being converted to a float which is then converted to an integer. It takes the input and makes it a float, then that float is type casted as an integer, so num will be printed as 3
+","def find_max(x,y,z):
+       if x>y and x>z:
+             return x
+       elif y>x and y>z:
+             return y
+       else:
+            return z
+",0.0,"def print_greeting(hour):
+      if hour >= 0 or hour < = 11:
+             return ""Good Morning""
+      elif hour >= 12 or hour <= 18:
+             return ""Good Afternoon""
+      elif hour >= 19  or hour <= 23:
+             return ""Good Evening""
+      if hour < 0 or hour > 23:
+            return ""hour is invalid""
+","lst[1], lst[-2]","Issue: The issue is that the code is adding up the number of values in the list, not summing the numbers in the list.
+
+Fix the issue: To fix the issue, you could change the range of the length (which gives how many values are in the string) to go through the elements.
+
+
+Correct code:
+
+def sum_list(nums);
+       total = 0
+       for n in nums
+             total += n
+       return total
+
+print(sum_list([10, 20, 30]))",0.0,"If the user enters “Iliana” as the input for name, the program will print ""Thank you, Iliana!"", If the user does not enter any name and presses enter, the program will print ""Invalid Name!""","def get_username(email):
+        name = email.split(""@"")
+        return name[0]
+print(get_username(email))
+","I didn't really learn anything new, but was definitely reminded of key ideas for order, datatypes, and errors in code. ",Range and parson's problems are still a little confusing.,I think it was a really good review of what we should expect on the midterm and the types of questions we will see.
+542,2022-04-28 16:50:28.872,qiw027@ucsd.edu,True,float,"2 , 1","""2"" * ""3"", ""2"" + 3",20.0,"""num"" will be a string ""42"". When we want to print num*2, we will get 4242. ","First, 3.14 is a string. After float(3.14), it becomes float. After int(3.14), it becomes integer. There are 2 type conversions. ","def find_max(x, y, z):
+    if x > y and x > z:
+        return x
+    elif: y > x and y > z:
+        return y
+    else:
+        return z",0.0,"def print_greeting(hour):
+    if 0 <= hour <= 11:
+        return ""Good Morning""
+    elif 12 <= hour <= 18:
+        return ""Good Afternoon""
+    elif 19 <= hour <= 23:
+        return ""Good Evening""
+    else:
+        return ""hour is invalid""","lst[1], lst[-2]","n is the index of the element in the list. Thus, n will be 0, 1, 2. So, we should revise the for loop condition to ""for n in nums: "". Then, we will get 60. ",0.0,"If the user enters “Iliana” as the input for name, the program will print ""Thank you, Iliana!"", If the user does not enter any name and presses enter, the program will print ""Invalid Name!""","def get_username(email):
+    n = email.split(""@"")
+    return n[0]","In boolean, we should first execute ""and"", then ""or"". The default step of range is 1. ",No. ,It's really helpful. 
+543,2022-04-28 16:50:34.658,kpompa@ucsd.edu,,,,,,,,,,,,,,,"def get_username(email):
+indent ",I learned how to correctly work through an object and reference problem. ,,It was very helpful. I feel like we could have discussed while loops more.
+544,2022-04-28 16:50:35.460,jpenaloz@ucsd.edu,,,,,,,,,,,,,,,"def get_username(email):
+    part_email = email.split(“@“)
+    return part_email[0]",One thing I learned in class today was more about string methods. I learned how to use .split functions to extract a username from an email ,What I found the most confusing about the lecture was some of the string methods,The midterm review was very helpful in helping me understand the concepts I know and what else i need to study in order to prepare for the exam. 
+545,2022-04-28 16:50:35.736,wha@ucsd.edu,,,,,,,,,,,,,,,,"When there is both ""and"" and ""or"" in a line, we should operate and first. ""/"" will always give out a float output while ""//"" will give an integer output. ",,Maybe give more questions like this google form to practice.
+546,2022-04-28 16:50:35.764,h1yoon@ucsd.edu,False,float,"2 , 1","""2"" * ""3"", ""2"" + 3",20.0,Assume that we input 42 in num then the print will show 'num * 2 =  4242 since input is a string.,"since we input 3.14 then float(3.14) = 3.14 int(3.14)=3,so num =3 then the 2 line print things is follow 'num = 3'","def find_max(x,y,z):
+if x>y and x>z:
+return x
+elif y>x and y>z:
+return y
+else:
+return z",0.0,"if hours >= 0 and hours <= 11:
+return ""Good Morning""
+elif hours >= 12 and hours <= 18:
+return ""Good Afternoon""
+elif hours >=19 and hours <= 23:
+return ""Good Evening""
+else:
+return ""hour is invaild""","lst[1], lst[-2]",we have to change range(len(nums)) to range(len(num)-1),0.0,"If the user enters “Iliana” as the input for name, the program will print ""Thank you, Iliana!"", If the user does not enter any name and presses enter, the program will print ""Invalid Name!""","username=email.split(""@"")","Review for the midterm,and I have to focus on study for loop and while loop.",,
+547,2022-04-28 16:50:36.170,e1lee@ucsd.edu,,,,,,,,,,,,,,,,One key idea we learned was using type conversions. We reviewed how type conversions work and how to prepare for them on the midterm.,One thing I found confusing was how and takes precedence over or statements.,Going over multiple problems were helpful. 
+548,2022-04-28 16:50:36.822,hbzhang@ucsd.edu,True,float,"2 , 1","""2"" * ""3"", ""2"" + 3",20.0,"The first line is asking user to enter an input. Second line is printing out the result of input after operation interacted with others line , so the result will be 4242.Because it is a str value.",Number will be 3 and 2 type conversions will be happening int and float.,"def find_max(x,y,z):
+       If x > y and x > z:
+            return x
+       elif y > x and y > z:
+            return y
+       else:
+            return z
+
+",0.0,"
+          If index > 0 or index < 11:
+                return “Good Morning”
+         if index > 11","lst[1], lst[-2]","Issue in this code is there shouldn’t have len() around nums,  all we have to do is just to remove len.",0.0,"If the user enters “Iliana” as the input for name, the program will print ""Thank you, Iliana!"", If the user does not enter any name and presses enter, the program will print ""Invalid Name!""","Parts = email.split(“@”)
+Return parts[0]",REVIEW,,
+549,2022-04-28 16:50:37.466,ksleung@ucsd.edu,True,float,"2 , 1","""2"" * ""3"", ""2"" + 3",20.0,"The code will print ""num * 2 = 4242"" because the input is logged as a string rather than an integer.","There are two type conversions occurring. First is the string from input to a float and second, turning that float into an integer. If user puts in 3.14, it will be printed as ""num = 3"".","def find_max(x, y, z):
+    if x > y and x > z:
+        return x
+    elif y > x and y > z:
+        return y
+    else:
+        return z",0.0,"def print_greeting(hour):
+    if hour in range (0-11):
+        return (""Good Morning"")
+    elif hour in range (12-18):
+        return(""Good Afternoon"")
+    elif hour in range (19-24):
+        return(""Good Evening"") 
+    else:
+        return(""hour is invalid"")","lst[1], lst[-2]","The issue is that you're getting the length of the list rather than the total of the integer in the list.
+def sum_list(nums):
+    total = 0 
+    for n in range(len(nums)):
+        total += nums[n]
+    return total
+
+print(sum_list([10, 20, 30]))",0.0,"If the user enters “Iliana” as the input for name, the program will print ""Thank you, Iliana!"", If the user does not enter any name and presses enter, the program will print ""Invalid Name!""","def get_username(email):
+    parts = email.split(""@"")
+    username = parts[0]
+    return username
+print(get_username(""gerald@eng.ucsd.edu""))
+print(get_username(""melsherief@eng.ucsd.edu""))",I didn't really learn anything new today. We went over all previous lessons as midterm review.,I think I am less confused than I have been.,It was really helpful! I liked that the practice questions were in the format we'd see in the actual test.
+550,2022-04-28 16:50:39.183,yif011@ucsd.edu,True,float,"2 , 1","""2"" * ""3"", ""2"" + 3",20.0,"num*2= 4242, because it’s a string multiply a number, which the result will be a repetition of the string, in this case is 4242 ","The string entered will be converted into float and then an integer, which in this case the result will be num=3","def find_max (x,y,z):
+if x>y and x>z:
+Return x
+Elif y>x and y>z:
+return y
+Else:
+Return z",0.0,,"lst[1], lst[-2]",“total += n” should be “total += nums [n]”,0.0,"If the user enters “Iliana” as the input for name, the program will print ""Thank you, Iliana!"", If the user does not enter any name and presses enter, the program will print ""Invalid Name!""","split from from the ‘@‘
+parts = email. split (‘@‘)
+return parts[0]",,,
+551,2022-04-28 16:50:39.224,h9johnson@ucsd.edu,True,float,"2 , 1","""2"" * ""3"", ""2"" + 3",20.0,num * 2= 4242 because 42 is a string and if you multiply a string by 2 it will duplicate the string this is a process called replication. ,"2 type conversions, string of ""3.14"" is converted to the float 3.14 then is converted to an integer 3 ","def find_max(x,y,z): 
+    if x>y and x>z: 
+        return x 
+    elif y>x and y>z: 
+        return y 
+    else: 
+        return z",0.0,"def print_greeting(hour): 
+    if hour <= 11:
+        return (""Good Morning"")
+    elif hour <=18: 
+        return (""Good Afternoon"")
+    elif hour <= 23: 
+        return (""Good Evening"")
+    else: 
+        return (""hour is invalid"")","lst[1], lst[-2]","issue: line 3, range of 3 gives you the n in [0,1,2] therefore in each iteration n=0, then 1, then 2, so it ends up being 0+1+2 = 3
+fix: change range(len(nums)) to nums which will iterate through the elements not the index. 
+correct code: 
+def sum_list(nums):
+    total = 0 
+    for n in nums: 
+        total += n
+    return total 
+print(sum_list([10,20,30])",0.0,"If the user enters “Iliana” as the input for name, the program will print ""Thank you, Iliana!"", If the user does not enter any name and presses enter, the program will print ""Invalid Name!""","def get_username(email): 
+    parts = email.split(""@"")
+    return parts[0]",Today in class we went over various practice problems which cleared up some of my confusion and reminded me of different things we have learned. There were a couple little things that I had forgotten or didn't really process so today's class helped either solidify or retaught some topics. ,using range versus when not to use range still is a little confusing. ,Today's class was very helpful 
+552,2022-04-28 16:50:39.521,kmochizuki@ucsd.edu,,,,,,,,,,,,,,,"
+
+def get_username(email):
+    email = email.split(""@"")
+    username = email[:1]
+    return username[0]
+
+print(get_username(""gerald@eng.ucsd.edu""))
+print(get_username(""melshreif@eng.ucsd.edu""))
+",I learned how to write the responses for the midterm. This is very important because I need to make the answers as clear as possible,Why isn't temp also changed to 2?,
+553,2022-04-28 16:50:41.871,mbannai@ucsd.edu,True,float,"2 , 1","""2"" * ""3"", ""2"" + 3",20.0,"num acts as a variable in this and in the print statement, it will multiply the string by 2, so you will get 4242.","2 because you will get a string, that will be converted to a float (3.14), which will then be converted to an integer (3).","def find_max(x,y,z):
+    if x>y and x>z:
+        return x
+    elif y>x and y>z:
+        return y
+    else:
+        return z",0.0,,"lst[1], lst[-2]","in the for loop statement, they wrote for n in range(len(nums)) which adds the indexes, not the values. To fix this, change the for statement to for n in nums.
+
+def sum_list(nums):
+    total=0
+    for n in nums:
+        total+=n
+    return total",0.0,"If the user enters “Iliana” as the input for name, the program will print ""Thank you, Iliana!"", If the user does not enter any name and presses enter, the program will print ""Invalid Name!""","def get_username(email):
+    name=email.split(""@"")
+    username=name[0]
+    return username",,,
+554,2022-04-28 16:50:42.443,aml015@ucsd.edu,True,float,"2 , 1","""2"" * ""3"", ""2"" + 3",20.0,num * 2 = 4242 will be printed because it is a string,"the string is converted to a float, then converted to int, then the int gets stored in a variable named num, The program will output ""num= 3""","def find_max(x, y, z):
+     if x > y and x > z:
+             return x
+     elif y > x and y > z:
+             return y
+      else:
+             return z",0.0,"def print_greeting(hour):
+      if time>= 0 and time <= 11:
+           return 'Good Morning'
+      elif time >= 12 and time <= 12:
+           return 'Good Afternoon'
+      elif time >= 19 and time <= 23:
+            return 'Good Evening'
+       else:
+             return 'hour is invalid'","lst[1], lst[-2]","the values need to be actual values instead of index numbers
+
+def sum_lists(nums):
+total = 0
+for n in nums
+total += n
+return total",0.0,"If the user enters “Iliana” as the input for name, the program will print ""Thank you, Iliana!"", If the user does not enter any name and presses enter, the program will print ""Invalid Name!""","def get_username(email):
+      parts = email.split(""@"")
+      return parts[0]",reviewed confusing concepts such as loops,,The review was helpful but i wish some of the problems were harder.
+555,2022-04-28 16:50:43.167,rmerino@ucsd.edu,,,,,,,,,,,,,,,,"One key idea that I learned in today's class is the difference between /, //, and % operators. They really confused me on what was the difference between all of them.",Nothing in particular.,"I think it was a pretty good review and helpful to give us a small, formatted version of the midterm. I feel like we could be given a bit more time for the short answer questions."
+556,2022-04-28 16:50:44.622,adhami@ucsd.edu,False,float,"2 , 1","""2"" * ""3"", ""2"" + 3",20.0,num * 2 = 4242        --> Reasoning: num is saved as a string so num * 2 will just print num twice,3 type conversions. --> num = 3,"def find_max(x,y,z):
+    if x > y and x > z:
+        return x
+    elif y > x and y > z:
+        return y
+    else:
+        return z",0.0,"if hour >= 0 and hour <= 11:
+    return ""Good Morning""
+elif hour <= 18:
+    return ""Good Afternoon""
+elif hour <= 23:
+     return ""Good Evening""
+else:
+     return ""hour is invalid""","lst[1], lst[-2]","Total is adding the index for each value in the list instead of the values themselves. To fix this, change the for loop header to 
+
+for n in nums:",0.0,"If the user enters “Iliana” as the input for name, the program will print ""Thank you, Iliana!"", If the user does not enter any name and presses enter, the program will print ""Invalid Name!""",return email.split('@')[0],Re-learned type conversions.,,
+557,2022-04-28 16:50:47.373,shy020@ucsd.edu,True,float,"2 , 1","""2"" * ""3"", ""2"" + 3",20.0,num * 2 = 4242.,3. num = 3,,0.0,,"lst[1], lst[-2]",,0.0,"If the user enters “Iliana” as the input for name, the program will print ""Thank you, Iliana!"", If the user does not enter any name and presses enter, the program will print ""Invalid Name!""",,I learned the priority of math symbols,no,very helpful
+558,2022-04-28 16:50:48.008,liz007@ucsd.edu,,,,,,,,,,,,,,,"“@“.split.(email)
+print email[0]","We reviewed all the the key ideas learned in the class, including the Boolean functions, max and min, range…",I feel like I’m still a bit confused about how range and the join and split functions work.,"Yes, it seems pretty helpful. I forgot about some of the concepts learned before so this was good review."
+559,2022-04-28 16:50:50.703,xw001@ucsd.edu,,,,,,,,,,,,,,,"email_split = email.split(""@"")
+return email_split[0]",,,
+560,2022-04-28 16:50:51.384,adward@ucsd.edu,True,float,"2 , 1","""2"" * ""3"", ""2"" + 3",20.0,"the code will return it as this ""num * 2 4242"". This is because we need to tell the shell that we want integers instead of strings. We also need to tell the shell exactly what we want within the print statement. ","there are about 3 conversions occurring. Since it is originally considered a string, the shell is  shown to be putting that into a float, and then further being interpreted as an integer. If we ender the number 3.14 into the console, we will receive ""num = 3"" as our result ",I am sorry I am not entirely sure about this one as well as another. The class also ended therefore I didn't have enough time to finish this question ,0.0,"If we change the return statements to print, then every thing message will print regardless of the time range, which is not what we want. Or instead, possibly it could return nothing. ","lst[1], lst[-2]","The issue is that this code is calling for the sum of the list rather than the actual contents of the list. Instead, we have to make it known that we want it to be the actual numbers
+def sum_list(nums):
+    total = 0
+    for n in range(int(nums)):
+        total += n
+    return total
+
+print(sum_list([10, 20, 30]))
+
+i am not sure if this is correct",1.0,"If the user enters “Iliana” as the input for name, the program will print ""Thank you, Iliana!"", If the user does not enter any name and presses enter, the program will print ""Invalid Name!""","def get_username(email):
+    if ""annissa"" in email:
+        return (str(email.split[0:""@""])) 
+
+print(get_username(annissa@gmail.com))","I mainly learned through this review that I have quite a bit to review before the midterm. Though I understand the basics, It is more about putting it all together and finding where everything fits.",I think the only question I really have is what would you recommend in regards to preparing for the midterm?,"I think the midterm review was helpful, however, I am still quite nervous and unsure about the exam and my success in this course. I would also recommend maybe making it as similar to the format of the midterm that way we fully know how to prepare ourselves for it"
+561,2022-04-28 16:50:54.916,rsuresh@ucsd.edu,True,float,"2 , 1","""2"" * ""3"", ""2"" + 3",20.0,"The output will be ""4242"". When the user enters a number, it inherently takes the value of a string, and is assigned to the variable ""num"". When this variable in the print statement is multiplied by 2, it replicates to form 4242.","There are two type conversions happening in this code. Initially the number is inputted and valued as a string. Once converted to float it will be taken as 3.14, then converted once again to int, will be converted to 3 by dropping the decimal place.","def find_max(x, y, z):
+    if x > y and x > z:
+        return x
+    elif y > x and y > z:
+        return y
+    else:
+        return z",0.0,"def print_greeting(hour):
+    if hour >= 0 and hour <= 11:
+        return ""Good Morning""
+    elif hour >= 12 and hour <= 18:
+        return ""Good Afternoon""
+    elif hour >= 19 and hour <= 23:
+        return ""Good Evening""
+    else:
+        return ""hour is invalid""
+
+If the return statements were converted to print statements, upon calling the function, it would print the strings themselves, but they would not be able to be used later on within the global scope of the function.","lst[1], lst[-2]","The issue currently is that the code is adding the value of n within the range of indexes in the list, so it will end in the for loop assigning n to be 0, 1 and then 2. The easiest way to fix this would simply be to replace the n with nums[n].",0.0,"If the user enters “Iliana” as the input for name, the program will print ""Thank you, Iliana!"", If the user does not enter any name and presses enter, the program will print ""Invalid Name!""","def get_username(email):
+    email_lst = email.split(""@"")
+    username = email_lst[0]
+    return username","One key idea that I learned in today's class was to pay attention to parentheses and where they start and end. For today, I missed the min and max question parentheses and got the question wrong originally.",The most confusing part about today's lecture was the code fixing for the total sum counter problem.,"The midterm review was helpful, but simply doing problems was a little bland and unhelpful. I think taking personalized and nuanced questions would be nice."
+562,2022-04-28 16:50:56.303,kmadriaga@ucsd.edu,,,,,,,,,,,,,,,,I need to remember and comes before or ,,
+563,2022-04-28 16:51:34.629,chartman@ucsd.edu,,,,,,,,,,,,,,"If the user enters “Iliana” as the input for name, the program will print ""Thank you, Iliana!"", If the user does not enter any name and presses enter, the program will print ""Invalid Name!""","email = input(""Enter your email: "")
+
+def get_username(email):
+    username = email.split(""@"")
+    return username[0]
+
+print(get_username(email))",using range in a for loop will have the function look at the index.  range is also only really used in for loops.,for loops :(.,good!
+564,2022-04-28 16:52:10.392,kmaramba@ucsd.edu,True,float,"2 , 1","""2"" * ""3"", ""2"" + 3",20.0,"Since input generally returns a string, the print statement will actually print the string ""42"" two times instead of actually multiplying it as intended.","At least three type conversions are happening. The input function first converts the user's input into a string, then the float typecast converts it into a float, and finally the integer typecast converts it into an integer. The final message printed will be a string and the integer 3 concatenated together.","def find_max(x, y, z):
+     if x > y and x > z:
+          return x
+     elif y > x and y > z:
+          return y
+     else:
+          return z",0.0,"def print_greeting(hour):
+    if 0 <= hour <= 11:
+        return ""Good Morning""
+    elif 12 <= hour <= 18:
+        return ""Good Afternoon""
+    elif 19 <= hour <= 23:
+        return ""Good Evening"" 
+    else:
+        return ""hour is invalid""","lst[1], lst[-2]","The function is using a range function instead of actually iterating through the list.
+
+def sum_list(nums):
+    total = 0
+    for n in nums:
+        total += n
+    return total",0.0,"If the user enters “Iliana” as the input for name, the program will print ""Thank you, Iliana!"", If the user does not enter any name and presses enter, the program will print ""Invalid Name!""","def get_username(email):
+    emai = email.split(""@"")
+    return emai[0]",,,
+565,2022-04-28 16:54:02.017,aballardo@ucsd.edu,True,float,"2 , 1","""2"" * ""3"", ""2"" + 3",20.0,"num * 2 = 4242, the entered value is a string so it would be doubled and return 4242","2 type conversions,  num = 3, when the string 3.14 is converted to an integer, anything after the decimal point gets cut off only returning 3","def find_max(x, y, z):
+    if x > y and x > z:
+        return x
+    elif y > x and y > z:
+        return y
+    else:
+        return z",0.0,"def print_greeting(hour):
+    if hour >= 0 and hour <= 11:
+        return ""Good Morning""
+    elif hour > 11 and hour <= 18:
+        return ""Good Afternoon""
+    elif hour > 18 and hour <= 23
+        return ""Good Evening""
+    else:
+        return ""Hour is invalid""","lst[1], lst[-2]","It is adding the indexes of the numbers in the list together, not the numbers themselves.
+def sum_list(nums):
+    total = 0
+    for n in nums:
+        total += n
+    return total",0.0,"If the user enters “Iliana” as the input for name, the program will print ""Thank you, Iliana!"", If the user does not enter any name and presses enter, the program will print ""Invalid Name!""","def get_username(email):
+    return email[0:email.index(""@"")]",I learned about the order of boolean and and or statements. They helped me figure out how to read code in a faster way.,I found the order of boolean most confusing.,
+566,2022-04-28 16:54:32.036,ajett@ucsd.edu,True,float,"2 , 1","""2"" * ""3"", ""2"" + 3",20.0,"The console will display ""4242"" as a result of the print statement because input returns a string form of the user's input, thus num is a string that is replicated twice.","There are two type conversions happening, first a string to a float, then a float to an integer. Thus, num becomes 3 because of int, and prints num = 3.","def find_max(x, y, z):
+    if x > y and x > z:
+            return x
+    elif y > x and y > z:
+            return y
+    else:
+            return z",0.0,"def print_greeting(hour):
+    if hour >= 0 and hour <= 11:
+        print(""Good Morning"")
+    elif hour >= 12 and hour <= 18:
+        print(""Good Afternoon"")
+    elif hour >= 19 and hour <= 23:
+        print(""Good Night"")
+    else:
+        print(""hour is invalid"")","lst[1], lst[-2]","The issue is the for loop statement since n in the range of the length of the list will give an index value. In the call, the range would be from 0 to 2, so adding each n is 0 + 1 + 2, thus 3. So, the addition is correct, but the values need to be the actual values of the list instead of the index values—so instead of range it should just be nums.
+def sum_list(nums):
+    total = 0
+    for n in nums:
+            total += n
+    return total",0.0,"If the user enters “Iliana” as the input for name, the program will print ""Thank you, Iliana!"", If the user does not enter any name and presses enter, the program will print ""Invalid Name!""","def get_username(email):
+    email_parts = email.split(""@"")
+    username = email_parts[0]
+    return username","One key idea I learned today is that errors in a code (from topic 12) can be solved in different ways for the same result. Thus, a solution to coding something at all can be approached by different methods that are equally effective, or certain ones more effective than others.","I am slightly confused on references and objects, and would like more examples on them.","I think the review is helpful, though due to the time some of the examples don't seem to go over the whole topic they cover (ex: references and objects and methods). It is also a little difficult to answer in the amount of time necessary to progress the class on. I think it would also be easier if the form was editable after submitting it, so we can see our prior responses without having to look at our email or copy and paste them somewhere."
+567,2022-04-28 16:56:54.705,mareece@ucsd.edu,,,,,,,,,,,,,,,,,I am still a little confused by reference objects and keeping track of them. ,"I found the review helpful, although I do not know how representative these questions are of the actual exam material. "
+568,2022-04-28 17:09:40.345,sol020@ucsd.edu,False,float,"1 , 1","""2"" * ""3""",15.0,It will double the number and the outcome would be 84,"3, integer, float, and input",,1.0,I didn’t get this one..,lst[-2],,1.0,"If the user enters “Iliana” as the input for name, the program will print ""Thank you, Iliana!""",Return “gerald@eng.ucsd.edu,Today we reviewed the concepts we learned so far. We also learned about conditional statements and lists. ,I think it was pretty clear,It was helpful!
+569,2022-04-28 17:16:43.771,ahrogers@ucsd.edu,True,float,"2 , 1","""2"" * ""3"", ""2"" + 3",20.0,When the user inputs 42 their output will be 4242 because multiplying a string by an integer performs replication. ,"3.14 will be entered as a string, then gets converted to a float, then gets converted to an integer so now num = 3 and not 3.14.","def find_max(x, y, z):
+     if x > y and x > z:
+          return x
+     elif y > x and y > z:
+          return y
+     else:
+          return z",0.0,,"lst[1], lst[-2]","The issue is total += n because it gives the summation of the locations of the list rather than their actual values. You can fix it by changing total +=n  to  total += nums[n] 
+
+def sum_list(nums):
+     total = 0
+     for n in len(nums):
+          total += nums[n]
+     return total
+print(sum_list([10, 20, 30]))",0.0,"If the user enters “Iliana” as the input for name, the program will print ""Thank you, Iliana!"", If the user does not enter any name and presses enter, the program will print ""Invalid Name!""","def get_username(email):
+     parts = email.split(""@"") #will split username and domain
+     return parts [0]",I was reminded of what the exact data types were and which ones could be added/multiplied to each other. ,,"The midterm review used very simple/easy examples, I have a feeling the actual midterm will be way harder than the review. I don't know if it was helpful yet to be honest. "
+570,2022-04-28 17:45:40.116,xw001@ucsd.edu,,,,,,,,,,,,,,,,"I learned that when setting some reference to be pointing to an object that another reference is pointing to, when the other reference points to something new, this reference does not change with the other reference and continues to be pointing to the original object. This process is commonly used to swop the values of two variables. The third reference is introduced to store the value of one of the variables when it is set to reference what the other variable is referencing. ","I still need to memorize the order of execution for boolean expressions, which is not, and, or.",The midterm review is super helpful! It clarifies some key concepts that I was originally confused about.
+571,2022-04-28 17:51:39.220,jmchiu@ucsd.edu,False,float,"2 , 1","""2"" * ""3"", ""2"" + 3",20.0,"The number 42 will be stored in the variable num as a string. The print statement will replicate the number ""42"" twice (4242, not 84), and print out both the statement in the quotes and 4242.","Two type conversions: int and float. We convert string to float, and then from float to int. The integer, which is now 3, is stored in num. The program will print out ""num = 3"".","def find_max(x, y z):
+    if x > y and x > z:
+        return x
+    elif y > x and y > z:
+        return y
+    else:
+        return z",0.0,"def print_greeting(hour):
+    if hour >= 0 and hour <= 11:
+        return ""Good Morning""
+    elif hour >= 12 and hour <= 18:
+        return ""Good Afternoon""
+    elif hour >= 19 and hour <= 23:
+        return ""Good Evening""
+    else:
+        return ""hour is invalid""
+time = input(""Enter a time between 0 and 23: "")
+time = int(time)
+print(print_greeting(time))","lst[1], lst[-2]","The issue resides within the for loop. The range(len(nums)) means that we are returning index of each value on the list starting from zero and adding the indexes up. If we do that, then 0+1+2=3.
+
+def sum_list(nums):
+    total = 0
+    for n in nums:
+        total += n
+    return total
+
+print(sum_list([10, 20, 30]))",0.0,"If the user enters “Iliana” as the input for name, the program will print ""Thank you, Iliana!"", If the user does not enter any name and presses enter, the program will print ""Invalid Name!""","def get_username(email):
+    username = email.split(""@"")
+    return(username[0])
+
+print(get_username(""gerald@eng.ucsd.edu""))
+print(get_username(""melsherief@eng.ucsd.edu""))",I learned about the steps needed to explain a short-response midterm. I also learned which vocab I am familiar with or not.,,
+572,2022-04-28 18:16:31.232,h2seo@ucsd.edu,True,int,"2 , 1","""2"" * ""3""",15.0,,2 float and integer. 3 will be printed. ,"
+
+if x> y and x> z:
+return x
+elif y> x and y > z:
+return x
+else: 
+return z",1.0,changing to prints statement would display the custom greeting statements on the terminal while return statement would simply return the value to the system and store it. ,lst[-1],"it should be just nums instead of using range(len(nums)). Because if we use len function, it would print the number of integers in nums instead of the element of list. ",0.0,"If the user enters a number as the input for name (e.g., 123), the program will print ""Invalid Name!""",,It was nice to learn about While loops. While loops indefinitely repeat the code until an exit condition is reached. ,I do not have any question about the lecture for today. ,I think the review was really good. 
+573,2022-04-28 18:52:50.645,kmontejanoortiz@ucsd.edu,True,float,"2 , 1","""2"" * ""3"", ""2"" + 3",20.0,"First the code will ask the user to input a number and store it in num. Then it will print 'num * 2 = 4242"".","There are two type conversions. First, it converts the users input from string to float, and then from float to integer. It will print 'num = 3'.","def find_max(x, y, z):
+    if x > y and x > z:
+        return x
+    elif y > x and y > z:
+        return y
+    else:
+        return z",0.0,,"lst[1], lst[-2]","The problem is in line 3. They wrote in range(len(nums)) when it should just be in nums so the function just returned the index values added. To fix it, just replace for n in range(len(nums)) with for n in nums. Also replace total += n with total += nums[n].
+
+def sum_list(nums):
+    total = 0
+    for n in nums:
+        total += nums[n]
+    return total
+
+print(sum_list([10, 20, 30]))",0.0,"If the user enters “Iliana” as the input for name, the program will print ""Thank you, Iliana!"", If the user does not enter any name and presses enter, the program will print ""Invalid Name!""","def get_username(email):
+    name = email.split(""@"")
+    return name[0]
+    
+print(get_username(""gerald@eng.ucsd.edu""))
+print(get_username(""melsherief@eng.ucsd.edu""))",I don't think I learned anything new in today's class. Mostly we just reviewed which was helpful.,The most confusing for me was probably the for loop.,I think this review was really helpful for me and helped me understand concepts that I used to think were super confusing.
+574,2022-04-28 20:26:40.262,zuzermeno@ucsd.edu,True,float,"2 , 1","""2"" * ""3"", ""2"" + 3",20.0,"first the code will ask the user to input a number and it'll be stored in num. then the string (""42"") is being replicated by a integer thus being 4242","the type of conversions is that happening is that it's converting a string -> float which is converted into a int then the integer value is being stored in the num which will get you ""num = 3""","def find_max(x, y, z):
+    if x > y and x > z:
+        return x
+    elif y > x and y > z:
+        return y
+    else:
+        return z
+",0.0,,"lst[1], lst[-2]","the issue of the code is: n in the range of the length of the list will give the index value:
+def sum_list(nums):
+    total = 0
+    for n in nums:
+        total += n
+    return total
+
+print(sum_list([10, 20, 30]))",0.0,"If the user enters “Iliana” as the input for name, the program will print ""Thank you, Iliana!"", If the user does not enter any name and presses enter, the program will print ""Invalid Name!""","def get_username(email):
+    parts = email.split(""@"")
+    return parts[0]
+
+print(get_username(""melsherief@gatech.edu""))","Today i learned all the topics from the last lectures. THe key one was references, objects, and emthods bc it is something i still need to work onn.",The parson's problem is still the one I have trouble on.,This was helpful as to get an overview of everything we learned so far.
+575,2022-04-28 20:45:11.671,jix042@ucsd.edu,False,int,"1 , 2","""2"" + 3, ""2"" * 3",20.0,num * 2 = 84 because the first part is string,"2, int and float. Print num = 3","def find_max(x,y,z):
+       if x > y and x > z:
+            return x
+       elif y > x and y > z:
+            return y
+       else:
+             return z",1.0,,lst[1],"The issue is in the fourth line, which the n should be nums[n]. So the fourth line is total += nums[n].",,"If the user enters “Iliana” as the input for name, the program will print ""Thank you, Iliana!"", If the user does not enter any name and presses enter, the program will print ""Invalid Name!""","def get_username(email):
+        string = "" ""
+        while username","In today's class, we have a midterm review of all of the information covered in the first half quarter. I had a better understanding of my muddiest points.",,It is really helpful.
+576,2022-04-28 23:05:02.637,argonzalez@ucsd.edu,True,float,"2 , 2","""2"" * 3",15.0,It will multiply the input by 2 but will not work because the input will be received as a string.,3 conversions are happening. From string to float to integer,,1.0,It will print all of the statements ,lst[-2],It is counting total iterations not the integers themselves. I would fix this by having num[n] as what isbeing added to the total instead.,1.0,"If the user enters “Iliana” as the input for name, the program will print ""Thank you, Iliana!"", If the user does not enter any name and presses enter, the program will print ""Invalid Name!""","Email.split(“.”)
+Email = email[0]
+Return(email)",One key idea I learned about was referencing and how objects can be referenced by more than one variable. Also more about call stacks and their usage.,I am still somewhat confused on references and their orders,It was helpful. I just wish it skipped over more of the earlier stuff and focused on the more difficult recent material 
+577,2022-04-28 23:59:48.603,dderasar@ucsd.edu,,,,,,,,,,,,,,,,An example of the type of questions on the midterm,"the topic of references, methods, and objects",It was very helpful
+578,2022-04-29 15:47:56.394,yiw125@ucsd.edu,False,float,"2 , 1","""2"" * ""3"", ""2"" + 3",15.0,num * 2 =84 ,num = 3 because it requires an int,"def find_max(x,y,z):
+    if x>y and x>z:
+           return x
+    elif y>x and y>z:
+           return y
+     else:
+            return z",1.0,"if 0<hour<11:
+    return ""Good Morning""
+elif 12<hour<18:
+     return ""Good Afternoon""
+elif 19<hour<23
+     return ""Good Evening""
+else:
+     ""hour is invalid""","lst[1], lst[-2], lst[len(lst)-1]",it should set a list and add all numbers into the list. n is not defined at the start,0.0,"If the user enters “Iliana” as the input for name, the program will print ""Thank you, Iliana!"", If the user does not enter any name and presses enter, the program will print ""Invalid Name!""",,"review the past topics, and explain more about each of those questions. And imply what gonna be shown on the midterm exam.",Still got little confused about the for loop part.,"it is very helpful, I feel quite clear after professor's explanation."
+579,2022-04-29 16:38:05.986,mcmckelv@ucsd.edu,False,float,"2 , 1","""2"" * ""3"", ""2"" + 3",20.0,"42 will be repeated, not mulitplied by two, because the input is type will be a string not integer","2-3(if counting input as a conversion to a string). Takes what input gives and puts it as a float, then converts that to an integer","def find_max(x,y,z):
+       if x>y and x>z:
+            return x
+       elif y>x and y>z:
+            return y
+       else:
+             return z",0.0,,"lst[1], lst[-2]","line 4 is not going to create a sum of the list, but rather make it equal to n every time the for loop is iterated. Will want to change that line to total = total + num[n]",0.0,"If the user enters “Iliana” as the input for name, the program will print ""Thank you, Iliana!"", If the user does not enter any name and presses enter, the program will print ""Invalid Name!""","def get_username(email):
+       email = email.split(""@"")
+       username = email[:1}
+       return username[0]
+",,I just feel lost in general :(,
+580,2022-04-29 17:04:11.320,rcarmody@ucsd.edu,False,int,"2 , 1","""2"" * ""3"", ""2"" + 3, ""2"" * 3",20.0,,,,,,,,,,,,,

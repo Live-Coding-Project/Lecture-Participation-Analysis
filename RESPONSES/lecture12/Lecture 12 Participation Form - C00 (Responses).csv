@@ -1,0 +1,163 @@
+,Timestamp,Email Address,Review: What test case will fail the program at this point?,1,2,3,4,What is one key idea that you learned in today's class? (2- 3 sentences),What questions do you still have about today's lecture? OR What did you find the most confusing about today's lecture?,Do you have any feedback on the midterm exam? What was good? Suggestions? We may use your feedback while designing the final exam for CSE 8A.
+0,2022-05-05 14:16:37.307,scano@ucsd.edu,,"2, 3, 2, 1",,,,,,
+1,2022-05-05 14:22:45.380,z2lan@ucsd.edu,,"2, 3, 2, 1","[10, 20, 30], 20, 90",C,,,no,no
+2,2022-05-05 14:22:50.299,lnieto@ucsd.edu,,"2, 6, 2, 1",,,,,,
+3,2022-05-05 14:22:54.683,zil066@ucsd.edu,,"2, 3, 2, 1","[40, 50, 60], 60, Error",,,,,
+4,2022-05-05 14:28:37.007,c3tsai@ucsd.edu,Test case 2,"2, 3, 2, 1","[10, 20, 30], 20, 90",B,,,,
+5,2022-05-05 14:29:30.640,aiocampo@ucsd.edu,,"2, 6, 2, 1",,,,,,
+6,2022-05-05 14:30:03.996,scano@ucsd.edu,,,"[10, 20, 30], 20, 90",,,,,
+7,2022-05-05 14:30:23.445,aiocampo@ucsd.edu,,,"[40, 50, 60], 60, Error",,,,,
+8,2022-05-05 14:31:24.907,kagong@ucsd.edu,,"2, 6, 2, 1","[40, 50, 60], 60, Error",B,,testing,no,good
+9,2022-05-05 14:35:04.598,rkakutan@ucsd.edu,Test case 2 ,,,,,,,
+10,2022-05-05 14:36:15.427,rkakutan@ucsd.edu,,"2, 3, 2, 1",,,,,,
+11,2022-05-05 14:40:57.299,rkakutan@ucsd.edu,,,"[40, 50, 60], 60, Error",,,,,
+12,2022-05-05 14:41:31.495,cacasares@ucsd.edu,"lstA=[4,5,6] lstB=[1,2,3]",,,,,,,
+13,2022-05-05 14:42:10.620,astamaria@ucsd.edu,"lstA = [4,5,6] and lstB = [1,2,3]","1, 3, 1, 1",,,,,,
+14,2022-05-05 14:52:48.767,scano@ucsd.edu,,,,C,,,,
+15,2022-05-05 14:54:22.835,aiocampo@ucsd.edu,,,,B,,,,
+16,2022-05-05 14:54:24.447,jmlai@ucsd.edu,All numbers in list1 are greater than all numbers in list2,,,,,,,
+17,2022-05-05 14:55:07.005,lnieto@ucsd.edu,,,,,,The important steps to take when debugging our code. Learned about the assert method and the print() statement in testing what our code is set up to return.,"The most confusing part about today's class was going through the debugging process, I found it hard to follow along. ","Personally went well, I think it was a fair assessment of our knowledge. "
+18,2022-05-05 14:55:45.476,jmlai@ucsd.edu,,"2, 6, 2, 1",,,,,,
+19,2022-05-05 14:58:06.292,rkakutan@ucsd.edu,,,,A,,,,
+20,2022-05-05 15:01:20.768,s1ha@ucsd.edu,A test case that will fail the program at this point is if all the numbers in list 1 are greater than the numbers in list 2. ,"2, 6, 2, 1","[40, 50, 60], 60, Error",B,"def get_weather(wdata, day):
+    lst = [ ]
+    if day <0 or day > len(wdata)-1:
+        return ""Day "" + str(day) + "" is invalid!""
+    else:
+        for i in range(len(wdata)): 
+            lst = lst + [wdata[i][day]]
+        return lst",One key idea that I learned in today's class is that nested for loops allow for repetition of a repeated behavior. Nested for loops can be useful when accessing or iterating through 2D lists. ,,"The exam was good. I liked that we had a window of time to complete the exam, which made the experience less stressful. "
+21,2022-05-05 15:01:56.507,jmontanez@ucsd.edu,,"2, 6, 2, 1",,,,,,
+22,2022-05-05 15:04:29.062,zil066@ucsd.edu,,"2, 3, 2, 1","[40, 50, 60], 60, Error",A,,"Definition of 2d list, how to use them and how to differentiate them. ",,I really don't like the video recording part... It is really embarrassing. 
+23,2022-05-05 15:04:47.249,kat009@ucsd.edu,,"2, 6, 2, 1",,,,,,
+24,2022-05-05 15:04:55.097,v7patel@ucsd.edu,,"2, 6, 2, 1",,,,,,
+25,2022-05-05 15:04:56.060,asahai@ucsd.edu,,"2, 6, 2, 1",,,,,,
+26,2022-05-05 15:04:57.980,jiz122@ucsd.edu,,"2, 6, 2, 1",,,,,,
+27,2022-05-05 15:04:58.988,m2mercado@ucsd.edu,,"2, 3, 2, 1",,,,,,
+28,2022-05-05 15:05:01.228,cacasares@ucsd.edu,,"2, 6, 2, 1",,,,,,
+29,2022-05-05 15:05:02.083,hal092@ucsd.edu,s,"2, 3, 2, 1","[40, 50, 60], 60, Error",,,,,
+30,2022-05-05 15:05:06.571,mag042@ucsd.edu,,"2, 6, 2, 1",,,,,,
+31,2022-05-05 15:05:07.501,accalibuso@ucsd.edu,,"2, 6, 2, 1",,,,,,
+32,2022-05-05 15:05:08.669,zsecrest@ucsd.edu,,"2, 6, 2, 1",,,,,,
+33,2022-05-05 15:05:09.291,x4bai@ucsd.edu,test case 2,"2, 6, 2, 1",,,,,,
+34,2022-05-05 15:05:12.223,c6luo@ucsd.edu,,"2, 6, 2, 1",,,,,,
+35,2022-05-05 15:05:12.719,hskang@ucsd.edu,,"2, 6, 2, 1",,,,,,
+36,2022-05-05 15:05:13.988,nachiang@ucsd.edu,Test cases where one list is longer than the other will fail the program or if a list is empty. ,"2, 6, 2, 1",,,,,,
+37,2022-05-05 15:05:18.278,hal092@ucsd.edu,,,,B,,,,
+38,2022-05-05 15:05:20.169,wel020@ucsd.edu,,"2, 6, 2, 1",,,,,,
+39,2022-05-05 15:05:21.870,isereiva@ucsd.edu,,"2, 6, 2, 1",,,,,,
+40,2022-05-05 15:05:22.791,kcancel@ucsd.edu,,"2, 3, 2, 1",,,,,,
+41,2022-05-05 15:05:26.571,salabdul@ucsd.edu,,"2, 3, 2, 1",,,,,,
+42,2022-05-05 15:05:26.956,jum004@ucsd.edu,,"2, 6, 2, 1",,,,,,
+43,2022-05-05 15:05:29.319,amcarmona@ucsd.edu,,"1, 3, 1, 1",,,,,,
+44,2022-05-05 15:05:29.640,npmorrison@ucsd.edu,,"2, 6, 2, 1",,,,,,
+45,2022-05-05 15:05:29.745,kaqian@ucsd.edu,,"2, 6, 2, 1",,,,,,
+46,2022-05-05 15:05:30.492,eekgasit@ucsd.edu,,"2, 6, 2, 1",,,,,,
+47,2022-05-05 15:05:30.607,y1ouyang@ucsd.edu6,,"2, 6, 2, 1",,,,,,
+48,2022-05-05 15:05:38.888,zhg006@ucsd.edu,all numbers in list 1 or 2 are bigger than numbers in list 2 or 1 ,"2, 6, 2, 1",,,,,,
+49,2022-05-05 15:05:39.640,kssachde@ucsd.edu,,"2, 3, 2, 1",,,,,,
+50,2022-05-05 15:05:41.816,lnieto@ucsd.edu,,"2, 6, 2, 1",,,,,,
+51,2022-05-05 15:05:41.985,hstringer@ucsd.edu,,"2, 3, 2, 1",,,,,,
+52,2022-05-05 15:05:47.781,krcooper@ucsd.edu,,"2, 3, 2, 1",,,,,,
+53,2022-05-05 15:05:51.207,ruh004@ucsd.edu,,"2, 3, 2, 1",,,,,,
+54,2022-05-05 15:05:52.709,mmsantacruz@ucsd.edu,,"2, 6, 2, 1",,,,,,
+55,2022-05-05 15:05:53.373,redejer@ucsd.edu,,"2, 6, 2, 1",,,,,,
+56,2022-05-05 15:05:53.550,e2wei@ucsd.edu,,"2, 6, 2, 1",,,,,,
+57,2022-05-05 15:05:56.861,anc023@ucsd.edu,,"2, 6, 2, 1",,,,,,
+58,2022-05-05 15:05:56.886,hal092@ucsd.edu,,"2, 6, 2, 1",,,,,,
+59,2022-05-05 15:05:57.942,hchavarria@ucsd.edu,A neg,"2, 3, 2, 1",,,,,,
+60,2022-05-05 15:06:00.034,nlgonzales@ucsd.edu,,"2, 3, 2, 1",,,,,,
+61,2022-05-05 15:06:28.449,jum004@ucsd.edu,,,,,,I learned about nested for loops. I also learned about debugging.,"I am still confused on where to start in nested for-loops, such as looking at either the outer or inner for loop first? ",
+62,2022-05-05 15:06:31.921,ygonzale@ucsd.edu,,"2, 3, 2, 1",,,,,,
+63,2022-05-05 15:06:35.182,nhong@ucsd.edu,,"2, 6, 2, 1",,,,,,
+64,2022-05-05 15:06:42.110,nlgonzales@ucsd.edu,,"2, 6, 2, 1",,,,,,
+65,2022-05-05 15:07:09.136,astamaria@ucsd.edu,,"2, 6, 2, 1",,,,,,
+66,2022-05-05 15:09:03.318,salabdul@ucsd.edu,,,"[40, 50, 60], 60, Error",,,,,
+67,2022-05-05 15:12:41.439,ssreenivasan@ucsd.edu,,"2, 6, 2, 1",,,,,,
+68,2022-05-05 15:13:35.550,ssreenivasan@ucsd.edu,,,"[40, 50, 60], 60, Error",,,,,
+69,2022-05-05 15:13:38.996,dashen@ucsd.edu,idk,"2, 6, 2, 1","[40, 50, 60], 60, Error",,,,,
+70,2022-05-05 15:14:00.966,wel020@ucsd.edu,,,"[10, 20, 30], 20, 90",,,,,
+71,2022-05-05 15:15:52.957,rkakutan@ucsd.edu,Test case 2,"2, 3, 2, 1","[40, 50, 60], 60, Error",A,"def get_a_days_weather(wdata, day):
+for i in range(len(data)):
+day_weather = []
+for j in range(len(data[i])): 
+day_weather.append(data[j][i])
+print(day_weather)","I learned that you can have multiple lists inside of one list. In order to access something in the lists, you need two indexes: the first one for the overall list to find the smaller list you want, and then the index for that that smaller list of the specific item you want.",I found updating variables in nested for loops confusing.,I think everything was good!
+72,2022-05-05 15:16:22.563,kssachde@ucsd.edu,,,"[40, 50, 60], 60, Error",,,,,
+73,2022-05-05 15:17:45.881,kcancel@ucsd.edu,,,"[40, 50, 60], 60, Error",,,,,
+74,2022-05-05 15:17:49.274,wel020@ucsd.edu,,,,,,nasted loop is a loop inside the loop and 2d lists contains a list inside a lists,How to debug a long code function ,All good
+75,2022-05-05 15:18:00.431,amcarmona@ucsd.edu,,,"[10, 20, 30], 20, 90",,,,,
+76,2022-05-05 15:18:04.162,cacasares@ucsd.edu,,,"[40, 50, 60], 60, Error",,,,,
+77,2022-05-05 15:18:05.158,jum004@ucsd.edu,,,"[40, 50, 60], 60, Error",,,,,
+78,2022-05-05 15:18:22.220,jmlai@ucsd.edu,,,"[40, 50, 60], 60, Error",,,,,
+79,2022-05-05 15:18:35.846,scano@ucsd.edu,,,,,,,,I feel like the time itself that was provided for the length of the questions was doable. I also feel like the questions weren't too hard 
+80,2022-05-05 15:18:37.320,ssenanayake@ucsd.edu,Negative test cases ,"2, 6, 2, 1","[10, 20, 30], 20, 90",B,,One key idea I learned in today's class is that in debugging { } is a placeholder. You can fill it in with a variable and it will give what the variable produces. ,I found nested for loops the most confusing. ,"I thought it was very good for a midterm. It tested our knowledge, but did not rush us and allowed us to use our resources like we would be able to in the real world. I liked how we could do it on our own time and how it did not cause much stress, but also tested my knowledge. I found it to be medium difficulty and I think we were very well prepared for it."
+81,2022-05-05 15:19:02.861,accalibuso@ucsd.edu,,,"[40, 50, 60], 60, Error",,,,,
+82,2022-05-05 15:19:28.259,vxto@ucsd.edu,,"2, 3, 2, 1","[40, 50, 60], 60, Error",,,I learned about 2d lists. I also learned how to do nested loops.,I'm still a bit confused about nested loops and 2d lists.,I like how we had 72 hours to complete it.
+83,2022-05-05 15:19:30.506,jiz122@ucsd.edu,,"2, 6, 2, 1","[40, 50, 60], 60, Error",B,,nested for loops,,
+84,2022-05-05 15:19:34.307,qiw026@ucsd.edu,,"2, 6, 2, 1","[40, 50, 60], 60, Error",B,,"how to use test cases, 2d list.",No,The format is good.
+85,2022-05-05 15:19:34.641,cahuynh@ucsd.edu,Negative numbers,"2, 6, 2, 1","[40, 50, 60], 60, Error",A,,A key idea I learned today was the assert call. It helps with testcases.,No questions,"I liked the midterm exam, the resource option was interesting and the different types of problems was enjoyable. "
+86,2022-05-05 15:19:35.729,yuz178@ucsd.edu,,"2, 6, 2, 1","[40, 50, 60], 60, Error",,,today we've learned 2d lists and nested loops. Also how to debug.,"I don't have a specific question, but I think I still need more practice on the topics we've learned today.",I like the midterm exam
+87,2022-05-05 15:19:35.896,y1ouyang@ucsd.edu,,,,,,"Nested for loop, we can make an inner loop and an outer loop",No,No
+88,2022-05-05 15:19:36.741,hskang@ucsd.edu,,"2, 6, 2, 1","[40, 50, 60], 60, Error",,,I learned that for loops can have more for loop within them. This is important depending on what kind of repeated action you want executed,I found the assert statement confusing because I don't understand its purpose or why is it useful,I think that the exam was pretty fair. Sometimes the wording of the questions was confusing or what was expected as a full response on the short answer but overall I think that the exam was not that bad
+89,2022-05-05 15:19:37.754,v7patel@ucsd.edu,,,"[40, 50, 60], 60, Error",A,,One key idea I learned today was 2D Lists. 2D lists are 2 dimensional lists that have a list and each index position in a list is another list.,I found the idea of 2D lists the most confusing today,The midterm exam was very good. I felt it was fair and tested all aspects of the first half of CSE 8A
+90,2022-05-05 15:19:38.724,asahai@ucsd.edu,,,"[40, 50, 60], 60, Error",,,,,
+91,2022-05-05 15:19:40.206,eekgasit@ucsd.edu,,,"[40, 50, 60], 60, Error",,,I learned about nesting for loops. The inner loop will complete before the outer loop loops again. ,Why should we use assert instead of an if statement?,
+92,2022-05-05 15:19:40.981,redejer@ucsd.edu,,,,,,In class I was introduced to nested for loops and 2-d lists. An interesting I noticed is that 2-d lists and nested for loops are very 'pocket-ed'. That is to say there are often items in items.,I'm still fairly confused about test cases and how they function structurally.,"The midterm was fair, I feel. It took a while and felt relevant to the taught class material."
+93,2022-05-05 15:19:48.911,kpbrewster@ucsd.edu,,"2, 6, 2, 1",,,,,,
+94,2022-05-05 15:19:54.466,ruh004@ucsd.edu,,"2, 6, 2, 1",,,,We learned about nested loops. ,I'm still confused about this week's lectures. It's really hard for me. ,"The timing was good so that we have enough time to finish it, and I think the whole organization was good too. "
+95,2022-05-05 15:20:02.302,kcancel@ucsd.edu,,,,,,One key idea I learned in todays class was how to format a 2D list. Within this I learned how to format a code that will index a list in a 2D list and an element in a 2D list.,"I found nested loops the most confusing, especially when she mentioned break cases.",The midterm was good! I appreciate the time flexibility!
+96,2022-05-05 15:20:08.282,anc023@ucsd.edu,,,,,,We learned about 2d functions. We touched on nested for loops.,,
+97,2022-05-05 15:21:42.630,tschalge@ucsd.edu,Which program? ,"2, 6, 2, 1","[40, 50, 60], 60, Error",A,,I learned more about 2D lists,I am confused on how you access a 2d list ,
+98,2022-05-05 15:29:49.634,astamaria@ucsd.edu,,,"[40, 50, 60], 60, Error",,,,,
+99,2022-05-05 15:33:52.172,mepan@ucsd.edu,Test case #1,"2, 6, 2, 1","20, 20, 90",B,,One key idea that I learned I know how to access 2d Lists using Nested for loops. I also learned the variable updates in Nested For Loops.,I am still confused about how to work on fixing bugs.,N/A All i wanted to say is that I would like to thank to your effort.
+100,2022-05-05 16:19:21.945,cdmiranda@ucsd.edu,,"2, 6, 2, 1",,,,,,
+101,2022-05-05 16:28:13.362,melai@ucsd.edu,"lstA = [1, 4, 6]
+lstB = [2, 3, 5]","2, 6, 2, 1",,,,,,
+102,2022-05-05 16:28:18.362,jtgonzales@ucsd.edu,,"2, 6, 2, 1",,,,,,
+103,2022-05-05 16:41:48.155,jtgonzales@ucsd.edu,,,"[40, 50, 60], 60, Error",,,,,
+104,2022-05-05 16:42:03.975,melai@ucsd.edu,,,"[40, 50, 60], 60, Error",,,,,
+105,2022-05-05 16:48:49.474,melai@ucsd.edu,,,,B,,,,
+106,2022-05-05 16:49:36.788,allugo@ucsd.edu,,"1, 3, 1, 1",,,,,,
+107,2022-05-05 17:16:17.916,x4bai@ucsd.edu,test case 2,"2, 6, 2, 1","[40, 50, 60], 60, Error",A,,,,
+108,2022-05-05 18:16:01.868,krcooper@ucsd.edu,Empty list,"2, 6, 2, 1","[40, 50, 60], 60, Error",C,,,,
+109,2022-05-05 18:21:15.846,ssreenivasan@ucsd.edu,,,,D,,Nested for loops can be used to iterate through a list of lists. Indexing works the same in these for loops as you can find an element in a list using one or two indexes.,,
+110,2022-05-05 18:29:59.793,kaqian@ucsd.edu,,,,,,One key idea is that nested for loops can be used to repeat a sequence multiple times. There is an outer and inner loop within nested for loops.,I am confused about how to use nested for loops to repeat functions a certain number of times.,
+111,2022-05-05 18:41:49.012,c6luo@ussd.edu,,,"[40, 50, 60], 60, Error",,,"2D list is a list with each element being a list. To access all the elements, we can use the nested For loop.",,Midterm exam was comprehensive and interesting.
+112,2022-05-05 19:16:37.935,mcmckelv@ucsd.edu,,"2, 3, 2, 1","[10, 20, 30], 20, 90",A,,how to do nested for loops,,
+113,2022-05-05 19:19:51.409,mmsantacruz@ucsd.edu,,,,,,I learned about nested for loops and reviewed the idea of incremental development. I also learned what 2D lists are and how to get a specific element from within those list of lists.,My only question about the content covered today would be in what situation would you use the assert?,
+114,2022-05-05 20:06:21.333,egaver@ucsd.edu,2.0,"2, 6, 2, 1","[40, 50, 60], 60, Error",B,"wdata = [[23, 24, 25, 27, 26],
+        [0, -1, 1, -3, -2],
+        [9, 10, 11, 12, 11]]
+day = 0
+
+
+def get_a_days_weather(wdata,day):
+    end = []
+    for minlst in wdata:
+        for j in minlst:
+            if minlst.index(j) == day:
+                end.append(j)
+    print(end)
+
+get_a_days_weather(wdata, day)",nested for loops with 2d lists,practice with 2d lists,
+115,2022-05-05 20:31:43.222,slanaspa@ucsd.edu,,"2, 3, 2, 1","[40, 50, 60], 60, Error",C,,"How nested loops work in terms of which body corresponds to which loop. Also, in which cases these loops are useful since they can accomplish outputs that would be much more complicated to get with normal loops. ","I am a little confused to which range to use on each loop, and how many times each loop will run",it was good and believe it was a fair level of difficulty
+116,2022-05-05 21:44:33.272,tschalge@ucsd.edu,I'm not sure which program we are supposed to be analyzing. ,"2, 6, 2, 1","[40, 50, 60], 60, Error",A,"data = [[23, 24, 25, 27, 26],[0, -1, 1, -3, -2],[9, 10, 11, 12, 11]]
+def get_a_days_weather(wdata, day):
+    weather_in_each_city_on_certain_day = []
+    for x in range(len(wdata)):
+        weather_in_each_city_on_certain_day.append(data[x][day])
+    return weather_in_each_city_on_certain_day",I learned about how to call a list that is inside of a list. I also learned more about how to debug and use the assert keyword.,I am still confused about the assert keyword and how to use it correctly.,
+117,2022-05-05 21:50:58.932,hwrhee@ucsd.edu,,"2, 6, 2, 1","20, 20, 90",C,,,,"It was laid out very simply, especially with how similar it was to the formats we've already been exposed to, so the format wasn't an aspect that made it more unnecessarily difficult. "
+118,2022-05-05 22:30:33.614,lmoricz@ucsd.edu,Test case 2,"2, 6, 2, 1","[40, 50, 60], 60, Error",D, def ,"i learned more about nested if loops, specifically how a program would run if there are two loops within each other. I also reviewed on debugging code with the new assert statement.",NOne,It was good thank you
+119,2022-05-05 22:58:10.042,argonzalez@ucsd.edu,Test case 2,"2, 3, 2, 1","[40, 50, 60], 60, 90",B,"For i in range(len(data)):
+       If day == 0:
+               Return(data[0])
+        If day == 1:
+               Return(data[1])
+         If day == 2
+                Return(data[2])
+",I learned the order of nested loops and how it affects the output of the code. I also learned how variables work within nested loops.,The issue on the order of nested loops printing was hard to follow.,I liked the questions on the concepts.
+120,2022-05-05 23:47:15.741,hchavarria@ucsd.edu,,,"[40, 50, 60], 60, Error",C,I don’t know. ,That just like nested if conditions there are also nested for loops.  similarly there are 2d lists that have several separate list all considered to be one list of the same category. ,I’m still confused on how to read/interpret nested for loops. ,"I think the exam went well, I enjoyed having a 3 day period.  I wasn’t stressed and had time to do sections and take a break if I was overwhelmed  then return to the exam the next day. It gave me time to be able to do research of different methods that could be used and gave me time to brainstorm for the codes. "
+121,2022-05-06 08:25:42.696,aodintsov@ucsd.edu,,"2, 6, 2, 1","[40, 50, 60], 60, Error",D,,,,
+122,2022-05-06 11:22:58.991,mag042@ucsd.edu,,"2, 6, 2, 1","[40, 50, 60], 60, Error",B,I don't know,"One key idea that I learned in class today is that you could insert for loops inside of other for loops, mutilplying them together. I aslo learned that there could be lists inside of other lists.","One question that I still have is that how do the lists inside of lists work, as in how can I call a specific value in that list? ",

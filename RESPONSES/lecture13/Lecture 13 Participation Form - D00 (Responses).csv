@@ -1,0 +1,413 @@
+,Timestamp,Email Address,Review,Images,Tuples,Images as 2d List of Tuples,Working with Real Images using the CSE8AImage Library,What is one key idea that you learned in today's class? (2- 3 sentences),What questions do you still have about today's lecture? OR What did you find the most confusing about today's lecture?
+0,2022-05-10 15:39:24.269,tnduong@ucsd.edu,"70 | 80 | 90 |
+40 | 50 | 60 |
+10 | 20 | 30 |",,,,,,
+1,2022-05-10 15:41:09.267,rdwong@ucsd.edu,,"There are 144 pixels in this image and the unique RGB values are R, B, G, etc. ",,,,,
+2,2022-05-10 15:42:59.962,rdwong@ucsd.edu,"[10,20,30]",,,,,,
+3,2022-05-10 15:43:04.832,jwhiteman@ucsd.edu,"70|80|90|
+40|50|60|
+10|20|30|",,,,,,
+4,2022-05-10 15:43:27.705,jwhiteman@ucsd.edu,,"There are 256 pixels in this image and the unique RGB values of these pixels are (0,0,0) for black and (255,255,255) for white.",,,,,
+5,2022-05-10 15:43:54.585,jwhiteman@ucsd.edu,,,B,img[1][0],3 x 2,,
+6,2022-05-10 15:44:18.103,jwhiteman@ucsd.edu,,,,,,One key I idea that I learned today was about pixels and how colors work in computers and how to create images. I learned about something called tuples which are similar to list but are not the same. I also learned about pixels and how to get their colors.,I still don't understand nested for loops and 2d list and how they work.
+7,2022-05-10 15:45:12.763,wkennardy@ucsd.edu,"70 | 80 | 90 |
+40 | 50 | 60 |
+10 | 20 | 30 |",0.0,D,,,,
+8,2022-05-10 15:50:59.631,hchu@ucsd.edu,10|20|30|40|50|60|70|80|90,,,,,,
+9,2022-05-10 15:52:36.468,cwalstromvangor@ucsd.edu,"70 | 80 | 90 | 
+40 | 50 | 60 | 
+10 | 20 | 30 |
+It will first iterate through the rows, starting from the bottom, and then through each number in that row, column, and print it with a "" | "".","There are 256 pixels in this image and the unique RGB values of these numbers are (0,0,0) and (255,255,255) which are white and black.",B,img[1][0],3 x 2,"I learned how to use the CSE Image import which is really helpful for me. After doing the Stepik, I wanted to create a flower image but I couldn't get it to print so now that I know how to import images it will be very helpful.",
+10,2022-05-10 15:53:17.127,ktl001@ucsd.edu,10 20 30 | 40 50 60 | 70 80 90 |,,,,,,
+11,2022-05-10 15:54:42.696,key010@ucsd.edu,"[10,20,30],[40,50,60],[70,80,90]",there are 256 pixels in the image,C,img[2][1],6 x 3,One key idea that I learned in todays class is the idea of referring to specifics of a 2d list to output the desired results. We also learned about using variables to proxy over the rows of the 2D list. ,I am still confused on the referencing of the 2D lists as I do not have much practice with this concept
+12,2022-05-10 15:55:51.412,jpenaloz@ucsd.edu,"10, 20, 30 
+40, 50, 60
+70, 80, 90",,,,,,
+13,2022-05-10 15:56:42.617,xig001@ucsd.edu,"30,20,80",,,,,,
+14,2022-05-10 15:57:33.739,rmerino@ucsd.edu,"70 | 80 | 90 |
+40 | 50 | 60 |
+10 | 20 | 30 |",,,,,,
+15,2022-05-10 15:59:58.273,e1lee@ucsd.edu,"70 | 80 | 90 | 
+40 | 50 | 60 | 
+10 | 20 | 30 |",,,,,,
+16,2022-05-10 16:00:02.518,yuc096@ucsd.edu,70|80|90|40|50|60|10|20|30,,,,,,
+17,2022-05-10 16:00:04.857,mhle@ucsd.edu,"70 | 80 | 90
+40 | 50 | 60
+10 | 20 |30 ",,,,,,
+18,2022-05-10 16:00:06.880,vtan@ucsd.edu,This code should print each element within the lists of the data variable followed by a “ I “ ,,,,,,
+19,2022-05-10 16:00:07.865,ajett@ucsd.edu,"70 | 80 | 90 | 
+40 | 50 | 60 | 
+10 | 20 | 30 |",,,,,,
+20,2022-05-10 16:00:15.227,ktl001@ucsd.edu,10 20 30 | 40 50 60 | 70 80 90 |,"There are 256 pixals in image and unique RGB values of these pixels are (225, 225, 225) for white and (0, 0, 0) for black",,,,,
+21,2022-05-10 16:00:17.100,wha@ucsd.edu,70 | 80 | 90 |,"black ( 0,0,0), white (255,255,255)",D,img[1][0],3 x 2,,
+22,2022-05-10 16:00:31.802,djlakhani@ucsd.edu,70 | 80 | 90 | 40 | 50 | 60 | 10 | 20 | 30 |,,,,,,
+23,2022-05-10 16:00:35.818,ksleung@ucsd.edu,"30|20|10
+60|50|40
+90|80|70",256 pixels ,,,,,
+24,2022-05-10 16:00:38.353,xrochaquiroz@ucsd.edu,the length of the data ,,,,,,
+25,2022-05-10 16:00:40.017,aadarwis@ucsd.edu,90 | 50 |10 ,,,,,,
+26,2022-05-10 16:00:45.250,swiraja@ucsd.edu,"10 | 20 | 30
+40 | 50 | 60
+70 | 80 | 90",,,,,,
+27,2022-05-10 16:00:52.873,glepage@ucsd.edu,,,,img[1],,,
+28,2022-05-10 16:00:57.497,dcui@ucsd.edu,"70, 80, 90 
+40, 50, 60
+10, 20, 30",,,,,,
+29,2022-05-10 16:01:03.177,myk001@ucsd.edu,"70 | 80 | 90 | 
+40 | 50 | 60 | 
+10 | 20 | 30 |",,,,,,
+30,2022-05-10 16:01:09.968,clwhiteh@ucsd.edu,50.0,,,,,,
+31,2022-05-10 16:01:11.130,liz007@ucsd.edu,30|60|90,,,,,,
+32,2022-05-10 16:01:15.005,xw001@ucsd.edu,"70 | 80 | 90
+40 | 50 | 60
+10 | 20 | 30",,,,,,
+33,2022-05-10 16:01:23.553,melai@ucsd.edu,"[70, 80, 90]
+[40, 50, 60]",,,,,,
+34,2022-05-10 16:01:24.758,voswal@ucsd.edu,"70| 80| 90|
+40| 50| 60|
+10| 20| 30|",,,,,,
+35,2022-05-10 16:01:27.762,niho@ucsd.edu,"70 | 80 | 90 |
+40 | 50 | 60 |
+10 | 20 | 30 |","There are 256 pixels. Their unique rgb values are (0,0,0) and (255,255,255)",B,img[1][0],3 x 2,I learned how images work,"I'm still a little confused on the library we imported, but I'm confident I can figure it out. "
+36,2022-05-10 16:01:30.888,erko@ucsd.edu,30 | 60 | 90,,,,,,
+37,2022-05-10 16:01:31.753,xuz027@ucsd.edu,"70 | 80 | 90 |
+40 | 50 | 60 |
+10 | 20 | 30 |
+",,,,,,
+38,2022-05-10 16:01:46.307,arommid@ucsd.edu,"10 40 70 | 
+20 50 80 |
+30 60 90 |",,,,,,
+39,2022-05-10 16:01:51.730,yiw080@ucsd.edu,10 20 30|40 50 60|70 80 90,,,,,,
+40,2022-05-10 16:01:54.555,kaalfaro@ucsd.edu,"10,20,30 |
+40,50,60 |
+70,80,90 |",,,,,,
+41,2022-05-10 16:01:58.088,chuffman@ucsd.edu,"40,50,60 |
+70,80,90 |",,,,,,
+42,2022-05-10 16:02:06.413,kmochizuki@ucsd.edu,"70 | 80 | 90 |
+40 | 50 | 60 |
+10 | 20 | 30 |",,,,,,
+43,2022-05-10 16:02:24.824,sol020@ucsd.edu,"[[40, 50, 60], [70,80,90], [10,20,30]]",There are 256 pixels in this image,C,img[1],3 x 6,I learned about images and tuples. Specifically the basics of images and images as a 2d list of tuples.,I was little confused with pixel problem. 
+44,2022-05-10 16:02:42.777,j6xu@ucsd.edu,the print will start from the last index of the list and print backward with | in between,,,,,,
+45,2022-05-10 16:02:42.819,srachapudi@ucsd.edu,10 | 40 | 70 | 20 | 50 | 80 | 30 | 60 | 90,,,,,,
+46,2022-05-10 16:02:48.478,taren@ucsd.edu,"70|80|90|
+40|50|60|
+10|20|30|",,,,,,
+47,2022-05-10 16:02:48.835,miz015@ucsd.edu,I don't know,,,,,,
+48,2022-05-10 16:03:02.144,obandopadhyay@ucsd.edu,"70 | 80 | 90
+40 | 50 | 60
+10 | 20 | 30",,,,,,
+49,2022-05-10 16:03:10.422,weh009@ucsd.edu,"70 | 80 | 90 | 
+40 | 50 | 60 | 
+10 | 20 | 30 |",,,,,,
+50,2022-05-10 16:03:23.304,j6xu@ucsd.edu,"9 | 10 | 11 | 12 | 11 | 
+0 | -1 | 1 | -3 | -2 | 
+23 | 24 | 25 | 27 | 26 |",,,,,,
+51,2022-05-10 16:03:45.807,orusso@ucsd.edu,"70 | 80 | 90
+40 | 50 | 60
+10 | 20 | 30","256 pixels. The white pixels are (0,0,0) and the black pixels are (25,25,25).",,,,,
+52,2022-05-10 16:03:53.848,anslyker@ucsd.edu,"70 | 80 | 90 |
+40 | 50 | 60 |
+10 | 20 | 30 |",,,,,,
+53,2022-05-10 16:03:57.337,akwolfe@ucsd.edu,"70|80|90
+40|50|60
+10|20|30",,,,,,
+54,2022-05-10 16:03:58.090,jtgonzales@ucsd.edu,70 l 80 l 90,,,,,,
+55,2022-05-10 16:04:14.784,r7zhou@ucsd.edu,"70|80|90|
+40|50|60|
+10|20|30|",,,,,,
+56,2022-05-10 16:04:25.153,xw001@ucsd.edu,"70 | 80 | 90 | 
+40 | 50 | 60 | 
+10 | 20 | 30 | ",,,,,,
+57,2022-05-10 16:07:59.199,asawyer@ucsd.edu,"70|80|90
+40|50|60
+10|20|30","256 pixels, and the RGB values are either (0,0,0) or (255,255,255)",A,img[1][0],3 x 2,,
+58,2022-05-10 16:08:34.111,nbhoot@ucsd.edu,"70 | 80 | 90 |
+40 | 50 | 60 |
+10 | 20 | 30 |","256 pixels. RGB value for white: (255,255,255).  RGB value for black: (0,0,0)",D,img[1][0],3 x 6,I learned tuples are immutable. This means we cannot modify a tuple value after it is initialized,
+59,2022-05-10 16:09:52.498,mbannai@ucsd.edu,"70 | 80 | 90 |
+40 | 50 | 60 |
+10 | 20 | 30 |",,,,,,
+60,2022-05-10 16:10:53.416,h9johnson@ucsd.edu,"70 | 80 | 90 |
+40 | 50 | 60 | 
+10 | 20 | 30 |",,,,,,
+61,2022-05-10 16:11:50.545,h9johnson@ucsd.edu,"70 | 80 | 90 |
+40 | 50 | 60 |
+10 | 20 | 30 |",,,,,,
+62,2022-05-10 16:11:55.227,kel015@ucsd.edu,"[70, 80, 90] | 
+[40, 50, 60] | 
+[10, 20, 30] |",,,,,,
+63,2022-05-10 16:12:26.386,kaalfaro@ucsd.edu,,"There are 256 pixels and the unique RGB values of these pixels are (255,255,255) and (0,0,0)",,,,,
+64,2022-05-10 16:13:35.586,rdwong@ucsd.edu,,,B,,,,
+65,2022-05-10 16:13:36.468,ejreyes@ucsd.edu,print the result of the nested for loop and then 'None',"This is a 256 pixel image and the values of these pixels are (0, 0, 0) and (255, 255, 255)",B,img[1][0],3 x 6,,
+66,2022-05-10 16:17:22.894,yuc096@ucsd.edu,,256.0,,,,,
+67,2022-05-10 16:17:29.543,kmochizuki@ucsd.edu,,"There are 256 pixels in this image and the unique RGB values of these pixels are (0,0,0) and (255,255,255).",,,,,
+68,2022-05-10 16:18:17.639,ktl001@ucsd.edu,,"256, (255,255,255) and (0,0,0)",,,,,
+69,2022-05-10 16:18:50.625,Arommid@ucsd.edu,,"Pixels = 16 x 16 = 256
+R = 0-256 ... in this case r = 0 and 256
+G = 0-256... in this case r = 0 and 256
+B = 0-256... in this case r = 0 and 256",,,,,
+70,2022-05-10 16:21:34.985,rmerino@ucsd.edu,,"There are 256 pixels in the image and the unique RGB values of these pixels are (255, 255, 255) and (0, 0, 0).",,,,,
+71,2022-05-10 16:21:39.585,e1lee@ucsd.edu,,"There are 256 pixels in this image and the unique RGB values of these pixels are (0, 0, 0), (255, 255, 255)",,,,,
+72,2022-05-10 16:21:41.722,xw001@ucsd.edu,,"There are 256 pixels in this image and the unique RGB values of these pixels are (0, 0, 0), which is black, and (255, 255, 255), which is white.",,,,,
+73,2022-05-10 16:21:47.267,ksleung@ucsd.edu,"70 | 80 | 90 |
+40 | 50 | 60 |
+10 | 20 | 30 |","256 pixels and the RGB values are (0,0,0) for black and (255,255,255) for white.",,,,,
+74,2022-05-10 16:21:50.375,srachapudi@ucsd.edu,,"16 x 16 pixels (256) total. 104 white 152 white.  
+black (0, 0, 0)
+white (255, 255, 255)",,,,,
+75,2022-05-10 16:21:56.656,melai@ucsd.edu,"70 I 80 I 90 
+40 I 50 I 60
+10 I 20 I 30","There are 256 pixels. The unique RGB values are (0,0,0) and (255, 255, 255)",,,,,
+76,2022-05-10 16:22:02.692,ktl001@ucsd.edu,,"There are 256 pixals in image and unique RGB values of these pixels are (225, 225, 225) for white and (0, 0, 0) for black",,,,,
+77,2022-05-10 16:22:10.536,kaalfaro@ucsd.edu,,"256 pixels, (0,0,0) and (255,255,255)",,,,,
+78,2022-05-10 16:22:11.310,xuz027@ucsd.edu,,"There are 16^2 pixels in this umage and the unique RGB values o these pixels are (0,0,0), (255, 255,255)",,,,,
+79,2022-05-10 16:22:12.284,hchu@ucsd.edu,,"256 pixels. (0,0,0)",,,,,
+80,2022-05-10 16:22:13.516,jpenaloz@ucsd.edu,,"there are 256 pixels in this image and the unique RGB values of these pixels are [8, 8, 8] and [255, 255, 255]",,,,,
+81,2022-05-10 16:22:15.635,dcui@ucsd.edu,,"256 Pixels. The RGB Values are (0, 0, 0) and (255, 255, 255) ",,,,,
+82,2022-05-10 16:22:18.300,chuffman@ucsd.edu,,"There are 256 pixels and the unique RGB values are (0,0,0) and (255,255,255)",,,,,
+83,2022-05-10 16:22:19.103,ajett@ucsd.edu,"70 | 80 | 90 |
+40 | 50 | 60 |
+10 | 20 | 30 |","There are 256 pixels in this image, and there are two unique RGB values: black (0,0,0) and white (255,255,255).",,,,,
+84,2022-05-10 16:22:19.903,mbannai@ucsd.edu,"70 | 80 | 90 |
+40 | 50 | 60 |
+10 | 20 | 30 |","There are 256 pixels in this image, and the unique RGB values of these pixels are (0,0,0) and (255,255,255)",,,,,
+85,2022-05-10 16:22:22.460,xrochaquiroz@ucsd.edu,,"Height and weight are 16, there are 188 pixels in this image. the value of these pixels are: (0, 0, 0) which is black and (255, 255, 255) which is white.",,,,,
+86,2022-05-10 16:22:31.475,miz015@ucsd.edu,,"There are 256 pixels in this image and the unique RGB values of these pixels are (R, B, G) and so on ... ",,,,,
+87,2022-05-10 16:22:34.909,taren@ucsd.edu,,"There are 256 pixels in this image and 
+",,,,,
+88,2022-05-10 16:22:38.799,yiw080@ucsd.edu,,"000, 255 255 255",,,,,
+89,2022-05-10 16:22:41.994,clwhiteh@ucsd.edu,,"There are 256 pixels, (0,0,0) and (256,256,256)",,,,,
+90,2022-05-10 16:22:42.436,r7zhou@ucsd.edu,,"(0, 0, 0), (255, 255, 255)",,,,,
+91,2022-05-10 16:22:43.353,aadarwis@ucsd.edu,,"There are 256 pixels and there are 2 unique pixels (256, 256, 256) and (0,0,0)",,,,,
+92,2022-05-10 16:22:46.668,jpenaloz@ucsd.edu,,"there are 256 pixels in this image and the unique RGB values of these pixels are [8, 8, 8] for black and [255, 255, 255] for white",,,,,
+93,2022-05-10 16:22:47.548,j6xu@ucsd.edu,,"256 pixels (0,0,0)",,,,,
+94,2022-05-10 16:22:53.441,vtan@ucsd.edu,,There are 255 pixels in this image and I’m not sure of the unique RGB values of these pixels are ,,,,,
+95,2022-05-10 16:23:03.250,tnduong@ucsd.edu,,There are 256 pixels in this image and the unique RGB values of these pixel are are ().,,,,,
+96,2022-05-10 16:23:08.601,aromid@ucsd.edu,,,B,,,,
+97,2022-05-10 16:23:13.601,djlakhani@ucsd.edu,,"there are 256 pixels, the unique values are (255,255,255) and (0,0,0)",,,,,
+98,2022-05-10 16:23:16.281,voswal@ucsd.edu,,"there are 256 pixels in the image and the values are (255,255,255) and (0,0,0)",,,,,
+99,2022-05-10 16:23:17.245,obandopadhyay@ucsd.edu,,"16x16 grid with half (255,255,255) and half (0,0,0)",,,,,
+100,2022-05-10 16:23:18.244,swiraja@ucsd.edu,,"There are 256 pixels in this image, and the unique RGB values of these pixels are (0,0,0) and (255,255,255)",,,,,
+101,2022-05-10 16:23:21.384,akwolfe@ucsd.edu,,255 pixels,,,,,
+102,2022-05-10 16:23:31.115,erko@ucsd.edu,,"There are 256 pixels in this image and the unique RGB values of the pixels are (255,255,255) and (0,0,0).",,,,,
+103,2022-05-10 16:23:31.143,kel015@ucsd.edu,,"There are 256 pixels in this image and the unique RGB values of these pixels are (255, 255, 255) and (0,0,0).",,,,,
+104,2022-05-10 16:23:35.650,jtgonzales@ucsd.edu,,"There are 256 pixels in this image and the unique RGB values of these pixels are (0,0,0) and (255, 255, 255)",,,,,
+105,2022-05-10 16:23:37.594,myk001@ucsd.edu,,"There are 236 pixels in this image and the unique RGB values of these pixels are (225,225,225) and (0,0,0)",,,,,
+106,2022-05-10 16:23:52.137,anslyker@ucsd.edu,"70 | 80 | 90 |
+40 | 50 | 60 |
+10 | 20 | 30 |","N = 256 pixels
+black = (0,0,0)
+white = (255,255,255)
+",,,,,
+107,2022-05-10 16:23:53.710,jpenaloz@ucsd.edu,,"there are 256 pixels in this image and the unique RGB values of these pixels are [0, 0, 0] for black and [255, 255, 255] for white",,,,,
+108,2022-05-10 16:23:54.701,tnduong@ucsd.edu,,"There are 256 pixels in this image and the unique RGB values of these pixels are (0,0,0) and (255,255,255)",,,,,
+109,2022-05-10 16:25:14.810,weh009@ucsd.edu,,There are 256 pixels . ,D,,,,
+110,2022-05-10 16:26:01.525,mhle@ucsd.edu,"70 | 80 | 90
+40 | 50 | 60
+10 | 20 |30 ","There are 256 pixels and the unique values (0,0,0)(255,255,255)",,,,,
+111,2022-05-10 16:30:04.389,ijjones@ucsd.edu,,,B,,,,
+112,2022-05-10 16:30:04.938,ammendoza@ucsd.edu,30| 60| 90,"there are 256 and the unique RGB values of these pixels are (5,3,9), (7,5,3) and so on …",C,img[green],3 x 6,Make sure when you are counting the pixels for RBG you are double checking your counting . Also make sure when looking over nested for loops you execute the inner for loop first,
+113,2022-05-10 16:30:39.660,adhami@ucsd.edu,"30 | 60 | 90 |
+20 | 50 | 80 |
+10 | 40 | 70 |","There are 256 pixels in this image and the unique RGB values are (255, 255, 255) and (0, 0, 0)",D,img[1][0],3 x 2,How to represent RGB values as a list of tuples.,
+114,2022-05-10 16:30:41.595,ijjones@ucsd.edu,,,,img[1][0],,,
+115,2022-05-10 16:31:28.664,ijjones@ucsd.edu,,,,,3 x 2,,
+116,2022-05-10 16:31:55.899,wkennardy@ucsd.edu,,256.0,,img[1][0],3 x 2,"You can do a lot of image transformation using coding,. Tuples are immutable.",none
+117,2022-05-10 16:32:06.347,chuffman@gmail.com,,,B,,,,
+118,2022-05-10 16:33:22.935,kmadriaga@ucsd.edu,,There are 256 pixels and they are black and white pixels ,B,img[1][0],,,
+119,2022-05-10 16:33:39.287,maliissa@ucsd.edu,"40, 50, 60 |
+10, 20, 30 |
+70, 80, 90 |","Unique RGB Values:
+Black - (0,0,0)
+White - (255, 255, 255)
+
+16x16 = 256 pixels
+N = 256",D,img[1][0],3 x 2,The usefulness of images and the way we can manipulate pixels!,None!!
+120,2022-05-10 16:34:22.432,cbishop@ucsd.edu,"70 | 80 | 90 |
+40 | 50 | 60 |
+10 | 20 | 30 |","64 pixels, the black is 0,0,0 and white is 255,255,255",B,img[1][0],2 x 3,"I learned a lot about, specifically the best way to iterate over the internal nested list. I think this will be really helpful to really create more advanced data sets and answer it.",I think that personally nested loops can be confusing on what to loop over in each loop. 
+121,2022-05-10 16:34:54.289,jmchiu@ucsd.edu,"70 | 80 | 90 | 
+40 | 50 | 60 | 
+10 | 20 | 30 | ",There are 255 pixels in the image and the unique RGB values are black and white.,B,img[2][1],3 x 2,I learned about the relationship between 2D lists and images. I also learned how the basis of pixels works.,
+122,2022-05-10 16:35:51.922,yuc096@ucsd.edu,,,B,,,,
+123,2022-05-10 16:37:49.029,myk001@ucsd.edu,,,B,img[1][0],3 x 2,"I have learned how to count the unique number of pixels depends on the image and how to express them into 2d lists of tuples. Also during the review, I have noticed which for loop represents row and columns. ",
+124,2022-05-10 16:37:51.762,vtan@ucsd.edu,,,B,,,,
+125,2022-05-10 16:38:07.596,d4sanchez@ucsd.edu,70 80 90 40 50 60 10 20 30,"There are 16 x 16 (256) pixels in this image and the unique values of the pixels are 0,0,0 and 256,256,256",D,img[1][0],3 x 6,Tuples.  I was not aware that Python can allow you to make images in such a way,Tuple mutability
+126,2022-05-10 16:38:44.099,arommid@ucsd.edu,,,,,2 x 3,Pixels and tuples ,None
+127,2022-05-10 16:38:47.592,ksleung@ucsd.edu,"70 | 80 | 90 |
+40 | 50 | 60 |
+10 | 20 | 30 |","256 pixels and the RGB values are (0,0,0) for black and (255,255,255) for white.",C,img[1][0],3 x 2,We learned about having pictures in our code. Meaning the basics of the pixels and colors comprising the photo as well as imputing photos.,"I think the review helped me, but nested for loops might still give me some trouble."
+128,2022-05-10 16:41:29.427,rmerino@ucsd.edu,,,D,img[1][0],,,
+129,2022-05-10 16:41:31.768,spaull@ucsd.edu,"70 | 80 | 90 |
+40 | 50 | 60 |
+10 | 20| 30 |","There are 256 pixels in this image and the unique RGB values of these pixels are (0,0,0) and (255,255,255)",B,img[1][0],3 x 2,One key idea I learned today was about images and pixels. Also I learned about tuples and that they are immutable. ,I thought that tuples were the most confusing about today's lecture. 
+130,2022-05-10 16:41:43.605,yuc096@ucsd.edu,,,,img[1][0],,,
+131,2022-05-10 16:42:02.885,djlakhani@ucsd.edu,,,A,,,,
+132,2022-05-10 16:42:22.153,e1lee@ucsd.edu,,,B,img[1][0],,,
+133,2022-05-10 16:42:25.267,glepage@ucsd.edu,,,,,,The idea of tuples and how they relate to images. Also I learned about how images are formed by using RGB,
+134,2022-05-10 16:42:29.804,kmadriaga@ucsd.edu,,,,,3 x 2,I learned that we can create images using tuples.  I also learned that we make tuples using 2d lists.  ,
+135,2022-05-10 16:42:32.996,yiw080@ucsd.edu,,,,img[1][0],,,
+136,2022-05-10 16:43:15.257,glepage@ucsd.edu,,,B,img[1][0],2 x 3,,
+137,2022-05-10 16:43:42.885,srachapudi@ucsd.edu,,,A,,,,
+138,2022-05-10 16:44:37.500,sevtimova@ucsd.edu,"70|80|90
+40|50|60","There are 256 pixels in this image and the unique RGB values of these pixels are (255,255,255) for white and (0,0,0) for black.",B,img[1][0],3 x 2,"I learned about the three basic colors needed for images. For example, red can be  represented through (240,0,0). I also learned that tuples are immutable. ",I still have some questions about the definitions of tuples as well as indices.
+139,2022-05-10 16:45:01.025,mlinaresortega@ucsd.edu,"70 | 80 | 90 | 
+40 | 50 | 60 | 
+10 | 20 | 30 | ","There are 256 pixels in this image and the unique RGB value of these pixels are (0,0,0) and (256,256,256).",B,img[2][1],2 x 3,,
+140,2022-05-10 16:45:08.116,kmontejanoortiz@ucsd.edu,"10 | 20 | 30 |
+40 | 50 | 60 |
+70 | 80 | 90 |","There are 256 pixels in this image and the unique RGB values of these pixels are (0, 0, 0) and (255, 255, 255).",B,img[1][0],3 x 2,I learned about pixels and images. I learned what tuples are and the RGB codes for colors. ,I'm still confused on how to print a pixel picture with code.
+141,2022-05-10 16:45:29.422,rdwong@ucsd.edu,,,,img[1],,,
+142,2022-05-10 16:45:33.466,aballardo@ucsd.edu,"70 | 80 | 90 |
+40 | 50 | 60 |
+10 | 20 | 30 |","256 pixels
+There are two distinct RGB values on this grid. Black: (0,0,0). White: (255,255,255)",B,img[1][0],3 x 2,I learned about tuples and their different properties. What I mean is that that they are immutable and what color each number within a tuple represents.,"I found differentiating between an int data type and a tuple data type confusing. For example, why does a comma differentiate between an int and a tuple."
+143,2022-05-10 16:45:36.741,weh009@ucsd.edu,,,D,img[1][0],3 x 2,"I learned about how to tuples and how images can be made with them through the use of RGB. I also learned that Tuples are immutable and RGB takes in three colors, Red, Green and Blue and manipulating these numbers can create different desired colors.",
+144,2022-05-10 16:45:38.804,rdwong@ucsd.edu,,,,,6 x 3,,
+145,2022-05-10 16:46:14.787,rdwong@ucsd.edu,,,,,,"I learned about what real images were. In addition, I learned about images of 2d lists of tuples. ",
+146,2022-05-10 16:46:24.561,rdwong@ucsd.edu,,,,,,,
+147,2022-05-10 16:46:51.845,obandopadhyay@ucsd.edu,,,B,img[1][0],,,
+148,2022-05-10 16:46:55.120,tnduong@ucsd.edu,,,B,,,,
+149,2022-05-10 16:46:59.338,zuzermeno@ucsd.edu,"70 | 80 | 90 |
+40 | 50 | 60 |
+10 | 20 | 30 |","there are 256 pixels in total and the unique RBG is (0, 0, 0) for black and for white it's (256, 256, 256)",B,img[green],3 x 2,One thing that I learned today was pixels and how we can use the color picker to figure out the RBG. I didn't know that the color picker can be used in tuples and it made the lesson interesting.,I'm still finding tuples a bit confusing because I still understand how list can become tuples using RBG.
+150,2022-05-10 16:47:13.278,e1lee@ucsd.edu,,,,,3 x 2,,
+151,2022-05-10 16:47:32.080,tnduong@ucsd.edu,,,,img[1][0],,,
+152,2022-05-10 16:47:37.292,mhle@ucsd.edu,,,D,img[1][0],2 x 3,One key idea I learned in today's class is images. Each pixel in an image has a specific coordinate with a color,The most confusing is the height and width with images. 
+153,2022-05-10 16:48:07.959,jmamarad@ucsd.edu,"70 | 80 | 90 | 
+40 | 50 | 60 | 
+10 | 20 | 30 |","There are 256 pixels in this image of two colors, black and white. The RGB value of black is (0,0,0) and the RGB value of white is (255,255,255)",C,img[2][1],3 x 2,"Today I learned about how images and tuples function in python. I learned how to develop colors within python via RGB codes, and I also learned how to store these codes. ",
+154,2022-05-10 16:48:10.074,ajett@ucsd.edu,"70 | 80 | 90 |
+40 | 50 | 60 |
+10 | 20 | 30 | ","There are 256 pixels in this image, and there are two unique RGB values: black (0,0,0) and white (255,255,255).",B,img[1][0],3 x 2,,
+155,2022-05-10 16:48:10.509,yiw080@ucsd.edu,,,,,3 x 2,,
+156,2022-05-10 16:48:14.712,xw001@ucsd.edu,,,B,img[1][0],3 x 2,,
+157,2022-05-10 16:48:20.448,xuz027@ucsd.edu,,,B,,3 x 2,,
+158,2022-05-10 16:48:20.892,erguerrero@ucsd.edu,"70 | 80 | 90 |
+40 | 50 | 60 |
+10 | 20 | 30 |","There are a total of 256 pixels in this image and the unique RGB values of these pixels are (255, 255, 255) and (0,0,0).",C,img[1][0],3 x 2,"One key idea I learned is that tuples are immutable. They differ from lists in this way, because lists are mutable despite their similarity to tuples.","I still have some Nested loop questions, but Stepik should help a lot."
+159,2022-05-10 16:48:20.970,kmochizuki@ucsd.edu,,,,,3 x 2,,
+160,2022-05-10 16:48:21.003,obandopadhyay@ucsd.edu,,,,,3 x 2,,
+161,2022-05-10 16:48:22.341,orusso@ucsd.edu,,"258 pixels, ",,,3 x 2,"One key idea that I learned is about the new data type truples. They usually have three elements in them and are immutable, and are used to play with colors of pixels.",I am still confused about the use of nested loops and when they are used in 2d lists.
+162,2022-05-10 16:48:28.417,yuc096@ucsd.edu,,,,,3 x 2,"The 3 basic color of computer are Red,Green, Blue",No
+163,2022-05-10 16:48:29.030,melai@ucsd.edu,,,D,,3 x 2,,
+164,2022-05-10 16:48:34.957,srachapudi@ucsd.edu,,,,,2 x 3,,
+165,2022-05-10 16:48:36.092,rcarmody@ucsd.edu,"70|80|90|
+40|50|60|
+10|20|30|","There are 256 pixels in this image and the two RGB values that they have are: (0,0,0) and (255,255,255)",B,img[green],3 x 2,I learned what the code for pictures looks like by formulating lists containing a code for each pixel color. ,
+166,2022-05-10 16:48:38.313,djlakhani@ucsd.edu,,,,,3 x 2,,
+167,2022-05-10 16:48:40.362,j6xu@ucsd.edu,,,,,3 x 2,,
+168,2022-05-10 16:48:42.023,rmerino@ucsd.edu,,,,,2 x 3,,
+169,2022-05-10 16:48:42.049,ktl001@ucsd.edu,,,B,img[1],3 x 6,I learned that you can build pixals with 2 d lists. I also learned that using for loops in for loops run through 2 d lists,I found the range and len of 2 d lists difficult 
+170,2022-05-10 16:48:42.571,e1lee@ucsd.edu,,,,,,"One key idea we learned about in class today was how to use tuples. We learned that tuples are like lists, but they are in parenthesis and they are immutable.",The most confusing part about today's lecture is how tuples can be made into images using 2d lists.
+171,2022-05-10 16:48:43.994,xrochaquiroz@ucsd.edu,,,,,2 x 3, I learned about tuples and how to protect a component of rbg. I also learned than we are able to depict values with integers using rbg. RBG are like primary colors in coding. ,I found the idea or rewriting a new object in order to change the color in a pixel a bit confusing. 
+172,2022-05-10 16:48:44.686,erko@ucsd.edu,,,,,2 x 3,,
+173,2022-05-10 16:48:44.936,jtgonzales@ucsd.edu,,,,,3 x 2,,
+174,2022-05-10 16:48:46.161,aadarwis@ucsd.edu,,,,,2 x 3,,
+175,2022-05-10 16:48:47.763,kaalfaro@ucsd.edu,,,,,3 x 2,,
+176,2022-05-10 16:48:47.799,r7zhou@ucsd.edu,,,,,3 x 2,,
+177,2022-05-10 16:48:48.016,liz007@ucsd.edu,,,,,3 x 2,,
+178,2022-05-10 16:48:48.657,hchu@ucsd.edu,,,,img[1][0],3 x 2,,
+179,2022-05-10 16:48:49.895,chuffman@ucsd.edu,,,,,3 x 2,"I learned about tuples. Specifically, I learned that tuples are primarily used for rgb and pixels",How do you view the image you create with tuples?
+180,2022-05-10 16:48:53.864,clwhite@ucsd.edu,,,,img[green],,,
+181,2022-05-10 16:48:55.950,tnduong@ucsd.edu,,,,,2 x 3,,
+182,2022-05-10 16:48:59.244,wha@ucsd.edu,,"There are 256 pixels in this image and the unique RGB values of these pixels are (255,255,255), (0,0,0)",B,img[1][0],3 x 2,"Tuples are immutable, meaning if we wanna change the color of a pixel, we need to create a new tuple. Another key idea is that images are basically 2D lists. ",
+183,2022-05-10 16:48:59.677,hac018@ucsd.edu,"70|80|90
+40|50|60
+10|20|30","There are 225 pixels in the image and the unique RGB values of these pixels are (0, 0, 0) and (255, 255, 255).",B,img[1][0],3 x 2,"I learned new way to store item, tuple. I can also use them to store safe reference like black = (255, 255, 255) and other ppl will not be able to modify it.",I found tuple reference is the most confusing part.
+184,2022-05-10 16:49:02.301,akwolfe@ucsd.edu,,,,img[1][0],3 x 2,I learned about RGB and about pixels. Also on how to use real images for tuples.,
+185,2022-05-10 16:49:02.324,kmochizuki@ucsd.edu,,,,,,I learned how to put images into code. This is useful because you have to format very specifically.,I found using images the most confusing.
+186,2022-05-10 16:49:04.168,jpenaloz@ucsd.edu,,,D,img[1][0],3 x 2,One key idea I learned in class today was about images and tuples. I learned that tuples are immutable and used to make sure that RBG is not changed.,One thing I am still confused about is the nested for loops and 2D lists. 
+187,2022-05-10 16:49:06.609,mbannai@ucsd.edu,"70 | 80 | 90 |
+40 | 50 | 60 |
+10 | 20 | 30 |","There are 256 pixels in this image, and the unique RGB values of these pixels are (0,0,0) and (255,255,255)",D,img[1][0],3 x 2,,
+188,2022-05-10 16:49:08.130,sil049@ucsd.edu,"70 | 80 | 90 | 
+40 | 50 | 60 | 
+10 | 20 | 30 |","There are 256 pixels in this image and the unique RGB values of these pixels are (0, 0, 0) and (255, 255, 255).",B,img[1][0],3 x 2,I learned about how to access 2d list to nested for loops. I also learned about some basic information about images in python. ,No.
+189,2022-05-10 16:49:10.343,jiparais@ucsd.edu,"70 | 80 | 90 | 
+40 | 50 | 60 | 
+10 | 20 | 30 | ","There are 256 pixels in this image and the unique RGB values of these pixels are == (255,255,2550) white and (0, 0, 0) black.
+
+",B,img[1][0],3 x 2,"Images and Tuples- One key idea that I learned in today's class was:
+Pixel - picture elements.
+Images are made up of pixels that are depicted with three values ((_,_,_)). These values are made up of a red , green, and blue component respectively that is equal to a number 0-255.","Tuples are confusing to me still. I have had to deal with tulpe errors since the beginning of the quarter, and now that I know what they are, I understand why i get those errors. However, the whole idea of it is still iffy for me."
+190,2022-05-10 16:49:10.810,h1yoon@ucsd.edu,"70 l 80 l 90 l
+40 l 50 l 60 l
+10 l 20 l 30 l","There are 256 pixels in this image and the unique RGB values of these black(0,0,0),white(255,255,255).",B,img[1][0],3 x 2,"we can make a pixel as RGB values which are three elements of list, then it's going to be one pixel then we can add many pixel to make an image(2D list of Tuples). ",
+191,2022-05-10 16:49:10.863,taren@ucsd.edu,,,B,img[1][0],6 x 3,I learned how to use tuples,I think I am pretty clear about this lecture
+192,2022-05-10 16:49:11.951,aadarwis@ucsd.edu,,,B,img[1][0],,,
+193,2022-05-10 16:49:17.104,dcui@ucsd.edu,,,,,3 x 2,"I learned how to create colors with the RGB color scheme, and how to create images with tuples and 2d lists.",How the end function works in print
+194,2022-05-10 16:49:17.985,hbzhang@ucsd.edu,"[70,80,90],[40,50,60],[10,20,30] ",There are 56,B,img[1][0],3 x 2,How color is different when the number in the list changing from 0 to 255. And also the picture tuples.,Picture size.
+195,2022-05-10 16:49:18.699,h3cai@ucsd.edu,"70 | 80 | 90 |
+40 | 50 | 60 | 
+10 | 20 | 30 |","There are 256 pixels
+(0,0,0)
+(256,256,256)",D,img[2][1],3 x 2,I learned that there are RBG pixels and about tuples.,I find RBG confusing and how it works.
+196,2022-05-10 16:49:18.744,anslyker@ucsd.edu,"70 | 80 | 90 |
+40 | 50 | 60 |
+10 | 20 | 30 |","256 pixels
+black = (0,0,0)
+white = (255,255,255)",D,img[1][0],3 x 2,"You can access certain pixels in images using tuples. You can access specific indexes that represent color components of red, green and blue. The colors are all represented by numbers which impact their color.",I am still a little confused about accessing 2d lists and working with real images.
+197,2022-05-10 16:49:19.882,rsuresh@ucsd.edu,"70 | 80 | 90 | 
+40 | 50 | 60 | 
+10 | 20 | 30 | ","There are 256 pixels in this image and the unique RGB values of these pixels are (255, 255, 255) and (0, 0, 0).",B,img[1][0],3 x 2,"One key idea that I learned it today's class was that tuples themselves are immutable. In order to modify a tuple, you cannot modify a specific index. Instead, you must write a temporary variable to hold each tuple index, and then reassign the tuple variable with each index, having potentially changed one.","One thing I found most confusing about today's lecture was the concept of height and width, as well as importing the image library, and the concept behind it."
+198,2022-05-10 16:49:20.889,h9johnson@ucsd.edu,,"there are 256 pixels and the unique values are (255,255,255) and (0,0,0) ",,img[1][0],3 x 2,,
+199,2022-05-10 16:49:21.866,miz015@ucsd.edu,,,B,img[2][1],3 x 2,I learned how to use Tuples to make images. I also learned the RGB coloring scheme for CSE. ,"I found the Tuples idea the most confusing topic from today's lecture, but  I don't have anymore questions . "
+200,2022-05-10 16:49:23.550,hchu@ucsd.edu,,,,,,"That images can be represented by pixels on python, which I have never known.",
+201,2022-05-10 16:49:26.652,kel015@ucsd.edu,,,D,img[green],3 x 2,,
+202,2022-05-10 16:49:29.722,mmn004@ucsd.edu,70 | 80 | 90 | 40 | 50 | 60 | 10 | 20 | 30,"There are 256 pixels and the RGB values of the pixels are (255,255,255) and (0,0,0)",B,img[1][0],3 x 2,I learned what images are in code. I also learned how to make images and how they're made,No questions
+203,2022-05-10 16:49:30.136,vnn001@ucsd.edu,"70 | 80 | 90 |
+40 | 50 | 60 |
+10 | 20 | 30 |","There are 256 pixels in the image
+(0,0,0) black
+(255,255,255) white
+",D,img[1][0],3 x 2,"Today I learned about tuples and 2d imaging, and how there is a similaritiy between images and 2d lists. I learned RGB in tuples and the different colors that are associated with them. ",I found working with real imagines in the CSE8AImage library kind of hard
+204,2022-05-10 16:49:34.430,shy020@ucsd.edu,"70 | 80 | 90 |
+40 | 50 | 60 |
+10 | 20 | 30 |","There are 16*16 pixels in this image and the uniqueRGB values of these pixels are (0,0,0)and (255,255,255).",B,img[1][0],3 x 2,I learned how to change RGB value by using nested for loop. and also get the value,no
+205,2022-05-10 16:49:41.170,xw001@ucsd.edu,,,,,,"I learned that tuples don't have to store RGB values. Tuples can store any values, as long as the values are separated by commas.",I still need to be more familiar with the concept of immutable object.
+206,2022-05-10 16:49:59.200,rmerino@ucsd.edu,,,,,,One key idea I learned in today's class is how to represent images using 2D lists and for loops. It will be useful due to Stepik not being very clear on how it works.,There's nothing confusing about today's lecture.
+207,2022-05-10 16:50:01.471,adward@ucsd.edu,"its going to print the result of the  nested for loop as well as ""None""",there  are 256 pixels and the following depends on the placement of said pixels ,B,img[1][0],3 x 6,"I learned about images and RBGs. These consist of 3 numbers, or strings that reflect a certain number ","I found identifying the result to be the toughest part, however, I think it will get easier the more I practice "
+208,2022-05-10 16:50:11.085,swiraja@ucsd.edu,,,D,img[green],3 x 2,"Images, tuples, how to access 2d lists using nested for loops, and how to update variables",no
+209,2022-05-10 16:50:25.375,ajett@ucsd.edu,"70 | 80 | 90 |
+40 | 50 | 60 |
+10 | 20 | 30 |","There are 256 pixels in this image, and there are two unique RGB values: black (0,0,0) and white (255,255,255).",B,img[1][0],3 x 2,"One key idea I learned today is that tuples are immutable similar to the immutability of strings and integers. This means that to change a particular tuple, it has to be overwritten as a whole tuple. Tuples can also be of varying lengths.",I was wondering if using end in print statements can be prevented from adding the end string on the last print statement (like how 70 | 80 | 90 |) has | at the end.
+210,2022-05-10 16:50:33.947,wjh001@ucsd.edu,"70 | 80 | 90 | 
+40 | 50 | 60 | 
+10 | 20 | 30 |  will be printed",There are 256 pixels in this image.,C,img[2][1],3 x 6,How to count pixels of images. When do we need to draw images.,
+211,2022-05-10 16:50:34.040,liz007@ucsd.edu,,,,,,I learned about tuples and how the color of pixels can be written,I guess the last part about height and width is the most confusing to me
+212,2022-05-10 16:56:21.281,aml015@ucsd.edu,,,B,img[1],3 x 6,I learned about how 2D lists could be used for imaging.,
+213,2022-05-10 16:56:50.048,ahrogers@ucsd.edu,"70 | 80 | 90 | 
+40 | 50 | 60 | 
+10 | 20 | 30 |    will be printed ","There are 256 (16*16) pixels in this image and the unique RGB values of these pixels are black (0,0,0) and white (255,255,255).",B,img[1][0],3 x 6,I learned how to use Tuples and how that deals with images. ,
+214,2022-05-10 17:02:01.173,ecoulson@ucsd.edu,"70 | 80 | 90
+40 | 50 | 60
+10 | 20 | 30 ","There are 256 pixels and the values are 000, 225, 255. ",B,img[green],3 x 2,I learned how to code an image using tuples. ,I am still a bit confused on how to create the 2 dimensional lists using tuples. 
+215,2022-05-10 17:23:14.620,yic061@ucsd.edu,Print(data),,B,img[1][0],3 x 6,,
+216,2022-05-10 17:39:21.076,kmaramba@ucsd.edu,"70 | 80 | 90 |
+40 | 50 | 60 |
+10 | 20 | 30 |","There are 256 pixels in the image and the unique RGB values of these pixels are (255,255,255) and (0,0,0).",B,img[1][0],3 x 2,Recalling nested for loops. Basics of images and modifying tuples.,
+217,2022-05-10 17:40:17.407,h9johnson@ucsd.edu,,,,,,We reviewed 2d lists. We were introduced to images and how to code images. ,Coding the images is still a little confusing 
+218,2022-05-10 17:42:02.595,xig001@ucsd.edu,"30,20,80",64.0,B,,3 x 6,I learned images and tuples in Python. I also learned how to use images as 2nd list of tuples. ,
+219,2022-05-10 17:59:58.816,vtan@ucsd.edu,,,,,2 x 3,"One key idea we learned in class today is being able to create images and colors through pixels in python. Additionally, how we're able to generate different colors by employing different combinations. ",
+220,2022-05-10 18:02:18.380,kpan@ucsd.edu,"It would print the data variable backwards with everything in the list separated with a | . 
+70 | 80 | 90 |
+40 | 50 | 60 |
+10 | 20 | 30 | ","There are 256 pixels. The RGB value for white is (255, 255,255) and the RGB for black is (0,0,0).",B,img[1][0],3 x 2,In today's class I learned more about pixels and how to write 2D lists that represent the rgb values. ,
+221,2022-05-10 18:05:29.794,mtn011@ucsd.edu,"70 | 80 | 90 | 
+40 | 50 | 60 | 
+10 | 20 | 30 | ","There are 16^2 pixels. The unique RGB values are (255, 255, 255) and (0, 0, 0).",B,img[1][0],2 x 3,We learned what a tuple is. We also learned how to print tuples from a list. ,I found using real images to be confusing. 
+222,2022-05-10 19:41:33.057,jix042@ucsd.edu,"70 | 80 | 90 | 
+40 | 50 | 60 | 
+10 | 20 | 30 | ",There are 256 pixels in the image.,B,img[2][1],3 x 6,"In today's lesson, I learned images and 2D Lists. To make an image as a 2D list of pixels, we can create a list of rows and each row is a list of pixels. ",
+223,2022-05-10 20:28:05.013,nduque@ucsd.edu,"70 | 80 | 90
+40 | 50 | 60
+10 | 20 | 30","There are 256 pixel in this image and the unique RGB values of these pixels are (255,255,255) and (0,0,0).",D,img[2][1],3 x 2,Tuples are immutable and i learned the rgb values that can make up the appearance of a color ,the 2d lists and nested for loops were bit confusing 
+224,2022-05-10 20:50:04.945,kaalfaro@ucsd.edu,,,,img[2][1],3 x 2,In todays class we reviewed the concept of nested loops and how to properly access through different information. We also were introduced to images and colors in python which are accessible through tuples which is essentially a type of list function for coding for color pigments within pixels of an image. ,The last part about real images using the CSE8AImage library was the most confusing. I’m not sure what it’s relevance is
+225,2022-05-10 21:43:10.285,tnduong@ucsd.edu,,,,,,I learned what is tuples and 2D dimension. I also learned how to print color pixels pictures.,
+226,2022-05-10 22:09:41.860,h2seo@ucsd.edu,"[1,2,3]","255 (0,255,0) ",D,img[2][1],2 x 3,A tuple is the collection of an object. Round brackets or parenthesis is used instead of square brackets. ,I think the concept of RBG is a little bit confused. 
+227,2022-05-10 23:21:34.701,kpompa@ucsd.edu,"[90,60,30]",,,,,,
+228,2022-05-10 23:24:49.643,kpompa@ucsd.edu,,There are 256 pixels in this image. The unique RGB values of this pixel may be (). ,,,,,
+229,2022-05-10 23:25:39.152,kpompa@ucsd.edu,,,B,,,,
+230,2022-05-10 23:25:56.730,kpompa@ucsd.edu,,,,img[1][0],,,
+231,2022-05-10 23:27:36.698,kpompa@ucsd.edu,,,,,6 x 3,I learned how tuples work in a code. ,I am still confused about 2d lists.

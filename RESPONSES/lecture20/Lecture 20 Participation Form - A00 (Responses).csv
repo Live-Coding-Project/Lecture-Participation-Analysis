@@ -1,0 +1,1041 @@
+,Timestamp,Email Address,Score,Q1: What will be printed by the above code snippet?,Q2: What will be printed by the code snippet above?,"Q3: The above function tries to find the minimum value in a list of numbers. The function does not work as expected. Write what is the issue with this function and how will you fix it. Also, write one test case that may crash this program.",Q4: Which among the following statements are true about the code snippet above? Choose ALL that apply.,Q5: Write a function that takes in a 2d list of integers and returns a 1d list of just the positive numbers.,Q6: What will happen when we run the code above?,Q7:What will be printed?,Q8: Explain in 2 - 3 sentences the purpose of the function above.,Q9: Fill in the missing code to complete the function that creates and returns a copy an image.,Q10: Write a function that converts a dictionary as shown above.,Q11: What will be printed?
+0,2022-06-02 09:34:20.795,tanewman@ucsd.edu,1.0,eng#ucsd#edu,,,,,,,,,,
+1,2022-06-02 09:35:03.681,tanewman@ucsd.edu,1.0,,"7, [6, 8, 10]",,,,,,,,,
+2,2022-06-02 09:38:43.375,clchou@ucsd.edu,0.0,dont know,"14, [6, 8, 10]",dont know,The print statement will be executed 6 times,dont know,"(1, 2, 3) will be printed",2 3 4,dont know,dont know,dont know,winny year 2
+3,2022-06-02 09:41:54.908,tanewman@ucsd.edu,0.0,,,,The inner for loop runs 4 times,,,,,,,
+4,2022-06-02 09:49:48.295,biw007@ucsd.edu,1.0,eng#ucsd#edu,,,,,,,,,,
+5,2022-06-02 09:50:14.775,nateng@ucsd.edu,1.0,eng#ucsd#edu,,,,,,,,,,
+6,2022-06-02 09:50:29.537,kteran@ucsd.edu,0.0,not sure,,,,,,,,,,
+7,2022-06-02 09:50:31.559,zquan@ucsd.edu,1.0,eng#ucsd#edu,,,,,,,,,,
+8,2022-06-02 09:50:33.527,lkenney@ucsd.edu,0.0,gerald#eng#ucsd#edu,,,,,,,,,,
+9,2022-06-02 09:50:36.843,achiang@ucsd.edu,2.0,eng#ucsd#edu,"7, [6, 8, 10]",,,,,,,,,
+10,2022-06-02 09:50:39.581,rhuyck@ucsd.edu,0.0,gerald#eng#ucsd#edu,,,,,,,,,,
+11,2022-06-02 09:50:40.360,b4song@ucsd.edu,1.0,eng#ucsd#edu,,,,,,,,,,
+12,2022-06-02 10:48:47.976,e4li@ucsd.edu,5.0,eng#ucsd#edu,"7, [6, 8, 10]","One test test that may crash this program is when the lst is empty. So find_min([]) would create an error. The issue with this function is the indent of the line for return min_value, by having the return value be the same indent as if value, it would only run the if statement once and then return whatever the min_value is. To fix the code, it would be to make the indent for return min_value be the same as the indent of the for loop.","The outer for loop runs 2 times, The print statement will be executed 6 times","def filter_negatives(my_list):
+    positive_num = []
+    for row in range(len(my_list)):
+        for col in range(len(my_list[row])):
+            if my_list[row][col] >= 0:
+                positive_num.append(my_list[row][col])
+    return positive_num","(3, 2, 1) will be printed",2 4 3,It blacks out the first row and the last row of the image.,copy.append(row),"def convert_dict(colors):
+    convert_colors = {}
+    for value in colors:
+        convert_colors[colors[value]] = value
+    return convert_colors","['Annie', 'Yeohee']"
+13,2022-06-02 09:50:51.561,sorganis@ucsd.edu,1.0,eng#ucsd#edu,,,,,,,,,,
+14,2022-06-02 09:50:51.830,xixie@ucsd.edu,1.0,eng#ucsd#edu,,,,,,,,,,
+15,2022-06-02 09:50:52.187,fmassa@ucsd.edu,1.0,eng#ucsd#edu,,,,,,,,,,
+16,2022-06-02 09:50:53.792,yij002@ucsd.edu,1.0,eng#ucsd#edu,,,,,,,,,,
+17,2022-06-02 09:50:56.370,ffalzony@ucsd.edu,0.0,gerald @ eng#ucsd#edu,,,,,,,,,,
+18,2022-06-02 09:51:02.546,a7rios@ucsd.edu,1.0,eng#ucsd#edu,,,,,,,,,,
+19,2022-06-02 09:51:05.236,aguzmanramos@ucsd.edu,0.0,gerald#eng.ucsd.edu,,,,,,,,,,
+20,2022-06-02 09:51:06.154,cdquinon@ucsd.edu,1.0,eng#ucsd#edu,,,,,,,,,,
+21,2022-06-02 09:51:07.514,susmani@ucsd.edu,1.0,eng#ucsd#edu,,,,,,,,,,
+22,2022-06-02 09:51:08.167,gstilson@ucsd.edu,1.0,eng#ucsd#edu,,,,,,,,,,
+23,2022-06-02 09:51:08.960,kac012@ucsd.edu,1.0,eng#ucsd#edu,,,,,,,,,,
+24,2022-06-02 09:51:10.541,jndixon@ucsd.edu,0.0,gerald#eng#ucsd#edu,,,,,,,,,,
+25,2022-06-02 09:51:12.353,h6dong@ucsd.edu,0.0,ucsd#edu,,,,,,,,,,
+26,2022-06-02 10:47:01.989,jmontehe@ucsd.edu,4.0,eng#ucsd#edu,"14, [6, 8, 10]",,"The outer for loop runs 2 times, The print statement will be executed 6 times","lst = []
+for i in my_list:
+    for j in my_list:
+        if my_list[ i ][ j ] >= 0:
+            lst.append(my_list[ i ][ j ])
+return lst","(3, 2, 1) will be printed",2 4 3,"The purpose of this function is to transform the following pixels to the color black. But only if it fits under the if condition, it'll change its tuple value.",copy.append(row),,"[""Annie"", ""Yeohee""]"
+27,2022-06-02 09:51:15.019,anamador@ucsd.edu,0.0,#gerald 1 eng ucsd edu,,,,,,,,,,
+28,2022-06-02 09:51:15.372,jir004@ucsd.edu,1.0,eng#ucsd#edu,,,,,,,,,,
+29,2022-06-02 09:51:22.516,sedu@ucsd.edu,0.0,gerald#eng#ucsd#edu,,,,,,,,,,
+30,2022-06-02 09:51:24.320,bto@ucsd.edu,0.0,"[#, eng, ucsd, edu]",,,,,,,,,,
+31,2022-06-02 09:51:24.894,esquan@ucsd.edu,1.0,eng#ucsd#edu,,,,,,,,,,
+32,2022-06-02 09:51:25.586,garnita@ucsd.edu,1.0,eng#ucsd#edu,,,,,,,,,,
+33,2022-06-02 09:51:26.985,rushi@ucsd.edu,1.0,eng#ucsd#edu,,,,,,,,,,
+34,2022-06-02 09:51:27.818,alcedill@ucsd.edu,0.0,gerald#eng#ucsd#edu,,,,,,,,,,
+35,2022-06-02 09:51:28.536,yug023@ucsd.edu,0.0,gerald#eng#ucsd#edu,,,,,,,,,,
+36,2022-06-02 09:51:31.455,stseo@ucsd.edu,0.0,#eng#ucsd#edu,,,,,,,,,,
+37,2022-06-02 09:51:33.327,rrangarajan@ucsd.edu,0.0,Gerald#eng#ucsd#edu,,,,,,,,,,
+38,2022-06-02 09:51:35.738,e3yu@ucsd.edu,1.0,eng#ucsd#edu,,,,,,,,,,
+39,2022-06-02 09:51:40.372,lschoute@ucsd.edu,1.0,eng#ucsd#edu,,,,,,,,,,
+40,2022-06-02 09:51:41.290,mbompat@ucsd.edu,1.0,eng#ucsd#edu,,,,,,,,,,
+41,2022-06-02 09:51:48.611,yiperez@ucsd.edu,0.0,gerald@ucsd.edu,,,,,,,,,,
+42,2022-06-02 09:51:49.164,w3zou@ucsd.edu,1.0,eng#ucsd#edu,,,,,,,,,,
+43,2022-06-02 09:51:51.819,basalmon@ucsd.edu,1.0,eng#ucsd#edu,,,,,,,,,,
+44,2022-06-02 09:51:52.225,jmyint@ucsd.edu,0.0,gerald eng ucsd edu,,,,,,,,,,
+45,2022-06-02 09:51:52.274,dkprajapati@ucsd.edu,0.0,#.domain,,,,,,,,,,
+46,2022-06-02 09:51:56.173,mrenteri@ucsd.edu,0.0,#eng#ucsd#edu,,,,,,,,,,
+47,2022-06-02 09:58:58.141,mimamura@ucsd.edu,0.0,"[“gerald”, “@eng”, “@ucsd”, “.edu”]","14, [6, 8, 10]",,,,,,,,,
+48,2022-06-02 09:51:58.550,bthome@ucsd.edu,1.0,eng#ucsd#edu,,,,,,,,,,
+49,2022-06-02 09:52:01.679,c2ngo@ucsd.edu,0.0,gerald.ucsd.edu,,,,,,,,,,
+50,2022-06-02 09:52:04.192,edqueved@ucsd.edu,1.0,eng#ucsd#edu,,,,,,,,,,
+51,2022-06-02 09:52:09.678,yij013@ucsd.edu,0.0,gerald#eng#ucsd#edu,,,,,,,,,,
+52,2022-06-02 09:52:11.138,sqngo@ucsd.edu,0.0,Not sure );,,,,,,,,,,
+53,2022-06-02 09:52:14.965,pvn002@ucsd.edu,0.0,gerald.ucsd.edu,,,,,,,,,,
+54,2022-06-02 09:52:16.439,chc031@ucsd.edu,1.0,eng#ucsd#edu,"14, [6, 8, 10]",,,,,,,,,
+55,2022-06-02 09:52:18.895,mbarawid@ucsd.edu,1.0,eng#ucsd#edu,,,,,,,,,,
+56,2022-06-02 09:52:19.649,acarbajalsensente@ucsd.edu,1.0,eng#ucsd#edu,,,,,,,,,,
+57,2022-06-02 09:52:21.505,acramesh@ucsd.edu,0.0,engucsdedu,,,,,,,,,,
+58,2022-06-02 09:52:22.871,areal@ucsd.edu,0.0,ucsd.edu,,,,,,,,,,
+59,2022-06-02 09:52:25.427,rbartlett@ucsd.edu,0.0,ucsd#edu,,,,,,,,,,
+60,2022-06-02 09:52:25.550,cradaell@ucsd.edu,0.0,“eng#ucsd#edu”,,,,,,,,,,
+61,2022-06-02 09:52:27.335,s3cho@ucsd.edu,0.0,garald#engucsdedu,,,,,,,,,,
+62,2022-06-02 09:52:31.828,hwolf@ucsd.edu,1.0,eng#ucsd#edu,"7, [3, 4, 5]","Something that would crash this program is an empty list. To fix this code, move the return statement outside of the if statement, and add an if statement to the second line that checks to see if the list is empty before continuing.",,,,,,,,
+63,2022-06-02 09:53:17.989,mcasasjimenez@ucsd.edu,1.0,eng#ucsd#edu,,,,,,,,,,
+64,2022-06-02 09:52:33.473,j8cao@ucsd.edu,0.0,"[gerald, eng#ucsd#edu]",,,,,,,,,,
+65,2022-06-02 09:52:38.355,n1vasque@ucsd.edu,0.0,Gerald#eng#ucsd#edu,,,,,,,,,,
+66,2022-06-02 09:52:48.228,apotapenko@ucsd.edu,0.0,"['gerald', eng#ucsd#edu]",,,,,,,,,,
+67,2022-06-02 09:52:58.151,siwatsuki@ucsd.edu,1.0,eng#ucsd#edu,,,,,,,,,,
+68,2022-06-02 09:53:20.822,c1brower@ucsd.edu,0.0,eng.ucsd.edu,,,,,,,,,,
+69,2022-06-02 09:53:27.249,emb009@ucsd.edu,0.0,Geraldeng@ucsd.edu,,,,,,,,,,
+70,2022-06-02 09:53:27.620,amcquade@ucsd.edu,1.0,eng#ucsd#edu,,,,,,,,,,
+71,2022-06-02 09:53:38.239,icaronan@ucsd.edu,1.0,eng#ucsd#edu,,,,,,,,,,
+72,2022-06-02 09:53:47.458,kstraight@ucsd.edu,0.0,gerald#eng#ucsd#edu,,,,,,,,,,
+73,2022-06-02 09:57:20.031,cradaell@ucsd.edu,0.0,,"14, [6, 8, 10]",,,,,,,,,
+74,2022-06-02 09:57:26.703,kteran@ucsd.edu,0.0,,"14, [3, 4, 5]",,,,,,,,,
+75,2022-06-02 09:57:36.208,aguzmanramos@ucsd.edu,0.0,,"14, [3, 4, 5]",,,,,,,,,
+76,2022-06-02 09:57:43.231,zquan@ucsd.edu,1.0,,"7, [6, 8, 10]",The return statement ,,,,,,,,
+77,2022-06-02 09:57:43.701,chc031@ucsd.edu,0.0,,"14, [6, 8, 10]",,,,,,,,,
+78,2022-06-02 09:57:50.226,jir004@ucsd.edu,1.0,,"7, [6, 8, 10]",,,,,,,,,
+79,2022-06-02 09:57:50.468,sqngo@ucsd.edu,1.0,,"7, [6, 8, 10]",,,,,,,,,
+80,2022-06-02 09:57:51.006,nateng@ucsd.edu,0.0,,"7, [3, 4, 5]",,,,,,,,,
+81,2022-06-02 09:57:52.242,aaali@ucsd.edu,1.0,,"7, [6, 8, 10]",,,,,,,,,
+82,2022-06-02 09:58:00.977,biw007@ucsd.edu,0.0,,"14, [6, 8, 10]",,,,,,,,,
+83,2022-06-02 09:58:01.039,yij013@ucsd.edu,0.0,,"14, [6, 8, 10]",,,,,,,,,
+84,2022-06-02 09:58:05.351,basalmon@ucsd.edu,0.0,,"14, [6, 8, 10]",,,,,,,,,
+85,2022-06-02 09:58:05.562,susmani@ucsd.edu,0.0,,"7, [3, 4, 5]",,,,,,,,,
+86,2022-06-02 09:58:09.691,anamador@ucsd.edu,1.0,,"7, [6, 8, 10]",,,,,,,,,
+87,2022-06-02 09:58:10.011,stseo@ucsd.edu,0.0,,"14, [6, 8, 10]",,,,,,,,,
+88,2022-06-02 09:58:10.708,garnita@ucsd.edu,1.0,,"7, [6, 8, 10]",,,,,,,,,
+89,2022-06-02 09:58:12.392,lschoute@ucsd.edu,0.0,,"14, [6, 8, 10]",,,,,,,,,
+90,2022-06-02 09:58:14.282,lkenney@ucsd.edu,0.0,,"14, [6, 8, 10]",,,,,,,,,
+91,2022-06-02 09:58:15.112,fmassa@ucsd.edu,1.0,eng#ucsd#edu,"14, [6, 8, 10]",,,,,,,,,
+92,2022-06-02 09:58:18.324,e3yu@ucsd.edu,0.0,,"14, [6, 8, 10]",,,,,,,,,
+93,2022-06-02 09:58:19.207,gstilson@ucsd.edu,1.0,,"7, [6, 8, 10]",,,,,,,,,
+94,2022-06-02 09:58:20.026,rrangarajan@ucsd.edu,0.0,,"14, [6, 8, 10]",,,,,,,,,
+95,2022-06-02 09:58:22.629,s3cho@ucsd.edu,0.0,,"14, [6, 8, 10]",,,,,,,,,
+96,2022-06-02 09:58:24.299,dkprajapati@ucsd.edu,0.0,,"14, [6, 8, 10]",,,,,,,,,
+97,2022-06-02 09:58:25.328,siwatsuki@ucsd.edu,1.0,,"7, [6, 8, 10]",,,,,,,,,
+98,2022-06-02 09:58:26.510,yij002@ucsd.edu,0.0,,"7, [3, 4, 5]",,,,,,,,,
+99,2022-06-02 09:58:45.997,mcasasjimenez@ucsd.edu,0.0,,"7, [3, 4, 5]",,,,,,,,,
+100,2022-06-02 09:58:28.539,bto@ucsd.edu,0.0,,"14, [6, 8, 10]",,,,,,,,,
+101,2022-06-02 09:58:30.983,xixie@ucsd.edu,1.0,,"7, [6, 8, 10]",,,,,,,,,
+102,2022-06-02 09:58:33.809,ffalzony@ucsd.edu,0.0,,"14, [6, 8, 10]",,,,,,,,,
+103,2022-06-02 09:58:34.385,mbompat@ucsd.edu,1.0,,"7, [6, 8, 10]",,,,,,,,,
+104,2022-06-02 09:58:35.904,jndixon@ucsd.edu,0.0,,"14, [6, 8, 10]",,,,,,,,,
+105,2022-06-02 09:58:37.607,rbartlett@ucsd.edu,1.0,,"7, [6, 8, 10]",,,,,,,,,
+106,2022-06-02 09:58:39.064,areal@ucsd.edu,1.0,,"7, [6, 8, 10]",,,,,,,,,
+107,2022-06-02 09:58:40.112,kstraight@ucsd.edu,0.0,,"7, [3, 4, 5]",,,,,,,,,
+108,2022-06-02 09:58:44.310,acramesh@ucsd.edu,0.0,,"7, [3, 4, 5]",,,,,,,,,
+109,2022-06-02 09:58:45.158,rhuyck@ucsd.edu,0.0,,"14, [3, 4, 5]",,,,,,,,,
+110,2022-06-02 09:58:54.441,icaronan@ucsd.edu,0.0,,"14, [3, 4, 5]",,,,,,,,,
+111,2022-06-02 09:58:55.266,alcedill@ucsd.edu,0.0,,"14, [6, 8, 10]",,,,,,,,,
+112,2022-06-02 09:58:59.851,jmyint@ucsd.edu,0.0,,"14, [6, 8, 10]",,,,,,,,,
+113,2022-06-02 09:59:30.029,esquan@ucsd.edu,1.0,,"7, [6, 8, 10]",,,,,,,,,
+114,2022-06-02 09:59:03.267,n1vasque@ucsd.edu,0.0,,"14, [6, 8, 10]",,,,,,,,,
+115,2022-06-02 09:59:07.579,rushi@ucsd.edu,1.0,,"7, [6, 8, 10]",,,,,,,,,
+116,2022-06-02 09:59:08.943,apotapenko@ucsd.edu,0.0,,"14, [6, 8, 10]",,,,,,,,,
+117,2022-06-02 09:59:09.815,cdquinon@ucsd.edu,0.0,,"14, [6, 8, 10]",,,,,,,,,
+118,2022-06-02 09:59:10.880,yug023@ucsd.edu,0.0,,"14, [6, 8, 10]",,,,,,,,,
+119,2022-06-02 09:59:10.914,mbarawid@ucsd.edu,1.0,,"7, [6, 8, 10]",,,,,,,,,
+120,2022-06-02 09:59:11.647,w3zou@ucsd.edu,0.0,,"14, [6, 8, 10]",,,,,,,,,
+121,2022-06-02 09:59:12.175,a7rios@ucsd.edu,0.0,,"14, [6, 8, 10]",,,,,,,,,
+122,2022-06-02 09:59:12.656,j8cao@ucsd.edu,0.0,,"14, [6, 8, 10]",,,,,,,,,
+123,2022-06-02 09:59:14.249,edqueved@ucsd.edu,0.0,,"14, [6, 8, 10]",,,,,,,,,
+124,2022-06-02 09:59:14.466,b4song@ucsd.edu,0.0,,"14, [6, 8, 10]",,,,,,,,,
+125,2022-06-02 09:59:15.777,pvn002@ucsd.edu,0.0,,"14, [6, 8, 10]",,,,,,,,,
+126,2022-06-02 09:59:19.328,c2ngo@ucsd.edu,1.0,,"7, [6, 8, 10]",,,,,,,,,
+127,2022-06-02 09:59:19.715,bthome@ucsd.edu,0.0,,"14, [6, 8, 10]",,,,,,,,,
+128,2022-06-02 09:59:29.571,yiperez@ucsd.edu,0.0,,"14, [6, 8, 10]",,,,,,,,,
+129,2022-06-02 09:59:34.136,amcquade@ucsd.edu,1.0,,"7, [6, 8, 10]",,,,,,,,,
+130,2022-06-02 09:59:35.679,amphan@ucsd.edu,1.0,,"7, [6, 8, 10]",,,,,,,,,
+131,2022-06-02 09:59:41.879,h6dong@ucsd.edu,0.0,,"14, [6, 8, 10]",,,,,,,,,
+132,2022-06-02 09:59:42.823,mrenteri@ucsd.edu,1.0,,"7, [6, 8, 10]",,,,,,,,,
+133,2022-06-02 09:59:45.016,c1brower@ucsd.edu,1.0,,"7, [6, 8, 10]",,,,,,,,,
+134,2022-06-02 09:59:45.577,sorganis@ucsd.edu,1.0,,"7, [6, 8, 10]",,,,,,,,,
+135,2022-06-02 10:00:23.695,kac012@ucsd.edu,1.0,,"7, [6, 8, 10]",,,,,,,,,
+136,2022-06-02 10:00:35.904,kac012@ucsd.edu,1.0,,"7, [6, 8, 10]",,,,,,,,,
+137,2022-06-02 10:12:41.731,biw007@ucsd.edu,0.0,,,the return statement should be outside the for loop.,,,,,,,,
+138,2022-06-02 10:02:24.886,krdocuyanan@ucsd.edu,2.0,eng#ucsd#edu,"14, [6, 8, 10]",not sure,"The outer for loop runs 2 times, The inner for loop runs 4 times, The print statement will be executed 6 times","lst = []
+if my_list >= 0:
+return my_list",Error: tuples cannot be modified as they are immutable,2 4 3,changing the color of an image ?,idk,not sure,year:2 winny
+139,2022-06-02 10:04:26.055,garnita@ucsd.edu,0.0,,,"The return statement is in the loop. It will not continue looping. You need to keep the return statement out of the loop. If you input a value that is > min_value, it will cause an error because you dont have an else statement.",,,,,,,,
+140,2022-06-02 10:04:51.943,yil186@ucsd.edu,3.0,eng#ucsd#edu,"7, [6, 8, 10]",,"The inner for loop runs 4 times, The program will crash since we cannot multiple a string by an integer",,"(2, 1, 0) will be printed",2 4 3,,,,
+141,2022-06-02 10:05:56.295,ffalzony@ucsd.edu,0.0,,,The return is within the for loop and therefore it returns only one value. The way to fix it is by aligning the return with the for loop,,,,,,,,
+142,2022-06-02 10:06:54.905,mrenteri@ucsd.edu,0.0,,,I believe that the issue with this function is that the return statement is within the for loop causing the loop to terminate before completing the iteration. ,,,,,,,,
+143,2022-06-02 10:07:28.280,rbartlett@ucsd.edu,0.0,,,To fix the code simply move the return statement one indentation back ,,,,,,,,
+144,2022-06-02 10:07:38.481,lschoute@ucsd.edu,0.0,,,"The function is defined but not called. Add def for the list (if applicable; lst = [3,4,5]) and print(find_min(lst))",,,,,,,,
+145,2022-06-02 10:08:07.490,stseo@ucsd.edu,1.0,,"7, [6, 8, 10]","The issue with this function is what the code sets min_value to be. It should say that min_value = 0 so whenever we go through this code, it will restore the min_value every time the item in the lst is fulfills the if statement. However, this code is limited to certain lst because what if all the items in the lst is greater than min_values. ",,,,,,,,
+146,2022-06-02 10:08:14.583,cradaell@ucsd.edu,0.0,,,"The issue with the function is that the return statement is in the for loop, so it will only return the first iteration of the for loop. To fix the program, you just have to remove the return statement from the for loop.  A test case that would crash the program is if the input was an empty list.",,,,,,,,
+147,2022-06-02 10:08:19.759,kteran@ucsd.edu,0.0,,,not using else,,,,,,,,
+148,2022-06-02 10:08:38.317,icaronan@ucsd.edu,0.0,,,don't know,,,,,,,,
+149,2022-06-02 10:08:55.388,xixie@ucsd.edu,0.0,,,not sure,,,,,,,,
+150,2022-06-02 10:08:56.779,chc031@ucsd.edu,0.0,,,"the return function is in the for-loop, so the comparison (and the substitute) would happen once",,,,,,,,
+151,2022-06-02 10:09:01.301,zquan@ucsd.edu,0.0,,,"The return statement is inside the for loop, so it will not end the function after running through the whole list. If the second value is greater than the first value, the function will not work as expected and only returns the first value. lst = [3, 4, 2, 1]",,,,,,,,
+152,2022-06-02 10:09:10.014,rrangarajan@ucsd.edu,0.0,,,Return has to be outside the for loop,,,,,,,,
+153,2022-06-02 10:09:10.046,nateng@ucsd.edu,0.0,,,"The indentation of return is wrong. I'll put it in the same level as for statement. Once the item is equal to min_value, so it should be <=",,,,,,,,
+154,2022-06-02 10:09:13.744,yij013@ucsd.edu,0.0,,,The issue is that the return statement is within the for loop.,,,,,,,,
+155,2022-06-02 10:09:15.490,gstilson@ucsd.edu,0.0,,,the return statement is in the for loop so the function will stop after one number. Move the return outside of the for loop.,,,,,,,,
+156,2022-06-02 10:09:21.317,jndixon@ucsd.edu,0.0,,,I dont know ,,,,,,,,
+157,2022-06-02 10:09:31.172,fmassa@ucsd.edu,2.0,eng#ucsd#edu,"7, [6, 8, 10]","the return statement is located within the for loop, so it would exit the function after only one loop. I would fix this by setting the return statement outside the for loop. If the list is empty, this would cause the program to crash. ",,,,,,,,
+158,2022-06-02 10:09:39.085,kstraight@ucsd.edu,0.0,,,indentation error on the return statement line. if the list is empty it will crash,,,,,,,,
+159,2022-06-02 10:09:39.980,garnita@ucsd.edu,0.0,,,"The return statement is inside the loop. You need to take it out of the loop or else it will not loop and instead stop after one iteration. To crash the program, simply use an input that will never stop looping, such as a list of infinite length with every value < min value. Or use an item > min value because no else statement is provided.",,,,,,,,
+160,2022-06-02 10:09:40.241,sqngo@ucsd.edu,0.0,,,the issue is the return statement? ,,,,,,,,
+161,2022-06-02 10:09:42.341,acramesh@ucsd.edu,0.0,,,"returns min value after the first iteration, fix by moving return outside for loop, test case is []",,,,,,,,
+162,2022-06-02 10:09:46.697,c1brower@ucsd.edu,0.0,,,the return statement is not in the correct place. It needs to nbe in line with the for loop,,,,,,,,
+163,2022-06-02 10:09:50.037,mimamura@ucsd.edu,0.0,,,The issue is that min_value is initially set to lst[0] meaning if there are numbers smaller than that they will not work. I would set it to 0,,,,,,,,
+164,2022-06-02 10:09:58.370,yug023@ucsd.edu,0.0,,,mim_value = 0 ,,,,,,,,
+165,2022-06-02 10:09:59.128,cdquinon@ucsd.edu,0.0,,,the return statement is intended 1 too many times. It will terminate the function after just one iteration. i would delete 4 spaces to fix it. If the lst had multiple values equal to one another the test case will cause an error ,,,,,,,,
+166,2022-06-02 10:10:01.931,dkprajapati@ucsd.edu,0.0,,,"min_value = item needs to be removed, ",,,,,,,,
+167,2022-06-02 10:10:01.932,alcedill@ucsd.edu,0.0,,,not sure,,,,,,,,
+168,2022-06-02 10:10:02.172,mbompat@ucsd.edu,0.0,,,"the min-value is set equal to the index of the list, not the actual number of the list. To fix it, line 5 should be min_value = lst[item]",,,,,,,,
+169,2022-06-02 10:10:03.633,mcasasjimenez@ucsd.edu,0.0,,,we are setting the min value as wat is in 0 instead of using the min function.,,,,,,,,
+170,2022-06-02 10:10:05.166,yij002@ucsd.edu,0.0,,,The issue is that the return statement is within the for loop. I would change it by putting it outside of the for-loop.  Test case: [ ],,,,,,,,
+171,2022-06-02 10:10:05.302,aguzmanramos@ucsd.edu,0.0,,,The function does not work because the return statement needs to be outside of the for loop,,,,,,,,
+172,2022-06-02 10:35:29.113,rlopezmo@ucsd.edu,5.0,eng#ucsd#edu,"7, [6, 8, 10]",The return is inside the for loop so the for loop will only iterate through the list until it meets the if condition. ,"The outer for loop runs 2 times, The print statement will be executed 6 times","1d = []
+for row in range(len(my_list)):
+    for column in range(len(my_list[row])):
+        if my_list[row][col] > 0:
+            1d.append(my_list[row][col])
+return 1d","(3, 2, 1) will be printed",2 4 3,It will create a black line at the top of the image and a black line at the bottom of the image. ,copy.append(row),"converted_dict = {}
+for color in colors:
+    converted_dict[colors[color]] = color
+return converted_dict","[‘Annie’,’Yeohee’]"
+173,2022-06-02 10:10:06.307,b4song@ucsd.edu,0.0,,,"the return statement is indented into the for loop, so once the for loop runs through once it will exit immediately. additionally, an empty list might cash the program",,,,,,,,
+174,2022-06-02 10:10:08.773,sedu@ucsd.edu,2.0,,"14, [6, 8, 10]","an issue with this function is the return statement is not outside the for loop. This will only return the min_value evaluation of the first element in the list. One test case that may crash this program is, when the items in lst are string.","The outer for loop runs 2 times, The print statement will be executed 6 times","def filter_negatives(my_list):
+    1d_list = []
+    for I in range(len(my_list)):
+        for j in range(len(my_list)):
+            if [I][j] >= 0:
+                1d_list.append([I][j])
+    return 1d_list","(3, 2, 1) will be printed",2 3 3,Converting all the pixels in the top left into black.,copy.append(row),,
+175,2022-06-02 10:10:12.062,jmyint@ucsd.edu,0.0,,,no way iterate through list item +=1,,,,,,,,
+176,2022-06-02 10:10:13.034,c2ngo@ucsd.edu,0.0,,,not sure,,,,,,,,
+177,2022-06-02 10:10:23.283,kac012@ucsd.edu,0.0,,,"The issue with this function is that the return statement is within the for loop, not outside it. This means that once the for loop runs once, it will return the first number stored in min_value and not continue iterating through the list. To fix this, the return statement should be moved to outside the for loop. ",,,,,,,,
+178,2022-06-02 10:10:23.574,rushi@ucsd.edu,0.0,,,"The indentation of return is wrong. It should iterate over all the item in list. make the indentation of return line with for. case=[3,2,1]",,,,,,,,
+179,2022-06-02 10:10:23.794,rhuyck@ucsd.edu,0.0,,,"The program prints out the value that is in lst[0], so the very beginning of the list. The way to fix this would be to bring the return back a tab.",,,,,,,,
+180,2022-06-02 10:10:25.694,lkenney@ucsd.edu,0.0,,,The return statement is in the wrong area. The return statement needs to be one index to the left. One test case that might crash this program is if index 0 really is the minimum number.,,,,,,,,
+181,2022-06-02 10:10:27.186,yiperez@ucsd.edu,0.0,,,a problem with this function may be if we don't have the called item in the list,,,,,,,,
+182,2022-06-02 10:10:36.189,h6dong@ucsd.edu,0.0,,,There is one extra indent on the last line. We should reduce that indent to fix this function. ,,,,,,,,
+183,2022-06-02 10:10:36.973,j8cao@ucsd.edu,0.0,,,"The issue is that the value is being return within the for loop, so not all items in the list are being iterated through. One test case that will crash it is an empty list.",,,,,,,,
+184,2022-06-02 10:10:37.763,areal@ucsd.edu,0.0,,,"the problem with this code is that the return statement is under the if statement meaning it will not return all the iterations of the for loop, it will only return the first iteration. if the input doesnt go through the if statement then it will return an error ",,,,,,,,
+185,2022-06-02 10:10:38.100,apotapenko@ucsd.edu,0.0,,,Return should be aligned with the for loop statement,,,,,,,,
+186,2022-06-02 10:10:40.667,edqueved@ucsd.edu,0.0,,,return statement is indented once too many times,,,,,,,,
+187,2022-06-02 10:10:42.708,a7rios@ucsd.edu,0.0,,,not enough time       return statement no in correct place ,,,,,,,,
+188,2022-06-02 10:10:48.878,bthome@ucsd.edu,0.0,,,the return statement is inside the if statement ,,,,,,,,
+189,2022-06-02 10:10:54.359,sorganis@ucsd.edu,0.0,,,needs to += index and move the return to under the for ,,,,,,,,
+190,2022-06-02 10:10:54.796,basalmon@ucsd.edu,0.0,,,The function does not loop through all the items in the list.,,,,,,,,
+191,2022-06-02 10:10:56.175,mbarawid@ucsd.edu,0.0,,,"The issue with the given function is that the return statement is inside of the for loop. As a result, the code will constantly run. We want it outside of the for loop. A test case that can crash the program is an empty list. ",,,,,,,,
+192,2022-06-02 10:10:56.325,s3cho@ucsd.edu,0.0,,,return min_value  has to fix,,,,,,,,
+193,2022-06-02 10:48:56.447,jal050@ucsd.edu,5.0,eng#ucsd#edu,"7, [6, 8, 10]",The issue is that the return statement is aligned with the if statement inside the for loop. I would fix it by realigning the return statement with the for loop. One test case that may crash this program would be an empty list because the function expects to find the 0th index of the argument passed.,"The outer for loop runs 2 times, The print statement will be executed 6 times","def filter_negatives(my_list):
+    positives = []
+    for i in range(len(my_list)):
+        for j in range(len(my_list[i])):
+            if my_list[i][j] >= 0:
+                positives.append(my_list[i][j])
+    return positives","(3, 2, 1) will be printed",2 4 3,"The purpose of the function is to turn the pixels at the 0th row or if the row is within the height of the image, black. This means that it is trying to turn the pixels of the first and last row of the image black.",copy.append(row),"def convert_dict(colors):
+    reverse_dict = {}
+    for k in colors:
+        reverse_dict[colors[k]] = k
+    return reverse_dict","[""Annie"", ""Yeohee""]"
+194,2022-06-02 10:11:08.469,anamador@ucsd.edu,0.0,,,something that would crash would be empty list,,,,,,,,
+195,2022-06-02 10:11:12.480,e3yu@ucsd.edu,0.0,,,The return statement should also be outside of the if statement. A test case that may crash the program would be if lst was an empty list. ,,,,,,,,
+196,2022-06-02 10:11:12.757,pvn002@ucsd.edu,0.0,,,The issue with this code is that it is not returning any value. We can fix this by moving back the return statement outside of the for loop. ,,,,,,,,
+197,2022-06-02 10:11:15.830,w3zou@ucsd.edu,0.0,,,Empty lst would crash the program.,,,,,,,,
+198,2022-06-02 10:11:20.707,siwatsuki@ucsd.edu,0.0,,,"The issue is return is placed insde the for loop. It should be placed outside the for loop in order to reflect the final value after excuting each element of the list found the minimum value in the list.  [2,3,5,1]",,,,,,,,
+199,2022-06-02 10:11:23.414,esquan@ucsd.edu,0.0,,,"The function has the return statement inside the for loop. To fix this, we should write ""return min_value"" outside of the for loop. One test case that could crash this program is having an empty list.",,,,,,,,
+200,2022-06-02 10:12:00.086,jir004@ucsd.edu,0.0,,,"An empty list will crash the code, and to fix it place the return statement outside the if statement. ",,,,,,,,
+201,2022-06-02 10:13:10.285,achiang@ucsd.edu,0.0,,,Move the return statement outside of the if loop. One test case that will crash the program is an empty list because we expect to check the list's 0 index.  ,The outer for loop runs 2 times,,,,,,,
+202,2022-06-02 10:13:23.320,mrenteri@ucsd.edu,0.0,,,,"The outer for loop runs 2 times, The inner for loop runs 4 times",,,,,,,
+203,2022-06-02 10:13:27.155,biw007@ucsd.edu,1.0,,,,"The outer for loop runs 2 times, The print statement will be executed 6 times",,,,,,,
+204,2022-06-02 10:14:54.759,siwatsuki@ucsd.edu,1.0,,,,"The outer for loop runs 2 times, The print statement will be executed 6 times",,,,,,,
+205,2022-06-02 10:14:57.564,zquan@ucsd.edu,1.0,,,,"The outer for loop runs 2 times, The print statement will be executed 6 times",,,,,,,
+206,2022-06-02 10:15:00.099,nateng@ucsd.edu,1.0,,,,"The outer for loop runs 2 times, The print statement will be executed 6 times",,,,,,,
+207,2022-06-02 10:15:00.395,cradaell@ucsd.edu,1.0,,,,"The outer for loop runs 2 times, The print statement will be executed 6 times",,,,,,,
+208,2022-06-02 10:15:07.763,kteran@ucsd.edu,0.0,,,,"The outer for loop runs 2 times, The inner for loop runs 4 times",,,,,,,
+209,2022-06-02 10:15:14.134,kac012@ucsd.edu,1.0,,,,"The outer for loop runs 2 times, The print statement will be executed 6 times",,,,,,,
+210,2022-06-02 10:15:22.707,acramesh@ucsd.edu,0.0,,,,"The outer for loop runs 2 times, The inner for loop runs 4 times",,,,,,,
+211,2022-06-02 10:15:26.472,sqngo@ucsd.edu,0.0,,,,"The outer for loop runs 2 times, The program will crash since we cannot multiple a string by an integer",,,,,,,
+212,2022-06-02 10:15:28.853,chc031@ucsd.edu,1.0,,,,"The outer for loop runs 2 times, The print statement will be executed 6 times",,,,,,,
+213,2022-06-02 10:15:29.107,dkprajapati@ucsd.edu,0.0,,,,"The outer for loop runs 2 times, The inner for loop runs 4 times, The program will crash since we cannot multiple a string by an integer",,,,,,,
+214,2022-06-02 10:15:32.655,b4song@ucsd.edu,1.0,,,,"The outer for loop runs 2 times, The print statement will be executed 6 times",,,,,,,
+215,2022-06-02 10:15:33.639,yij002@ucsd.edu,1.0,,,,"The outer for loop runs 2 times, The print statement will be executed 6 times",,,,,,,
+216,2022-06-02 10:15:38.212,sorganis@ucsd.edu,0.0,,,,"The outer for loop runs 2 times, The inner for loop runs 4 times, The print statement will be executed 6 times",,,,,,,
+217,2022-06-02 10:15:38.200,rushi@ucsd.edu,1.0,,,,"The outer for loop runs 2 times, The print statement will be executed 6 times",,,,,,,
+218,2022-06-02 10:15:38.569,mbarawid@ucsd.edu,1.0,,,,"The outer for loop runs 2 times, The print statement will be executed 6 times",,,,,,,
+219,2022-06-02 10:15:38.681,esquan@ucsd.edu,1.0,,,,"The outer for loop runs 2 times, The print statement will be executed 6 times",,,,,,,
+220,2022-06-02 10:15:40.483,cdquinon@ucsd.edu,0.0,,,,"The outer for loop runs 2 times, The print statement will be executed 6 times, The program will crash since we cannot multiple a string by an integer",,,,,,,
+221,2022-06-02 10:15:42.202,jir004@ucsd.edu,0.0,,,,The program will crash since we cannot multiple a string by an integer,,,,,,,
+222,2022-06-02 10:15:43.244,xixie@ucsd.edu,0.0,,,,"The outer for loop runs 2 times, The inner for loop runs 4 times",,,,,,,
+223,2022-06-02 10:15:43.564,apotapenko@ucsd.edu,0.0,,,,"The outer for loop runs 2 times, The program will crash since we cannot multiple a string by an integer",,,,,,,
+224,2022-06-02 10:15:45.678,lschoute@ucsd.edu,0.0,,,,The program will crash since we cannot multiple a string by an integer,,,,,,,
+225,2022-06-02 10:15:45.995,bto@ucsd.edu,1.0,,,,"The outer for loop runs 2 times, The print statement will be executed 6 times",,,,,,,
+226,2022-06-02 10:15:46.810,mbompat@ucsd.edu,0.0,,,,The print statement will be executed 6 times,,,,,,,
+227,2022-06-02 10:15:47.154,gstilson@ucsd.edu,1.0,,,,"The outer for loop runs 2 times, The print statement will be executed 6 times",,,,,,,
+228,2022-06-02 10:15:47.303,stseo@ucsd.edu,1.0,,,,"The outer for loop runs 2 times, The print statement will be executed 6 times",,,,,,,
+229,2022-06-02 10:15:47.774,yij013@ucsd.edu,1.0,,,,"The outer for loop runs 2 times, The print statement will be executed 6 times",,,,,,,
+230,2022-06-02 10:15:47.937,jmyint@ucsd.edu,0.0,,,,"The outer for loop runs 2 times, The inner for loop runs 4 times, The print statement will be executed 6 times",,,,,,,
+231,2022-06-02 10:15:48.008,alcedill@ucsd.edu,0.0,,,,The print statement will be executed 6 times,,,,,,,
+232,2022-06-02 10:15:48.924,fmassa@ucsd.edu,3.0,eng#ucsd#edu,"7, [6, 8, 10]","The return statement is located inside of the for loop, which would make the loop only run one time and then exit. You can fix this by taking the return statement out of the for loop. An empty list would cause the program to crash because min_value cannot be set to an index that doesn't exist. ","The outer for loop runs 2 times, The print statement will be executed 6 times",,,,,,,
+233,2022-06-02 10:15:48.997,e3yu@ucsd.edu,1.0,,,,"The outer for loop runs 2 times, The print statement will be executed 6 times",,,,,,,
+234,2022-06-02 10:15:49.143,ffalzony@ucsd.edu,1.0,,,,"The outer for loop runs 2 times, The print statement will be executed 6 times",,,,,,,
+235,2022-06-02 10:15:49.361,garnita@ucsd.edu,0.0,,,,"The outer for loop runs 2 times, The inner for loop runs 4 times",,,,,,,
+236,2022-06-02 10:15:50.095,basalmon@ucsd.edu,0.0,,,,"The outer for loop runs 2 times, The inner for loop runs 4 times",,,,,,,
+237,2022-06-02 10:15:51.483,w3zou@ucsd.edu,1.0,,,,"The outer for loop runs 2 times, The print statement will be executed 6 times",,,,,,,
+238,2022-06-02 10:15:52.486,anamador@ucsd.edu,0.0,,,,The program will crash since we cannot multiple a string by an integer,,,,,,,
+239,2022-06-02 10:15:53.191,amcquade@ucsd.edu,1.0,,,The return statement is within the for loop which is why the program does not work as expected. You have to move the return statement back one indentation so its outside the for loop so that it will run properly. Test case: [ ] (empty list),"The outer for loop runs 2 times, The print statement will be executed 6 times",,,,,,,
+240,2022-06-02 10:15:53.458,lkenney@ucsd.edu,1.0,,,,"The outer for loop runs 2 times, The print statement will be executed 6 times",,,,,,,
+241,2022-06-02 10:15:53.501,s3cho@ucsd.edu,0.0,,,,"The print statement will be executed 6 times, The program will crash since we cannot multiple a string by an integer",,,,,,,
+242,2022-06-02 10:15:54.147,rhuyck@ucsd.edu,0.0,,,,"The outer for loop runs 2 times, The inner for loop runs 4 times",,,,,,,
+243,2022-06-02 10:15:55.270,jndixon@ucsd.edu,0.0,,,,The print statement will be executed 6 times,,,,,,,
+244,2022-06-02 10:15:55.422,a7rios@ucsd.edu,0.0,,,,The outer for loop runs 2 times,,,,,,,
+245,2022-06-02 10:15:59.268,rbartlett@ucsd.edu,0.0,,,,The print statement will be executed 6 times,,,,,,,
+246,2022-06-02 10:16:00.370,mcasasjimenez@ucsd.edu,0.0,,,,The program will crash since we cannot multiple a string by an integer,,,,,,,
+247,2022-06-02 10:16:01.192,icaronan@ucsd.edu,0.0,,,,The inner for loop runs 4 times,,,,,,,
+248,2022-06-02 10:16:01.913,aguzmanramos@ucsd.edu,1.0,,,,"The outer for loop runs 2 times, The print statement will be executed 6 times",,,,,,,
+249,2022-06-02 10:16:08.510,j8cao@ucsd.edu,1.0,,,,"The outer for loop runs 2 times, The print statement will be executed 6 times",,,,,,,
+250,2022-06-02 10:16:08.886,yug023@ucsd.edu,0.0,,,,The print statement will be executed 6 times,,,,,,,
+251,2022-06-02 10:16:08.910,yiperez@ucsd.edu,0.0,,,,The program will crash since we cannot multiple a string by an integer,,,,,,,
+252,2022-06-02 10:16:09.103,areal@ucsd.edu,0.0,,,,"The outer for loop runs 2 times, The print statement will be executed 6 times, The program will crash since we cannot multiple a string by an integer",,,,,,,
+253,2022-06-02 10:16:19.483,pvn002@ucsd.edu,0.0,,,,The program will crash since we cannot multiple a string by an integer,,,,,,,
+254,2022-06-02 10:16:20.632,h6dong@ucsd.edu,1.0,,,,"The outer for loop runs 2 times, The print statement will be executed 6 times",,,,,,,
+255,2022-06-02 10:16:24.766,aaali@ucsd.edu,0.0,,,,"The outer for loop runs 2 times, The inner for loop runs 4 times, The print statement will be executed 6 times",,,,,,,
+256,2022-06-02 10:16:35.206,bthome@ucsd.edu,1.0,,,,"The outer for loop runs 2 times, The print statement will be executed 6 times",,,,,,,
+257,2022-06-02 10:16:36.074,edqueved@ucsd.edu,1.0,,,,"The outer for loop runs 2 times, The print statement will be executed 6 times",,,,,,,
+258,2022-06-02 10:16:38.384,c1brower@ucsd.edu,1.0,,,,"The outer for loop runs 2 times, The print statement will be executed 6 times",,,,,,,
+259,2022-06-02 10:16:46.923,kstraight@ucsd.edu,0.0,,,,"The inner for loop runs 4 times, The program will crash since we cannot multiple a string by an integer",,,,,,,
+260,2022-06-02 10:17:06.956,n1vasque@ucsd.edu,1.0,,,,"The outer for loop runs 2 times, The print statement will be executed 6 times",,,,,,,
+261,2022-06-02 10:17:31.177,zquan@ucsd.edu,0.0,,,,,"def filter_negatives(my_list):
+    positive = []
+    for lst in my_list:
+        for item in lst:
+            if item > 0:
+                positive += [item]
+    return positive",,,,,,
+262,2022-06-02 10:17:35.073,c2ngo@ucsd.edu,0.0,,,,"The outer for loop runs 2 times, The inner for loop runs 4 times",,,,,,,
+263,2022-06-02 10:18:32.753,stseo@ucsd.edu,0.0,,,,,"new_lst = [ ]
+for lst in my_list: 
+    for item in lst: 
+        if item >= 0: 
+            new_lst.append(item) 
+return new_lst",,,,,,
+264,2022-06-02 10:18:36.995,kteran@ucsd.edu,0.0,,,,,unsure,,,,,,
+265,2022-06-02 10:18:37.033,icaronan@ucsd.edu,0.0,,,,,don't know ,,,,,,
+266,2022-06-02 10:18:44.292,c2ngo@ucsd.edu,0.0,,,,,"def(my_list):
+ if i in my list %2:
+",,,,,,
+267,2022-06-02 10:18:48.344,s3cho@ucsd.edu,0.0,,,,,"[2, 0]",,,,,,
+268,2022-06-02 10:19:01.958,e4li@ucsd.edu,0.0,,,,,"def filter_negatives(my_list):
+    positive_num = []
+    for row in range(len(my_list)):
+        for col in range(len(my_list[row])):
+            if my_list[row][col] >= 0:
+                positive_num.append(my_list[row][col])
+    return positive_num",,,,,,
+269,2022-06-02 10:19:04.656,mimamura@ucsd.edu,2.0,,,,"The outer for loop runs 2 times, The inner for loop runs 4 times","returnlist = []
+for i in my_list:
+     for ii in i:
+          if ii > 0:
+               returnlist.append(ii)
+return ii","(3, 2, 1) will be printed",2 4 3,This function crops the picture and adds a black border.  It basically will take change pixels on the border of the image to be black. ,copy.append(row),,
+270,2022-06-02 10:19:05.258,xixie@ucsd.edu,0.0,,,,,not sure,,,,,,
+271,2022-06-02 10:19:39.316,nateng@ucsd.edu,0.0,,,,,"def filter_negatives(my_list):
+    lst = []
+    for i in range(len(my_list)):
+        for j in range(len(my_list[i]):
+            if my_list[i][j] >= 0:
+                lst.append(my_list[i][j])
+    return lst",,,,,,
+272,2022-06-02 10:19:41.583,cradaell@ucsd.edu,0.0,,,,,"def filter_negatives(my_list):
+     new_lst = []
+     for i in my_list:
+         for j in i:
+             if j >= 0:
+                  new_list.append(j)
+    return new_list",,,,,,
+273,2022-06-02 10:19:43.077,acramesh@ucsd.edu,0.0,,,,,"list = []
+for i in range(len(my_list)):
+    for j in range(len(i)):
+        if my_list[i][j] > 0:
+             list.append(my_list[i][j])
+return list",,,,,,
+274,2022-06-02 10:19:43.928,yij013@ucsd.edu,0.0,,,,,I don’t know how to do,,,,,,
+275,2022-06-02 10:19:58.493,chc031@ucsd.edu,0.0,,,,,"def filter_negatives(my_list):
+    new_lst = []
+    for sub_lst in my_list:
+        for nums in sub_lst:
+            if nums >= 0:
+                new_lst.append(nums)
+    return new_lst",,,,,,
+276,2022-06-02 10:31:06.188,mrenteri@ucsd.edu,1.0,,,,,"def filter_negatives(my_list):
+     new_list = []
+     for idx in range(len(my_list)):
+             for num in my_list[idx]:
+                    if num >= 0:
+                         new_list.append(num)
+    return new_list
+          ","(3, 2, 1) will be printed",,,,,
+277,2022-06-02 10:20:19.181,fmassa@ucsd.edu,1.0,,,,"The outer for loop runs 2 times, The print statement will be executed 6 times","1dlst = []
+for item in my_list:
+    for element in item:
+        if element >= 0:
+            1dlst.append[element]
+return 1dlst",,,,,,
+278,2022-06-02 10:20:19.791,e3yu@ucsd.edu,0.0,,,,,"def filter_negatives(my_list): 
+   lst = [ ] 
+   for row in range(len(my_list)): 
+      for col in range(len(my_list[row])): 
+         if my_list[row][col] >= 0: 
+            lst.append(my_list[row][col])
+   return lst ",,,,,,
+279,2022-06-02 10:20:27.249,sqngo@ucsd.edu,0.0,,,,,"def one_d(list) :
+     one = [ ]
+     for i in list: 
+          if i > 0:
+             one += i
+             ",,,,,,
+280,2022-06-02 10:20:30.794,biw007@ucsd.edu,0.0,,,,,"for i in range(len(my_list):
+    for j in range(len(my_list[I]):
+        if j > 0:
+            return j",,,,,,
+281,2022-06-02 10:20:36.603,cdquinon@ucsd.edu,0.0,,,,,"newlist = []
+for r in range(len(my_list)):
+    for c in range(len(my_list[0])):
+        if my_list[r][c] > 0:
+            newlist.append(my_list[r][c])
+        else:
+            continue
+return newlist",,,,,,
+282,2022-06-02 10:20:39.254,basalmon@ucsd.edu,0.0,,,,,"def filter_negatives(my_list): 
+          pos = [ ]
+          for list in my_list:
+                 for num in list: 
+                        if num > 0: 
+                              pos.append(num)
+          return pos ",,,,,,
+283,2022-06-02 10:20:48.736,biw007@ucsd.edu,1.0,,,,,,"(3, 2, 1) will be printed",,,,,
+284,2022-06-02 10:20:55.878,bto@ucsd.edu,0.0,,,,,"def filter_negatives(my_list): 
+empty = []
+    for i in my_list: 
+        for j in my_list[i]: 
+         if my_list[i][j] > 0: 
+              empty += [my_list[i][j]]
+return empty",,,,,,
+285,2022-06-02 10:20:56.040,a7rios@ucsd.edu,0.0,,,,,"def filter_negatives(my_list):
+   new_list = [ ]
+    for r in row:
+          for c in column:
+             if my_list[r][c] < 0:
+                new_list.append(my_list[r][c])
+    return new_list
+",,,,,,
+286,2022-06-02 10:21:01.232,mbompat@ucsd.edu,0.0,,,,,"positive = []
+for x in range(len(my_list)):
+     for y in range(len(x))):
+         if mylist[x][y] < 0:
+            positives.append(my_list[x][y]
+return positives",,,,,,
+287,2022-06-02 10:21:13.152,biw007@ucsd.edu,1.0,,,,,,,2 4 3,,,,
+288,2022-06-02 10:21:16.668,h6dong@ucsd.edu,0.0,,,,,"def filter_negatives(my_list):
+       pos_lst = []
+       for row in my_list:
+              for num in row:
+                     if num > 0:
+                           pos_lst += num
+       return pos_lst",,,,,,
+289,2022-06-02 10:21:16.784,b4song@ucsd.edu,0.0,,,,,"def filter_negatives(my_list): 
+    new = []
+    for i in len(my_list):
+        for j in len(my_list[i]):
+            if j >= 0: 
+                new.append(j)
+    return new ",,,,,,
+290,2022-06-02 10:21:22.910,rushi@ucsd.edu,0.0,,,,,"def filter_negatives(my_list):
+	# write code here
+    num = []
+    for row in range(len(my_list)):
+        for col in range(len(my_list[0])):
+            if my_list[row][col] >= 0:
+                num.append(my_list[row][col])
+    return num
+print(filter_negatives([[-3, 2, 0], [4, -5, 7]]))",,,,,,
+291,2022-06-02 10:21:23.154,kac012@ucsd.edu,0.0,,,,,"result = []
+for lst in range(len(my_list)):
+    for x in range(len(my_list[0])):
+        num = my_list[lst][x]
+        if num > 0:
+            result.append(num)
+return result",,,,,,
+292,2022-06-02 10:21:29.771,yij002@ucsd.edu,0.0,,,,,"def filter_negatives(my_list)：
+        positive = [ ]
+        for idx in range(len(my_list)):
+                for i in range(len(my_list[idx])):
+                         if my_list[idx][i] >= 0:
+                                positive.append(my_list[idx][i])
+         return positive",,,,,,
+293,2022-06-02 10:21:29.865,apotapenko@ucsd.edu,0.0,,,,,"new_list = []
+for lst in my_list:
+      for num in lst:
+           if num > 0:
+               new_list.append(num)
+return new_list",,,,,,
+294,2022-06-02 10:21:31.990,garnita@ucsd.edu,0.0,,,,,"
+r = [ ]
+for i in range(len(my_list):
+     for x in range(len(my_list[i]))
+          if my_list[i][x] => 0
+              r.append(my_list[i][x])
+return r",,,,,,
+295,2022-06-02 10:21:32.119,j8cao@ucsd.edu,0.0,,,,,"def filter_negatives(my_list):
+    new = []
+    for i in my_list:
+        for j in i:
+            if j >= 0:
+                new.append(j)
+    return new",,,,,,
+296,2022-06-02 10:21:32.116,pvn002@ucsd.edu,0.0,,,,,"def filter_negatives(my_list):
+	# write code here
+    lst= []
+    for val in my_list:
+        for num in val:
+            if num >=0:
+                lst.append(num)
+    return lst",,,,,,
+297,2022-06-02 10:21:37.024,alcedill@ucsd.edu,0.0,,,,,"if num in my_list >= 0:
+    return num",,,,,,
+298,2022-06-02 10:21:51.479,ffalzony@ucsd.edu,0.0,,,,,I don't know,,,,,,
+299,2022-06-02 10:21:52.165,yiperez@ucsd.edu,0.0,,,,,"def filter_negatives(my_list):
+  result = [ ] 
+   for num in my_list: 
+      if num > 0:
+         result.append(num)",,,,,,
+300,2022-06-02 10:21:52.778,edqueved@ucsd.edu,0.0,,,,,"lst = []
+for i in my_list:
+     for j in i:
+          if j >0:
+               lst.append(j)
+return lst",,,,,,
+301,2022-06-02 10:21:54.590,anamador@ucsd.edu,0.0,,,,,"positive = [ ]
+for num in my-list:
+       if num > 0:
+             positive.append(num)
+return positive",,,,,,
+302,2022-06-02 10:21:55.339,areal@ucsd.edu,0.0,,,,,"def filter_negatives(my_list):
+       postive_numbers=[ ]
+       for i in range(len(my_list):
+             if i > 0:
+                positive_numbers.append(i)
+             else: 
+                  i+=my_list 
+        return positive _numbers",,,,,,
+303,2022-06-02 10:21:56.397,rbartlett@ucsd.edu,0.0,,,,,"def filter_negative(my_list):
+    new_list = []
+    for i in range(len(my_list)): 
+        for j in range(len(my_list[i])): 
+            if j > 0: 
+                new_list.append(j)
+    return new_list
+",,,,,,
+304,2022-06-02 10:21:56.800,jndixon@ucsd.edu,0.0,,,,,"new_list = []
+for lst in my_list:
+    for idk in lst:
+        if idx % 2 = 0:
+            append.new_list(idx)
+return new_list
+",,,,,,
+305,2022-06-02 10:21:59.166,aguzmanramos@ucsd.edu,0.0,,,,,"For i in range(len(my-list)):
+       For x in my-list[i]:
+               If x >= 0:
+                    t.append(x)
+               ",,,,,,
+306,2022-06-02 10:22:02.544,jmyint@ucsd.edu,0.0,,,,,"non_neg = []
+for row(0:2) 
+for col (0:3)
+if num > 0:
+non_neg.append(num)
+return non_neg
+print filter_negatives(my_list)",,,,,,
+307,2022-06-02 10:22:13.055,avgutier@ucsd.edu,1.0,im not sure,"7, [6, 8, 10]",,,,,,,,,
+308,2022-06-02 10:22:08.751,dkprajapati@ucsd.edu,0.0,,"14, [6, 8, 10]",,,not sure on this one,,,,,,
+309,2022-06-02 10:22:17.303,lkenney@ucsd.edu,0.0,,,,,"def filter_negatives(my_list):
+    one_d = []
+    for item in my_list:
+        if item >= 0:
+            one_d.append(item)
+    return one_d",,,,,,
+310,2022-06-02 10:22:17.517,zquan@ucsd.edu,0.0,,,,,,Error: tuples cannot be modified as they are immutable,,,,,
+311,2022-06-02 10:22:22.114,w3zou@ucsd.edu,0.0,,,,,"	result = []
+    for i in len(my_list):
+        for j in len(my_list[i]):
+            if my_list[i][j] >= 0:
+                result.append(my_list[i][j])",,,,,,
+312,2022-06-02 10:22:23.403,n1vasque@ucsd.edu,0.0,,,,,"Def filter_negatives(my_list)
+    Join.my_list
+     List=[]
+        For x in my_list
+        If x>0 
+         Append. List",,,,,,
+313,2022-06-02 10:22:25.865,kstraight@ucsd.edu,0.0,,,,,"def filter_negatives(mylist):
+new =[]
+     for list in mylist:
+          for num in mylist[list]:
+              if num >= 0:
+                  new.append(num)
+return new",,,,,,
+314,2022-06-02 10:22:33.114,mcasasjimenez@ucsd.edu,0.0,,,,,"def filter_negative(my_list):
+     new_list= []
+     for i in my_list:
+          if item in my_list < 0:
+               new_list.apend(item)
+     return (new_list)",,,,,,
+315,2022-06-02 10:22:34.986,bthome@ucsd.edu,0.0,,,,,"def filter_negatives(my_list):
+    [ ] = answer
+    for lst in my_list:
+        for num in lst:
+            if num > 0:
+                answer.append(num)
+return answer",,,,,,
+316,2022-06-02 10:22:36.234,mbarawid@ucsd.edu,0.0,,,,,I'm not sure. ,,,,,,
+317,2022-06-02 10:23:09.259,siwatsuki@ucsd.edu,0.0,,,,,"def filter_negatives(my_list):
+	# write code here
+    new = []
+    for element in my_list:
+        for number in element:
+            if number > 0:
+                new.append(number)
+    return new",,,,,,
+318,2022-06-02 10:23:43.536,mimamura@ucsd.edu,0.0,,,,,,,,,,"retdict = {}
+for i in colors:
+     retdict[i] = colors[i]
+return retdict ","[“Annie”, “Yeohee”]"
+319,2022-06-02 10:23:44.352,siwatsuki@ucsd.edu,0.0,,,,,"def filter_negatives(my_list):
+	# write code here
+    new = []
+    for element in my_list:
+        for number in element:
+            if number > 0:
+                new.append(number)
+    return new",,,,,,
+320,2022-06-02 10:24:10.167,sorganis@ucsd.edu,0.0,,,,,"def filter_negatives(my_list):
+    negatives=[]
+    for r in range(my_list):
+        for c in range(my_list[r])
+        if my_list[r][c] < -1
+        negatives.append(my_list[r][c])
+    return negatives",,,,,,
+321,2022-06-02 10:24:15.272,zquan@ucsd.edu,0.0,,,,,,,2 3 4,,,,
+322,2022-06-02 10:24:38.873,jir004@ucsd.edu,0.0,,,,,"def filter_negatives(my_list): 
+        negative_num =[]
+        for row if range
+  return negative_num",,,,,,
+323,2022-06-02 10:24:39.359,zquan@ucsd.edu,0.0,,,,,,,,Change the color of the first row of the image to black.,,,
+324,2022-06-02 10:24:44.379,esquan@ucsd.edu,0.0,,,,,"def filter_negatives(my_list):
+    lst = []
+    for i in range(len(my_list)):
+        for num in range(len(my_list[i])):
+            if my_list[i][num] > 0:
+                lst.append(mylist[i][num])
+    return lst",,,,,,
+325,2022-06-02 10:24:49.185,siwatsuki@ucsd.edu,0.0,,,,,"def filter_negatives(my_list):
+	# write code here
+    new = []
+    for element in my_list:
+        for number in element:
+            if number >= 0:
+                new.append(number)
+    return new
+",,,,,,
+326,2022-06-02 10:24:56.466,zquan@ucsd.edu,0.0,,,,,,,,,copy.append(row),,
+327,2022-06-02 10:24:59.671,kteran@ucsd.edu,1.0,,,,,,"(3, 2, 1) will be printed",,,,,
+328,2022-06-02 22:12:58.738,sedu@ucsd.edu,0.0,,,,,,,,,,"def convert_dict(colors):
+    for member in colors:
+         if colors[member] == (255, 0, 0):
+              colors(""red"") == (255, 0, 0)
+              colors[member] == ""red""","Annie, Yeohee"
+329,2022-06-02 10:26:27.842,gstilson@ucsd.edu,0.0,,,,,"def filter_negatives(my_list):
+    new_list = []
+    for r in range(len(my_list)):
+        for c in range(len(my_list[r])):
+            if my_list[r][c] > 0:
+                new_list.append(my_list[r][c])
+    return new_list",,,,,,
+330,2022-06-02 10:27:06.504,amcquade@ucsd.edu,0.0,,,,,"def filter_negatives(my_list):
+    new_list = [ ]
+    for i in range(len(my_list)):
+        for j in range(len(my_list[i])):
+            if my_list[i][j] >= 0:
+                new_list.append(my_list[i][j])
+    return new_list",,,,,,
+331,2022-06-02 10:27:12.001,rhuyck@ucsd.edu,0.0,,,,,"def negative_filter(lst):
+    positives = []
+    for outer in lst:
+        for inner in outer:
+            if inner > 0:
+                positives.append(inner)
+            else:
+                continue
+    return positives",,,,,,
+332,2022-06-02 10:27:19.293,gstilson@ucsd.edu,0.0,,,,,,,,,,,
+333,2022-06-02 10:27:38.937,rrangarajan@ucsd.edu,0.0,,,,The outer for loop runs 2 times,"Def filter_negatives(my_list):
+    positive_list=[]
+    for row in range(len(my_list)):
+         for col in len(x):
+              if my_list[x][y] < 0:
+                   positives.append(my_list[x][y])
+    return positives 
+
+
+",,,,,,
+334,2022-06-02 10:28:26.176,xixie@ucsd.edu,1.0,,,,,,"(3, 2, 1) will be printed",,,,,
+335,2022-06-02 10:30:12.966,apotapenko@ucsd.edu,0.0,,,,,,Error: tuples cannot be modified as they are immutable,,,,,
+336,2022-06-02 10:30:14.609,icaronan@ucsd.edu,0.0,,,,,,Error: tuples cannot be modified as they are immutable,,,,,
+337,2022-06-02 10:30:27.100,lschoute@ucsd.edu,1.0,,,,,,"(3, 2, 1) will be printed",,,,,
+338,2022-06-02 10:30:27.228,yij013@ucsd.edu,1.0,,,,,,"(3, 2, 1) will be printed",,,,,
+339,2022-06-02 10:30:27.667,alcedill@ucsd.edu,1.0,,,,,,"(3, 2, 1) will be printed",,,,,
+340,2022-06-02 10:30:30.600,acramesh@ucsd.edu,0.0,,,,,,Error: tuples cannot be modified as they are immutable,,,,,
+341,2022-06-02 10:30:31.690,edqueved@ucsd.edu,1.0,,,,,,"(3, 2, 1) will be printed",,,,,
+342,2022-06-02 10:30:33.845,anamador@ucsd.edu,1.0,,,,,,"(3, 2, 1) will be printed",,,,,
+343,2022-06-02 10:30:53.713,c1brower@ucsd.edu,1.0,,,,,,"(3, 2, 1) will be printed",,,,,
+344,2022-06-02 10:31:19.298,basalmon@ucsd.edu,1.0,,,,,,"(3, 2, 1) will be printed",,,,,
+345,2022-06-02 10:31:36.744,yug023@ucsd.edu,1.0,,,,,,"(3, 2, 1) will be printed",,,,,
+346,2022-06-02 10:32:28.385,esquan@ucsd.edu,1.0,,,,,,"(3, 2, 1) will be printed",,,,,
+347,2022-06-02 10:32:31.445,stseo@ucsd.edu,1.0,,,,,,"(3, 2, 1) will be printed",,,,,
+348,2022-06-02 10:32:32.533,lkenney@ucsd.edu,0.0,,,,,,Error: tuples cannot be modified as they are immutable,,,,,
+349,2022-06-02 10:32:33.032,cradaell@ucsd.edu,1.0,,,,,,"(3, 2, 1) will be printed",,,,,
+350,2022-06-02 10:32:33.606,nateng@ucsd.edu,1.0,,,,,,"(3, 2, 1) will be printed",,,,,
+351,2022-06-02 10:32:35.507,amcquade@ucsd.edu,1.0,,,,,,"(3, 2, 1) will be printed",,,,,
+352,2022-06-02 10:32:37.257,siwatsuki@ucsd.edu,1.0,,,,,,"(3, 2, 1) will be printed",,,,,
+353,2022-06-02 10:32:37.772,s3cho@ucsd.edu,1.0,,,,,,"(3, 2, 1) will be printed",,,,,
+354,2022-06-02 10:32:38.000,e4li@ucsd.edu,1.0,,,,,,"(3, 2, 1) will be printed",,,,,
+355,2022-06-02 10:32:40.493,a7rios@ucsd.edu,1.0,,,,,,"(3, 2, 1) will be printed",,,,,
+356,2022-06-02 10:32:42.764,w3zou@ucsd.edu,0.0,,,,,,Error: tuples cannot be modified as they are immutable,,,,,
+357,2022-06-02 10:32:42.923,susmani@ucsd.edu,1.0,,,,,,"(3, 2, 1) will be printed",,,,,
+358,2022-06-02 10:32:44.138,e3yu@ucsd.edu,1.0,,,,,,"(3, 2, 1) will be printed",,,,,
+359,2022-06-02 10:32:45.156,jmyint@ucsd.edu,0.0,,,,,,Error: tuples cannot be modified as they are immutable,,,,,
+360,2022-06-02 10:32:47.957,aaali@ucsd.edu,0.0,,,,,,"(1, 2, 3) will be printed",,,,,
+361,2022-06-02 10:32:48.026,rhuyck@ucsd.edu,1.0,,,,,,"(3, 2, 1) will be printed",,,,,
+362,2022-06-02 10:32:50.483,pvn002@ucsd.edu,0.0,,,,,,Error: tuples cannot be modified as they are immutable,,,,,
+363,2022-06-02 10:32:51.140,cdquinon@ucsd.edu,1.0,,,,,,"(3, 2, 1) will be printed",,,,,
+364,2022-06-02 10:32:52.220,jndixon@ucsd.edu,0.0,,,,,,Error: tuples cannot be modified as they are immutable,,,,,
+365,2022-06-02 10:32:53.876,jir004@ucsd.edu,1.0,,,,,,"(3, 2, 1) will be printed",,,,,
+366,2022-06-02 10:32:54.085,bto@ucsd.edu,1.0,,,,,,"(3, 2, 1) will be printed",,,,,
+367,2022-06-02 10:32:56.304,ffalzony@ucsd.edu,0.0,,,,,,Error: tuples cannot be modified as they are immutable,,,,,
+368,2022-06-02 10:32:56.425,garnita@ucsd.edu,0.0,,,,,,Error: tuples cannot be modified as they are immutable,,,,,
+369,2022-06-02 10:32:57.240,areal@ucsd.edu,1.0,,,,,,"(3, 2, 1) will be printed",,,,,
+370,2022-06-02 10:32:57.558,dkprajapati@ucsd.edu,0.0,,,,,,"(2, 1, 0) will be printed",,,,,
+371,2022-06-02 10:32:58.233,fmassa@ucsd.edu,1.0,,,,,,"(3, 2, 1) will be printed",,,,,
+372,2022-06-02 10:32:59.543,chc031@ucsd.edu,1.0,,,,,,"(3, 2, 1) will be printed",,,,,
+373,2022-06-02 10:33:00.642,mbompat@ucsd.edu,0.0,,,,,,Error: tuples cannot be modified as they are immutable,,,,,
+374,2022-06-02 10:33:01.498,aguzmanramos@ucsd.edu,1.0,,,,,,"(3, 2, 1) will be printed",,,,,
+375,2022-06-02 10:33:01.576,mbarawid@ucsd.edu,1.0,,,,,,"(3, 2, 1) will be printed",,,,,
+376,2022-06-02 10:33:02.074,rushi@ucsd.edu,1.0,,,,,,"(3, 2, 1) will be printed",,,,,
+377,2022-06-02 10:33:04.377,rbartlett@ucsd.edu,1.0,,,,,,"(3, 2, 1) will be printed",,,,,
+378,2022-06-02 10:33:06.214,yij002@ucsd.edu,1.0,,,,,,"(3, 2, 1) will be printed",,,,,
+379,2022-06-02 10:33:07.363,mcasasjimenez@ucsd.edu,1.0,,,,,,"(3, 2, 1) will be printed",,,,,
+380,2022-06-02 10:33:08.208,bthome@ucsd.edu,1.0,,,,,,"(3, 2, 1) will be printed",,,,,
+381,2022-06-02 10:33:10.355,yiperez@ucsd.edu,1.0,,,,,,"(3, 2, 1) will be printed",,,,,
+382,2022-06-02 10:33:10.800,gstilson@ucsd.edu,1.0,,,,,,"(3, 2, 1) will be printed",,,,,
+383,2022-06-02 10:33:11.193,xixie@ucsd.edu,1.0,,,,,,,2 4 3,,,,
+384,2022-06-02 10:33:14.309,amphan@ucsd.edu,1.0,,,,,,"(3, 2, 1) will be printed",,,,,
+385,2022-06-02 10:33:19.844,sorganis@ucsd.edu,1.0,,,,,,"(3, 2, 1) will be printed",,,,,
+386,2022-06-02 10:33:21.019,h6dong@ucsd.edu,1.0,,,,,,"(3, 2, 1) will be printed",,,,,
+387,2022-06-02 10:33:21.500,c2ngo@ucsd.edu,0.0,,,,,,Error: tuples cannot be modified as they are immutable,,,,,
+388,2022-06-02 10:33:24.437,esquan@ucsd.edu,1.0,,,,,,,2 4 3,,,,
+389,2022-06-02 10:33:24.569,j8cao@ucsd.edu,1.0,,,,,,"(3, 2, 1) will be printed",,,,,
+390,2022-06-02 10:33:25.621,kac012@ucsd.edu,0.0,,,,,,Error: tuples cannot be modified as they are immutable,,,,,
+391,2022-06-02 10:35:49.494,b4song@ucsd.edu,1.0,,,,,,Error: tuples cannot be modified as they are immutable,2 4 3,,,,
+392,2022-06-02 10:34:03.556,achiang@ucsd.edu,1.0,,,,,not sure,"(3, 2, 1) will be printed",2 3 3,,,,
+393,2022-06-02 10:34:42.467,cradaell@ucsd.edu,1.0,,,,,,,2 4 3,,,,
+394,2022-06-02 10:34:45.091,nateng@ucsd.edu,1.0,,,,,,,2 4 3,,,,
+395,2022-06-02 10:34:51.211,a7rios@ucsd.edu,0.0,,,,,,,4 2 3,,,,
+396,2022-06-02 10:34:53.901,amcquade@ucsd.edu,1.0,,,,,,,2 4 3,,,,
+397,2022-06-02 10:34:57.353,e4li@ucsd.edu,1.0,,,,,,,2 4 3,,,,
+398,2022-06-02 10:34:59.028,rrangarajan@ucsd.edu,1.0,,,,,,,2 4 3,,,,
+399,2022-06-02 10:35:02.000,jir004@ucsd.edu,1.0,,,,,,,2 4 3,,,,
+400,2022-06-02 10:35:06.073,areal@ucsd.edu,1.0,,,,,,,2 4 3,,,,
+401,2022-06-02 10:35:07.652,acramesh@ucsd.edu,1.0,,,,,,,2 4 3,,,,
+402,2022-06-02 10:35:08.789,siwatsuki@ucsd.edu,1.0,,,,,,,2 4 3,,,,
+403,2022-06-02 10:35:12.835,kac012@ucsd.edu,1.0,,,,,,,2 4 3,,,,
+404,2022-06-02 10:35:13.666,garnita@ucsd.edu,1.0,,,,,,,2 4 3,,,,
+405,2022-06-02 10:35:15.224,bto@ucsd.edu,1.0,,,,,,,2 4 3,,,,
+406,2022-06-02 10:35:15.551,cdquinon@ucsd.edu,1.0,,,,,,,2 4 3,,,,
+407,2022-06-02 10:35:16.220,alcedill@ucsd.edu,0.0,,,,,,,2 3 4,,,,
+408,2022-06-02 10:35:16.698,dkprajapati@ucsd.edu,0.0,,,,,,,2 3 3,,,,
+409,2022-06-02 10:35:17.039,kteran@ucsd.edu,0.0,,,,,,,2 3 4,,,,
+410,2022-06-02 10:35:18.158,rushi@ucsd.edu,1.0,,,,,,,2 4 3,,,,
+411,2022-06-02 10:35:20.293,fmassa@ucsd.edu,1.0,,,,,,,2 4 3,,,,
+412,2022-06-02 10:35:20.641,w3zou@ucsd.edu,1.0,,,,,,,2 4 3,,,,
+413,2022-06-02 10:35:21.778,chc031@ucsd.edu,1.0,,,,,,,2 4 3,,,,
+414,2022-06-02 10:35:23.433,stseo@ucsd.edu,0.0,,,,,,,4 2 3,,,,
+415,2022-06-02 10:35:23.738,e3yu@ucsd.edu,1.0,,,,,,,2 4 3,,,,
+416,2022-06-02 10:35:24.393,yij002@ucsd.edu,1.0,,,,,,,2 4 3,,,,
+417,2022-06-02 10:35:24.701,jndixon@ucsd.edu,1.0,,,,,,,2 4 3,,,,
+418,2022-06-02 10:35:26.011,rhuyck@ucsd.edu,0.0,,,,,,,4 2 3,,,,
+419,2022-06-02 10:35:26.673,lschoute@ucsd.edu,1.0,,,,,,,2 4 3,,,,
+420,2022-06-02 10:35:27.259,jmyint@ucsd.edu,0.0,,,,,,,4 2 3,,,,
+421,2022-06-02 10:35:28.481,yug023@ucsd.edu,1.0,,,,,,,2 4 3,,,,
+422,2022-06-02 10:35:29.376,lkenney@ucsd.edu,1.0,,,,,,,2 4 3,,,,
+423,2022-06-02 10:35:29.815,mrenteri@ucsd.edu,1.0,,,,,,,2 4 3,,,,
+424,2022-06-02 10:35:29.832,s3cho@ucsd.edu,1.0,,,,,,,2 4 3,,,,
+425,2022-06-02 10:35:30.005,bthome@ucsd.edu,1.0,,,,,,,2 4 3,,,,
+426,2022-06-02 10:35:30.579,xixie@ucsd.edu,0.0,,,,,,,,not sure,not sure,not sure,"['Annie', 'Yeohee']"
+427,2022-06-02 10:35:30.746,h6dong@ucsd.edu,1.0,,,,,,,2 4 3,,,,
+428,2022-06-02 10:35:31.633,ffalzony@ucsd.edu,0.0,,,,,,,2 3 3,,,,
+429,2022-06-02 10:35:32.805,pvn002@ucsd.edu,0.0,,,,,,,2 3 3,,,,
+430,2022-06-02 10:35:34.159,yiperez@ucsd.edu,0.0,,,,,,,2 3 4,,,,
+431,2022-06-02 10:35:35.029,rbartlett@ucsd.edu,1.0,,,,,,,2 4 3,,,,
+432,2022-06-02 10:35:35.998,apotapenko@ucsd.edu,1.0,,,,,,,2 4 3,,,,
+433,2022-06-02 10:35:37.374,sqngo@ucsd.edu,0.0,,,,,,,2 3 3,,,,
+434,2022-06-02 10:35:38.242,j8cao@ucsd.edu,1.0,,,,,,,2 4 3,,,,
+435,2022-06-02 10:35:43.751,mcasasjimenez@ucsd.edu,1.0,,,,,,,2 4 3,,,,
+436,2022-06-02 10:35:45.179,amphan@ucsd.edu,1.0,,,,,,,2 4 3,,,,
+437,2022-06-02 10:35:45.542,gstilson@ucsd.edu,1.0,,,,,,,2 4 3,,,,
+438,2022-06-02 10:35:47.583,mbarawid@ucsd.edu,1.0,,,,,,,2 4 3,,,,
+439,2022-06-02 10:35:48.163,anamador@ucsd.edu,1.0,,,,,,,2 4 3,,,,
+440,2022-06-02 10:35:48.347,sorganis@ucsd.edu,1.0,,,,,,,2 4 3,,,,
+441,2022-06-02 10:35:50.437,yij013@ucsd.edu,1.0,,,,,,,2 4 3,,,,
+442,2022-06-02 10:36:12.503,aguzmanramos@ucsd.edu,0.0,,,,,,,2 3 3,,,,
+443,2022-06-02 10:36:19.639,icaronan@ucsd.edu,1.0,,,,,,,2 4 3,,,,
+444,2022-06-02 10:36:42.590,amcquade@ucsd.edu,0.0,,,,,,,,"This function wants to replace pixels of an image with black pixels (seen from the tuple (0,0,0)). If the height is equal to 0 or the one less than the height of the image, those pixels will be replaced with black pixels. ",,,
+445,2022-06-02 10:36:43.486,cradaell@ucsd.edu,0.0,,,,,,,,The purpose of this function is to make the top and bottom of the image white.,,,
+446,2022-06-02 10:36:45.148,c1brower@ucsd.edu,1.0,,,,,,,2 4 3,,,,
+447,2022-06-02 10:36:50.268,e4li@ucsd.edu,0.0,,,,,,,,It would black out the first row and the last row of the image.,,,
+448,2022-06-02 10:37:02.676,aguzmanramos@ucsd.edu,0.0,,,,,,,,The purpose of this function is to modify a tuple into changing a specific part of an image to black pixels,,,
+449,2022-06-02 10:37:03.874,rbartlett@ucsd.edu,0.0,,,,,,,,The purpose of the function above is to change the color of the image if the rows are out of bounds,,,
+450,2022-06-02 10:37:04.692,icaronan@ucsd.edu,0.0,,,,,,,,don't know ,,,
+451,2022-06-02 10:37:15.163,kteran@ucsd.edu,0.0,,,,,,,,unsure,,,
+452,2022-06-02 10:37:20.324,stseo@ucsd.edu,0.0,,,,,,,,The purpose of the function above is to change the RGB value of an image at a certain region using the r and c. ,,,
+453,2022-06-02 10:37:23.543,anamador@ucsd.edu,0.0,,,,,,,,not sure,,,
+454,2022-06-02 10:37:24.506,w3zou@ucsd.edu,0.0,,,,,,,,The function changes the first and the last row of the image to be black.,,,
+455,2022-06-02 10:37:30.220,garnita@ucsd.edu,0.0,,,,,,,,It turns parts of an image black.,,,
+456,2022-06-02 10:37:36.190,a7rios@ucsd.edu,0.0,,,,,,,,The function is transforming the start row and last row to black.,,,
+457,2022-06-02 10:37:43.869,bto@ucsd.edu,0.0,,,,,,,,the first and last pixel of the image will be black pixels,,,
+458,2022-06-02 10:37:44.131,chc031@ucsd.edu,0.0,,,,,,,,make the first and the last row blackj,,,
+459,2022-06-02 10:37:46.052,acramesh@ucsd.edu,0.0,,,,,,,,makes the top and bottom rows both black,,,
+460,2022-06-02 10:37:49.567,nateng@ucsd.edu,0.0,,,,,,,,This function is making the first and last row of the omg into black.,copy.append(row),,
+461,2022-06-02 10:37:51.578,biw007@ucsd.edu,0.0,,,,,,,,I don't know,,,
+462,2022-06-02 10:37:52.245,zquan@ucsd.edu,0.0,,,,,,,,,,"def convert_dict(colors):
+    result = {}
+    for i in colors.keys():
+        value = colors[i]
+        for j in colors.values():
+            key = colors[j]
+            result[key] = value
+    return result",
+463,2022-06-02 10:37:52.837,s3cho@ucsd.edu,0.0,,,,,,,,not sure,,,
+464,2022-06-02 10:37:52.930,fmassa@ucsd.edu,0.0,,,,,,,,The image above changes the pixels to black in the top and bottom rows. ,,,
+465,2022-06-02 10:37:54.611,apotapenko@ucsd.edu,0.0,,,,,,,,The purpose of this function is to go through each row and column of the image and fill in the pixels at the 0th row with the color black,,,
+466,2022-06-02 10:37:55.456,cdquinon@ucsd.edu,0.0,,,,,,,,"this will change the bottom and top of the image to be pixels (0,0,0)",,,
+467,2022-06-02 10:37:56.481,kac012@ucsd.edu,0.0,,,,,,,,"The purpose of this function is to turn specific pixels of the image black. Specifically, you are turning the pixels in the first and last rows black.",,,
+468,2022-06-02 10:37:57.606,e3yu@ucsd.edu,0.0,,,,,,,,turns the top and bottom rows black,,,
+469,2022-06-02 10:38:00.920,esquan@ucsd.edu,0.0,,,,,,,,We are changing the first and last row of the image to be black.,,,
+470,2022-06-02 10:38:01.605,dkprajapati@ucsd.edu,0.0,,,,,,,,the purpose of this function is to crop an image. with the integers it will print a certain portion,,,
+471,2022-06-02 10:38:03.273,sqngo@ucsd.edu,0.0,,,,,,,,Not sure ): ,,,
+472,2022-06-02 10:38:03.429,mrenteri@ucsd.edu,0.0,,,,,,,,This code checks to see if the row is either the first or the last row in the image and turns that pixel black.,,,
+473,2022-06-02 10:38:04.610,mbompat@ucsd.edu,1.0,,,,,,,2 4 3,,,,
+474,2022-06-02 10:40:10.590,lschoute@ucsd.edu,0.0,,,,,,,,Turns pixels in the first and last rows black,,,
+475,2022-06-02 10:38:07.669,mbarawid@ucsd.edu,0.0,,,,,,,,"The purpose of the function is to check if the row (""r"") is equivalent to the image at location 0 and a height of -1. If the image follows this if statement, then the ""r"" and ""c"" will be black. The image will be black due to the (0, 0, 0) tuple. ",,,
+476,2022-06-02 10:38:07.732,rushi@ucsd.edu,0.0,,,,,,,,This function will black out the first row and the last row of an given image.,,,
+477,2022-06-02 10:38:09.278,lkenney@ucsd.edu,0.0,,,,,,,,The purpose of this is to give a border of black pixels around the image. Once it gets outside range the code stops.,,,
+478,2022-06-02 10:38:10.640,yiperez@ucsd.edu,0.0,,,,,,,,"the purpose of this function is to create a code for when r is less than or equal to 0. In other words, if we are out of bounds of the image in variable r then this function is telling the code to return [0,0,0]. ",,,
+479,2022-06-02 10:38:12.372,pvn002@ucsd.edu,0.0,,,,,,,,We are changing the first row and last column pixels to the color black ,,,
+480,2022-06-02 10:38:13.343,alcedill@ucsd.edu,0.0,,,,,,,,It is looking at the rows and columns and returning a minimized version ,,,
+481,2022-06-02 10:38:13.988,bthome@ucsd.edu,0.0,,,,,,,,This function turns the first row black,,,
+482,2022-06-02 10:38:15.202,gstilson@ucsd.edu,0.0,,,,,,,,It blacks out the whole image.,,,
+483,2022-06-02 10:38:17.982,jndixon@ucsd.edu,0.0,,,,,,,,"The purpose of this mystery function is to add in the pixel (0,0,0), I just dont understand where bc the if statement is confusing me ",,,
+484,2022-06-02 10:38:18.725,yij002@ucsd.edu,0.0,,,,,,,,"If the pixel is at the top row or the bottom row, it will be changed into white color.  ",,,
+485,2022-06-02 10:38:22.437,ffalzony@ucsd.edu,0.0,,,,,,,,not sure,,,
+486,2022-06-02 10:38:28.007,j8cao@ucsd.edu,0.0,,,,,,,,The function above replaces the first and last pixel of the height of an image with a black pixel.,,,
+487,2022-06-02 10:38:28.361,mcasasjimenez@ucsd.edu,0.0,,,,,,,,The purpose of this function is to return an empty img is there is no img detected.,,,
+488,2022-06-02 10:38:49.201,biw007@ucsd.edu,0.0,,,,,,,,,copy.append(row),,
+489,2022-06-02 10:38:52.193,rhuyck@ucsd.edu,0.0,,,,,,,,"The purpose of this mystery function is to take certain areas of an image and make them the color black. It does this based on certain variables, such as out row being at 0 or just at the end of the image.",,,
+490,2022-06-02 10:38:55.308,yij013@ucsd.edu,0.0,,,,,,,,The purpose of the function is to turn the pixels of image black.,,,
+491,2022-06-02 10:39:00.910,edqueved@ucsd.edu,1.0,,,,,,,2 4 3,"making the top and bottom rows into (0,0,0) pixels. These pixels are turned black.",,,
+492,2022-06-02 10:39:02.673,siwatsuki@ucsd.edu,0.0,,,,,,,,"This function is trying to set a first row and last row (0, 0, 0) which is color of black. It is specified by using a checker of if statement.",,,
+493,2022-06-02 10:39:05.113,jmyint@ucsd.edu,0.0,,,,,,,,first last rows- black,,,
+494,2022-06-02 10:39:21.794,areal@ucsd.edu,0.0,,,,,,,,the purpose of this code is to turn the image black,,,
+495,2022-06-02 10:39:37.017,jir004@ucsd.edu,0.0,,,,,,,,The purpose of this function is that turns the top and bottom rows black.,,,
+496,2022-06-02 10:39:39.043,achiang@ucsd.edu,0.0,,,,,,,,The purpose of the function is to modify the last and first column to be black.,,,
+497,2022-06-02 10:39:50.992,aguzmanramos@ucsd.edu,0.0,,,,,,,,,Def copy_image(img): copy = [] for r in range(height(img)): row [] for c in range(width(img)): row.append(img[r][c]) copy.append(row) return copy,,
+498,2022-06-02 10:39:52.505,acarbajalsensente@ucsd.edu,3.0,,"7, [6, 8, 10]",,"The outer for loop runs 2 times, The inner for loop runs 4 times",,"(3, 2, 1) will be printed",2 4 3,I'm not too sure :/,copy = [ ] ,,"[ Annie, Yeohee ]"
+499,2022-06-02 10:40:06.497,rrangarajan@ucsd.edu,0.0,,,,,,,,To change the RGB value of a certain part of the image .,,,
+500,2022-06-02 10:40:59.163,yij013@ucsd.edu,0.0,,,,,,,,,Copy.append(row),,
+501,2022-06-02 10:41:08.356,kac012@ucsd.edu,0.0,,,,,,,,,copy.append(row),,
+502,2022-06-02 10:41:17.284,h6dong@ucsd.edu,0.0,,,,,,,,Change the first and last rows into black,,,
+503,2022-06-02 10:41:26.572,basalmon@ucsd.edu,1.0,,,,,,,2 4 3,The function finds a pixel and sets it to black. ,,,
+504,2022-06-02 10:41:28.785,apotapenko@ucsd.edu,0.0,,,,,,,,,copy.append(row),,
+505,2022-06-02 10:41:33.900,stseo@ucsd.edu,0.0,,,,,,,,,copy.append(row),     ,
+506,2022-06-02 10:41:38.613,nateng@ucsd.edu,0.0,,,,,,,,,,"def convert_dict(colors):
+    dic = { }
+    for i in colors:
+        for j in colors[i]:
+            dic[colors[i]] = i
+    return dic","[""Annie"", ""Yeohee""]"
+507,2022-06-02 10:41:39.043,esquan@ucsd.edu,0.0,,,,,,,,,copy.append(row),,
+508,2022-06-02 10:41:47.840,amcquade@ucsd.edu,0.0,,,,,,,,,def copy_image(img):     copy = []     for r in range(height(img)):         row = []         for c in range(width(img)):             row.append(img[r][c])         copy.append(row)     return copy,,
+509,2022-06-02 10:41:47.775,garnita@ucsd.edu,0.0,,,,,,,,,copy.append(row),,
+510,2022-06-02 10:41:51.468,cradaell@ucsd.edu,0.0,,,,,,,,,copy.append(row),,
+511,2022-06-02 10:41:52.426,e4li@ucsd.edu,0.0,,,,,,,,,copy.append(row),,
+512,2022-06-02 10:41:53.861,b4song@ucsd.edu,0.0,,,,,,,,,copy.append(row),,
+513,2022-06-02 10:41:53.898,a7rios@ucsd.edu,0.0,,,,,,,,,copy.append(row),,
+514,2022-06-02 10:41:56.138,zquan@ucsd.edu,0.0,,,,,,,,,,,"['Annie', 'Yeohee']"
+515,2022-06-02 10:41:58.773,mbompat@ucsd.edu,0.0,,,,,,,,,copy.append(row),,
+516,2022-06-02 10:41:59.676,j8cao@ucsd.edu,0.0,,,,,,,,,copy.append(row),,
+517,2022-06-02 10:41:59.957,alcedill@ucsd.edu,0.0,,,,,,,,,not sure,,
+518,2022-06-02 10:42:00.990,e3yu@ucsd.edu,0.0,,,,,,,,,copy.append(row),,
+519,2022-06-02 10:42:02.080,w3zou@ucsd.edu,0.0,,,,,,,,,copy.append(row),,
+520,2022-06-02 10:42:03.160,kteran@ucsd.edu,0.0,,,,,,,,,idk,,
+521,2022-06-02 10:42:05.033,rushi@ucsd.edu,0.0,,,,,,,,,copy.append(row),,
+522,2022-06-02 10:42:05.382,icaronan@ucsd.edu,0.0,,,,,,,,,don't know,,
+523,2022-06-02 10:42:10.609,jndixon@ucsd.edu,0.0,,,,,,,,,copy.append(row),,
+524,2022-06-02 10:42:14.423,pvn002@ucsd.edu,0.0,,,,,,,,,copy.row.append(img[r][c]),,
+525,2022-06-02 10:42:14.571,dkprajapati@ucsd.edu,0.0,,,,,,,,,else:,,
+526,2022-06-02 10:42:18.409,bto@ucsd.edu,0.0,,,,,,,,,copy.append(row),,
+527,2022-06-02 10:42:18.603,chc031@ucsd.edu,0.0,,,,,,,,,copy.append(row),,
+528,2022-06-02 10:42:19.119,yij002@ucsd.edu,0.0,,,,,,,,,copy.append(row),,
+529,2022-06-02 10:42:22.069,acramesh@ucsd.edu,0.0,,,,,,,,,copy.append(row),,
+530,2022-06-02 10:42:24.722,mrenteri@ucsd.edu,0.0,,,,,,,,,copy.append[row],,
+531,2022-06-02 10:42:24.972,bthome@ucsd.edu,0.0,,,,,,,,,copy.append(row),,
+532,2022-06-02 10:42:27.879,ffalzony@ucsd.edu,0.0,,,,,,,,,copy.append(row),,
+533,2022-06-02 10:42:39.320,yug023@ucsd.edu,0.0,,,,,,,,,copy.append(row),,
+534,2022-06-02 10:42:41.106,rbartlett@ucsd.edu,0.0,,,,,,,,,copy.append(row),,
+535,2022-06-02 10:42:42.973,lkenney@ucsd.edu,0.0,,,,,,,,,Im not sure :(,,
+536,2022-06-02 10:42:49.142,cdquinon@ucsd.edu,0.0,,,,,,,,,i dont know,,
+537,2022-06-02 10:42:52.112,ffalzony@ucsd.edu,0.0,,,,,,,,,copy.append(row),,
+538,2022-06-02 10:42:59.177,mbarawid@ucsd.edu,0.0,,,,,,,,,copy.append(row),,
+539,2022-06-02 10:43:00.381,h6dong@ucsd.edu,0.0,,,,,,,,,copy.append(row),,
+540,2022-06-02 10:43:00.740,gstilson@ucsd.edu,0.0,,,,,,,,,copy.append(row),,
+541,2022-06-02 10:43:01.361,siwatsuki@ucsd.edu,0.0,,,,,,,,,copy.append(row),,
+542,2022-06-02 10:43:04.110,rhuyck@ucsd.edu,0.0,,,,,,,,,copy.append(row),,
+543,2022-06-02 10:43:06.395,yiperez@ucsd.edu,0.0,,,,,,,,,copy.append(row),,
+544,2022-06-02 10:43:09.406,achiang@ucsd.edu,0.0,,,,,,,,,copy.append(row),,
+545,2022-06-02 10:43:11.637,lschoute@ucsd.edu,0.0,,,,,,,,,copy.append(row),,
+546,2022-06-02 10:43:12.857,s3cho@ucsd.edu,0.0,,,,,,,,,copy.append(row),,
+547,2022-06-02 10:43:14.555,jir004@ucsd.edu,0.0,,,,,,,,,copy.append(row),,
+548,2022-06-02 10:43:15.494,edqueved@ucsd.edu,0.0,,,,,,,,,copy.append(row),,
+549,2022-06-02 10:43:16.850,mcasasjimenez@ucsd.edu,0.0,,,,,,,,,copy.append(row),,
+550,2022-06-02 10:43:17.377,jmyint@ucsd.edu,0.0,,,,,,,,,copy.append(row),,
+551,2022-06-02 10:43:25.589,basalmon@ucsd.edu,0.0,,,,,,,,,copy.append(row),,
+552,2022-06-02 10:44:03.241,sorganis@ucsd.edu,0.0,,,,,,,,to make black anything out of bounds of the image ,copy = row,"def convert_dict(colors)
+","['Annie', 'Yeohee']"
+553,2022-06-02 10:44:09.451,anamador@ucsd.edu,0.0,,,,,,,,,copy.append(row),,
+554,2022-06-02 10:44:58.894,esquan@ucsd.edu,0.0,,,,,,,,,,"def convert_dict(colors):
+    color_pix = {}
+    for k in colors.keys():
+        color_pix[colors[k]] = k
+    return color_pix",
+555,2022-06-02 10:45:33.902,rbartlett@ucsd.edu,0.0,,,,,,,,,,,"['Annie', 'Yeohee']"
+556,2022-06-02 10:45:34.898,cradaell@ucsd.edu,0.0,,,,,,,,,,,"['Annie', 'Yeohee']"
+557,2022-06-02 10:45:37.769,kac012@ucsd.edu,0.0,,,,,,,,,,,"[""Annie"", ""Yeohee""]"
+558,2022-06-02 10:45:49.300,icaronan@ucsd.edu,0.0,,,,,,,,,,don't know,don't know
+559,2022-06-02 10:45:59.151,lschoute@ucsd.edu,0.0,,,,,,,,,,,"['Annie', 'Yeohee']"
+560,2022-06-02 10:46:04.197,e4li@ucsd.edu,0.0,,,,,,,,,,,"['Annie', 'Yeohee']"
+561,2022-06-02 10:46:07.235,dkprajapati@ucsd.edu,0.0,,,,,,,,,,"def convert_dict(colors):
+","annie,yeohee"
+562,2022-06-02 10:46:07.360,garnita@ucsd.edu,0.0,,,,,,,,,,,"Annie, Yeohee"
+563,2022-06-02 10:46:09.992,biw007@ucsd.edu,0.0,,,,,,,,,,,"[""Annie"", ""Yeohee""]"
+564,2022-06-02 10:46:15.203,yij002@ucsd.edu,0.0,,,,,,,,,,,"[Annie, Yeohee]"
+565,2022-06-02 10:46:16.497,mbarawid@ucsd.edu,0.0,,,,,,,,,,,"['Annie', 'Yeohee']"
+566,2022-06-02 10:46:28.294,stseo@ucsd.edu,0.0,,,,,,,,,,,"[""Annie, ""Yeohee""]"
+567,2022-06-02 10:46:29.945,anamador@ucsd.edu,0.0,,,,,,,,,,not quite sure,"[Annie, Yeohee]"
+568,2022-06-02 10:46:31.917,chc031@ucsd.edu,0.0,,,,,,,,,,,"[""Annie"", ""Yeohee""]"
+569,2022-06-02 10:46:35.212,achiang@ucsd.edu,0.0,,,,,,,,,,,"['Annie', 'Yeohee']"
+570,2022-06-02 10:46:35.523,ffalzony@ucsd.edu,0.0,,,,,,,,,,,"[""Annie"", ""Yeohee""]"
+571,2022-06-02 10:46:36.417,amcquade@ucsd.edu,0.0,,,,,,,,,,,"['Annie', 'Yeohee']"
+572,2022-06-02 10:46:39.175,pvn002@ucsd.edu,0.0,,,,,,,,,,,"['Annie', 'Yeohee']"
+573,2022-06-02 10:46:39.469,b4song@ucsd.edu,0.0,,,,,,,,,,,"[""Annie"", ""Yeohee""]"
+574,2022-06-02 10:46:41.794,w3zou@ucsd.edu,0.0,,,,,,,,,,,"[""Annie"" , ""Yeohee""]"
+575,2022-06-02 10:46:42.210,esquan@ucsd.edu,0.0,,,,,,,,,,,"[""Annie"", ""Yeohee""]"
+576,2022-06-02 10:46:46.276,gstilson@ucsd.edu,0.0,,,,,,,,,,"def convert_dict(colors):
+    new = {}
+","['Annie', 'Yeohee']"
+577,2022-06-02 10:46:54.309,jndixon@ucsd.edu,0.0,,,,,,,,,,,"[""Annie"", ""Yeohee""]"
+578,2022-06-02 10:46:56.079,kteran@ucsd.edu,0.0,,,,,,,,,,,"Winny, 2"
+579,2022-06-02 10:47:10.254,a7rios@ucsd.edu,0.0,,,,,,,,,,,"[""Annie"", ""Yeohee""]"
+580,2022-06-02 10:47:10.737,mrenteri@ucsd.edu,0.0,,,,,,,,,,,"[ ""Annie"", ""Yeohee""]"
+581,2022-06-02 10:47:13.860,mcasasjimenez@ucsd.edu,0.0,,,,,,,,,,"def convert_dict(colors):
+     new_dict = [ ]",the item of year so 1 or 2 will be printed as well as the name of the person of that year 
+582,2022-06-02 10:47:16.775,siwatsuki@ucsd.edu,0.0,,,,,,,,,,,"['Annie', 'Yeohee']"
+583,2022-06-02 10:47:17.094,lkenney@ucsd.edu,0.0,,,,,,,,,,,"Annie, Yeohee"
+584,2022-06-02 10:47:20.461,rushi@ucsd.edu,0.0,,,,,,,,,,,
+585,2022-06-02 10:47:40.877,e3yu@ucsd.edu,0.0,,,,,,,,,,"def convert_dict(colors):
+   dictionary = {} 
+   for key in colors: 
+      dictionary[colors[key]] = colors 
+   return dictionary 
+      ",
+586,2022-06-02 10:47:45.727,j8cao@ucsd.edu,0.0,,,,,,,,,,,"[""Annie"", ""Yeohee""]"
+587,2022-06-02 10:47:45.914,h6dong@ucsd.edu,0.0,,,,,,,,,,,"[Annie, Yeohee]"
+588,2022-06-02 10:47:54.105,jmyint@ucsd.edu,0.0,,,,,,,,,,/,
+589,2022-06-02 10:47:57.947,rushi@ucsd.edu,0.0,,,,,,,,,,,"[""Annie"", ""Yeohee""]"
+590,2022-06-02 10:48:15.543,alcedill@ucsd.edu,0.0,,,,,,,,,,not sure,not sure
+591,2022-06-02 10:48:17.882,bthome@ucsd.edu,0.0,,,,,,,,,,,"[""Annie"", ""Yeohee""]"
+592,2022-06-02 10:48:32.038,lkenney@ucsd.edu,0.0,,,,,,,,,,watched him do it in class,
+593,2022-06-02 10:48:35.259,rhuyck@ucsd.edu,0.0,,,,,,,,,,,Yeohee
+594,2022-06-02 10:48:44.841,cdquinon@ucsd.edu,0.0,,,,,,,,,,,"[""Annie"", ""Yeohee""]"
+595,2022-06-02 10:48:56.816,jir004@ucsd.edu,0.0,,,,,,,,,,"def convert_dict(colors):
+       reverse_dict = {}
+       for k in colors:
+             reverse_dict[colors[k]] = k
+      return reverse_dict
+",
+596,2022-06-02 10:48:58.605,yiperez@ucsd.edu,0.0,,,,,,,,,,,"[""Annie"", ""Yeohee""]"
+597,2022-06-02 10:49:25.279,n1vasque@ucsd.edu,0.0,,,,,,,,,,,Not sure
+598,2022-06-02 10:49:25.705,jir004@ucsd.edu,0.0,,,,,,,,,,,"['Annie', 'Yeohee']"
+599,2022-06-02 10:49:31.435,jmyint@ucsd.edu,0.0,,,,,,,,,,,--
+600,2022-06-02 10:49:44.923,acramesh@ucsd.edu,0.0,,,,,,,,,,,"['Annie', 'Yeohee']"
+601,2022-06-02 10:49:51.282,stseo@ucsd.edu,0.0,,,,,,,,,,"empty_dict = {}
+for key in colors: 
+    value = colors[key]
+    empty_dict[value] = key
+return empty_dict",
+602,2022-06-02 10:49:58.416,aguzmanramos@ucsd.edu,0.0,,,,,,,,,,,"[‘Annie’, ‘Yeohee’]"
+603,2022-06-02 10:50:03.645,basalmon@ucsd.edu,0.0,,,,,,,,,,,[Annie]
+604,2022-06-02 10:50:09.401,aguzmanramos@ucsd.edu,0.0,,,,,,,,,,I’m not sure,
+605,2022-06-02 10:50:11.592,e3yu@ucsd.edu,0.0,,,,,,,,,,,"[""Annie"", ""Yeohee""] "
+606,2022-06-02 10:50:19.749,rrangarajan@ucsd.edu,0.0,,,,,,,,,,Copy.append(row),"Annie, Yeohee"
+607,2022-06-02 10:50:46.797,gdwhite@ucsd.edu,4.0,"[""gerald@#"", ""eng"", ""ucsd"", ""edu""]","7, [6, 8, 10]",the return statement is within the for loop and I would fix it by placing it outside the for loop to return the true minimum vale of the list,"The outer for loop runs 2 times, The print statement will be executed 6 times","   non_neg_lst = []
+   for lst in range(len(my_list)):
+       for num in range(len(my_list[lst])):
+            if num > 0:
+                non_neg_lst.append(num)
+    return non_neg_lst","(3, 2, 1) will be printed",2 4 3,It changes the first row of the image and last to black. It changes it to black with the RGB values.,copy.append(row),"reverse_dict
+for key in colors:
+    value = key
+    reverse_dict = [value] = key
+return reverse_dict","[""Annie"",""Yeohee""]"
+608,2022-06-02 10:51:06.158,m3diaz@ucsd.edu,2.0,gerald#eng#ucsd#edu,"7, [6, 8, 10]",I am not sure ,The outer for loop runs 2 times,I am not sure,Error: tuples cannot be modified as they are immutable,2 4 3,The purpose of the function is to modify the size of an image ,I am not sure,I am not sure,I am not sure 
+609,2022-06-02 10:51:34.506,garnita@ucsd.edu,0.0,,,,,,,,,,"I do not know :( 
+
+Dictionaries are difficult for me.",
+610,2022-06-02 10:53:47.086,alicup@ucsd.edu,5.0,eng#ucsd#edu,"7, [6, 8, 10]","The issue with this code is that it returns the first value only because the return statement is in the loop meaning it will return the first iterated value. To fix, we just have to move the return outside the for loop. An empty list would crash this program","The outer for loop runs 2 times, The print statement will be executed 6 times","def lst_convert(lst)
+","(3, 2, 1) will be printed",2 4 3,"The purpose of the function is to add a small black border to the image. This is the case because the tuple (0, 0, 0) is applied only to the 0th row and last row.",copy.append(row),"def convert_dict(colors):
+    tuple_dict = {}
+    for color in colors:
+        tup = colors[color]
+        tuple_dict[tup] = color
+    return tuple_dict","['Annie', 'Yeohee']"
+611,2022-06-02 10:57:00.982,rglopez@ucsd.edu,5.0,eng#ucsd#edu,"7, [6, 8, 10]","min_value = lst[0], maybe it should be an empty list not lst[0]","The outer for loop runs 2 times, The print statement will be executed 6 times",Not sure,"(3, 2, 1) will be printed",2 4 3,The purpose of the function is to return the image in the color black. ,not sure,fill in,"['Annie', 'Yeohee']"
+612,2022-06-02 10:56:05.245,hwolf@ucsd.edu,3.0,,,,"The outer for loop runs 2 times, The print statement will be executed 6 times","def filter_negatives(my_list):
+     pos = [ ]
+     for i in range(len(my_list)):
+          for j in range(len(my_list[0])):
+               if my_list[i][j] >= 0:
+                    pos.append(my_list[i][j])
+     return pos","(3, 2, 1) will be printed",2 4 3,This function turns the edge of the image black.,copy.append(row),,"['Annie' , 'Yeohee']"
+613,2022-06-02 11:06:22.174,emb009@ucsd.edu,1.0,,"7, [3, 4, 5]",I don’t know,"The outer for loop runs 2 times, The inner for loop runs 4 times",I don’t know,"(3, 2, 1) will be printed",2 3 3,I don’t know,I don’t know,I don’t know,I don’t know
+614,2022-06-02 15:46:19.903,avgutier@ucsd.edu,1.0,,,im unsure,"The outer for loop runs 2 times, The print statement will be executed 6 times","def filter_negatives(my_list):
+ im unsure :(","(2, 1, 0) will be printed",2 3 3,"we define our function, get the in range of the height of the image for width as well and if the variable is 0 or height is img - 1 then the img and varriable in the index are (0,0,0)",copy_image(img),im unsure,the name and year of the result so the process_data(data)
+615,2022-06-02 18:11:31.112,jnhuynh@ucsd.edu,5.0,eng#ucsd#edu,"7, [6, 8, 10]","The return statement is within the for loop, so it will only check the zeroth index and end. It doesn't trigger the if statement because the min value is the value stored at the zeroth index already, so it goes straight to the return statement and returns that. To fix it, I would remove the indentation that puts the return statement inside the for loop. Additionally, a potential test case that could crash this program is a list that contains nothing or a list that contains anything but a number.","The outer for loop runs 2 times, The print statement will be executed 6 times","def filter_negatives(my_list):
+    pos_lst = []
+
+    for r in range(len(my_list)):
+        for c in range(len(my_list[r])):
+            if my_list[r][c] >= 0:
+                pos_lst.append(my_list[r][c])
+    
+    return pos_lst","(3, 2, 1) will be printed",2 4 3,"It takes an image in the form of a 2d list of tuples and turns the first and last row of pixels in the image white. (At least, that's my best guess)",copy.append(row),"def convert_dict(colors):
+    new_dict = {}
+
+    for c_t_pair in colors:
+        new_dict[colors[c_t_pair]] = c_t_pair
+    
+    return new_dict","['Annie', 'Yeohee']"
+616,2022-06-02 22:22:26.320,bgee@ucsd.edu,1.0,gerald.#eng.ucsd.edu,"14, [3, 4, 5]",you can't compare strings,"The outer for loop runs 2 times, The print statement will be executed 6 times",not sure,Error: tuples cannot be modified as they are immutable,2 3 3,to modify the pixels to be white,copy.append(row),,
+617,2022-06-02 22:34:28.689,ncduarte@ucsd.edu,3.0,eng#ucsd#edu,"14, [6, 8, 10]",The issue is that the code will stay on index 0. I would fix this by adding a break statement,"The outer for loop runs 2 times, The print statement will be executed 6 times",im not sure,"(3, 2, 1) will be printed",4 2 3,"It is being used to set the color to black all across. It is accessing all the RGB values and making the tuples (0,0,0)",return copy,"dictionary = {""red"":(255, 0, 0), ""blue"":(0, 255, 0), ""green"": (0, 0, 255)}",error

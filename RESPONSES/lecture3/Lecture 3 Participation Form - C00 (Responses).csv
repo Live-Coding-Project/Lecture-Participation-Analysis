@@ -1,0 +1,760 @@
+,Timestamp,Email Address,"Review Exercise: Assuming the user inputs 1 and 2 for x and y (i.e., x = 1, y = 2) respectively, what will be printed when the code below is ","Functions in Python: In Python functions, the input(s) to a function is called _________ and the output from a function is called ________.",Using Built-in Functions,Using Built-in Functions(2),What are some Python’s built-in functions we have already used in our class? (HINT: Functions take in parameters within ( ) and return a value!),"Short Answer: Using the function above, answer the following: 1) Name of the function:Parameter(s), 2) Data type of return value, 3) What is the meaning of def and return?",Write Code: Write a function named replicate that takes in a word(string) and a num(integer) as input parameters and returns a string that contains the word replicated num times. Sample runs are shown in the sceenshot. (Time: 5mins),Control Flow,What gets printed?,What gets printed?(2),What is one key idea that you learned in today's class? (2- 3 sentences),What questions do you still have about today's lecture? OR What did you find the most confusing about today's lecture?
+0,2022-04-05 14:02:48.146,vcono@ucsd.edu,New values of x and y are: x = 3  and y = 1,,6.0,,,,,,,,,
+1,2022-04-05 14:22:54.108,vcono@ucsd.edu,Error: Cannot use commas within print statements,,,,,,,,,"“Hello Rohan”, “Hello Keerthana”",,
+2,2022-04-05 14:23:34.015,ejxiong@ucsd.edu,New values of x and y are: x = 3.0  and y = -1.0,,,,,,,,,,,
+3,2022-04-05 14:23:36.647,kssachde@ucsd.edu,New values of x and y are: x = 3.0  and y = -1.0,,,,,,,,,,,
+4,2022-04-05 14:23:37.393,kat009@ucsd.edu,New values of x and y are: x = 3.0  and y = -1.0,,,,,,,,,,,
+5,2022-04-05 14:23:45.097,zil066@ucsd.edu,New values of x and y are: x = 3.0  and y = -1.0,,,,,,,,,,,
+6,2022-04-05 14:23:50.473,eekgasit@ucsd.edu,New values of x and y are: x = 3  and y = -1,,,,,,,,,,,
+7,2022-04-05 14:23:50.919,jmlai@ucsd.edu,New values of x and y are: x = 3  and y = -1,,,,,,,,,,,
+8,2022-04-05 14:24:00.769,ckeggen@ucsd.edu,New values of x and y are: x = 3.0  and y = -1.0,,,,,,,,,,,
+9,2022-04-05 14:24:04.202,ygonzale@ucsd.edu,New values of x and y are: x = 3  and y = -1,,,,,,,,,,,
+10,2022-04-05 14:24:06.104,jul086@ucsd.edu,New values of x and y are: x = 3.0  and y = -1.0,,,,,,,,,,,
+11,2022-04-05 14:24:07.361,eekgasit@ucsd.edu,New values of x and y are: x = 3.0  and y = -1.0,,,,,,,,,,,
+12,2022-04-05 14:24:14.090,v7patel@ucsd.edu,New values of x and y are: x = 3.0  and y = -1.0,,,,,,,,,,,
+13,2022-04-05 14:24:14.978,wel020@ucsd.edu,New values of x and y are: x = 3.0  and y = -1.0,,,,,,,,,,,
+14,2022-04-05 14:24:20.419,ygonzale@ucsd.edu,New values of x and y are: x = 3.0  and y = -1.0,,,,,,,,,,,
+15,2022-04-05 14:24:28.292,ssreenivasan@ucsd.edu,New values of x and y are: x = 3.0  and y = -1.0,,,,,,,,,,,
+16,2022-04-05 14:24:30.265,nhong@ucsd.edu,New values of x and y are: x = 3.0  and y = -1.0,,,,,,,,,,,
+17,2022-04-05 14:24:31.607,cacasares@ucsd.edu,New values of x and y are: x = 3  and y = -1,,,,,,,,,,,
+18,2022-04-05 14:24:33.671,aiocampo@ucsd.edu,New values of x and y are: x = 3.0  and y = -1.0,,,,,,,,,,,
+19,2022-04-05 14:24:34.196,s1ha@ucsd.edu,New values of x and y are: x = 3.0  and y = -1.0,,,,,,,,,,,
+20,2022-04-05 14:24:41.214,redejer@ucsd.edu,New values of x and y are: x = 3.0  and y = -1.0,,,,,,,,,,,
+21,2022-04-05 14:24:42.462,hchavarria@ucsd.edu,New values of x and y are: x = 3  and y = -1,,,,,,,,,,,
+22,2022-04-05 14:24:42.579,nachiang@ucsd.edu,New values of x and y are: x = 3.0  and y = -1.0,,,,,,,,,,,
+23,2022-04-05 14:24:42.780,yuz178@ucsd.edu,Error: Cannot use commas within print statements,,,,,,,,,,,
+24,2022-04-05 14:24:44.579,mmsantacruz@ucsd.edu,Error: Cannot use commas within print statements,,,,,,,,,,,
+25,2022-04-05 14:24:44.657,elzhao@ucsd.edu,New values of x and y are: x = 3  and y = -1,,,,,,,,,,,
+26,2022-04-05 14:24:46.996,cyliu@ucsd.edu,,,,,,,,,,,,
+27,2022-04-05 14:24:47.985,ohoke@ucsd.edu,New values of x and y are: x = 3.0  and y = -1.0,,,,,,,,,,,
+28,2022-04-05 14:24:50.094,x4bai@ucsd.edu,New values of x and y are: x = 3.0  and y = -1.0,,,,,,,,,,,
+29,2022-04-05 14:24:50.315,kcancel@ucsd.edu,New values of x and y are: x = 3.0  and y = -1.0,,,,,,,,,,,
+30,2022-04-05 14:24:52.184,npmorrison@ucsd.edu,Error: Cannot use commas within print statements,,,,,,,,,,,
+31,2022-04-05 14:24:52.194,zju@ucsd.edu,New values of x and y are: x = 3  and y = -1,"Parameters, Return value",6.0,,,,,,,,,
+32,2022-04-05 14:24:53.702,c3tsai@ucsd.edu,New values of x and y are: x = 3  and y = -1,,,,,,,,,,,
+33,2022-04-05 14:24:54.277,nlgonzales@ucsd.edu,New values of x and y are: x = 3  and y = -1,,,,,,,,,,,
+34,2022-04-05 14:24:55.425,mag042@ucsd.edu,New values of x and y are: x = 3  and y = -1,,,,,,,,,,,
+35,2022-04-05 14:24:56.909,c3tran@ucsd.edu,New values of x and y are: x = 3  and y = -1,,,,,,,,,,,
+36,2022-04-05 14:25:01.042,c1chi@ucsd.edu,New values of x and y are: x = 3  and y = -1,,,,,,,,,,,
+37,2022-04-05 14:25:03.473,qlao@ucsd.edu,New values of x and y are: x = 3.0  and y = -1.0,,,,,,,,,,,
+38,2022-04-05 14:25:07.256,allugo@ucsd.edu,New values of x and y are: x = 3  and y = -1,,,,,,,,,,,
+39,2022-04-05 14:25:08.857,asj001@ucsd.edu,New values of x and y are: x = 3  and y = 1,,,,,,,,,,,
+40,2022-04-05 14:25:11.832,lnieto@ucsd.edu,New values of x and y are: x = 3.0  and y = -1.0,,6.0,3.0,,,,,,,,
+41,2022-04-05 14:25:14.471,cacasares@ucsd.edu,New values of x and y are: x = 3.0  and y = -1.0,,,,,,,,,,,
+42,2022-04-05 14:25:16.723,s1sherman@ucsd.edu,New values of x and y are: x = 3  and y = 1,,,,,,,,,,,
+43,2022-04-05 14:25:22.270,drcoronel@ucsd.edu,New values of x and y are: x = 3.0  and y = -1.0,,,,,,,,,,,
+44,2022-04-05 14:25:22.881,amcarmona@ucsd.edu,New values of x and y are: x = 3.0  and y = -1.0,,,,,,,,,,,
+45,2022-04-05 14:25:23.711,jbeller@ucsd.edu,New values of x and y are: x = 3.0  and y = -1.0,,,,,,,,,,,
+46,2022-04-05 14:25:27.789,y1ouyang@ucsd.edu,New values of x and y are: x = 3.0  and y = -1.0,,,,,,,,,,,
+47,2022-04-05 14:25:28.632,c1chi@ucsd.edu,New values of x and y are: x = 3.0  and y = -1.0,,,,,,,,,,,
+48,2022-04-05 14:25:34.188,egaver@ucsd.edu,New values of x and y are: x = 3.0  and y = -1.0,,,,"Print, Input, absolute, min, max ",,,,,,,
+49,2022-04-05 14:25:35.347,zju@ucsd.edu,Error: Cannot use commas within print statements,"Parameters, Return value",,,,,,,,,,
+50,2022-04-05 14:25:51.747,c3tran@ucsd.edu,New values of x and y are: x = 3.0  and y = -1.0,,,,,,,,,,,
+51,2022-04-05 14:25:54.851,scano@ucsd.edu,New values of x and y are: x = 3.0  and y = -1.0,,,,,,,,,,,
+52,2022-04-05 14:26:34.161,asraj@ucsd.edu,New values of x and y are: x = 3  and y = -1,,,,,,,,,,,
+53,2022-04-05 14:26:40.207,salabdul@ucsd.edu,Error: Cannot use commas within print statements,,,,,,,,,,,
+54,2022-04-05 14:26:41.524,aalonsobaltazar@ucsd.edu,New values of x and y are: x = 3.0  and y = -1.0,,,,,,,,,,,
+55,2022-04-05 14:27:20.292,s1sherman@ucsd.edu,New values of x and y are: x = 3.0  and y = -1.0,,,,,,,,,,,
+56,2022-04-05 14:27:49.550,m2mercado@ucsd.edu,New values of x and y are: x = 3.0  and y = -1.0,,,,,,,,,,,
+57,2022-04-05 14:30:18.930,mepan@ucsd.edu,New values of x and y are: x = 3.0  and y = -1.0,,,,,,,,,,,
+58,2022-04-05 14:31:05.097,jestrella@ucsd.edu,New values of x and y are: x = 3.0  and y = -1.0,,,,,,,,,,,
+59,2022-04-05 14:31:25.009,x6xu@ucsd.edu,New values of x and y are: x = 3.0  and y = -1.0,,,,,,,,,,,
+60,2022-04-05 14:32:05.750,s1sherman@ucsd.edu,,"Parameters, Return value",,,,,,,,,,
+61,2022-04-05 14:32:54.468,ejxiong@ucsd.edu,,"Parameters, Return value",,,,,,,,,,
+62,2022-04-05 14:34:45.794,vcono@ucsd.edu,,"Parameters, Return value",,,,,,,,,,
+63,2022-04-05 14:35:07.369,vcono@ucsd.edu,,,6.0,,,,,,,,,
+64,2022-04-05 14:35:24.101,vcono@ucsd.edu,,,,3.0,,,,,,,,
+65,2022-04-05 14:38:09.494,kssachde@ucsd.edu,,"Parameters, Return value",,,,,,,,,,
+66,2022-04-05 14:39:50.178,hal092@ucsd.edu,New values of x and y are: x = 3.0  and y = 1.0,"Parameters, Return value",,,,,,,,,,
+67,2022-04-05 14:40:04.631,jestrella@ucsd.edu,,"Parameters, Return value",,,,,,,,,,
+68,2022-04-05 14:40:05.532,npmorrison@ucsd.edu,New values of x and y are: x = 3.0  and y = 1.0,"Parameters, Return value",,,,,,,,,,
+69,2022-04-05 14:40:17.353,drcoronel@ucsd.edu,,"Parameters, Return value",,,,,,,,,,
+70,2022-04-05 14:40:17.564,y1ouyang@ucsd.edu,New values of x and y are: x = 3.0  and y = 1.0,"Parameters, Return value",6.0,,,,,,,,,
+71,2022-04-05 14:40:19.474,nhong@ucsd.edu,,"Parameters, Return value",,,,,,,,,,
+72,2022-04-05 14:40:19.512,nachiang@ucsd.edu,,"Parameters, Return value",,,,,,,,,,
+73,2022-04-05 14:40:20.352,ssreenivasan@ucsd.edu,,"Parameters, Return value",,,,,,,,,,
+74,2022-04-05 14:40:21.243,kat009@ucsd.edu,,"Parameters, Return value",,,,,,,,,,
+75,2022-04-05 14:40:24.762,ygonzale@ucsd.edu,,"Parameters, Return value",,,,,,,,,,
+76,2022-04-05 14:40:25.053,nlgonzales@ucsd.edu,,"Parameters, Return value",,,,,,,,,,
+77,2022-04-05 14:40:25.744,s1ha@ucsd.edu,,"Parameters, Return value",,,,,,,,,,
+78,2022-04-05 14:40:25.979,zju@ucsd.edu,Error: Cannot use commas within print statements,"Parameters, Return value",6.0,,,,,,,,,
+79,2022-04-05 14:40:29.995,asraj@ucsd.edu,,"Parameters, Return value",,,,,,,,,,
+80,2022-04-05 14:40:30.098,x6xu@ucsd.edu,,"Parameters, Return value",,,,,,,,,,
+81,2022-04-05 14:40:30.256,m2mercado@ucsd.edu,,"Parameters, Return value",,,,,,,,,,
+82,2022-04-05 14:40:31.299,kcancel@ucsd.edu,,"Parameters, Return value",,,,,,,,,,
+83,2022-04-05 14:40:32.075,amcarmona@ucsd.edu,,"Parameters, Return value",,,,,,,,,,
+84,2022-04-05 14:40:32.343,v7patel@ucsd.edu,,"Parameters, Return value",,,,,,,,,,
+85,2022-04-05 14:40:34.588,cacasares@ucsd.edu,,"Parameters, Return value",,,,,,,,,,
+86,2022-04-05 14:40:35.336,jmlai@ucsd.edu,,"Parameters, Return value",,,,,,,,,,
+87,2022-04-05 14:40:36.404,jbeller@ucsd.edu,,"Parameters, Return value",,,,,,,,,,
+88,2022-04-05 14:40:37.760,c3tran@ucsd.edu,,"Parameters, Return value",,,,,,,,,,
+89,2022-04-05 14:40:38.727,elzhao@ucsd.edu,,"Parameters, Return value",,,,,,,,,,
+90,2022-04-05 14:40:40.446,redejer@ucsd.edu,,"Parameters, Return value",,,,,,,,,,
+91,2022-04-05 14:40:41.973,mag042@ucsd.edu,New values of x and y are: x = 3.0  and y = 1.0,"Parameters, Return value",,,,,,,,,,
+92,2022-04-05 14:40:43.684,eekgasit@ucsd.edu,New values of x and y are: x = 3.0  and y = 1.0,"Parameters, Return value",,,,,,,,,,
+93,2022-04-05 14:40:44.653,hchavarria@ucsd.edu,,"Parameters, Return value",,,,,,,,,,
+94,2022-04-05 14:40:46.917,psandeep@ucsd.edu,New values of x and y are: x = 3.0  and y = 1.0,"Parameters, Return value",6.0,3.0,"print(), int(), float(), str()","name: area_of_circle, Parameter: radius, Data type of return value: Float, Def means the fuction is defined as area of circle and it runs the following code and will return a float value equated to area. ","def replicate_string(string1, int1):
+v = string1 * int1
+return v ","“Hola”, “Vanakkam”, “Hello”","“Hola” gets printed, then an Error occurs","“Hello Rohan”, “Hello Shikha”, “Hello Keerthana”","I learned how to make a function that takes specific inputs and parameters. This function   returns a value that I define, and there are many fuctions already built in to python. ",
+95,2022-04-05 14:40:47.673,ckeggen@ucsd.edu,,"Parameters, Return value",,,,,,,,,,
+96,2022-04-05 14:40:48.960,zsecrest@ucsd.edu,New values of x and y are: x = 3.0  and y = 1.0,"Parameters, Return value",,,,,,,,,,
+97,2022-04-05 14:40:50.394,mmsantacruz@ucsd.edu,,"Parameters, Return value",,,,,,,,,,
+98,2022-04-05 14:40:51.292,asj001@ucsd.edu,,"Parameters, Return value",,,,,,,,,,
+99,2022-04-05 14:40:51.444,ssaavedracamacho@ucsd.edu,,"Parameters, Return value",,,,,,,,,,
+100,2022-04-05 14:40:58.019,ohoke@ucsd.edu,New values of x and y are: x = 3.0  and y = 1.0,"Parameters, Return value",,,,,,,,,,
+101,2022-04-05 14:40:58.546,c1chi@ucsd.edu,,"Parameters, Return value",,,,,,,,,,
+102,2022-04-05 14:40:58.817,salabdul@ucsd.edu,New values of x and y are: x = 3.0  and y = 1.0,"Parameters, Return value",,,,,,,,,,
+103,2022-04-05 14:40:59.974,aiocampo@ucsd.edu,,"Parameters, Return value",,,,,,,,,,
+104,2022-04-05 14:41:01.176,yuz178@ucsd.edu,,"Parameters, Return value",,,,,,,,,,
+105,2022-04-05 14:41:04.717,jul086@ucsd.edu,,"Return value, Parameters",,,,,,,,,,
+106,2022-04-05 14:41:08.759,scano@ucsd.edu,,"Parameters, Return value",,,,,,,,,,
+107,2022-04-05 14:41:08.761,wel020@ucsd.edu,,"Input variables, Output parameters",,,,,,,,,,
+108,2022-04-05 14:41:14.196,zil066@ucsd.edu,,"Parameters, Return value",6.0,3.0,,,,,,,,
+109,2022-04-05 14:41:21.562,jmontanez@ucsd.edu,New values of x and y are: x = 3.0  and y = 1.0,"Parameters, Return value",,,,,,,,,,
+110,2022-04-05 14:41:22.725,x4bai@ucsd.edu,New values of x and y are: x = 3.0  and y = 1.0,"Parameters, Return value",,,,,,,,,,
+111,2022-04-05 14:41:24.801,echarneski@ucsd.edu,New values of x and y are: x = 3.0  and y = 1.0,"Parameters, Return value",,,,,,,,,,
+112,2022-04-05 14:41:30.607,allugo@ucsd.edu,,"Parameters, Return value",,,,,,,,,,
+113,2022-04-05 14:41:40.804,mepan@ucsd.edu,New values of x and y are: x = 3.0  and y = 1.0,"Parameters, Return value",,,,,,,,,,
+114,2022-04-05 14:41:57.142,anc023@ucsd.edu,New values of x and y are: x = 3.0  and y = 1.0,"Parameters, Return value",,,,,,,,,,
+115,2022-04-05 14:43:28.402,wel020@ucsd.edu,,,6.0,3.0,,,,,,,,
+116,2022-04-05 14:45:41.307,aiocampo@ucsd.edu,,,6.0,,,,,,,,,
+117,2022-04-05 14:45:43.850,jestrella@ucsd.edu,,,6.0,,,,,,,,,
+118,2022-04-05 14:47:23.880,wel020@ucsd.edu,,,,,Abs,,,,,,,
+119,2022-04-05 14:47:37.539,scano@ucsd.edu,,,6.0,,,,,,,,,
+120,2022-04-05 14:47:50.021,scano@ucsd.edu,,,,3.0,,,,,,,,
+121,2022-04-05 14:49:49.263,jmlai@ucsd.edu,,,6.0,,,,,,,,,
+122,2022-04-05 14:51:30.210,s1ha@ucsd.edu,,,6.0,,,,,,,,,
+123,2022-04-05 14:51:30.611,ssreenivasan@ucsd.edu,,,6.0,,,,,,,,,
+124,2022-04-05 14:51:36.470,kat009@ucsd.edu,,,6.0,,,,,,,,,
+125,2022-04-05 14:51:39.911,hchavarria@ucsd.edu,,,6.0,,,,,,,,,
+126,2022-04-05 14:51:41.765,x4bai@ucsd.edu,New values of x and y are: x = 3.0  and y = 1.0,"Parameters, Return value",6.0,,,,,,,,,
+127,2022-04-05 14:51:48.743,ygonzale@ucsd.edu,,,6.0,3.0,,,,,,,,
+128,2022-04-05 14:51:50.442,kat009@ucsd.edu,,,,3.0,,,,,,,,
+129,2022-04-05 14:51:50.514,nlgonzales@ucsd.edu,,,6.0,3.0,,,,,,,,
+130,2022-04-05 14:51:51.586,mag042@ucsd.edu,New values of x and y are: x = 3.0  and y = 1.0,"Parameters, Return value",6.0,3.0,,,,,,,,
+131,2022-04-05 14:51:52.069,s1ha@ucsd.edu,,,,3.0,,,,,,,,
+132,2022-04-05 14:51:53.207,zju@ucsd.edu,,,6.0,,,,,,,,,
+133,2022-04-05 14:51:53.426,salabdul@ucsd.edu,New values of x and y are: x = 3.0  and y = 1.0,"Parameters, Return value",6.0,3.0,,,,,,,,
+134,2022-04-05 14:51:53.515,npmorrison@ucsd.edu,New values of x and y are: x = 3.0  and y = 1.0,"Parameters, Return value",6.0,3.0,,,,,,,,
+135,2022-04-05 14:51:54.998,ohoke@ucsd.edu,,,6.0,4.0,,,,,,,,
+136,2022-04-05 14:51:55.537,ckeggen@ucsd.edu,,,6.0,,,,,,,,,
+137,2022-04-05 14:51:59.332,mtenglam@ucsd.edu,New values of x and y are: x = 3.0  and y = 1.0,"Parameters, Return value",6.0,3.0,"pow(), max(), len(), type()",,,,,,,
+138,2022-04-05 14:52:00.040,eekgasit@ucsd.edu,,,6.0,,,,,,,,,
+139,2022-04-05 14:52:00.888,hchavarria@ucsd.edu,,,,3.0,,,,,,,,
+140,2022-04-05 14:52:01.290,amcarmona@ucsd.edu,,,6.0,3.0,,,,,,,,
+141,2022-04-05 14:52:02.537,allugo@ucsd.edu,,,6.0,3.0,,,,,,,,
+142,2022-04-05 14:52:03.692,s1sherman@ucsd.edu,,,6.0,,,,,,,,,
+143,2022-04-05 14:52:04.749,nachiang@ucsd.edu,,,6.0,,,,,,,,,
+144,2022-04-05 14:52:05.165,ssreenivasan@ucsd.edu,,,6.0,3.0,"print, input, type",,,,,,,
+145,2022-04-05 14:52:06.770,aalonsobaltazar@ucsd.edu,,"Parameters, Return value",6.0,,,,,,,,,
+146,2022-04-05 14:52:07.675,asj001@ucsd.edu,,,6.0,,,,,,,,,
+147,2022-04-05 14:52:07.770,m2mercado@ucsd.edu,,,6.0,3.0,,,,,,,,
+148,2022-04-05 14:52:07.963,kcancel@ucsd.edu,,,6.0,3.0,,,,,,,,
+149,2022-04-05 14:52:10.518,cacasares@ucsd.edu,,,6.0,3.0,,,,,,,,
+150,2022-04-05 14:52:10.957,redejer@ucsd.edu,,,6.0,,,,,,,,,
+151,2022-04-05 14:52:11.321,c1chi@ucsd.edu,,,6.0,3.0,,,,,,,,
+152,2022-04-05 14:52:11.909,c3tran@ucsd.edu,,,6.0,,,,,,,,,
+153,2022-04-05 14:52:13.989,ohoke@ucsd.edu,,,6.0,3.0,,,,,,,,
+154,2022-04-05 14:52:14.712,kevillanueva@ucsd.edu,New values of x and y are: x = 3.0  and y = 1.0,"Parameters, Return value",6.0,2.0,,,,,,,,
+155,2022-04-05 14:52:16.079,jmontanez@ucsd.edu,,,6.0,3.0,,,,,,,,
+156,2022-04-05 14:52:19.187,mmorenocordova@ucsd.edu,New values of x and y are: x = 3.0  and y = 1.0,"Parameters, Return value",6.0,3.0,,,,,,,,
+157,2022-04-05 14:52:25.481,ejxiong@ucsd.edu,,,6.0,,,,,,,,,
+158,2022-04-05 14:52:25.760,v7patel@ucsd.edu,,,6.0,3.0,print,,,,,,,
+159,2022-04-05 14:52:28.332,anc023@ucsd.edu,New values of x and y are: x = 3.0  and y = 1.0,"Parameters, Return value",6.0,3.0,"min, max, abs, len",,,,,,,
+160,2022-04-05 14:52:30.798,ssaavedracamacho@ucsd.edu,,,6.0,,,,,,,,,
+161,2022-04-05 14:52:30.850,kat009@ucsd.edu,,,,,"print(), input()",,,,,,,
+162,2022-04-05 14:52:31.506,jul086@ucsd.edu,,,6.0,3.0,,,,,,,,
+163,2022-04-05 14:52:32.932,mmsantacruz@ucsd.edu,,,6.0,3.0,,,,,,,,
+164,2022-04-05 14:52:35.043,jbeller@ucsd.edu,,,6.0,,,,,,,,,
+165,2022-04-05 14:52:38.688,jestrella@ucsd.edu,,,,3.0,,,,,,,,
+166,2022-04-05 14:52:48.813,elzhao@ucsd.edu,,,6.0,3.0,,,,,,,,
+167,2022-04-05 14:52:50.260,cdmiranda@ucsd.edu,New values of x and y are: x = 3.0  and y = 1.0,"Parameters, Return value",6.0,3.0,"print, int, str, and float",,,,,,,
+168,2022-04-05 14:52:50.719,asj001@ucsd.edu,,,,3.0,,,,,,,,
+169,2022-04-05 14:52:54.037,nhong@ucsd.edu,,,6.0,3.0,"min, max, len",,,,,,,
+170,2022-04-05 14:52:55.886,npmorrison@ucsd.edu,New values of x and y are: x = 3.0  and y = 1.0,"Parameters, Return value",6.0,3.0,"print, input, int, str, min, max, abs",,,,,,,
+171,2022-04-05 14:52:58.068,x6xu@ucsd.edu,,,6.0,3.0,,,,,,,,
+172,2022-04-05 14:52:59.802,x4bai@ucsd.edu,New values of x and y are: x = 3.0  and y = 1.0,"Parameters, Return value",6.0,3.0,,,,,,,,
+173,2022-04-05 14:53:05.244,amcarmona@ucsd.edu,,,,,"Min(), max(), Abs(), len()",,,,,,,
+174,2022-04-05 14:53:05.624,aiocampo@ucsd.edu,,,,3.0,,,,,,,,
+175,2022-04-05 14:53:14.076,kssachde@ucsd.edu,,,6.0,3.0,POW,L,,,,,,
+176,2022-04-05 14:53:35.184,asraj@ucsd.edu,,,6.0,3.0,"print, input, max, min, len, abs",,,,,,,
+177,2022-04-05 14:53:40.404,nachiang@ucsd.edu,,,,3.0,,,,,,,,
+178,2022-04-05 14:53:54.004,kcancel@ucsd.edu,,,,,"min(), max(), len(), abs()",,,,,,,
+179,2022-04-05 14:53:55.427,eekgasit@ucsd.edu,,,6.0,3.0,"print, input, type",,,,,,,
+180,2022-04-05 14:53:58.362,jbeller@ucsd.edu,,,6.0,3.0,"pow, abs, min, max, round, len",,,,,,,
+181,2022-04-05 14:54:12.744,ars004@ucsd.edu,New values of x and y are: x = 3.0  and y = 1.0,"Parameters, Return value",6.0,3.0,min()  max()  abs(),,,,,,,
+182,2022-04-05 14:54:15.244,aalonsobaltazar@ucsd.edu,,,,3.0,,,,,,,,
+183,2022-04-05 14:54:17.062,nachiang@ucsd.edu,,,,,"max, min, abs, len",,,,,,,
+184,2022-04-05 14:54:20.732,redejer@ucsd.edu,,,,3.0,,,,,,,,
+185,2022-04-05 14:54:22.153,s1sherman@ucsd.edu,,,,3.0,,,,,,,,
+186,2022-04-05 14:54:27.775,zju@ucsd.edu,,,,3.0,,,,,,,,
+187,2022-04-05 14:54:30.844,mepan@ucsd.edu,New values of x and y are: x = 3.0  and y = 1.0,"Parameters, Return value",6.0,3.0,,,,,,,,
+188,2022-04-05 14:54:50.102,zju@ucsd.edu,,,,,min() or max(),,,,,,,
+189,2022-04-05 14:55:09.477,scano@ucsd.edu,,,6.0,3.0,"power, round, abs, max, min",,,,,,,
+190,2022-04-05 14:55:09.584,jmontanez@ucsd.edu,,,,,"min(), max(), abs(), pow(), round(), len() ",,,,,,,
+191,2022-04-05 14:55:11.107,nhong@ucsd.edu,,,,,"min, max, len, pint, int, float, str, abs",,,,,,,
+192,2022-04-05 14:55:15.494,ars004@ucsd.edu,New values of x and y are: x = 3.0  and y = 1.0,"Input variables, Output parameters",6.0,3.0,min()  max()  abs(),,,,,,,
+193,2022-04-05 14:55:17.509,hchavarria@ucsd.edu,,,,,"Max, min, abs, Len, pow",,,,,,,
+194,2022-04-05 14:55:18.014,elzhao@ucsd.edu,,,,,"print, input",,,,,,,
+195,2022-04-05 14:55:23.992,zsecrest@ucsd.edu,,,6.0,3.0,"print, input, typecast, add/subtract/multiply/divide","name of the function: area_of_circle
+data type of return value: integer
+def lets the program know we're about to define a function
+return tells the program to ""return"" the value of the area back to the user",,,,,,
+196,2022-04-05 14:55:31.428,mmsantacruz@ucsd.edu,,,,,"len, max, min, abs, round, pow, print, input",,,,,,,
+197,2022-04-05 14:55:31.864,kssachde@ucsd.edu,,,,,"POW, abs, min, max, Len ",,,,,,,
+198,2022-04-05 14:55:40.872,jmlai@ucsd.edu,,,6.0,3.0,"print(), min(), max(), abs(), len(), float(), int(), str()",,,,,,,
+199,2022-04-05 14:55:45.123,ckeggen@ucsd.edu,,,6.0,3.0,"Max, min, abs, round, POW, lens, type, input, print, int, float, string",,,,,,,
+200,2022-04-05 14:55:45.710,nachiang@ucsd.edu,,,,,"max, min, abs, lens, pow, round, print, int, str, float",,,,,,,
+201,2022-04-05 14:55:46.582,ygonzale@ucsd.edu,,,6.0,3.0,"round (76.66), pow (4, 5), max(6, 9), min (5, 3), len(""yuri"")",,,,,,,
+202,2022-04-05 14:55:50.553,salabdul@ucsd.edu,,,,,"Print, input, len, abs, pow, min, max, output, round",,,,,,,
+203,2022-04-05 14:55:52.448,c3tran@ucsd.edu,,,6.0,3.0,"Print, int, len, str, float, pow, abs, max, min",,,,,,,
+204,2022-04-05 14:55:54.981,asj001@ucsd.edu,,,,,"max(), min(), round(), pow(), and ads() are built in functions.",,,,,,,
+205,2022-04-05 14:55:55.956,x4bai@ucsd.edu,New values of x and y are: x = 3.0  and y = 1.0,"Parameters, Return value",6.0,3.0,"max(), min(), round(), type(), print(), input(), int(), float(), str()",,,,,,,
+206,2022-04-05 14:55:58.368,aiocampo@ucsd.edu,,,,,max; len; min; print; float;i nt,,,,,,,
+207,2022-04-05 14:55:58.449,zil066@ucsd.edu,,,6.0,,"round, pow, abs, max, min",,,,,,,
+208,2022-04-05 14:56:00.901,amcarmona@ucsd.edu,,,,,"min(), max(), Len() Input(),pow()",,,,,,,
+209,2022-04-05 14:56:01.494,nlgonzales@ucsd.edu,,,,,"min(), max(), str(), int(), pow(), round(), len(), abs(), ",,,,,,,
+210,2022-04-05 14:56:01.791,ssaavedracamacho@ucsd.edu,,,,3.0,"Lens(), min(), nax(), abs(),pow(), round()",,,,,,,
+211,2022-04-05 14:56:01.824,c1chi@ucsd.edu,,,6.0,3.0,"Max(), min(),abs(),round(),pow(),len(), float(),int()",,,,,,,
+212,2022-04-05 14:56:02.538,v7patel@ucsd.edu,,,,,"print(),len(),max(),min(),abs(),round(),pow(),",,,,,,,
+213,2022-04-05 14:56:02.541,allugo@ucsd.edu,,,,,"max(1, 2), min(2, 3), abs(-4), pow(2, 5), len('hello'), round(5.99) round(), ",,,,,,,
+214,2022-04-05 14:56:03.471,m2mercado@ucsd.edu,,,,,">>>abs(-12), >>>round (99.5), >>>pow(5.2), >>>max(), >>> len()",,,,,,,
+215,2022-04-05 14:56:05.103,drcoronel@ucsd.edu,,"Parameters, Return value",6.0,3.0,"abs, pow, max, min, len, input, float, int, print, round",,,,,,,
+216,2022-04-05 14:56:05.463,x6xu@ucsd.edu,,,,,"Len(), Max()",,,,,,,
+217,2022-04-05 14:56:08.137,jestrella@ucsd.edu,,,,,"min(), max(), abs(), len(), input(), pow()",,,,,,,
+218,2022-04-05 14:56:08.176,cacasares@ucsd.edu,,,,,"print, max, min, abs, round, pow, input, float, int, str",,,,,,,
+219,2022-04-05 14:56:08.880,mepan@ucsd.edu,New values of x and y are: x = 3.0  and y = 1.0,"Parameters, Return value",6.0,3.0,"input( ), max( ), min( ), len ( ), round ( ), pow ( ), print( ),",,,,,,,
+220,2022-04-05 14:56:09.688,jul086@ucsd.edu,,,,,"print, input, Len, max, min, abs, round, ",,,,,,,
+221,2022-04-05 14:56:12.114,egaver@ucsd.edu,New values of x and y are: x = 3.0  and y = 1.0,"Parameters, Return value",6.0,3.0,"print, max, min, len, int, string, float, input, round",,,,,,,
+222,2022-04-05 14:56:13.153,mmorenocordova@ucsd.edu,,,,,"print(), input(), max(), min(), abs(), len(), round(),int(),float(),",,,,,,,
+223,2022-04-05 14:56:14.850,kevillanueva@ucsd.edu,,,,,"input(), int(), pow(), len(), max(), min(), abs(), float(),str(),",,,,,,,
+224,2022-04-05 14:56:19.269,s1sherman@ucsd.edu,,,,,"min, max, len, int, str, float",,,,,,,
+225,2022-04-05 14:56:37.934,aalonsobaltazar@ucsd.edu,,,,,"abs(), pow(), min(_,_), max(_, _), len(), round(), ",,,,,,,
+226,2022-04-05 14:59:47.897,jbeller@ucsd.edu,,,,,,"1. area_of_circle, 2. integer, 3. def takes in the input and applies it to the function/operation, and return provides the output after the input has been processed.",,,,,,
+227,2022-04-05 15:00:15.058,y1ouyang@ucsd.edu,New values of x and y are: x = 3.0  and y = 1.0,"Parameters, Return value",6.0,3.0,,,,,,,,
+228,2022-04-05 15:00:54.376,zju@ucsd.edu,,,,,,"area_of_circle, type is float, and the meaing of def is to start a function, and return means the function will finish",,,,,,
+229,2022-04-05 15:03:23.388,c3tran@ucsd.edu,,,6.0,3.0,"print, str, pow, int, str, min, max, abs, float","Name of function: area_of_circle
+Parameter(s): radius
+Data type of return value: float
+Def: calling the function
+Return: the value calculated in and stored in area",,,,,,
+230,2022-04-05 15:05:54.775,s1ha@ucsd.edu,,,,,"Some built-in function are max, min, abs, power, round, and len","The name of the function and parameters is area_of_circle(radius). The data type of the return value should be a float. The term ""def"" defines a function and the term ""return"" will end the execution of the function. ",,,,,,
+231,2022-04-05 15:06:09.371,scano@ucsd.edu,,,,,,"1) area of circle 2) output 3) calling the function giving it a value, it'll evaluate it as the area giving the return, being the evaluation of expression def",,,,,,
+232,2022-04-05 15:07:13.326,ejxiong@ucsd.edu,,,,3.0,"len(), max(), min(), abs(), pow(), round()","name of the function: area_of_circle
+parameter: radius
+data type of return value: float
+def: function call and function return",,,,,,
+233,2022-04-05 15:07:55.429,jmlai@ucsd.edu,,,,,,"1) area_of_circle
+2) float
+3) def means define, which is the start of the definition of the function; return is the output of the function after it has been run",,,,,,
+234,2022-04-05 15:07:55.802,x4bai@ucsd.edu,New values of x and y are: x = 3.0  and y = 1.0,"Parameters, Return value",6.0,3.0,"max(), min(), round(), type(), print(), input(), int(), float(), str()","1) area_of_circle 
+2)float
+3)
+def : define a function 
+return : return a value of the function. Here giving the user the value of the area as outputs",,,,,,
+235,2022-04-05 15:08:03.752,eekgasit@ucsd.edu,,,,,,"1. radius 
+2. float 
+3. def tells python that a function is being created. return tells python that the output of the function is the expression that comes after the word return. ",,,,,,
+236,2022-04-05 15:08:13.412,ckeggen@ucsd.edu,,,,,,"1. area_of_circle
+Parameter: radius
+2. Float
+3. Creating a function that returns a value when we input a parameter ",,,,,,
+237,2022-04-05 15:08:14.379,kat009@ucsd.edu,,,,,,"1) name of function: area_of_circle, parameter: radius
+2) float
+3) ""def"" defines a function, ""return"" evaluates the expression gives the output to the function",,,,,,
+238,2022-04-05 15:08:25.674,asraj@ucsd.edu,,,,,,"1) name of function: area_of_circle
+parameter: radius 
+2) data type of return value: int
+3) The meaning of def is to define and name a function and the meaning of return is to return the result of the function after it is implemented",,,,,,
+239,2022-04-05 15:08:43.817,drcoronel@ucsd.edu,,,,,,"1: area_of_circle 
+2: area 
+3: def is the template definition for certain things such as radius  and return is the output value that is given back to you ",,,,,,
+240,2022-04-05 15:09:03.260,nachiang@ucsd.edu,,,,,,"1) name: area_of_circle, parameter: radius
+2) data type: float
+3) def= define(s a function), return=output ",,,,,,
+241,2022-04-05 15:09:03.702,vcono@ucsd.edu,,,,,"int, print, float, str, etc.","1) area_of_circle: radius
+2) float
+3) def - defines a function; 
+return - returns what is expressed in the function's definition",,,,,,
+242,2022-04-05 15:09:11.759,echarneski@ucsd.edu,,,6.0,3.0,"abs, max, min, int, print, str, round, len, float","name of the function: area_of_circle
+parameters: radius
+data type of return value: float
+def = define a new function, return = the output for the function",,,,,,
+243,2022-04-05 15:09:20.339,elzhao@ucsd.edu,,,,,,"1) area_of_circle, parameter: radius
+2) float
+3) def defines the function, return returns the output",,,,,,
+244,2022-04-05 15:09:32.991,m2mercado@ucsd.edu,,,,,,"1) area of circle 2) radius 3)def: your own function, return: gives back the user an output ",,,,,,
+245,2022-04-05 15:09:34.879,npmorrison@ucsd.edu,,,,,,"(1) area_of_circle: radius  (2) float  (3) defining a function, the return value of the function ",,,,,,
+246,2022-04-05 15:09:37.263,salabdul@ucsd.edu,,,,,,"Name of the function: area_of_circle 
+Parameters: radius 
+Data type of return value: float 
+Meaning of def: define 
+Meaning of return: output or print ",,,,,,
+247,2022-04-05 15:09:41.616,ygonzale@ucsd.edu,,,,,,"The function is area_of_circle, parameter is radius, and return data type is integer.  So for def is giving a function and what it will presents as that includes the inputs that are the variables and the return it the output which is the answer.",,,,,,
+248,2022-04-05 15:09:41.814,kssachde@ucsd.edu,,,,,,"1. Area of circle, parameters is radius; 2. Float; 3. Def: defining a function, return: return value of a function ",,,,,,
+249,2022-04-05 15:09:42.601,mmsantacruz@ucsd.edu,,,,,,"1) area_of_cicle: radius, 2)float, 3)def defines what is written as a new function and return signifies the output",,,,,,
+250,2022-04-05 15:09:43.199,zil066@ucsd.edu,,,,,,(1): area_of_circle(radius)  (2)float(3)def:define return: return of the value of the area,,,,,,
+251,2022-04-05 15:09:47.149,nhong@ucsd.edu,,,,,,"1) function: area_of_circle, parameters: raduis 2) float 3)def: defines function, return: result ",,,,,,
+252,2022-04-05 15:09:48.234,aiocampo@ucsd.edu,,,,,,1) area_of_circle 2) Data type: float 3) def means that we are defining the function that we choose. return is the out put and without return we have no output,,,,,,
+253,2022-04-05 15:09:52.297,hchavarria@ucsd.edu,,,,,,1. Area_of_circle and Radius 2. Float 3. Def= defining a function  and return= output of the function ,,,,,,
+254,2022-04-05 15:09:53.181,mtenglam@ucsd.edu,,,,,,1) area_of_circle: radius 2)float 3)def is the way to alert python to define our own function return is the command used for showing the output of the function ,,,,,,
+255,2022-04-05 15:09:54.203,egaver@ucsd.edu,,,,,,"name of the function - area_of_circle
+parameters - radius
+data type - float
+def - python knows you’re defining a function
+return - what the output will be",,,,,,
+256,2022-04-05 15:09:54.644,nlgonzales@ucsd.edu,,,,,,"1) area_of_circle, radius
+2) float
+3) def = defining your own function, return = getting the value of the function (output)",,,,,,
+257,2022-04-05 15:09:57.048,ssaavedracamacho@ucsd.edu,,,,,,"1. Area_of_circle 
+2. Radius float 
+3. Definition print",,,,,,
+258,2022-04-05 15:09:57.841,v7patel@ucsd.edu,,,,,,"1) area_of_circle and parameter is radius (2) data type is float (3) the meaning of def is to signal that you are creating a function, and the meaning of return is the value that the code outputs",,,,,,
+259,2022-04-05 15:10:00.482,mmorenocordova@ucsd.edu,,,,,,Name: area_of_circle Parameter: radius data type: float def: tells python that you are defining your own function return: output of the function,,,,,,
+260,2022-04-05 15:10:01.147,jmontanez@ucsd.edu,,,,,,1) area of circle 2)float 3) it allows a fuction to be designed. def= followed by a function. return= returns the value of the function. (output) ,,,,,,
+261,2022-04-05 15:10:01.389,allugo@ucsd.edu,,,,,,"1) area_of_circle; radius
+2) float
+3)def tells python that this line will describe a function; return tells python how to evaluate the function",,,,,,
+262,2022-04-05 15:10:05.649,mepan@ucsd.edu,,,,,,"1. area_of_circle: radius 2. area 3.def is the define of my own function, the return is the output of the function.",,,,,,
+263,2022-04-05 15:10:08.901,kevillanueva@ucsd.edu,,,,,,"name= area_of_circle
+parameter = radius
+data type of return value = float
+def= to define a new function 
+return= the output ",,,,,,
+264,2022-04-05 15:10:13.599,jestrella@ucsd.edu,,,,,,"1. area_of_circle, radius
+2. float
+3. Def is defining a function, return is returning the value of the function given its parameter.",,,,,,
+265,2022-04-05 15:10:13.709,wel020@ucsd.edu,,,,,,"Area of circle, float, define own function,return the output of that function ",,,,,,
+266,2022-04-05 15:10:19.299,kcancel@ucsd.edu,,,,,,1. area_of_circle 2. float 3. def tells python that what comes next will be your own function. return tells python to return the area value.,,,,,,
+267,2022-04-05 15:10:26.940,jul086@ucsd.edu,,,,,,"Name of th function would be Area_of_circle. Parameyers are the 
+return would be from the end product.",,,,,,
+268,2022-04-05 15:10:39.671,amcarmona@ucsd.edu,,,,,,"1.area_of_circle, radius 
+2. radius
+3. float 
+4. def lets python know that we are defining; return is the output",,,,,,
+269,2022-04-05 15:10:41.030,ohoke@ucsd.edu,,,,,"Print(“hi”), input(“enter name:”) max() min() round() float() int() ","1) area_of_circle(radius):
+2) float
+3) def tells python you are defining own function. Return means saying the output of expression ",,,,,,
+270,2022-04-05 15:10:55.592,ars004@ucsd.edu,New values of x and y are: x = 3.0  and y = 1.0,"Input variables, Output parameters",6.0,3.0,min()  max()  abs(),"1. area_of_circle 
+    radius
+2. Float
+3. def is used to define a function.
+    return is the what is given back by the function",,,,,,
+271,2022-04-05 15:11:10.080,s1sherman@ucsd.edu,,,,,,"1) area_of_circle 2) integer 3) define a function, return a value using the function",,,,,,
+272,2022-04-05 15:11:38.592,aalonsobaltazar@ucsd.edu,,,,,,1) area_of_circle(radius)   2) float    3) Def is when making a template (alerting python that I am defining my own function) and return defines the output of the code. ,,,,,,
+273,2022-04-05 15:11:48.962,redejer@ucsd.edu,,,,,,"1) area_of_circle
+2) radius
+3) float
+4) def defines a function
+     return gives user result of function",,,,,,
+274,2022-04-05 15:13:20.042,dashen@ucsd.edu,New values of x and y are: x = 3.0  and y = 1.0,"Parameters, Return value",6.0,3.0,"max, min, abs, len, int, float, str","name: area_of_circle, parameter: radius, data type: float, def defines this line as a function, return express the evaluation","word=input(""Enter a word: )
+num=input(""How many times you want to replicate the word? )
+def replicate(word, num):
+       return(word *num)
+print(replicate(word,num))","“Hola”, “Vanakkam”, “Hello”","“Hola” gets printed, then an Error occurs","“Hello Rohan”, “Hello Keerthana”",i learned how to define my own functions. I learned how the execution of different data types. ,I feel most confusing about the return function. 
+275,2022-04-05 15:13:25.145,cacasares@ucsd.edu,,,,,,"1. area_of_circle is the function name
+2. float
+3. def defines a function for python and return returns the value of whatever you defined ",,,,,,
+276,2022-04-05 15:13:45.876,y1ouyang@ucsd.edu,New values of x and y are: x = 3.0  and y = 1.0,"Parameters, Return value",6.0,3.0,abs(),Name of function is area_of_circle. Parameter is radius. Data type is float. Def is definition of new function. Return is the answer by using this function ,,,,,,
+277,2022-04-05 15:14:06.525,gul015@ucsd.edu,New values of x and y are: x = 3.0  and y = 1.0,"Parameters, Return value",6.0,3.0,max，min，len，,area of circle，radius；float；define the function and output,,"“Hola”, “Vanakkam”, “Hello”","“Hola” gets printed, then an Error occurs",“Hello Keerthana”,we learned functions in python,None
+278,2022-04-05 15:14:20.710,lnieto@ucsd.edu,,"Parameters, Return value",6.0,3.0,"input(), print(), min(), max(), len(), pow(), round(), float(), str(), ","1) area_of_circle: radius
+2) float
+3) def describes a function, and return tells Python to evaluate the expression after it and make it the result of the function call. ",,,,,,
+279,2022-04-05 15:14:21.925,isereiva@ucsd.edu,New values of x and y are: x = 3.0  and y = 1.0,"Parameters, Return value",6.0,3.0,"print(), type(), max(), min()","1) area_of_circle, radius
+2) float
+3) def means defining the function 
+return means what is displayed as the output",def replicate:,"“Hola”, “Vanakkam”, “Hello”","“Hola” gets printed, then an Error occurs","“Hello Rohan”, “Hello Keerthana”","Today, I learnt about the difference between (+) and (,) when combining strings and/or integrals. I also learnt about defining my own functions on python using def().",I am still a little confused with using def() and what the input will be after defining multiple functions.
+280,2022-04-05 15:14:28.562,ejxiong@ucsd.edu,,,,,,,"def replicate(string, num):
+    return string * num
+string = str(input(""Enter a word: ""))
+num = int(input(""How many times you want to replicate the word? ""))
+print(replicate(string, num))",,,,,
+281,2022-04-05 15:15:49.409,c1chi@ucsd.edu,,,,,,"Name of the function: area_of_circle 
+Parameter: area 
+Data types of return value: float 
+Def lets python define the function and return means return the value of the function ",,,,,,
+282,2022-04-05 15:17:43.468,astamaria@ucsd.edu,New values of x and y are: x = 3.0  and y = 1.0,"Parameters, Return value",6.0,3.0,"int(),str(),max(),min(),abs(),len(),print(),pow(),round(),float()","1)name: area_of_circle, parameter:radius 2)float 3) def - tells Python that the line/following lines will describe a function return: evaluates the expression and makes it the result of the function call.",,,,,,
+283,2022-04-05 15:17:59.939,zju@ucsd.edu,,,,,,,"def replicate(name, num):
+     name = input(""Enter a word: "")
+     num = input(""How many times you want to replicate the word? "")
+     return name*num",,,,,
+284,2022-04-05 15:18:07.727,cal017@ucsd.edu,New values of x and y are: x = 3.0  and y = 1.0,"Parameters, Return value",6.0,3.0,"print(), max(), min(), abs(), len()","name of the function: area_of_circle
+data type of return value: float
+def is to define the user-written function
+return is to give the user the output of the results of the function","word = input(""Enter a word: "")
+replication = int(input(""How many times do you want to replicate the word? ""))
+print(word * replication)","“Hola”, “Vanakkam”, “Hello”","“Hola” gets printed, then an Error occurs","“Hello Rohan”, “Hello Keerthana”",I learned how to define my own function and be able to call it. This allows for more flexibility in more complicated code as we are able to call a function multiple times without having to continuously write out the whole function.,
+285,2022-04-05 15:19:39.346,ejnguyen@ucsd.edu,New values of x and y are: x = 3  and y = 1,"Parameters, Return value",6.0,3.0,"int( ), max (), min(), abs(), len(), print(), input()","area_of_circle, float, def tell pythons you're about to create your own function, return tells python what the output of the function will be",,,,,,
+286,2022-04-05 15:19:40.832,anc023@ucsd.edu,,,,,,"1.) Name of the function is area_of_circle, its parameter is the radius value 2.) float 3.)def is the header and creates a name for the function, return allows you to recall the solution",,,,,,
+287,2022-04-05 15:19:43.141,sshamm@ucsd.edu,Error: Cannot use commas within print statements,"Parameters, Return value",6.0,3.0,"min(), max(), len(), abs(), int()","(1) The parameter is the function inside (in this case, it is ""radius"") when defining the variable ""area_of_circle"" (2) float (3) def is the variable ""area_of_circle"" and the return is the variable ""area"".","word = input(""Enter a word: "")
+times = input(""How many times do you want to replicate the word?"")
+print(str(word * times))","“Hola”, “Vanakkam”, “Hello”",,,,
+288,2022-04-05 15:19:46.940,accalibuso@ucsd.edu,New values of x and y are: x = 3.0  and y = 1.0,"Parameters, Return value",6.0,3.0,"max(), min(), len(), int(), float()","The name of the function is area_of_circle, the name of its parameter is radius, and the data type of its return value will be a float. def indicates to python that the following things you type are part of the function you create. return indicates to python that the things that you put after return on the same line are the output of the function.","def replicate(word,num):
+    return word * int(num)
+
+word = input(""Enter a word: "")
+num = input(""How many times do you want to replicate the word? "")
+
+print(replicate(word,num))","“Hola”, “Vanakkam”, “Hello”","“Hola” gets printed, then an Error occurs","“Hello Rohan”, “Hello Shikha”, “Hello Keerthana”","I learned that when using the operator + in the print function, every parameter in the print function must be a string. However, when using the print function with commas, not all the parameters in the print function need to be strings. I also learned that indentation matters when defining your own function in that your body of your function has to be indented from the line that contains the def function.",I don't have any questions about today's lecture.
+289,2022-04-05 15:19:51.790,amaves@ucsd.edu,New values of x and y are: x = 3.0  and y = 1.0,"Parameters, Return value",6.0,3.0,"float, input, lens, abs, print, int, str, pow, round","1) name: area_of_circle parameters: radius 
+2) float
+3) def defines what the function's name is and its parameters/what inputs it allows, return defines what will be executed once the input is entered in","word = input(""Enter a word: "")
+number = input(""How many times do you want to replicate the word? "")
+def how_many_word (word,number):
+  how = word * int(number)
+  return how
+word_many = how_many_word(word,number)
+print(word_many)","“Hola”, “Vanakkam”, “Hello”","“Hola” gets printed, then an Error occurs","“Hello Rohan”, “Hello Keerthana”","How to create my own functions and how each part of the function works and its name. I also learned different built-in functions like pow, round, and lens.",I found creating functions with strings rather than integers the most difficult for me.
+290,2022-04-05 15:20:06.091,c3tsai@ucsd.edu,New values of x and y are: x = 3.0  and y = 1.0,"Parameters, Return value",Gerald',4.0,max and min ,1. area_of_circle:radius 2. integer 3. define defines the function and determines what it does. Return return a value it calculated. ,"def repeat_word(word,times):
+    return word*int(times)
+word=input(""Enter a word: "")
+times=input(""How many times do you want to repeat the word? "")
+print(repeat_word(word, times))","“Hola”, “Vanakkam”, “Hello”",,,,
+291,2022-04-05 15:20:07.168,hstringer@ucsd.edu,New values of x and y are: x = 3.0  and y = 1.0,"Parameters, Return value",6.0,3.0,"print, int, str","1) area_of_circle:radius 2) float 3) def = define, labels this function as an original function, return will return an output based on the function",def replicate(word*num) ,"“Hola”, “Vanakkam”, “Hello”","“Hola” gets printed, then an Error occurs","“Hello Rohan”, “Hello Keerthana”","How to define and call a function, as well as how return works.",It was kind of hard to follow but I think I understand.
+292,2022-04-05 15:20:17.169,yuz178@ucsd.edu,New values of x and y are: x = 3.0  and y = 1.0,"Parameters, Return value",6.0,3.0,print(),"1)area_of_circle; radius
+2)float
+3) def= to indicate to python that you are going to start your own function; return= output",,,,,def and return,How to put these functions in ed exactly?
+293,2022-04-05 15:20:17.219,lmoricz@ucsd.edu,New values of x and y are: x = 3.0  and y = 1.0,"Parameters, Return value",6.0,3.0,We have already used int() and float() and str() to change data types.,"1) Name of the function: area_of_circle
+Parameter(s) = radius
+2) Data type of return value = Float
+3) What is the meaning of def and return? = Def means that the value of area_of_circle is defined as the function name above, what we are trying to do with radius inside the function, and the return is the defining value of area_of_circle given the parameter, radius. Return value is the output value, or the area. 
+",def ,,,,I learned how to do built in functions,None
+294,2022-04-05 15:20:19.071,elzhao@ucsd.edu,,,,,,,,,,,I learned how to define and call functions.,Distinguishing returning vs. printing was a bit confusing for me.
+295,2022-04-05 15:20:26.402,wel020@ucsd.edu,,,,,,,,,,,What is the mean of def and return,No
+296,2022-04-05 15:20:27.155,vxto@ucsd.edu,New values of x and y are: x = 3.0  and y = 1.0,"Parameters, Return value",6.0,3.0,"min, max, abs, power, len","name of the function: area_of_circle
+parameters: radius
+data type of return value: float
+def is defining the function you are using and return is what the computer will output to the user based on the function you created",,,,,I learned how to define a function. I also learned how to return a input to the user,
+297,2022-04-05 15:20:27.371,sshamm@ucsd.edu,,,,,,,,,,,I learned about pow() and len(). pow() means power and len() means the length.,I found nothing in particular confusing.
+298,2022-04-05 15:20:32.512,kssachde@ucsd.edu,,,,,,,,,,,How to define and create a function and the different elements of a function to make it valid. I was able to review over the last classes lecture to solidify my understanding. ,
+299,2022-04-05 15:20:34.446,scano@ucsd.edu,,,,,,,,,,,"I learned about the other built-in functions, such as power and absolute","I found most confusing the defining code, I am not really sure I understood it"
+300,2022-04-05 15:20:34.674,salabdul@ucsd.edu,,,,,,,"Def replicate ():
+   Word = input (“give me a word:”)
+   Num = int(input (“how many times should i repeat it?”))
+ Print (“word” * Num)
+",,,,Calling a function ,Tupes of data each function accepts 
+301,2022-04-05 15:20:39.037,ejxiong@ucsd.edu,,,,,,,,,,,how to write my own function,how to implement inputs into my function
+302,2022-04-05 15:20:52.480,anc023@ucsd.edu,,,,,,,,,,,I learned about the built-in functions len and pow. I also learned about how to define a function.,I find it confusing to know exactly what to type when defining a function.
+303,2022-04-05 15:20:55.554,ruh004@ucsd.edu,New values of x and y are: x = 3.0  and y = 1.0,"Parameters, Return value",6.0,3.0,"input(   ), max(   ), min(   ), len(  ), round(  ), pow(  )","(1)parameter: area_of_circle (radius) , (2)data type of return value:  float, (3) def means that defining the own function, return means that the output of the function ",,"“Hola”, “Hello”, “Vanakkam”",,,,
+304,2022-04-05 15:21:04.361,hyek@ucsd.edu,New values of x and y are: x = 3.0  and y = 1.0,"Parameters, Return value",6.0,4.0,"print, input, max, min, abs, len, round, pow, str, int, float, ","1) the name of the function is area_of_circle, the parameter is the radius. 2) float. 3) def= defines a function, return= output of the function",,,,,I learned that we can print different data types together with commas. I also learned that python has built-in functions.,I found creating the function to be the most difficult.
+305,2022-04-05 15:21:07.586,y1ouyang@ucsd.edu,,,,,,,,,,,How to write a python function ,Nothing 
+306,2022-04-05 15:21:11.217,qiw026@ucsd.edu,New values of x and y are: x = 3.0  and y = 1.0,"Parameters, Return value",6.0,3.0,"print, input, max, min, abs","area_of_circle; radius; float; define the function, output",,,,,How to define a function,No
+307,2022-04-05 15:21:22.181,redejer@ucsd.edu,,,,,,,,,,,I learned the distinction between pre-made and custom functions. Essentially custom functions are more elaborate functions based on pre-made ones. ,I'm still not sure about 'return'. Its necessary to store data for a user right?
+308,2022-04-05 15:22:05.392,sek024@ucsd.edu,New values of x and y are: x = 3.0  and y = 1.0,"Parameters, Return value",6.0,3.0,"min, max, len, abs, pow","1) area_of_circle: radius, 2) Float, 3) Define function, and return a value","def repeat():
+    word = input(""Enter a word: "")
+    num = int(input(""How many times you want to replicate the word? ""))
+    return print(word * num)
+
+repeat()","“Hola”, “Vanakkam”, “Hello”","“Hola” gets printed, then an Error occurs",“Hello Keerthana”,"The key idea that I learned was defining parameters and return values, and also I learned more about how a print function works","The most confusing about today's lecture was about functions, where I got confused how I should put a print function."
+309,2022-04-05 15:22:44.647,tscao@ucsd.edu,New values of x and y are: x = 3.0  and y = 1.0,"Parameters, Return value",6.0,3.0,"max, min, abs, pow, ","1) area_of_circle
+2) float
+3) def means the function of the return ",,,,,One of the key idea I learned in today's class is Parameters and Return value.,What is the function and what is the return.
+310,2022-04-05 15:23:24.985,z2lan@ucsd.edu,Error: Cannot use commas within print statements,"Input variables, Output parameters",6.0,3.0,,,,"“Hola”, “Vanakkam”, “Hello”","“Hola”, “Vanakkam”, “Hello”","“Hello Rohan”, “Hello Shikha”, “Hello Keerthana”",def is very important,no
+311,2022-04-05 15:25:06.907,zhg006@ucsd.edu,,"Parameters, Return value",6.0,3.0,"max(), min(), pow(), round(), abs()",1. The name of the function is area_of_circle. The parameter is radius.   2. the data type is float 3.def means define a function of our own. return means return the result ,,,,,,
+312,2022-04-05 15:25:51.039,kagong@ucsd.edu,New values of x and y are: x = 3.0  and y = 1.0,"Parameters, Return value",6.0,3.0,"max(), len(), abs(), round(), pow(), min()",1):area_of_circle  2):radius 3):float  4):def is means own function return means output of the function,"def replicate(string):
+       return","“Hola”, “Hello”, “Vanakkam”","“Hola” gets printed, then an Error occurs","“Hello Rohan”, “Hello Keerthana”",function,no
+313,2022-04-05 15:28:48.668,zhg006@ucsd.edu,New values of x and y are: x = 3.0  and y = 1.0,"Parameters, Return value",6.0,3.0,"max(), min(), pow(), round(), abs()",1. The name of the function is area_of_circle. The parameter is radius.   2. the data type is float 3.def means define a function of our own. return means return the result ,,,,,I learned how to use build in function. I learned how to form a function of my own.,Not for now.
+314,2022-04-05 15:30:09.857,asraj@ucsd.edu,,,,,,,"def replicate(word, num)
+return word * int(num)","“Hola”, “Vanakkam”, “Hello”","“Hola” gets printed, then an Error occurs","“Hello Rohan”, “Hello Keerthana”","One key idea that I learned in today's class is that printing and returning are not the same. When something is printed, you can see the text physically printed when the code is run. However, when something is returned, the information is stored, but you cannot see it physically when the code is run.",Something I found confusing about today's lecture is how would you store parameters of different types in the same function? For example how have input parameters that are a str and int in the same function? 
+315,2022-04-05 15:32:32.824,allugo@ucsd.edu,,,,,,,,,,,I learned how to define my own function. I also learned the names of each part of a function.,I'm still unsure about when to use a comma when concatenating strings.
+316,2022-04-05 15:38:22.678,nhong@ucsd.edu,,,,,,,,,,,I learned that there are ways to define a function and use different built-in functions to create a function. ,I'm still confused on how to input different things into a function to get different results.
+317,2022-04-05 15:39:55.353,s1ha@ucsd.edu,,,,,,,,,,,One key idea that I learned today is that functions allow for us to make repetitive codes much simpler and easier for the programmer to execute. ,
+318,2022-04-05 15:40:39.599,qlao@ucsd.edu,New values of x and y are: x = 3.0  and y = 1.0,"Parameters, Return value",6.0,3.0,"max(2,5),min(1,4),abs(-3),Len(""CSE“), around(0.999), pow(2,4),","1)the function name is area_of_circle, parameter is radius 2) float 3) def defines our own functions and return gives us the output of the function we named","def replicate (string, integer):
+      return string * integer",,,,"One key idea that I learned in today's class is defining a function. I learned that the input value in the def function is parameter or argument, and they can be used interchangeably . Also, if we do not return the function after defining it, it will be none. ",The most confusing part in today's lecture is the comma usage in print message.
+319,2022-04-05 15:41:10.297,dole@ucsd.edu,,"Input parameters, Output variables",6.0,3.0,sum_of_squares,"1) area_of_circle: radius is the parameter 
+2) float
+3) def is defining the function and return returns the functions output",,"“Hola”, “Vanakkam”, “Hello”","“Vanakkam” gets printed, then an Error occurs","“Hello Rohan”, “Hello Keerthana”","I learned how to define a function. after defining a function, i was able to input the parameters. after this, i was able to learn how to do a return statement ",Is there any way to do like an if function?
+320,2022-04-05 15:42:43.215,kat009@ucsd.edu,,,,,,,,,,"“Hello Rohan”, “Hello Keerthana”",I learned how functions in python are structured. The input of a function is called a parameter and the output is called the return value.,"I found the ""def"" and ""return"" part of today's lecture a little confusing at first but I understood it in the end."
+321,2022-04-05 15:43:04.594,eekgasit@ucsd.edu,,,,,,,"def replicate(str, multiplier):
+    return str * multiplier","“Hola”, “Vanakkam”, “Hello”","“Hola” gets printed, then an Error occurs",“Hello Keerthana”,"I learned about how we can write our own functions. Functions take in arguments, do operations based on those arguments and return an output. This makes codes less repetitive to read and write.",What are the implications of a function that returns None?
+322,2022-04-05 15:46:53.314,glepage@ucsd.edu,New values of x and y are: x = 3.0  and y = 1.0,,,,,,,,,,,
+323,2022-04-05 15:48:26.927,jwhiteman@ucsd.edu,New values of x and y are: x = 3.0  and y = 1.0,,,,,,,,,,,
+324,2022-04-05 15:48:44.784,ssenanayake@ucsd.edu,New values of x and y are: x = 3.0  and y = 1.0,"Parameters, Return value",6.0,3.0,"print, int, str, float, pow, round, max, min, len, abs","1) area_of_circle, radius, 2) float, 3) def defines that the function does and return gives the value that is solved through the function after variables are inputted ",,,,,One key idea I learned in today's class is the idea of calling a function. Calling a function means grabbing a template/a function that has already been made and entering a new value then getting something new out of it without having to create the function all over again.,"Something I found confusing was after the the definition of area, there was the line ""area = 3.14*radius*radius"". I am wondering if it could have just said ""3.14*radius*radius"" and the last line say ""return area_of_circle"""
+325,2022-04-05 15:50:36.933,nbhoot@ucsd.edu,Error: Cannot use commas within print statements,"Parameters, Return value",6.0,3.0,len is an in built function , 1. area_of_circle and radius 2. float. 3. def is how you instantiate a function and return gives you the output value of the function,"def replicate(word, num):
+       return word*num ","“Hola”, “Vanakkam”, “Hello”","“Vanakkam” gets printed, then an Error occurs","“Hello Rohan”, “Hello Keerthana”",I learned function must be defined before you can call them. Functions can be parameterized,
+326,2022-04-05 15:51:59.030,npmorrison@ucsd.edu,New values of x and y are: x = 3.0  and y = 1.0,"Parameters, Return value",6.0,3.0,"print, input, str, int, float, len, min, max, abs","(1) area_of_circle: radius, (2) float, (3) definition of the function, the return value of the function","def replicate(word, num):
+       print(""word"" * num)
+i_word = input(""Enter a word: "")
+i_num = input(""How many times you want to replicate the word? "")
+replicate(i_word, i_num)","“Hola”, “Vanakkam”, “Hello”","“Hola” gets printed, then an Error occurs","“Hello Rohan”, “Hello Shikha”, “Hello Keerthana”","Today I learned how to define a function. To do this, you need to use def, then put the name of your function and what should be input in parentheses. To describe how the function works, you indent under the 'def' line and write your code, including a return value.","I am not sure whether you always have to put 'return' under the defined function, or if something such as the print function will suffice to give what should be returned."
+327,2022-04-05 15:53:13.915,zil066@ucsd.edu,New values of x and y are: x = 3.0  and y = 1.0,"Parameters, Return value",6.0,3.0,,,,"“Hola”, “Vanakkam”, “Hello”","“Hola”, “Hello”, “Vanakkam”","“Hello Rohan”, “Hello Shikha”, “Hello Keerthana”",how to define functions and call out functions,"I probably just need more practice over this one, so I am going to do the rq today or tomorrow. No questions for now. "
+328,2022-04-05 15:53:53.463,tschalge@ucsd.edu,New values of x and y are: x = 3.0  and y = 1.0,"Parameters, Return value",6.0,3.0,1.print() 2.int() 3.float() 4.max() 5.min() 6.pow() 7.round(),"Name of function: area_of_circle
+Parameter name: radius
+Data type of return value: float
+What is the meaning of def and return?: ""def"" is defining the function and ""return"" is returning a value to the function that has been created.","def replicate(word, number):
+    word_repeat = word * number
+    return word_repeat
+
+word1= input(""Enter a word: "")
+repeat1= int(input(""How many times do you want to repeat the word? ""))
+run=replicate(word1,repeat1)
+
+print(run)
+","“Hola”, “Vanakkam”, “Hello”","“Hola” gets printed, then an Error occurs","“Hello Rohan”, “Hello Keerthana”",I learned how to make a function. I also learned how to call a function that is has been made.,I am still confused on the differences between returning and printing in a function
+329,2022-04-05 15:54:07.840,cahuynh@ucsd.edu,New values of x and y are: x = 3.0  and y = 1.0,"Parameters, Return value",6.0,3.0,"Max, min, len, print, abs","1) area_of_circle 
+Parameter: (radius)
+2) Float
+3) def = defining a function, start of the template. return = the return value/output of the function",,,,,I learned how to define a function and the steps and orders you would have to format your code in. I did not know that you had to have the code in a certain order.,Did not find anything confusing but I did struggle with piecing which code did what and what it was set to.
+330,2022-04-05 15:55:26.470,glepage@ucsd.edu,,"Input variables, Output parameters",,,,,,,,,,
+331,2022-04-05 15:55:55.074,kaqian@ucsd.edu,New values of x and y are: x = 3.0  and y = 1.0,"Parameters, Return value",6.0,3.0,"print(), type(), int(), float(), str(), round(), pow()","1) area_of_circle, radius
+2) float
+3) def creates a function, return is the return value of the function",,,,,"I learned how to define functions to produce a specific return value, based on parameters that can be inputted. I also learned how to call functions when you want to evaluate them for a specific return value.","I am confused as to why you cannot convert a number with a decimal that's a string to an integer. The class's example was int('3.2'), I am confused as to why this doesn't work."
+332,2022-04-05 15:56:04.637,jwhiteman@ucsd.edu,New values of x and y are: x = 3.0  and y = 1.0,"Parameters, Return value",,,,,,,,,,
+333,2022-04-05 15:57:03.870,zju@ucsd.edu,Error: Cannot use commas within print statements,"Parameters, Return value",6.0,4.0,,,,"“Hola”, “Vanakkam”, “Hello”","“Hola” gets printed, then an Error occurs","“Hello Rohan”, “Hello Shikha”, “Hello Keerthana”",I know how to make a function. I also learned the function of def and return ,No
+334,2022-04-05 16:00:43.807,hwrhee@ucsd.edu,New values of x and y are: x = 3.0  and y = 1.0,"Parameters, Return value",6.0,3.0,"print, input, max, abs, len, pow, round","1) area_of_circle (radius), 2) return value will be float data type, 3) def tells Python that a function will be described and return tells Python to evaluate the expression and for the output to be the result of the function call","def replicate (word, num):
+       replication = word * num
+       return replication
+word = input(""Enter a word: "")
+num = int(input(""How many times do you want to replicate the word?""))
+print(replicate(word, num))","“Hola”, “Vanakkam”, “Hello”","“Hola” gets printed, then an Error occurs","“Hello Rohan”, “Hello Keerthana”","How to write your own function, specifically the meaning of def and return","In the area_of_circle example, I'm still confused on why you need to define a variable for area after the def statement  and then return the variable of area, instead of it just being written as:
+def area_of_circle (radius):
+     return 3.14 * radius * radius
+print(area_of_circle(2))"
+335,2022-04-05 16:04:13.717,jccole@ucsd.edu,Error: Cannot use commas within print statements,"Parameters, Return value",6.0,3.0,"A print statement returns whatever variable is within the (), this include information stored within variables.",1) area_of_circle:radius 2) floating point number 3) the def allows for an expression to be used over and over without re-entering information. The return returns the data processed in the function.,"word = input(""Enter a word: "")
+replicate = input(""How many times do you want to replicate the word?: "")
+
+repword = word * int(replicate)
+
+print(repword)","“Hola”, “Vanakkam”, “Hello”","“Hola” gets printed, then an Error occurs","“Hello Rohan”, “Hello Shikha”, “Hello Keerthana”",How to define functions and call on that function through the console ,Nothing
+336,2022-04-05 16:04:43.820,glepage@ucsd.edu,,,6.0,3.0,"Print, max, input, min",,,,,,,
+337,2022-04-05 16:05:04.141,jwhiteman@ucsd.edu,New values of x and y are: x = 3.0  and y = 1.0,"Parameters, Return value",6.0,,,,,,,,,
+338,2022-04-05 16:05:30.183,nduque@ucsd.edu,New values of x and y are: x = 3.0  and y = 1.0,,6.0,,,,,,,,,
+339,2022-04-05 16:06:11.094,jmlai@ucsd.edu,,,,,,,"def replicate(word, num):
+    return word * num",,,,"One key idea I learned is functions. Most notably, I learned how writing to write define and execute functions within the same code.",
+340,2022-04-05 16:09:35.485,cyliu@ucsd.edu,New values of x and y are: x = 3.0  and y = 1.0,"Parameters, Return value",6.0,3.0,"print, input, type conversion, round function, power function,max, min","1) area_of_circle, radius 2) float 3) defining is inputting and returning is outputting",,,,,That we can construct our own functions with inputs and outputs! And also how def and return represent inputs and outputs!,"About why values can be refreshed in the first example of x=1, y=2, new x and new y"
+341,2022-04-05 16:16:01.518,jwhiteman@ucsd.edu,,,6.0,3.0,"abs, max, min, len,","area_of_circle, radius, float, define a function and then the output",,,,,,
+342,2022-04-05 16:16:16.881,glepage@ucsd.edu,,,,,,"1. name= area_of_circle,  parameters are area= 3.12*radius*radius, 2. a float 3. def references the defintion of a function and return is the value of that the code is making.",,,,,,
+343,2022-04-05 16:30:16.145,amcarmona@ucsd.edu,,,,,,,"[user@sahara ~]$ python replicate.py
+c_word=float(input(""Enter a word:""))
+c_used=input() 
+print(""food"", c_word, ""is"",c_used)","“Hola”, “Vanakkam”, “Hello”","“Hola”, “Hello”, “Vanakkam”","“Hello Rohan”, “Hello Keerthana”","A key idea I learned in today's class would be the definition of ""concatenated."" Here, I learned that it is important to combine two strings and will showcase an error if I were to attempt to combine a string and an integer. ","I'm still confused on the rules behind defining our own functions. It seems for there  to be different ways in achieving the same outcome, however, I found it difficult on how to continue. "
+344,2022-04-05 16:33:31.417,d4sanchez@ucsd.edu,Error: Cannot use commas within print statements,"Parameters, Return value",6.0,3.0,"print(), len(), max(), min(), float(), abs()",area_of_circle; float; def defines input and return defines output,"word = input(""Enter a word: "")
+count = int(input(""How many times do you want to replicate the word? ""))
+print(word * count)","“Hola”, “Vanakkam”, “Hello”","“Hola” gets printed, then an Error occurs","“Hello Rohan”, “Hello Keerthana”","How def is defined as an input, and how return is defined as an output.  Functions can have parameters that can take in user input, which alters the output.",None
+345,2022-04-05 16:35:34.187,mtenglam@ucsd.edu,,,,,,,,,,,I learned that we can create our own functions besides the built-in ones and that to define we can define a function and make it interactive through input() when calling a function in another line. ,none
+346,2022-04-05 16:37:57.347,cacasares@ucsd.edu,,,,,,,"def replicate (word, number):
+    replications= word * int(number)
+    return replications
+word_r= input(""Enter a word: "")
+number_r= input(""How many times you want to replicate the word?"")
+words_replicated= replicate(word_r, number_r)
+print(words_replicated)","“Hola”, “Vanakkam”, “Hello”","“Hola”, “Vanakkam”, “Hello”","“Hello Rohan”, “Hello Keerthana”",I learned how to make my own functions. I also learned that functions can only be called after you define them.,"I found the concepts confusing, but I think practicing the concepts and the next lecture will help provide clarity. "
+347,2022-04-05 16:43:04.293,jwhiteman@ucsd.edu,New values of x and y are: x = 3.0  and y = 1.0,"Parameters, Return value",6.0,3.0,"abs, max, min, len","area_of_circle, radius, float, defines input and defines output","def replicate (word, rep) return word*rep",,,,,
+348,2022-04-05 16:43:39.660,d4sanchez@ucsd.edu,New values of x and y are: x = 3.0  and y = 1.0,"Parameters, Return value",6.0,3.0,"input(), len(), max(), min(), ",1.) area of circle; 2.) float; 3.) def defines input and return defines output,"def replicate():
+    word = input(""Enter a word: "")
+    count = int(input(""How many times do you want to replicate the word? ""))
+    print(word * count)
+
+replicate()","“Hola”, “Vanakkam”, “Hello”","“Hola” gets printed, then an Error occurs","“Hello Rohan”, “Hello Keerthana”","I learned about the definitions of def and return.  Def defines the input given by the user, and return defines the output produced by the function contained within def.",None
+349,2022-04-05 16:46:01.013,glepage@ucsd.edu,,,,,,,"def replicate (word, num):
+    string = word * num
+    return string
+    
+d_word = input(""Enter a word: "")
+d_num = int(input(""How many times would you want it replicate the word: ""))
+d_string = replicate (d_word, d_num)
+print(d_string)",,,,,
+350,2022-04-05 16:47:38.190,jum004@ucsd.edu,New values of x and y are: x = 3.0  and y = 1.0,"Parameters, Return value",6.0,3.0,"input(), str()","Name of the function: area_of_circle
+Parameter(s): radius
+Data type of return value: float 
+Meaning of def & return: ""def"" defines a function template. ""return"" returns the value or output of the function.  ","word = input(""Enter a word: "")
+number = input(""How many times you want to replicate the word? "" )
+def replicate(word, number):
+     return print(word * int(number))
+",,,,,
+351,2022-04-05 16:48:37.920,jwhiteman@ucsd.edu,,,,,,,,"“Hola”, “Vanakkam”, “Hello”","“Hola” gets printed, then an Error occurs",“Hello Keerthana”,The one key idea that I learned in todays class was def and how to return a function. I also learn about all the different expression you can use.,What I found most confusing was the def and how it works.
+352,2022-04-05 16:48:39.524,argonzalez@ucsd.edu,New values of x and y are: x = 3  and y = -1,"Parameters, Return value",6.0,3.0,"pow, min, abs, max, print","1) area_of_circle, radius  2)float  3)defining function, calling return value ","def replicate(word, num):
+word = input(""Enter a word;"")
+num = input(""How many times do you want to replicate;"")
+    return word*num","“Hola”, “Vanakkam”, “Hello”","“Hola” gets printed, then an Error occurs","“Hello Rohan”, “Hello Keerthana”",The importance of a structure in a function to ensure that the code compiles correctly. Also the importance of the order of definitions and functions to ensure clarity.,I found the part on receiving inputs to be somewhat confusing.
+353,2022-04-05 16:49:08.122,obandopadhyay@ucsd.edu,New values of x and y are: x = 3  and y = -1,"Parameters, Return value",6.0,3.0,"print(), input(), min(), max(), len(), abs()","1) name of function: area_of_circle, parameter: radius
+2) data type of return value: float
+3) def is the keyword used when defining a function, return is the keyword used to store the result of the function","def replicate():
+        word=input(""Enter a word: "")
+        num=int(input(""How many times you want to replicate the word? ""))
+        return word*(num)
+print(replicate())","“Hola”, “Vanakkam”, “Hello”","“Hola” gets printed, then an Error occurs","“Hello Rohan”, “Hello Keerthana”",how to create your own function and call it in a program,none
+354,2022-04-05 16:49:26.363,glepage@ucsd.edu,,,,,,,,"“Hola”, “Vanakkam”, “Hello”","“Hola” gets printed, then an Error occurs","“Hello Rohan”, “Hello Shikha”","printing is not the same thing as returning the function. Also I learned how to create my own functions by using ""def"" and ""return""",
+355,2022-04-05 16:50:19.081,jwhiteman@ucsd.edu,,,,,,,,,,“Hello Keerthana”,The one key idea that I learn today was def. I learn how something must be defined before it can be used.,This was the also the hardest part for me and I still don't get all the uses for def.
+356,2022-04-05 16:51:04.888,nduque@ucsd.edu,New values of x and y are: x = 3.0  and y = 1.0,"Parameters, Return value",6.0,3.0,"max, min, multiplication, addition","1. Name of function: area_of_circle 
+    Parameters: radius
+2. Data type of return value: float 
+3. what is the meaning of def and return: 
+def is what defines or tells that the following code or line is going to define the function 
+return tells python to evaluate the expression after it 
+
+","word = input ( ""Enter a word:"")
+replicate =  int(input ( ""How many time you want to replicate the word?""))
+def replicate (word, number)
+     return word * number 
+print (replicate)
+
+",Error: Functions must be defined at the beginning of a file,"“Hola” gets printed, then an Error occurs","“Hello Rohan”, “Hello Keerthana”",Today I learned how to print my own function including prompting a user to input information to then have a successful result in the output.,None
+357,2022-04-05 16:53:57.952,mtn011@ucsd.edu,New values of x and y are: x = 3.0  and y = 1.0,"Parameters, Return value",6.0,3.0,"len, max, min, round, pow, abs, print, input","1) area_of_circle 
+2) radius 
+3) float
+4) def means to define a function and return is the output","def replicate (word, rep):
+return (word*rep)","“Hola”, “Vanakkam”, “Hello”","“Hola”, “Hello”, “Vanakkam”","“Hello Rohan”, “Hello Keerthana”","One key idea I learned in todays class is how to define a function. And then using this def function, how to print statements without concatenating a string. ",I am still confused on how to define a function. 
+358,2022-04-05 17:24:19.491,ohoke@ucsd.edu,,,,,,,"Input(“enter word”:)
+  Replicate(word*3)
+  Return replicate
+   ","“Hola”, “Vanakkam”, “Hello”","“Hola”, “Hello”, “Vanakkam”","“Hello Rohan”, “Hello Shikha”, “Hello Keerthana”",Definition and parameters,How to set up a code with definition 
+359,2022-04-05 17:43:06.843,vmei@ucsd.edu,New values of x and y are: x = 3.0  and y = 1.0,"Parameters, Return value",6.0,3.0,"print(), int(), float(), str(), pow(), abs(), round()","1) name: area_of_circle  2) radius  3) float  4) def indicates to python that that line will describe a new function, and return evaluates the expression that comes after it and assigns that expression to be the output of the defined function before it",,,,,"While there are functions that others have already made, I can make my own functions too. If I wanted to make my own function, I need to define the function and its parameters before writing out the expression with return","I still found it confusing to run the whole file once I have it already on the box above the terminal. I didn't know that I couldn't be in python to run it at first, but now that I know to do that, I just wonder why I need to be out of python to run the file"
+360,2022-04-05 17:51:29.688,aiocampo@ucsd.edu,,,,,,,,,,,"There are multiple things one must include when writing a function. You have to define the function with a meaningful name, have correct spacing so functions don't get mixed and your output must be correctly labeled.",The most confusing part was how you cant solve for function that is asking for the integer of a float or else you get an error.
+361,2022-04-05 18:14:47.273,kpan@ucsd.edu,New values of x and y are: x = 3.0  and y = 1.0,"Parameters, Return value",6.0,3.0,"print(), str(), abs(), float(), int(),",The name of the function is area_of_circle and it will return a float. Def defines the function and the return will tell python to evaluate the expression based on the stuff inside the def.  ,"def replicate(x, y): 
+   x = input()
+   y = int(input())
+   return( x * y)","“Hola”, “Vanakkam”, “Hello”","“Hola” gets printed, then an Error occurs","“Hello Rohan”, “Hello Keerthana”",In todays class I learned how to define functions and call them. This allows python to return what is in the function based on the definition. ,
+362,2022-04-05 18:18:44.034,mmsantacruz@ucsd.edu,,,,,,,,,,,"I learned how to write my own function. I also learned new vocabulary like paramotors, name of function, and return values, which will help me in the future understand and describe my work.","The commas putting the integers in print() message was most confusing part of todays lecture. I understood that you can't concatenate a string and a integer, so why are do the commas allow that? Does the comma make the integer become a string?"
+363,2022-04-05 18:23:48.562,pbodenshot@ucsd.edu,New values of x and y are: x = 3.0  and y = 1.0,"Parameters, Return value",6.0,3.0,"min, max, abs, len, pow, round",1) area_of_circle: radius 2)float 3)Def is a way to alert python that you are defying your own function. Return is like the output of the function,,,,,,
+364,2022-04-05 18:34:38.040,asahai@ucsd.edu,New values of x and y are: x = 3.0  and y = 1.0,"Parameters, Return value",6.0,3.0,"max(), min(), abs(), len(), pow()","1)  area_of_circle:radius
+Name of the function: area_of_circle
+parameters: radius 
+2) float
+3) def is the keyword used to define a function, return is the keyword used to give back to the user the output value of the performed function. If there is no return statement, there will be no output when the function is called. ","def replicate(str1, int1):
+       return str1*int1","“Hola”, “Vanakkam”, “Hello”","“Hola” gets printed, then an Error occurs","“Hello Rohan”, “Hello Keerthana”","This class, I learnt about built in functions, their utilities, and how we can define our own functions to do tasks. ",The most confusing was control flow and how to call a function. 
+365,2022-04-05 18:46:53.735,echarneski@ucsd.edu,,,,,,,,,,,"i learned the meanings of the def and return commands, specifically how to create my own function and run it. i also learned how to call the ruction that i made.","to be honest i still have some trouble with messing up pemdas when it comes to code, but i think i'm getting there since when someone corrects me i understand what i did wrong."
+366,2022-04-05 19:00:04.938,aalonsobaltazar@ucsd.edu,,,,,,,,"“Hola”, “Vanakkam”, “Hello”","“Hola” gets printed, then an Error occurs","“Hello Rohan”, “Hello Shikha”, “Hello Keerthana”",In today's class I learned of many different new built in functions such as pow() and round(). I also have learned what Def and return are. ,Although I have learned what def and return are I believe I may need to put it into more practice since I am still a bit confused. 
+367,2022-04-05 19:06:33.869,hskang@ucsd.edu,New values of x and y are: x = 3.0  and y = 1.0,"Parameters, Return value",6.0,4.0,"print, input, max, min, float, pow, len, round, abs","1. area of circle:radius
+2. float
+3. define tells python that you will define your own function return give back the value of the function with the input
+",,,,,One key idea that I learned today was how to define my own function. Also I learned the names of the different parts of a function in python.,I am still confused about the purpose of return
+368,2022-04-05 19:23:44.017,lmoricz@ucsd.edu,New values of x and y are: x = 3.0  and y = 1.0,"Parameters, Return value",6.0,3.0,We have already used int() and float() and str() to change data types.,"1) Name of the function: area_of_circle
+Parameter(s) = radius
+2) Data type of return value = Float
+3) What is the meaning of def and return? = Def means that the value of area_of_circle is defined as the function name above, what we are trying to do with radius inside the function, and the return is the defining value of area_of_circle given the parameter, radius. Return value is the output value, or the area. ","str1 = input(""Enter a word: "")
+str2 = int(input (""How many times you want to replicate the word?"" ))
+sentence = str1 * str2 
+print(""sentence"")",Error: Functions must be defined at the beginning of a file,"“Hola” gets printed, then an Error occurs","“Hello Rohan”, “Hello Shikha”","I learned how to do built in functions
+","None
+"
+369,2022-04-05 20:11:13.613,mag042@ucsd.edu,New values of x and y are: x = 3.0  and y = 1.0,"Parameters, Return value",6.0,3.0,"Some examples are min(), max(), print(), round(), abs(), and pow().","The name of the function is area of a circle, parameter is the area the return value is a float",,"“Hola”, “Vanakkam”, “Hello”","“Hola”, “Hello”, “Vanakkam”",“Hello Keerthana”,"A key idea that I learned in class is that I learned new functions such as round(), len()","The question that I had was that, What other functions are there?"
+370,2022-04-05 20:23:36.226,zhw011@ucsd.edu,New values of x and y are: x = 3.0  and y = 1.0,"Parameters, Return value",6.0,3.0,"abs, len, max, min, pow, round","1)name: area_of_circle; parameter: radius  2)float  3)def means to define the logic of the function, return means how to give the output","def replicate(x,y): return x*y ","“Hola”, “Vanakkam”, “Hello”","“Hola”, “Hello”, “Vanakkam”","“Hello Rohan”, “Hello Shikha”, “Hello Keerthana”",We need to define a function first then we can call the function and get the output.,I don't know why but I cannot define a function on Edstem.
+371,2022-04-05 20:53:51.122,nachiang@ucsd.edu,,,,,,,,,,,"I learned about the structure of functions and how to set them up. Specifically, defining a function and writing the return action form the base of a function. ",I found the actual run/setup of a function difficult and the order of printing and inputting. 
+372,2022-04-05 21:22:03.995,lnieto@ucsd.edu,,,,,,,,,,,"I learned about defining and returning functions, as well as functions like round(), len(), and pow(). An important takeaway is that a function must first be defined before being called. ","I am unsure about word replication and what gets printed with def, but it is the material we did not get to yet. "
+373,2022-04-05 22:29:04.377,hchavarria@ucsd.edu,,,,,,,,"“Hola”, “Vanakkam”, “Hello”","“Hola”, “Vanakkam”, “Hello”","“Hello Rohan”, “Hello Shikha”",I learned different functions that I didn’t know before. Such as what the pow function does. I also learned that the round function only rounds to the nearest tenth or whole number. ,I am still extremely confused on writing our own function. 
+374,2022-04-05 22:38:18.228,ssreenivasan@ucsd.edu,,,,,,"1. the function is named area_of_circle with the parameter of radius
+2. the return value will be of data type float
+3. def is the definition of the new function, and return is the desired output","def replicate (word, num)
+     return word*num","“Hola”, “Vanakkam”, “Hello”","“Hola” gets printed, then an Error occurs","“Hello Rohan”, “Hello Shikha”, “Hello Keerthana”","Separating data points through commas allows for the combination of any data, no matter the type. However, separating data using the + operator requires all the data to be in string format.","How do you know when you need to include additional code within the body of a defined function, instead of just the return function?"
+375,2022-04-06 00:00:20.427,kcancel@ucsd.edu,,,,,,,,,,,"One key idea I learned in today's class was that while there are built in functions within python including input(), min(), max(), etc we can also define our own function in order to become more efficient programmers. We can use def to let python know we are defining our own function and this makes changing parameters or inputs more efficient in the long run.",What is the difference between return and print?
+376,2022-04-06 01:03:17.180,mcmckelv@ucsd.edu,New values of x and y are: x = 3  and y = -1,"Parameters, Return value",6.0,3.0,"print(), input(), len(), etc","1) area_of_circle, radius
+2)int
+3) def is how the function is stored, return is how you call on what is produced by the function","def replicate (input(""enter a word: "")...","“Hola”, “Vanakkam”, “Hello”","“Hola” gets printed, then an Error occurs","“Hello Rohan”, “Hello Shikha”",the importance of ordering code in python,still no entirely clear on print vs return
+377,2022-04-06 01:32:46.133,akhwaja@ucsd.edu,New values of x and y are: x = 3.0  and y = 1.0,"Parameters, Return value",6.0,3.0,"input(), print(), max(), min(), len(), abs()","1) area_of_circle: radius
+2) Float
+3) def: Making your own function
+return: Output of your function",replicate(input(str() * int())),"“Hola”, “Vanakkam”, “Hello”","“Hola” gets printed, then an Error occurs","“Hello Rohan”, “Hello Keerthana”",I learned that you can write your own functions. It's a little complex.,The main topic of todays lecture was a bit confusing because it was a little complex.
+378,2022-04-06 07:54:44.565,egaver@ucsd.edu,,,,,,,"def replicate(word, num):
+     word = input(“Enter a word: “)
+     num =  int(-input (“ How many times do you want to    replicate the word? “))
+     repword= input * num
+     return repword","“Hola”, “Hello”, “Vanakkam”","“Hola” gets printed, then an Error occurs","“Hello Rohan”, “Hello Keerthana”",you must use print and return function to create you own functions. ,Using the functions you create was confusing at first 
+379,2022-04-06 09:19:06.300,kpbrewster@ucsd.edu,,"Parameters, Return value",6.0,3.0,"Like we just did, min/max/abs are built in functions!","1) Area_of_circle 2)radius 3) float 4) def defines a function so we can call it later and not rewrite it later, return basically runs the program?",,,,,,
+380,2022-04-06 16:12:44.491,jbeller@ucsd.edu,,,,,,,,,,,"One key idea that I learned in class was the importance of understanding control flow. When a variable is redefined in a function, that new value replaces the previous definition. The first question of this form is an example that opened my eyes to this concept.","We didn't cover this question in class but the 'write code' question of this form has confused me, I'm not exactly sure how to approach the problem through the use of def and return."
+381,2022-04-07 06:38:52.650,jestrella@ucsd.edu,,,,,,,"def replicate(str(word), int(num))
+return word * num ","“Hola”, “Vanakkam”, “Hello”","“Hola”, “Hello”, “Vanakkam”","“Hello Rohan”, “Hello Shikha”, “Hello Keerthana”",One key idea I learned today in class is how to write a function. I also learned how to create variables within this function and call the function to run.,What I’m confused about is how you can change variables when calling a function.
+382,2022-04-07 12:50:56.190,asakya@ucsd.edu,New values of x and y are: x = 3.0  and y = 1.0,"Parameters, Return value",6.0,3.0,"print ,max, min, abs, lens, round, pow","1). area_of_circle, radius, 2). float, 3). def = defining, return = print","replicate = ""love"" * 3",Error: Functions must be defined at the beginning of a file,"“Vanakkam” gets printed, then an Error occurs","“Hello Rohan”, “Hello Shikha”, “Hello Keerthana”",I learned how to define functions and how that makes it easier for us to do equations like the area of a circle stuff. I also learned the difference between print and return. ,the return function was a bit confusing at first 
+383,2022-04-07 13:40:18.966,c1chi@ucsd.edu,,,,,,,,,,,I learnt about how to use built-in functions. It’s also important to intent consistently for these built in functions. You also have to input return function at the end or else the function will be none,I’m still kind of confused about how the built in function works in practice 
+384,2022-04-07 14:18:25.564,cal017@ucsd.edu,,,,,,,"def word_replication(word, number):
+    word_replication_formula = word * number
+    return word_replication_formula
+
+print (word_replication(""hope"", 3))",,,,,
+385,2022-04-07 14:20:32.762,mwjones@ucsd.edu,New values of x and y are: x = 3.0  and y = 1.0,"Parameters, Return value",6.0,3.0,"min, max, len, abs, pow, round",1) area_of_circle: radius 2) float 3) def means that it assigned a function to a certain variable and return is the output of the function,"def replicate (word, num):
+--> return word*noun
+","“Hola”, “Hello”, “Vanakkam”","“Hola” gets printed, then an Error occurs","“Hello Rohan”, “Hello Shikha”, “Hello Keerthana”",I learned about how to tab the return function using different methods. I prefer to use the tab key. ,I found the idea of the parameters of a function to be the must confusing thing from today's lecture. 
+386,2022-04-07 14:21:11.238,cal017@ucsd.edu,,,,,,,"def word_replication(word, number):
+    word_replication_formula = word * number
+    return word_replication_formula
+
+in_word = input(""Enter a word: "")
+in_number = int(input(""How many times do you want to replicate the word? ""))
+
+print (word_replication(in_word, in_number))",,,,,
+387,2022-04-07 14:24:09.670,mepan@ucsd.edu,New values of x and y are: x = 3.0  and y = 1.0,"Parameters, Return value",6.0,3.0,"input( ), max( ), min( ), len ( ), round ( ), pow ( ), print( )","1. area_of_circle: radius 2. area 3.def is the define of my own function, the return is the output of the function.","def replicate(word, num):
+->return word * num
+In_word = input(“Enter a word: "")
+In_num = int(input(“How many times do you want to replicate the word? ""))
+Print(replicate (in_word, in_num))",,,,,
+388,2022-04-07 14:25:23.269,jbeller@ucsd.edu,,,,,,,"def replicate (word, num):
+    return word * num
+
+in_word = input ('Enter a word: ')
+in_num = int(input('Enter your number: '))
+
+print (replicate(in_word, in_num))",,,,,
+389,2022-04-07 14:27:31.048,asj001@ucsd.edu,,,,,,,,Error: Functions must be defined at the beginning of a file,"“Hola” gets printed, then an Error occurs",,,
+390,2022-04-07 14:27:33.285,c1chi@ucsd.edu,,,,,,,,Error: Functions must be defined at the beginning of a file,,,,
+391,2022-04-07 14:27:51.142,nlgonzales@ucsd.edu,,,,,,,,"“Hola”, “Vanakkam”, “Hello”","“Hola” gets printed, then an Error occurs","“Hello Rohan”, “Hello Shikha”, “Hello Keerthana”",,
+392,2022-04-07 14:28:10.548,c1chi@ucsd.edu,,,,,,,,,"“Hola” gets printed, then an Error occurs",,,
+393,2022-04-07 14:30:22.698,x4bai@ucsd.edu,New values of x and y are: x = 3.0  and y = 1.0,"Parameters, Return value",6.0,3.0,"max(), min(), round(), type(), print(), input(), int(), float(), str(), pow()","1) area_of_circle 
+2)float
+3)
+def : define a function 
+return : return a value of the function. Here giving the user the value of the area as outputs","def return_words(word, number):
+       return word*number
+word_user = input(""Enter a word: "")
+number_user = int(input(""How many times you want to replicate the word?"")
+return_words(word_user, number_user)","“Hola”, “Vanakkam”, “Hello”","“Hola” gets printed, then an Error occurs","“Hello Rohan”, “Hello Keerthana”","the print function and return function are considered 2 different function in python. If you do not print the result but only print it, the function will not have any visible outcome.",
+394,2022-04-07 14:30:29.274,allugo@ucsd.edu,,,,,,,,"“Hola”, “Vanakkam”, “Hello”","“Hola” gets printed, then an Error occurs",,,
+395,2022-04-07 14:34:07.272,zju@ucsd.edu,,,,,,,,"“Hola”, “Vanakkam”, “Hello”","“Hola”, “Hello”, “Vanakkam”","“Hello Rohan”, “Hello Keerthana”",,
+396,2022-04-07 14:34:47.209,jmlai@ucsd.edu,,,,,,,,,,"“Hello Rohan”, “Hello Keerthana”",,
+397,2022-04-07 14:34:59.481,asraj@ucsd.edu,,,,,,,,"“Hola”, “Vanakkam”, “Hello”","“Hola” gets printed, then an Error occurs",,,
+398,2022-04-07 14:36:22.694,cal017@ucsd.edu,,,,,,,,,,"“Hello Rohan”, “Hello Keerthana”",,
+399,2022-04-07 14:36:25.545,asraj@ucsd.edu,,,,,,,,,,"“Hello Rohan”, “Hello Keerthana”",,
+400,2022-04-07 14:36:48.060,asj001@ucsd.edu,,,,,,,,,,"“Hello Rohan”, “Hello Keerthana”",,
+401,2022-04-07 14:36:52.541,cahuynh@ucsd.edu,,,,,,,"def replicate(word, num):
+    return (word * num)
+
+in_word = input(""Enter a word: "")
+in_num = int(input(""How many times do you want to replicate the word? ""))
+
+print(replicate(in_word,in_num))","“Hola”, “Vanakkam”, “Hello”","“Hola” gets printed, then an Error occurs","“Hello Rohan”, “Hello Keerthana”",,
+402,2022-04-07 14:37:18.571,aalonsobaltazar@ucsd.edu,,,,,,,"def replicate(word, num):
+    return word*num
+
+in_word = input(""Enter a word: "")
+in_num = int(input(""How many times would you want it replicated: ""))
+
+print(replicate(in_word, in_num))
+","“Hola”, “Vanakkam”, “Hello”","“Hola” gets printed, then an Error occurs","“Hello Rohan”, “Hello Keerthana”",,
+403,2022-04-07 14:37:23.206,allugo@ucsd.edu,,,,,,,,,,"“Hello Rohan”, “Hello Keerthana”",,
+404,2022-04-07 14:37:40.084,nachiang@ucsd.edu,,,,,,,,"“Hola”, “Vanakkam”, “Hello”","“Hola” gets printed, then an Error occurs","“Hello Rohan”, “Hello Keerthana”",,
+405,2022-04-07 14:37:41.466,mepan@ucsd.edu,New values of x and y are: x = 3.0  and y = 1.0,"Parameters, Return value",6.0,3.0,"input( ), max( ), min( ), len ( ), round ( ), pow ( ), print( )","1. area_of_circle: radius 2. area 3.def is the define of my own function, the return is the output of the function.","Def replicate(word, num):
+->return word * num
+In_word = input(“Enter a word: “)
+In_num = int(input(“How many times do you want to replicate the word? “))
+Print(replicate (in_word, in_num))","“Hola”, “Vanakkam”, “Hello”","“Hola”, “Vanakkam”, “Hello”","“Hello Rohan”, “Hello Keerthana”",I learned about the difference between print and return.,
+406,2022-04-07 14:38:02.171,jum004@ucsd.edu,,,,,,,,"“Hola”, “Vanakkam”, “Hello”","“Hola” gets printed, then an Error occurs","“Hello Rohan”, “Hello Keerthana”",The difference between print and return.,"Why print() prints out a ""none"" when used with the def"
+407,2022-04-07 14:38:11.643,tdepesa@ucsd.edu,,,,,,,,,,"“Hello Rohan”, “Hello Keerthana”",,
+408,2022-04-07 14:38:19.170,ars004@ucsd.edu,New values of x and y are: x = 3.0  and y = 1.0,"Input variables, Output parameters",6.0,3.0,min()  max()  abs(),"
+1. area_of_circle 
+    radius
+2. Float
+3. def is used to define a function.
+    return is the what is given back by the function","def replicate(strA,intA)
+        return strA*intA","“Hola”, “Vanakkam”, “Hello”","“Hola” gets printed, then an Error occurs","“Hello Rohan”, “Hello Keerthana”",functions,defining a variable
+409,2022-04-07 14:38:19.884,pbodenshot@ucsd.edu,New values of x and y are: x = 3.0  and y = 1.0,"Parameters, Return value",6.0,3.0,,,"def replicate(word, num):
+       return word*num
+
+in_word = input(""Enter a word: "")
+in_word = int(input(""How many times do you want to replicate the word? "")
+
+print(replicate(in_word, in_num))","“Hola”, “Vanakkam”, “Hello”","“Hola” gets printed, then an Error occurs","“Hello Rohan”, “Hello Shikha”, “Hello Keerthana”",That printing and returning is different. It is different because one goes with a function and the other is simple. ,everything
+410,2022-04-07 14:38:28.809,vmei@ucsd.edu,,,,,,,,"“Hola”, “Vanakkam”, “Hello”","“Hola” gets printed, then an Error occurs","“Hello Rohan”, “Hello Keerthana”",The key difference between return and print is that return stores something. Print will just repeat or string together the items inside the parenthesis,"even though there is a print() below the def where a return usually is, why does it still run that line if its indented?"
+411,2022-04-07 14:38:35.349,tscao@ucsd.edu,New values of x and y are: x = 3.0  and y = 1.0,"Parameters, Return value",6.0,3.0,,,,"“Hola”, “Vanakkam”, “Hello”","“Hola” gets printed, then an Error occurs",“Hello Keerthana”,,
+412,2022-04-07 14:43:04.609,zhg006@ucsd.edu,,,,,,,,"“Hola”, “Vanakkam”, “Hello”","“Hola” gets printed, then an Error occurs","“Hello Rohan”, “Hello Keerthana”",Learned how to define a function. Learned the difference between print and return.,No questions for now.
+413,2022-04-07 14:48:57.917,rkakutan@ucsd.edu,New values of x and y are: x = 3.0  and y = 1.0,"Parameters, Return value",6.0,3.0,"max(), min(), abs(), len(), pow(), round()","1) area_of_circle: radius, 2) float 3) def = defines the function for python; return = output of the function ","def replicate(word, num):
+word = str(input(""Enter a word: ""))
+num = int(input(""How many times you want to replicate the word? ""))
+return word * num","“Hola”, “Vanakkam”, “Hello”","“Hola” gets printed, then an Error occurs","“Hello Rohan”, “Hello Keerthana”",I learned how to write my own function by defining a name and writing a body and using return and calling it. ,None
+414,2022-04-07 14:59:39.852,slanaspa@ucsd.edu,New values of x and y are: x = 3.0  and y = 1.0,"Parameters, Return value",6.0,3.0,"max, min, abs, len","function is named area_of_circle
+the data type of the return value is float
+the meaning of def is defining the function and return is what the function will do","def replicate (word, number):
+        return word*number",Error: Functions must be defined at the beginning of a file,"“Hola” gets printed, then an Error occurs","“Hello Rohan”, “Hello Keerthana”",How to make sure a function gives the desired input,I have trouble seeing when the code will result in an error and when it will not 
+415,2022-04-07 15:05:42.632,miz015@ucsd.edu,New values of x and y are: x = 3  and y = -1,"Parameters, Return value",6.0,3.0,str(),"1) name of function: area_of_circle 
+parameter: (radius)
+2) float
+3) def defines the name of function and the parameter, return is the out put of the function",,,,,How to define functions and use 'return'. As well as the use of perimeters . ,No questions about the lecture. 
+416,2022-04-07 15:27:57.592,m2mercado@ucsd.edu,,,,,,,,"“Hola”, “Vanakkam”, “Hello”","“Hola” gets printed, then an Error occurs","“Hello Rohan”, “Hello Keerthana”",how to build a function ,

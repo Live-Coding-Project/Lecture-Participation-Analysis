@@ -1,0 +1,614 @@
+,Timestamp,Email Address,Q1: What will be printed by the above code snippet?,Q2: What will be printed by the code snippet above?,"Q3: The above function tries to find the minimum value in a list of numbers. The function does not work as expected. Write what is the issue with this function and how will you fix it. Also, write one test case that may crash this program.",Q4: Which among the following statements are true about the code snippet above? Choose ALL that apply.,Q5: Write a function that takes in a 2d list of integers and returns a 1d list of just the positive numbers.,Q6: What will happen when we run the code above?,Q7:What will be printed?,Q8: Explain in 2 - 3 sentences the purpose of the function above.,Q9: Fill in the missing code to complete the function that creates and returns a copy an image.,Q10: Write a function that converts a dictionary as shown above.,Q11: What will be printed?
+0,2022-06-02 14:00:05.116,miz015@ucsd.edu,gerald#eng#ucsd#edu',"14, [6, 8, 10]","The min_value will only be returned once, and the for loop will only run once because it is within it. ","The outer for loop runs 2 times, The inner for loop runs 4 times","ans_lst = []
+for nums in my_list: 
+     for each_num in nums: 
+          if each_num > 0 or each_num = 0:
+               ans_lst.append(each_num)
+return and_lst",Error: tuples cannot be modified as they are immutable,2 4 3,"The top and bottom rows of the images will be transformed into pixels with (0, 0, 0)",copy.append(row),"new_dict = {}
+for idx in range(len(colors)): 
+        colors[idx]
+
+Im actually not sure how to do this one. ","['Annie', 'Yeohee']"
+1,2022-06-02 14:36:37.142,kmaramba@ucsd.edu,eng#ucsd#edu,"7, [6, 8, 10]","Since the return statement is part of the for loop's body, the function only iterates through the loop one time before returning the min_value. To fix this issue, I would merely remove the indent before the return statement to allow the for loop to fully iterate through the list. An empty list ran through the function would crash the program.   ","The outer for loop runs 2 times, The print statement will be executed 6 times","def filter_negatives(my_list):
+    pos = []
+    for i in range(len(my_list)):
+        for j in range(len(my_list[i])):
+            if my_list[i][j] >= 0:
+                pos.append(my_list[i][j])
+    return pos","(3, 2, 1) will be printed",2 4 3,"The function is basically iterating through a 2D list comprising an image. It paints the topmost and bottommost pixels of the image black, imitating a sort of horizontal border. ",copy.append(row),"def convert_dict(dic):
+    new_dic = {}
+    for i in dic:
+        new_dic[dic[i]] = i
+    return new_dic","[""Annie"", ""Yeohee""]"
+2,2022-06-02 15:40:36.921,djlakhani@ucsd.edu,eng#ucsd#edu,,,,,,,,,,
+3,2022-06-02 15:41:22.379,djlakhani@ucsd.edu,,"7, [3, 4, 5]",,,,,,,,,
+4,2022-06-02 16:42:30.913,srachapudi@ucsd.edu,eng#ucsd#edu,"7, [3, 4, 5]","the return function is in the for loop, so it will return list[0] every time even if it is not the minimum value. an empty list would create an error and crash the program ","The outer for loop runs 2 times, The print statement will be executed 6 times","def filter_negatives(my_list):
+     pos_nums = [ ] 
+     for lis in my_list:
+          for num in lis:
+               if num >= 0:
+                    pos_num.append(num)
+     return pos_nums","(3, 2, 1) will be printed",2 4 3,its making the top and bottom row of pixels black,copy.append(row),,
+5,2022-06-02 16:50:54.438,ajett@ucsd.edu,eng#ucsd#edu,"7, [6, 8, 10]",The issue is that the return statement is within the for loop body. This causes the first iteration of the for loop to return the current min_value and exit the function (meaning min_value would still be the first index value but not actually be the minimum). This can be fixed by indenting the return statement out of the for loop. This could also be crashed in the test case that there are zero elements in lst.,"The outer for loop runs 2 times, The print statement will be executed 6 times","def filter_negatives(my_list):
+    pos = []
+    for i in range(len(my_list)):
+        for j in range(len(my_list[i])):
+            if my_list[i][j] >= 0:
+                pos.append(my_list[i][j])
+    return pos","(3, 2, 1) will be printed",2 4 3,"The function transforms the given img 2d list to make the first row and the last row all black. It does this by only updating the tuple of the color tuple in row 0 which is the first row and row height of the image minus one which is the last row, while leaving all that is in between the same as the original image.",copy.append(row),"def convert_dict(colors):
+    new_dict = {}
+    for color in colors.keys():
+        new_dict[colors[color]] = color
+    return new_dict","[""Annie"", ""Yeohee""]"
+6,2022-06-02 15:43:02.192,yiw080@ucsd.edu,eng#ucsd#edu,,,,,,,,,,
+7,2022-06-02 15:43:11.945,rmerino@ucsd.edu,eng#ucsd#edu,,,,,,,,,,
+8,2022-06-02 15:43:15.036,yuc096@ucsd.edu,eng#ucsd#edu,,,,,,,,,,
+9,2022-06-02 15:43:21.545,mareece@ucsd.edu,eng#ucsd#edu,"14, [6, 8, 10]",,,,,,,,,
+10,2022-06-02 15:43:23.662,kmochizuki@ucsd.edu,eng#ucsd#edu,,,,,,,,,,
+11,2022-06-02 15:43:36.087,dcui@ucsd.edu,eng#ucsd#edu,,,,,,,,,,
+12,2022-06-02 15:59:53.508,arodrigues@ucsd.edu,eng#ucsd#edu,"7, [3, 4, 5]","The issue with the above code is that the return statement is in the for loop, this means that right away on the first iteration, the return is happening, to fix this issue, the return statement should be move back one indent. If the list that is inputted into the function is empty, it will cause an index out of bounds error.","The outer for loop runs 2 times, The print statement will be executed 6 times","def filter_negatives(my_list):
+    output = []
+    for i in range(len(my_list)):
+        for j in range(len(my_list[i])):
+            if my_list[i][j] >= 0:
+                output.append(my_list[i][j])
+    return output","(3, 2, 1) will be printed",2 4 3,"This mystery function takes the image and changes the pixels on the top most row and the bottom most row to black pixels (0, 0, 0). It does this by iterating through each pixel and if that pixel is on the top most row or bottom most row, it gets changed to (0, 0, 0).",copy.append(row),"def convert_dict(colors):
+    output = {}
+    for color in colors:
+        output[colors[color]] = color
+    return output","['Annie', 'Yeohee']"
+13,2022-06-02 15:44:07.806,liz007@ucsd.edu,geraldeng#ucsd#edu,,,,,,,,,,
+14,2022-06-02 15:44:08.088,yif011@ucsd.edu,#ucsd,,,,,,,,,,
+15,2022-06-02 15:44:10.153,dderasar@ucsd.edu,eng#ucsd#edu,,,,,,,,,,
+16,2022-06-02 15:44:19.003,jtgonzales@ucsd.edu,gerald#eng#ucsd#edu,,,,,,,,,,
+17,2022-06-02 15:44:31.584,swiraja@ucsd.edu,eng#ucsd#edu,,,,,,,,,,
+18,2022-06-02 15:44:31.619,anslyker@ucsd.edu,eng#ucsd#edu,,,,,,,,,,
+19,2022-06-02 15:44:35.625,erko@ucsd.edu,eng#ucsd#edu,,,,,,,,,,
+20,2022-06-02 15:44:37.714,kaalfaro@ucsd.edu,eng#ucsd#edu,"7, [6, 8, 10]",I would make sure the indentation of the last line (return statement) matches the for loop in line 3.,,,,,,,,
+21,2022-06-02 15:44:40.804,tnduong@ucsd.edu,eng#ucsd#edu,,,,,,,,,,
+22,2022-06-02 16:38:14.266,wha@ucsd.edu,eng#ucsd#edu,"7, [6, 8, 10]",The return statement should be allied with the for loop. One test case that may crash this program would be a empty list.,"The outer for loop runs 2 times, The print statement will be executed 6 times","def filter_negatives(my_list):
+    new = []
+    for lst in my_list:
+        for num in lst:
+            if num >= 0:
+                new.append(num)
+    return new","(3, 2, 1) will be printed",2 4 3,This function is changing the top and bottom row of the image color to the color black. The two for loops is telling the system to go over every tuple starting from top to down and left to right. The if statement is telling the system if the row number is 0 or the last row go to the last line which is changing the color to black.,copy.append(row),"def convert_dict(colors):
+    new = {}
+    for x in colors.keys():
+        new[colors[x]] = x
+    return new","[Annie, Yeohee]"
+23,2022-06-02 17:11:11.927,kmontejanoortiz@ucsd.edu,eng#ucsd#edu,"14, [6, 8, 10]",The function only checks lst[0] which is not necessarily the min value. The return line is also too indented. It shoudl also test if the list is empty. ,"The outer for loop runs 2 times, The print statement will be executed 6 times","def filter_negatives(my_list):
+	# write code here
+    new_list = []
+    for i in my_list:
+        for j in i:
+            if j >= 0:
+                new_list.append(j)
+    return new_list","(3, 2, 1) will be printed",2 4 3,,,,"['Annie', 'Yeohee']"
+24,2022-06-02 16:52:08.914,ksleung@ucsd.edu,"""eng#ucsd#edu""","7, [6, 8, 10]",The return is indented and stuck in the for loop. Fixed by removing an indent from the return line. A test case that would cause a crash would be submitting an empty list. ,"The outer for loop runs 2 times, The print statement will be executed 6 times","def filter_negatives(my_list):
+    new_list = []
+    for nums in my_list:
+        if nums >= 0:
+            new_list.append(nums)
+    return new_list","(3, 2, 1) will be printed",2 3 3,This function changes the chosen pixel to all black. So we look over all the pixels in the img and change them to black if they are in the first and last row.,copy.append(row),"def convert_dict(colors):
+    reverse_dict={}
+    for k,v in col_dict.items():
+        reverse_dict[v]=k
+    return reverse_dict","[Annie, Yeohee]"
+25,2022-06-02 15:45:43.800,mareece@ucsd.edu,,,,The outer for loop runs 2 times,,"(3, 2, 1) will be printed",2 4 3,,,,
+26,2022-06-02 16:51:56.162,xw001@ucsd.edu,eng#ucsd#edu,"7, [6, 8, 10]","The above function includes the return statement inside the for loop, resulting in potentially not looping through the entire list. If an item is found to be less than the current min_value, then the item is immediately returned, and the program does not go to the next element. To fix this issue, the return should be outside the for loop, with the same indentation as line 3. Another issue with this function is that it assumes that the input list has at least one element, and with an input of [], an error of index out of bound would occur. To fix this issue, the function should include a separate if statement that takes an input of [] into consideration. For example, saying, if lst = [], return None, else, keep going with the for loop. An empty list [] may crash this program. ","The outer for loop runs 2 times, The print statement will be executed 6 times","def filter_negatives(my_list):
+      lst = []
+      for list in my_list:
+            for num in list:
+                  if num >= 0:
+                        lst.append(num)
+      return lst","(3, 2, 1) will be printed",2 4 3,"With a nested for loop, the above function loops through every pixel in the image and replaces tuples on the first and last row of the image with black tuples. The first row is represented by if r == 0, and the last row is represented by if r == height(img) - 1.",copy.append(row),"def convert_dict(colors):
+      new_dict = {}
+      for k, v in colors.items():
+            new_dict[v] = k 
+      return new_dict","[“Annie”, “Yeohee”]"
+27,2022-06-02 15:50:55.398,erko@ucsd.edu,,"14, [6, 8, 10]",,,,,,,,,
+28,2022-06-02 15:51:25.696,yiw080@ucsd.edu,,"14, [6, 8, 10]",,,,,,,,,
+29,2022-06-02 15:51:59.455,dcui@ucsd.edu,,"7, [6, 8, 10]",,,,,,,,,
+30,2022-06-02 15:52:24.523,tnduong@ucsd.edu,,"7, [6, 8, 10]",,,,,,,,,
+31,2022-06-02 15:52:44.646,yuc096@ucsd.edu,,"7, [6, 8, 10]",,,,,,,,,
+32,2022-06-02 15:52:42.627,kmochizuki@ucsd.edu,,"7, [3, 4, 5]",,,,,,,,,
+33,2022-06-02 15:52:51.987,lduga@ucsd.edu,,"14, [6, 8, 10]",,,,,,,,,
+34,2022-06-02 15:53:09.725,jtgonzales@ucsd.edu,,"14, [6, 8, 10]",,,,,,,,,
+35,2022-06-02 15:53:10.486,swiraja@ucsd.edu,,"14, [6, 8, 10]",,,,,,,,,
+36,2022-06-02 15:53:19.790,dderasar@ucsd.edu,,"7, [6, 8, 10]",,,,,,,,,
+37,2022-06-02 15:53:21.895,liz007@ucsd.edu,,"14, [6, 8, 10]",,,,,,,,,
+38,2022-06-02 15:53:32.626,anslyker@ucsd.edu,end#ucsd#edu,"7, [6, 8, 10]",,,,,,,,,
+39,2022-06-02 15:53:40.807,wetran@ucsd.edu,error,"7, [3, 4, 5]",,,,,,,,,
+40,2022-06-02 15:54:01.489,e1lee@ucsd.edu,gerald#eng#ucsd#edu,,,,,,,,,,
+41,2022-06-02 16:08:00.318,kaalfaro@ucsd.edu,,"7, [6, 8, 10]",I would also change the second line to min_value = [] instead of min_value = lst[0] so that it creates an empty list,,,,,,,,
+42,2022-06-02 15:54:25.046,mareece@ucsd.edu,,"7, [6, 8, 10]",,,,,,,,,
+43,2022-06-02 15:55:09.505,e1lee@ucsd.edu,,"14, [6, 8, 10]",,,,,,,,,
+44,2022-06-02 15:55:29.437,rmerino@ucsd.edu,,"7, [6, 8, 10]",The return statement is inside the for loop which causes the for loop to only loop once through the list. I would fix it by moving the return statement back one tab space. Test case: lst = [].,,,,,,,,
+45,2022-06-02 15:55:39.198,e1lee@ucsd.edu,,"7, [3, 4, 5]",,,,,,,,,
+46,2022-06-02 15:57:34.085,kpompa@ucsd.edu,#g.e.r.a.l.d,"7, [6, 8, 10]",def ,"The outer for loop runs 2 times, The inner for loop runs 4 times, The print statement will be executed 6 times",def ,"(1, 2, 3) will be printed",2 4 3,The function is to change the color to black. ,def,def,Winny
+47,2022-06-02 16:39:04.797,hac018@ucsd.edu,eng#ucsd#edu,"7, [6, 8, 10]","The problem of this code is it will return the min_value after running the for loop. This will always return min_value as lst[0] unless lst is empty. In order to fix this code, we should change the indentation of return min_value outside of the for loop. Moreover, we should not have min_value as lst[0], instead, we should define it as 0. This can also avoid out of bound error. One test case that will crash this program is lst = [], print(find_min(lst))","The outer for loop runs 2 times, The print statement will be executed 6 times","def filter_negatives(my_list):
+    new_list = []
+    for r in range(len(my_list)):
+        for c in range(len(my_list[r])):
+            if my_list[r][c] >= 0:
+                new_list.append(my_list[r][c])
+    return new_list
+","(3, 2, 1) will be printed",2 4 3,The name should be first_last_row_black. This function will set the color of the first row and the last row of the image to black.,copy.append(row),"def convert_dict(colors):
+    new_colors = {}
+    for i in colors:
+        new_colors[colors[i]] = i
+    return new_colors","[""Annie"", ""Yeohee""]"
+48,2022-06-02 16:06:49.629,tnduong@ucsd.edu,,,"It return the min_value in the first loop of the For Loop. The return statement have to move at the end of the For Loop because we need the function return the min_value after running through the whole For Loop, not in the first loop. One test case that may crash this program is the list of numbers that being passed into the function is empty",,,,,,,,
+49,2022-06-02 16:07:12.246,kmochizuki@ucsd.edu,,,"the issue with the code is that's is comparing the indecies to the min value, to fix this I would do if lst[item] < min_value instead",,,,,,,,
+50,2022-06-02 16:07:37.427,dcui@ucsd.edu,,,return value is inside of the for loop so it returns a value before going through all the items in the list. Fix it by pushing the return value back one indentation. A test case to make program crash is an empty list. ,,,,,,,,
+51,2022-06-02 16:07:52.411,djlakhani@ucsd.edu,,,"The issue with the function is the position of the return statement. Since the return statement is inside the for loop it will return the min_value after 1 iteration alone. Return exits the function and the loop will not iterate over the remaining elements of the list. The issue can be fixed by placing the return statement outside the for loop by eliminating one indent before the return.  One test case that might fail the function is [3, 2, 1].",,,,,,,,
+52,2022-06-02 16:07:57.207,lduga@ucsd.edu,,,return inside for loop. Move return outside for loop. ,,,,,,,,
+53,2022-06-02 16:07:57.712,yuc096@ucsd.edu,,,The 'return' is inside the 'for' loop. [ ] will crash this program.,,,,,,,,
+54,2022-06-02 16:52:05.653,nduque@ucsd.edu,eng#ucsd#edu,"7, [6, 8, 10]","Indent of the return statement should match 1st indent after defining the function. If list is empty, error will be returned so the list needs to be checked and to return a corresponding output. ","The outer for loop runs 2 times, The print statement will be executed 6 times",,"(3, 2, 1) will be printed",2 4 3,,append to row and then append row to copy,,
+55,2022-06-02 16:08:18.570,dderasar@ucsd.edu,,,The issue with the function is that the loop is not iterating over the whole list.,,,,,,,,
+56,2022-06-02 16:08:19.636,wetran@ucsd.edu,,,"Return is in for loop. Test Case: [0,1,2, 2, 3, 0]",,,,,,,,
+57,2022-06-02 16:08:58.104,mareece@ucsd.edu,,,The return statement is on the wrong level of indentation. An empty list would crash the program. ,,,,,,,,
+58,2022-06-02 16:08:26.744,e1lee@ucsd.edu,,,The issue with this function is that the return value is inside of the for loop and therefore no matter the list the first value (lst[0]) will be returned. I would fix this by changing the indentation of the return statement to be on level with the for loop ,,,,,,,,
+59,2022-06-02 16:08:45.630,swiraja@ucsd.edu,,,"This function compares each of the values in the list with the first value. To correct this, initialize min_value as 0. A test case that will crash the program is [5,6,3]",,,,,,,,
+60,2022-06-02 16:09:34.194,anslyker@ucsd.edu,eng#ucsd#edu,"7, [6, 8, 10]",The issue is that the return is in the for loop. An empty list will crash the program. ,,,,,,,,
+61,2022-06-03 15:01:16.813,yif011@ucsd.edu,eng#ucsd#edu,"7, [6, 8, 10]","change the unindent of the return function, since we should return the value after all the numbers are being evaluate; we should check whether the list is empty before checking the numbers, if the list is an empty list, it should return ""None"" or empty list ","The outer for loop runs 2 times, The print statement will be executed 6 times",,"(3, 2, 1) will be printed",2 4 3,,,,
+62,2022-06-02 16:11:27.534,djlakhani@ucsd.edu,,,,"The outer for loop runs 2 times, The print statement will be executed 6 times",,,,,,,
+63,2022-06-02 16:12:04.305,erko@ucsd.edu,,,The issue with this function is that the return is in the for loop. The return should be outside this for loop to fix this issue. ,,,,,,,,
+64,2022-06-02 16:17:39.143,aballardo@ucsd.edu,eng#ucsd#edu,"7, [6, 8, 10]","The issue is that this code will stop after one iteration through the for loop, causing it to return the first item in the list. I'll fix it by taking the return statement out of the for loop. test case: lst = []","The outer for loop runs 2 times, The print statement will be executed 6 times","def filter_negatives(my_list):
+    a = []
+    for r in my_list:
+        for c in r:
+            if c >= 0:
+                a.append(c)
+    return a","(3, 2, 1) will be printed",2 4 3,"This function takes a 2d list of tuples as the argument for img. This code then iterates through every tuple within the image. If those tuples happen to be in the first or last list(row) of the 2d list, then the code replaces those tuples with (0,0,0) (black).",copy.append(row),"def convert_dict(colors):
+    a = {}
+    for b in colors:
+        a[colors[b]] = b
+    return a","['Annie','Yeohee']"
+65,2022-06-02 16:18:06.133,lduga@ucsd.edu,,,,"The outer for loop runs 2 times, The print statement will be executed 6 times","result = []
+count = 0
+for i in range(len(my_list)):
+    for j in my_list[i]:
+          a = j/abs(j)
+          if a>0:
+                result[count]=j
+                count +=1
+return result","(3, 2, 1) will be printed",2 4 3,,,,
+66,2022-06-02 16:18:35.676,yiw080@ucsd.edu,,,,"The outer for loop runs 2 times, The print statement will be executed 6 times",,,,,,,
+67,2022-06-02 16:18:44.830,kmochizuki@ucsd.edu,,,,"The outer for loop runs 2 times, The print statement will be executed 6 times",,,,,,,
+68,2022-06-02 16:18:48.416,mareece@ucsd.edu,,,,"The outer for loop runs 2 times, The inner for loop runs 4 times",,,,,,,
+69,2022-06-02 16:18:50.996,tnduong@ucsd.edu,,,,"The outer for loop runs 2 times, The inner for loop runs 4 times, The print statement will be executed 6 times",,,,,,,
+70,2022-06-02 16:19:13.944,kaalfaro@ucsd.edu,,,,"The outer for loop runs 2 times, The print statement will be executed 6 times",,,,,,,
+71,2022-06-02 16:19:18.268,dcui@ucsd.edu,,,,"The outer for loop runs 2 times, The print statement will be executed 6 times",,,,,,,
+72,2022-06-02 16:19:30.424,liz007@ucsd.edu,,,,"The outer for loop runs 2 times, The program will crash since we cannot multiple a string by an integer",,,,,,,
+73,2022-06-02 16:19:36.662,dderasar@ucsd.edu,,,,"The outer for loop runs 2 times, The print statement will be executed 6 times",,,,,,,
+74,2022-06-02 16:19:37.913,e1lee@ucsd.edu,,,,"The outer for loop runs 2 times, The print statement will be executed 6 times",,,,,,,
+75,2022-06-02 16:33:52.345,yuc096@ucsd.edu,,,,"The outer for loop runs 2 times, The print statement will be executed 6 times","m = []
+for x in my_list:
+    for y in x:
+        if y >= 0:
+            m.append(y)
+return m","(3, 2, 1) will be printed",2 3 3,make the top and bottom row of the image white,copy.qppend(row),"m = {}
+for i in colors:
+    m.update({colors[i]:i})
+return m","[""Annie"", ""Yeohee""]"
+76,2022-06-02 16:19:42.111,wetran@ucsd.edu,,,,The outer for loop runs 2 times,,,,,,,
+77,2022-06-02 16:19:42.560,rmerino@ucsd.edu,,,,"The inner for loop runs 4 times, The print statement will be executed 6 times",,,,,,,
+78,2022-06-02 16:19:50.544,anslyker@ucsd.edu,eng#ucsd#edu,"7, [6, 8, 10]","The return statement is not in line with the for loop, so we need to unindent it. A test case that will crash the program is an empty list, since there would be no minimum value, so we must include a condition that tests if the lst is empty.","The outer for loop runs 2 times, The print statement will be executed 6 times",,,,,,,
+79,2022-06-02 16:19:56.535,swiraja@ucsd.edu,,,,"The outer for loop runs 2 times, The print statement will be executed 6 times",,,,,,,
+80,2022-06-02 16:19:58.983,erko@ucsd.edu,,,,"The outer for loop runs 2 times, The print statement will be executed 6 times",,,,,,,
+81,2022-06-02 16:21:46.085,mareece@ucsd.edu,,,,"The outer for loop runs 2 times, The print statement will be executed 6 times",,,,,,,
+82,2022-06-02 16:24:54.837,yiw080@ucsd.edu,,,,,,"(3, 2, 1) will be printed",,,,,
+83,2022-06-02 16:35:03.775,djlakhani@ucsd.edu,,,,,"def filter_negatives(my_list):
+    lst = []
+    for x in my_list:
+        for y in x:
+            if y >= 0:
+                lst.append(y)
+    return lst
+","(3, 2, 1) will be printed",2 4 3,,,,
+84,2022-06-02 16:26:08.564,dcui@ucsd.edu,,,,,"def filter_negatives(my_list):
+    list = []
+    for row in range(len(my_list)):
+         for col in range(len(my_list[row]):
+            if my_list[row][col] > 0:
+                  list.append(my_list[row][col])
+    return list",,,,,,
+85,2022-06-02 16:26:27.065,tnduong@ucsd.edu,,,,,"def filter_negatives(my_list):
+       result = []
+       for x in range(len(my_list)):
+             for y in my_list[x]:
+                   if y >= 0:
+                      result.append(y)
+       return result",,,,,,
+86,2022-06-02 16:26:27.691,e1lee@ucsd.edu,,,,,"list = []
+for i in my_list:
+    for j in i:
+        if my_list[i][j] > 0:
+            list.append(my_list[i][j])
+return list",,,,,,
+87,2022-06-02 16:27:29.235,liz007@ucsd.edu,,,,,"def filter_negatives(my_list):
+    new_list = []
+    for i in my_list:
+        for w in i:
+            if w >= 0:
+                new_list += [w]
+    return  new_list",,,,,,
+88,2022-06-02 16:26:41.361,wetran@ucsd.edu,,,,,"list = []
+for x in my_list:
+     for nums in x:
+          if nums >= 0:
+              list.append(x)
+
+return list",,,,,,
+89,2022-06-02 16:26:57.192,dderasar@ucsd.edu,,,,,"def list_change(lst):
+    for",,,,,,
+90,2022-06-02 16:27:08.820,kmochizuki@ucsd.edu,,,,,"def filter_negatives(my_list):
+    pos = []
+    for i in my_list:
+        for j in i:
+            if j >= 0:
+                pos.append(j)
+    return pos
+",,,,,,
+91,2022-06-02 16:27:17.235,yiw080@ucsd.edu,,,,,,,2 4 3,,,,
+92,2022-06-02 16:27:57.669,rmerino@ucsd.edu,,,,,"for row in range(len(my_list)):
+        for column in range(len(my_list[row])):
+            if my_list[row][column] >= 0:
+                positive_list.append(my_list[row][column])
+ return positive_list",,,,,,
+93,2022-06-02 16:28:17.944,swiraja@ucsd.edu,,,,,"def filter_negatives(my_list):
+    filtered = []
+    for outer_list in my_list:
+        for pixel in outer_list:
+            if pixel > 0 or pixel == 0:
+                filtered.append(pixel)
+    return filtered",,,,,,
+94,2022-06-02 16:28:40.624,anslyker@ucsd.edu,eng#ucsd#edu,"7, [6, 8, 10]","The return statement is not in line with the for loop, so we need to unindent it. A test case that will crash the program is an empty list, since there would be no minimum value, so we must include a condition that tests if the lst is empty.","The outer for loop runs 2 times, The print statement will be executed 6 times","def filter_negatives(my_list):
+       new_list = []
+       for list in my_list:
+            for num in list:
+                if num >= 0:
+        new_list.append(num)
+
+return new_list",,,,,,
+95,2022-06-02 16:28:42.202,mareece@ucsd.edu,,,,,"def filter_negatives(my_list):
+      lst=[]
+      for r in my_list:
+              for c in r:
+              if c >= 0
+              lst.append(r)
+      return lst
+
+              ",,,,,,
+96,2022-06-02 16:30:38.921,erko@ucsd.edu,,,,,"def filter_negatives(my_list):
+     lst = []
+     for row in range(len(my_list)):
+          for col in range(len(my_list[row])):
+               if my_list[row][col] >= 0:
+                    list.append(my_list[row][col])
+     return lst",,,,,,
+97,2022-06-02 16:30:39.967,kmochizuki@ucsd.edu,,,,,,Error: tuples cannot be modified as they are immutable,,,,,
+98,2022-06-02 16:30:47.499,mareece@ucsd.edu,,,,,,"(3, 2, 1) will be printed",,,,,
+99,2022-06-02 16:30:48.828,kaalfaro@ucsd.edu,,,,,"def filter_negatives(list_of_numbers)
+    lst = []
+     for row in range(len(list_of_numbers)):
+          for col in range(len(list_of_numbers[row])):
+                if list_of_numbers[row][col] >= 0:
+                    list.append(list_of_numbers[row][col])
+     return lst
+",Error: tuples cannot be modified as they are immutable,,,,,
+100,2022-06-02 16:30:51.518,liz007@ucsd.edu,,,,,,"(1, 2, 3) will be printed",,,,,
+101,2022-06-02 16:30:58.884,dderasar@ucsd.edu,,,,,,Error: tuples cannot be modified as they are immutable,,,,,
+102,2022-06-02 16:31:02.669,erko@ucsd.edu,,,,,,Error: tuples cannot be modified as they are immutable,,,,,
+103,2022-06-02 16:31:06.810,swiraja@ucsd.edu,,,,,,"(3, 2, 1) will be printed",,,,,
+104,2022-06-02 16:31:08.271,dcui@ucsd.edu,,,,,,"(3, 2, 1) will be printed",,,,,
+105,2022-06-02 16:31:10.369,wetran@ucsd.edu,,,,,,"(3, 2, 1) will be printed",,,,,
+106,2022-06-02 16:31:18.740,rmerino@ucsd.edu,,,,,,"(3, 2, 1) will be printed",,,,,
+107,2022-06-02 16:31:19.333,e1lee@ucsd.edu,,,,,,"(3, 2, 1) will be printed",,,,,
+108,2022-06-02 16:31:19.928,kmochizuki@ucsd.edu,,,,,,,2 4 3,,,,
+109,2022-06-02 16:31:22.853,tnduong@ucsd.edu,,,,,,"(3, 2, 1) will be printed",,,,,
+110,2022-06-02 16:31:35.619,anslyker@ucsd.edu,eng#ucsd#edu,"7, [6, 8, 10]","The return statement is not in line with the for loop, so we need to unindent it. A test case that will crash the program is an empty list, since there would be no minimum value, so we must include a condition that tests if the lst is empty.","The outer for loop runs 2 times, The print statement will be executed 6 times","def filter_negatives(my_list):
+       new_list = []
+       for row in range(len(my_list)):
+            for col in range(len(my_list[row])):
+                if my_list[row][col] > 0:
+        new_list.append(my_list[row][col])
+
+return new_list
+","(3, 2, 1) will be printed",,,,,
+111,2022-06-02 16:32:29.585,orusso@ucsd.edu,Eng#ucsd#edu,"7, [6, 8, 10]",,"The outer for loop runs 2 times, The print statement will be executed 6 times, The program will crash since we cannot multiple a string by an integer",,Error: tuples cannot be modified as they are immutable,2 4 3,,,,
+112,2022-06-02 16:35:08.638,yiw080@ucsd.edu,,,,,,,2 4 3,,,,
+113,2022-06-02 16:35:11.598,e1lee@ucsd.edu,,,,,,,2 4 3,,,,
+114,2022-06-02 16:35:13.317,dderasar@ucsd.edu,,,,,,,2 4 3,,,,
+115,2022-06-02 16:35:14.627,dcui@ucsd.edu,,,,,,,2 4 3,,,,
+116,2022-06-02 16:35:23.916,wetran@ucsd.edu,,,,,,,2 4 3,,,,
+117,2022-06-02 16:35:24.436,liz007@ucsd.edu,,,,,,,2 4 3,,,,
+118,2022-06-02 16:35:26.939,swiraja@ucsd.edu,,,,,,,2 4 3,,,,
+119,2022-06-02 16:35:27.671,mareece@ucsd.edu,,,,,,,2 4 3,,,,
+120,2022-06-02 16:35:31.951,kaalfaro@ucsd.edu,,,,,,,2 3 4,,,,
+121,2022-06-02 16:35:48.908,rmerino@ucsd.edu,,,,,,,2 4 3,,,,
+122,2022-06-02 16:36:00.661,anslyker@ucsd.edu,eng#ucsd#edu,"7, [6, 8, 10]","The return statement is not in line with the for loop, so we need to unindent it. A test case that will crash the program is an empty list, since there would be no minimum value, so we must include a condition that tests if the lst is empty.","The outer for loop runs 2 times, The print statement will be executed 6 times","def filter_negatives(my_list):
+       new_list = []
+       for row in range(len(my_list)):
+            for col in range(len(my_list[row])):
+                if my_list[row][col] > 0:
+        new_list.append(my_list[row][col])
+
+return new_list
+","(3, 2, 1) will be printed",2 4 3,,,,
+123,2022-06-02 16:36:34.415,tnduong@ucsd.edu,,,,,,,2 3 3,,,,
+124,2022-06-02 16:36:52.864,erko@ucsd.edu,,,,,,,2 4 3,,,,
+125,2022-06-02 16:37:02.454,e1lee@ucsd.edu,,,,,,,,"This makes the top and bottom row of the image black. This is because it is setting the pixel to (0,0,0) when the r is at the first row or last row.",,,
+126,2022-06-02 16:37:16.576,erko@ucsd.edu,,,,,,,2 4 3,,,,
+127,2022-06-02 16:37:39.003,lduga@ucsd.edu,,,,,,,,The function turns the borders of the image to black,copy.append(row),"result ={}
+for key in colors.key():
+     result[colors[key]] = key
+return result","[""Annie"", ""Yoehee""]"
+128,2022-06-02 16:39:48.738,ktl001@ucsd.edu,eng#ucsd,"14, [3, 4, 5]",,The inner for loop runs 4 times,,"(3, 2, 1) will be printed",2 3 3,The function print out pixals that are black,copy.append(row),,"Annie, Yeohee"
+129,2022-06-02 16:41:05.886,erko@ucsd.edu,,,,,,,,The purpose of the function above is to blacken out the pixels in the first and last row of the image.,,,
+130,2022-06-02 16:41:19.640,e1lee@ucsd.edu,,,,,,,,,copy.append(row),,
+131,2022-06-02 16:41:20.587,anslyker@ucsd.edu,eng#ucsd#edu,"7, [6, 8, 10]","The return statement is not in line with the for loop, so we need to unindent it. A test case that will crash the program is an empty list, since there would be no minimum value, so we must include a condition that tests if the lst is empty.","The outer for loop runs 2 times, The print statement will be executed 6 times","
+def filter_negatives(my_list):
+       new_list = []
+       for row in range(len(my_list)):
+            for col in range(len(my_list[row])):
+                if my_list[row][col] > 0:
+        new_list.append(my_list[row][col])
+
+return new_list
+","(3, 2, 1) will be printed",2 4 3,"Its purpose is to assign black color to pixels in the first or last rows. It is asking to iterate over the pixels in the img, and blackening the pixels that satisfy the if condition.",,,
+132,2022-06-02 16:41:21.950,rmerino@ucsd.edu,,,,,,,,The purpose of the function above is to turn the pixels of the first and last row of the image to black.,,,
+133,2022-06-02 16:41:23.652,kaalfaro@ucsd.edu,,,,,,,,The function above is iterating through all the rows in an image and changing the first and last pixel to the color black,,,
+134,2022-06-02 16:41:28.684,liz007@ucsd.edu,,,,,,,,Makes the first and last row black,,,
+135,2022-06-02 16:41:48.798,djlakhani@ucsd.edu,,,,,,,,,copy.append(row),,
+136,2022-06-02 16:41:51.155,rmerino@ucsd.edu,,,,,,,,,copy.append(row),,
+137,2022-06-02 16:43:13.993,e1lee@ucsd.edu,,,,,,,,,,"new_dict = {}
+for i in colors:
+    new_dict[colors[i]] = i
+return new_dict",
+138,2022-06-02 16:43:58.674,tnduong@ucsd.edu,,,,,,,,"the purpose of the function is turn the first row and the last row of the images into all black pixels. It turn the images first row and last row into black pixels by set its value as (0,0,0).",,,
+139,2022-06-02 16:44:26.846,tnduong@ucsd.edu,,,,,,,,,copy.append(row),,
+140,2022-06-02 16:44:28.010,kmochizuki@ucsd.edu,,,,,,,,Making the first and last row of the image to have the pixels be black,copy.append(row),,
+141,2022-06-02 16:44:57.357,erko@ucsd.edu,,,,,,,,,copy.append(row),,
+142,2022-06-02 16:45:00.338,anslyker@ucsd.edu,eng#ucsd#edu,"7, [6, 8, 10]","The return statement is not in line with the for loop, so we need to unindent it. A test case that will crash the program is an empty list, since there would be no minimum value, so we must include a condition that tests if the lst is empty.","The outer for loop runs 2 times, The print statement will be executed 6 times","def filter_negatives(my_list):
+       new_list = []
+       for row in range(len(my_list)):
+            for col in range(len(my_list[row])):
+                if my_list[row][col] > 0:
+        new_list.append(my_list[row][col])
+
+return new_list
+","(3, 2, 1) will be printed",2 4 3,"Its purpose is to assign black color to pixels in the first or last rows. It is asking to iterate over the pixels in the img, and blackening the pixels that satisfy the if condition.",copy.append(row),,
+143,2022-06-02 16:45:03.242,r7zhou@ucsd.edu,,"14, [6, 8, 10]",,The program will crash since we cannot multiple a string by an integer,,,,,,,
+144,2022-06-02 16:45:08.169,kaalfaro@ucsd.edu,,,,,,,,,copy.append(row),,
+145,2022-06-02 16:45:21.306,swiraja@ucsd.edu,,,,,,,,,def copy_image(img):     copy = []     for r in range(height(img)):         row = []         for c in range(width(img)):             row.append(img[r][c])         copy.append(row)     return copy,,
+146,2022-06-02 16:45:30.983,mareece@ucsd.edu,,,,,,,,,copy.append(row),,
+147,2022-06-02 16:45:31.454,e1lee@ucsd.edu,,,,,,,,,,,"[""Annie"", ""Yeohee""]"
+148,2022-06-02 16:45:56.739,r7zhou@ucsd.edu,,,,,,,4 2 3,,,,
+149,2022-06-02 16:46:46.199,wjh001@ucsd.edu,gerald@eng.ucsd.edu will be printed,"7, [6, 8, 10]","the dunction above doesnt work because its condition is not qualified. If we want it to work, we have to set a different qualification for the  condition. ","The print statement will be executed 6 times, The program will crash since we cannot multiple a string by an integer","def filter_negatives(my_list):
+	lst = []
+
+
+
+Sample run:
+>>> filter_negatives([[-3, 2, 0], [4, -5, 7]])
+[2, 0, 4, 7]","(2, 1, 0) will be printed",2 4 3,this function is here to tell us the height and the width that matches in the dictionary given. This makes us know how big is the object real quick.,else: return [ ],"def convert_dict(colors):
+	# write code here
+
+Sample run:
+>>> convert_dict({""red"":(255, 0, 0), ""blue"":(0, 255, 0), ""green"": (0, 0, 255)})
+{(255, 0, 0): 'red', (0, 255, 0): 'blue', (0, 0, 255): 'green'}","Annie, 1 will be printed"
+150,2022-06-02 16:47:23.585,sil049@ucsd.edu,eng#ucsd#edu,"7, [6, 8, 10]","The indentation of the return line is wrong. It should have the same indentation as the for loop line. One test case would be lst = [3, 2, 1, 0]","The outer for loop runs 2 times, The print statement will be executed 6 times","def filter_negatives(my_list):
+    lst = []
+    for r in range(len(my_list)):
+        for c in range(len(my_list[r])):
+            if my_list[r][c] >= 0:
+                lst.append(my_list[r][c])
+    return lst","(3, 2, 1) will be printed",2 4 3,"r == 0 or r == height(img)-1 refer to the first and the last row of an image. Under these conditions, img[r][c] = (0, 0, 0) means in these two rows the image will be black. Therefore, this function is to modify the first and the last rows to black. ",copy.append(row),,"['Annie', 'Yeohee']"
+151,2022-06-02 16:47:27.215,hbzhang@ucsd.edu,eng#ucsd#edu,"14, [6, 8, 10]",The return statement is in the for loop,The program will crash since we cannot multiple a string by an integer,"Def filter_negative(my_list):
+  A = []
+For r in range(len(my_list):
+  For col in range(len(my_list)[row])):
+If my_list[r][col] > 0:
+A.append(my_list[r][col])
+Return list
+","(2, 1, 0) will be printed",4 2 3,Location oF the image ,Idk,Idk,Idk
+152,2022-06-02 16:48:19.924,rdauble@ucsd.edu,“eng#ucsd#edu”,"7, [6, 8, 10]","The problem is that the return statement is within the for loop, so only the loop will break after the first iteration and the first value will be returned. To fix this just move the return statement one indent back so that it’s within the function but outside of the for loop. One test case that will crash this program is using an empty list as an argument. Ex: print(find_min([])).","The outer for loop runs 2 times, The print statement will be executed 6 times","result = []
+for r in range(len(my_list)):
+      for c in range(len(my_list[0])):
+            if my_list[r][c] >= 0: 
+                  result.append(my_list[r][c])
+return result",Error: tuples cannot be modified as they are immutable,2 4 3,This function will iterate through each row and column of an image. It will make the pixels in the first and last rows black.,copy.append(row),"dict2 = {}
+for k, v in colors.items():
+      dict2[v] = k
+return dict2","[“Annie”, “Yeohee”]"
+153,2022-06-02 16:49:14.764,maliissa@ucsd.edu,"Error, join method does not accommodate lists; domain is equal to eng.ucsd.edu. parts is a list that looks like this: ['eng', 'ucsd', 'edu',] but we are trying to join a list even though the join method does not accomodate lists.","7, [6, 8, 10]",the return statement should be placed outside the for loop so that the loop iterates over every element inside the list.,"The outer for loop runs 2 times, The print statement will be executed 6 times","def filter_negative(my_list):
+        new_list = []
+        for number in my_list:
+              if number > 0:
+                    new_list += [number]
+        return new_list","(3, 2, 1) will be printed",2 4 3,transforms the zereoth row and the last row in the image to black pixels,copy.append(row),"def convert_dict(colors):
+       dictionary = {}
+       for key in colors:
+             dictionary[colors[key] ] = key
+       return dictionary","['Annie', 'Yeonhee']"
+154,2022-06-02 16:49:26.410,tnduong@ucsd.edu,,,,,,,,,,"def convert_dict(colors):
+      result = {}
+      for x in colors:
+            result[colors[x]] = x
+      return result",
+155,2022-06-02 16:49:28.017,mareece@ucsd.edu,,,,,,,,,,"def convert_dict(colors):
+        reverse_dict = {}
+        for k,v in col.dict.items():
+                reverse_dict[v] = k
+        return reverse_dict",
+156,2022-06-02 16:49:28.447,erko@ucsd.edu,,,,,,,,,,"def convert_dict(colors):
+      reverse_dict = {}
+      for k,v in col_dict.items():
+            reverse_dict[v] = k
+      return reverse_dict",
+157,2022-06-02 16:49:39.764,zuzermeno@ucsd.edu,eng#ucsd#edu,"7, [6, 8, 10]",The return is in the for loop; return non; check to see if the list is empty; return empty [],"The outer for loop runs 2 times, The print statement will be executed 6 times","def filter_negatives(my_list):
+	a = []
+       for r in my_list:
+        if j == 0:
+         
+","(3, 2, 1) will be printed",2 4 3,,,,"['Annie', 'Yeohee']"
+158,2022-06-02 16:49:52.387,kaalfaro@ucsd.edu,,,,,,,,,,"def convert_dict(col_dict):
+    reverse_dict = {}
+    for k,v in col_dict.items():
+        reverse_dict[v] = k
+
+    return reverse_dict
+print(convert_dict({""red"":(255, 0, 0), ""blue"":(0, 255, 0), ""green"": (0, 0, 255)}))
+",
+159,2022-06-02 16:50:18.758,mmn004@ucsd.edu,eng#ucsd#edu,"7, [6, 8, 10]",The return line is in the for loop. I would fix it having the return statement outside the for loop. An empty list or really big list may crash the program.,The outer for loop runs 2 times,"def filter_negatives(my_list):
+    lst = []
+    for i in range(len(my_list)):
+        for j in my_list[i]:
+            if j >= 0:
+                lst.append(j)
+    return lst","(3, 2, 1) will be printed",2 4 3,"It darkens an image within the edges, creating a black border surrounding an image.",copy.append(row),"def convert_dict(colors):
+    d = {}
+    for i in colors:
+        d[colors[i]] = i
+    return d","['Annie', 'Yeohee']"
+160,2022-06-02 16:50:29.802,kmochizuki@ucsd.edu,,,,,,,,,,,Yeohee
+161,2022-06-02 16:50:49.760,tnduong@ucsd.edu,,,,,,,,,,,"[""Annie"", ""Yeohee""]"
+162,2022-06-02 16:51:03.260,kaalfaro@ucsd.edu,,,,,,,,,,,"['Annie', 'Yeohee']"
+163,2022-06-02 16:51:33.324,anslyker@ucsd.edu,eng#ucsd#edu,"7, [6, 8, 10]","The return statement is not in line with the for loop, so we need to unindent it. A test case that will crash the program is an empty list, since there would be no minimum value, so we must include a condition that tests if the lst is empty","The outer for loop runs 2 times, The print statement will be executed 6 times","def filter_negatives(my_list):
+       new_list = []
+       for row in range(len(my_list)):
+            for col in range(len(my_list[row])):
+                if my_list[row][col] > 0:
+        new_list.append(my_list[row][col])
+
+return new_list
+","(3, 2, 1) will be printed",2 4 3,"Its purpose is to assign black color to pixels in the first or last rows. It is asking to iterate over the pixels in the img, and blackening the pixels that satisfy the if condition.",copy.append(row),"def convert_dict(col_dict):
+      reverse_dict = {}
+      for k, v in col_dict.items():
+             reverse_dict[v] = k
+      return reverse_dict","['Annie', 'Yeohee']"
+164,2022-06-02 16:51:59.972,mareece@ucsd.edu,,,,,,,,,,,"[""Annie"",""Yeohee""]"
+165,2022-06-02 16:52:24.771,jmchiu@ucsd.edu,eng#ucsd#edu,"7, [6, 8, 10]","The return statement is indented in the wrong place. What I mean is that if the ""if"" condition is false, then the program will return the local variable ""min_value"" and will not continue the ""for"" loop. To fix this issue, the return statement must be outside the ""for"" loop so the program can keep on looping through the ""for"" loop until it either finds the min value or not before returning the value. A test case that may crash this program is [].","The outer for loop runs 2 times, The print statement will be executed 6 times","def filter_negatives(my_list):
+    lst = []
+    if my_list == []:
+        return []
+    for i in range(len(my_list)):
+        for j in range(len(my_list[i])):
+            if my_list[i][j] >= 0:
+                lst.append(my_list[i][j])
+    return lst","(3, 2, 1) will be printed",2 4 3,"The function takes the first and last row of the image and convert their pixels to black. This is done by checking if r, the index of the height of the image, is either equal to zero or the highest integer it will go up to.",copy.append(row),"def convert_dict(colors):
+    reverse_dict = {}
+    for keys in colors:
+        reverse_dict[colors[keys]] = keys
+    return reverse_dict","['Annie', 'Yeohee']"
+166,2022-06-02 16:52:42.101,jpenaloz@ucsd.edu,#eng ,"14, [6, 8, 10]",the return needs to be moved back one indent. one test case that may crash it is if the item == min_value,"The outer for loop runs 2 times, The inner for loop runs 4 times, The print statement will be executed 6 times",i don’t know ,"(3, 2, 1) will be printed",2 3 3,The purpose of this function is to crop the image. ,i don’t know ,i don’t know ,"[name: “Annie”, “Yeohee” ]"
+167,2022-06-02 16:56:00.194,sevtimova@ucsd.edu,gerald@engucsdedu,"14, [3, 4, 5]",One issue is the use of the single = instead of ==. I would print each line incrementally to understand what is going on. ,"The inner for loop runs 4 times, The print statement will be executed 6 times",filter_negatives[::-1],"(3, 2, 1) will be printed",2 3 4,The purpose of the mystery function is to go over non-negative numbers. This is because the integer must be passed as the variable. ,return 'None',"tuple(convert_dict({""red"":(255, 0, 0), ""blue"":(0, 255, 0), ""green"": (0, 0, 255)})
+{(255, 0, 0): 'red', (0, 255, 0): 'blue', (0, 0, 255): 'green'})","['Annie', 'Yeohee']"
+168,2022-06-02 16:57:15.612,sevtimova@ucsd.edu,geraldengucsdedu,"14, [3, 4, 5]",The issue is that the == is not present.,"The print statement will be executed 6 times, The program will crash since we cannot multiple a string by an integer",mystery,"(2, 1, 0) will be printed",,The mystery funiton takes non negative integers.,"return ""none""",tuple(),annie and yeon
+169,2022-06-02 16:59:03.596,kel015@ucsd.edu,eng#ucsd#edu,"14, [6, 8, 10]","""if item < min_value"" does not make sense, because item is an iteration of the list, not the individual integers of the list. ",The outer for loop runs 2 times,"positive_list=[]
+for numbers in my_list:
+if numbers > 0:
+positive_list.append(numbers)
+return positive_list",Error: tuples cannot be modified as they are immutable,2 4 3,The mystery functions turns row 0 black.,copy.append(row),,
+170,2022-06-02 16:59:52.617,sevtimova@ucsd.edu,geraldengucsdedu,"14, [6, 8, 10]",This is because there are no ==. When they’re should be.,"The outer for loop runs 2 times, The inner for loop runs 4 times",Mystery funciton,"(3, 2, 1) will be printed",2 4 3,The mystery function takes non negative non integers. They are immutable. ,Return none ,Tuple,Annie and yeon .
+171,2022-06-02 17:03:37.497,mhle@ucsd.edu,eng#ucsd#edu,"7, [6, 8, 10]",The issue with this function is that the return is inside the for loop. To fix it we can put it outside of the for loop. ,"The outer for loop runs 2 times, The print statement will be executed 6 times","new =[]
+for row in range(len(my_list)):
+    for col in range","(3, 2, 1) will be printed",2 4 3,This function changes certain pixels black. It changes the pixels black that is in the first row or last row. ,copy.append(row),"new = {}
+for color in colors:
+      new[colors[color]] = color
+return new","[""Annie"",""Yeohee""]"
+172,2022-06-02 17:05:43.426,key010@ucsd.edu,gerald@end.ucsd.edu,"14, [3, 4, 5]",The issue in this function is that the return is nested within the for loop and to fix it I will take away 2 indents.,"The outer for loop runs 2 times, The print statement will be executed 6 times","def filter_negatives(my_list):
+     for x in my_list:
+          filter_negatives([[-3, 2, 0], [4, -5, 7]])
+     return my_list","(1, 2, 3) will be printed",2 4 3,The purpose of the function above is that it takes in a image and if the width is zero or if the height is -1  then the program will turn the pixels into black. ,def copy_image(img):     copy = []     for r in range(height(img)):         row = []         for c in range(width(img)):             row.append(img[r][c])   copy.append(row) return copy,"def convert_dict(colors):
+convert_dict({""red"":(255, 0, 0), ""blue"":(0, 255, 0), ""green"": (0, 0, 255)})
+{(255, 0, 0): 'red', (0, 255, 0): 'blue', (0, 0, 255): 'green'}
+return convert_dict","{0:{""name"": ""Annie"", ""year"":1},         1:{""name"": ""Winny"", ""year"":2},         2:{""name"": ""Yeohee"", ""year"":1},         3:{""name"": ""Joseph"", ""year"":2}}"
+173,2022-06-02 17:08:14.191,spaull@ucsd.edu,eng#ucsd#edu,"14, [6, 8, 10]",The issue with this function is that the return is in the for loop. Instead return should be on the same indentation of the for loop. One test case that may crash this program is [ ]. ,"The outer for loop runs 2 times, The print statement will be executed 6 times","lst = [ ] 
+for i in my_list:
+       for x in i:
+             if x>0:
+                 lst.append(x)
+return lst","(3, 2, 1) will be printed",4 2 3,"The purpose of the function above is to make a white filter. Basically if r == 0 or r == height(img)-1 then that tuple will be replaced by (0,0,0)",copy.append(row),"dic = {}
+for i in colors:
+      lst = i.split(:)
+      x = {lst[1]: lst[0]}
+      dic.update(x)
+return dic","[""Annie"", Yoehee""]"
+174,2022-06-02 17:14:28.461,ecoulson@ucsd.edu,eng#ucsd#edu,"7, [6, 8, 10]",the issue is the if return statement is outside the for loop. ,"The outer for loop runs 2 times, The print statement will be executed 6 times",,"(3, 2, 1) will be printed",2 4 3,this function is transforming the image ,copy.append row ,"def convert_dict(colors):
+     return new_dict","""Annie"", ""Yeohee"""
+175,2022-06-02 17:18:49.299,mlinaresortega@ucsd.edu,eng#ucsd#edu,"7, [6, 8, 10]",,"The outer for loop runs 2 times, The print statement will be executed 6 times",,"(3, 2, 1) will be printed",2 4 3,,copy.append(row),,"['Annie', 'Yeohee']"
+176,2022-06-02 17:26:20.035,d4sanchez@ucsd.edu,gerald#eng#ucsd#edu,"7, [3, 4, 5]",Move return outside of for loop.  lst = [] failed test case.,"The outer for loop runs 2 times, The print statement will be executed 6 times","new_lst = []
+for i in my_list
+   for j in my_list[i]
+        if j > 0:
+            new_list += j
+return new_list",Error: tuples cannot be modified as they are immutable,2 4 3,It’s a black filter.  It’s simply changing all of the top and bottom pixels of the image to black.,copy.append(row),Unsure,"[“Annie”, “Yeohee”]"
+177,2022-06-02 17:26:30.798,h3cai@ucsd.edu,eng#ucsd#edu,"7, [6, 8, 10]",im not sure,"The outer for loop runs 2 times, The print statement will be executed 6 times",,"(3, 2, 1) will be printed",2 4 3,"We would run through each number in the row and column. And if row equals to 0 or row is the last number of the image, then the image will be black",im not sure,im not sure,"['Annie', 'Yeohee']"
+178,2022-06-02 17:34:17.215,myk001@ucsd.edu,,"14, [6, 8, 10]",,"The inner for loop runs 4 times, The print statement will be executed 6 times",,"(3, 2, 1) will be printed",2 4 3,,,,
+179,2022-06-02 17:34:46.274,orusso@ucsd.edu,,,,,,,,,copy.append(row),"For key in colors:
+      Del(colors[key])
+      Colors[key] = value
+      Colors[value] = key
+       Return colors","[“Annie”, “Yeohee”]"
+180,2022-06-02 17:44:31.227,h1yoon@ucsd.edu,eng#ucsd#edu,"7, [6, 8, 10]",have to change return statement as same indent of for loop,The outer for loop runs 2 times,,"(3, 2, 1) will be printed",2 3 4,"the purpose of the function is that change first and last row to withe(0,0,0)",copy.append(row),,"['Annie', 'Yeohee']"
+181,2022-06-02 17:49:26.108,yic070@ucsd.edu,,"7, [6, 8, 10]",,"The inner for loop runs 4 times, The program will crash since we cannot multiple a string by an integer",,,2 3 3,,,,
+182,2022-06-02 18:12:34.713,ahrogers@ucsd.edu,eng#ucsd#edu   ,"7, [6, 8, 10]",The line that says return min_value is in the for loop. It should return the for loop instead. ,"The outer for loop runs 2 times, The print statement will be executed 6 times","def filter_negatives(my_list):
+      if len(my_list) == 0:
+            return ""list is empty""
+      else:
+            list = []
+            for row in range(len(my_list)):
+                  for col in range(len(my_list)):
+                        if my_list[row][col] >= 0:
+                              list.append(my_list[row][col])
+            return list","(3, 2, 1) will be printed",2 4 3,It's updating the pixels to be black. This only happens for the first row or last row.,copy.append(row),"def convert_dict(colors_dict):
+	reverse_dict = []
+    for k,v in colors_dict.items():
+        reverse_dict[v]= k
+    return reverse_dict","[""Annie"", ""Yeohee""]"
+183,2022-06-02 18:21:42.221,j6xu@ucsd.edu,,"7, [6, 8, 10]",,"The inner for loop runs 4 times, The print statement will be executed 6 times",,"(3, 2, 1) will be printed",2 3 3,,,,
+184,2022-06-02 18:27:15.652,adhami@ucsd.edu,eng#ucsd#edu,"7, [6, 8, 10]","The function would crash if an empty list was inputted as an argument. Furthermore,  the return statement is inside the for loop, which will cause the function to return the first value of the list.","The outer for loop runs 2 times, The print statement will be executed 6 times","pos = []
+for rows in my_list:
+   for val in rows:
+      if val > 0:
+         pos.append(val)
+return pos",Error: tuples cannot be modified as they are immutable,2 4 3,The pixels of the first row and the last row will become black.,copy.append(row),"def convert_dict(colors):
+  my_d = dict()
+  for keys, values in colors.items():
+    my_d[values] = keys
+  return my_d",Annie Yeohee
+185,2022-06-02 18:37:56.733,ammendoza@ucsd.edu,#gerald #eng #ucsd #edu,"14, [6, 8, 10]",written on notes ,"The inner for loop runs 4 times, The print statement will be executed 6 times",written on external source ,"(3, 2, 1) will be printed",2 3 3,"The purpose of this function is to change the rgb. If the height and width or within index it will return 0, 0, 0",row += 1,wrote out code on external source ,wrote out code on notes
+186,2022-06-02 18:47:11.194,sol020@ucsd.edu,gerald@engucsd.edu,"7, [3, 4, 5]","7, [3, 4, 5]",The print statement will be executed 6 times,filter_negatives,"(3, 2, 1) will be printed",2 3 3,Im confused with this,Copy=[],copy_image,Winny
+187,2022-06-02 18:55:01.235,sol020@ucsd.edu,mailto:gerald@engucsd.edu,"7, [6, 8, 10]",find_min,"The inner for loop runs 4 times, The program will crash since we cannot multiple a string by an integer",filter_negatives,"(3, 2, 1) will be printed",2 3 3,Im confused with this,copy_image,convert_dic,Winny
+188,2022-06-02 18:57:50.023,jwhiteman@ucsd.edu,#join,"14, [6, 8, 10]",,"The inner for loop runs 4 times, The program will crash since we cannot multiple a string by an integer",,"(2, 1, 0) will be printed",2 3 3,,,,
+189,2022-06-02 19:06:39.722,mtn011@ucsd.edu,eng#ucsd#edu,"7, [6, 8, 10]",the return statement needs to return outside of thefor loop,"The outer for loop runs 2 times, The inner for loop runs 4 times","for num in my_list:
+- list1 = []
+- if num >= 0:
+-- list1.append(num)","(3, 2, 1) will be printed",2 4 3,it turns some pixels black ,copy.append(row),i dont know ,"['Annie', 'Yeohee']"
+190,2022-06-02 19:36:08.995,yiw125@ucsd.edu,,"7, [6, 8, 10]",,"The inner for loop runs 4 times, The print statement will be executed 6 times",,,,,,,
+191,2022-06-02 19:49:50.271,rcarmody@ucsd.edu,eng#ucsd#edu,"7, [6, 8, 10]", ,"The outer for loop runs 2 times, The inner for loop runs 4 times", ,"(3, 2, 1) will be printed",2 4 3, , , , 
+192,2022-06-02 21:07:46.837,jix042@ucsd.edu,gerald#eng.ucsd.edu,"7, [6, 8, 10]",Return is inside the forloop,The inner for loop runs 4 times,my_list,"(2, 1, 0) will be printed",2 4 3,To print a image,copy.append row,convert_dict(colors),A list with name and year
+193,2022-06-02 23:05:35.978,qiw027@ucsd.edu,eng#ucsd#edu,"14, [6, 8, 10]","Return should have the same indent as for loop. So, I should move return one indent forward. lst = []","The outer for loop runs 2 times, The print statement will be executed 6 times","lst = []
+for i in my_lst:
+    for j in my_lst[i]:
+        if j > 0:
+            lst.append(j)
+return lst","(3, 2, 1) will be printed",2 4 3,make the upper bound and lower bound of the picture white,copy.append(row),"d = {}
+for key in colors.keys:
+    d[colors[key]] = key
+return d","[Annie, Yeohee]"
+194,2022-06-02 23:18:22.026,kpan@ucsd.edu,eng#ucsd#edu,"7, [6, 8, 10]","Set min_value equal to 0 or a negative number. test case: [10,5,3]","The outer for loop runs 2 times, The print statement will be executed 6 times",,"(3, 2, 1) will be printed",2 4 3,It changes the boarder of the image to white by iterating through the row and the columns.,,,"['Annie', 'Yeohee']"
+195,2022-06-02 23:31:45.114,nbhoot@ucsd.edu,eng#ucsd#edu,"14, [6, 8, 10]","the return statement has to be outside the for loop. lst=[0,0233,2323,424]","The outer for loop runs 2 times, The print statement will be executed 6 times",for(lst):,"(3, 2, 1) will be printed",2 4 3,it replaces the height pixels with empty ones,def ,N?A,Yeohee
+196,2022-06-02 23:41:49.477,rdwong@ucsd.edu,gerald@eng.ucsd.edu,"7, [6, 8, 10]",,"The outer for loop runs 2 times, The inner for loop runs 4 times",,Error: tuples cannot be modified as they are immutable,2 3 3,,,,
+197,2022-06-02 23:42:09.054,rdwong@ucsd.edu,,,,,,,,,,,"winny, year 2"
+198,2022-06-02 23:53:16.448,jccole@ucsd.edu,idk,"14, [3, 4, 5]",test_case(),"The outer for loop runs 2 times, The print statement will be executed 6 times",def function,"(2, 1, 0) will be printed",2 3 4,nested for loops,code,code,code
+199,2022-06-02 23:59:08.502,argonzalez@ucsd.edu,Eng#ucsd#edu,"14, [6, 8, 10]",The minimum may be the first value,"The outer for loop runs 2 times, The print statement will be executed 6 times","For i in my_list:
+      For b in my_list:
+            If my_list[i][b] < 0:
+       List.append(my_list)","(3, 2, 1) will be printed",2 4 3,It will black out the top and bottom rows,Copy.append(row),List.append(colors),It will print  Annie and Yeohee
+200,2022-06-03 01:54:40.644,yic061@ucsd.edu,,"7, [6, 8, 10]",,"The inner for loop runs 4 times, The print statement will be executed 6 times",,Error: tuples cannot be modified as they are immutable,2 3 3,,,,
+201,2022-06-03 20:22:17.597,asawyer@ucsd.edu,gerald#eng#ucsd#edu ,"14, [6, 8, 10]",,,,,,,,,
