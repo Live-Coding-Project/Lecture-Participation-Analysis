@@ -1,2 +1,0 @@
-,Review,Review: Do the mystery function modify its input parameter (img) within the function or does it create a new image? How do you know this from the code? Explain your answer.,1,2,3,4,5,6,7,8,9,10,11,12
-Lecture 16,Rotates the image to the right (clockwise) once,,int,KeyError: The key '53705' is not found in the dictionary,KeyError: The key 'Chennai' is not found in the dictionary,La Jolla,3,Error,A,B,D,tuple,True ,False 

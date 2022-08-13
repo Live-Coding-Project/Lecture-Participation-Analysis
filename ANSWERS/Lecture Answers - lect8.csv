@@ -1,2 +1,0 @@
-,Exercise: References and Objects - How many unique references and objects are there in the code above?,Exercise: Modifying References and Objects - What will be printed?,Exercise: Modifying a List within a Function - What will be printed?,Exercise: Modifying a String within a Function - What will happen when you run the program below?,Exercise: Basic List Methods - What will be printed?,Exercise: Basic String Methods - What will be printed?
-Lecture 8,3 references and 2 objects,A) ,"[0, 0, 0]",The program will print 'Annie',"[10, 20, 40]",4
