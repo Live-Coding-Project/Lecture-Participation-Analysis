@@ -1,0 +1,2 @@
+,Review (A00),Review (B00),CSV,CSV.1,List of dicts,List of dicts.1,List of dicts.2,Dict of dicts,Dict of dicts.1,Dict of dicts.2
+Lecture 18,647,"['A00', 'B00']",6,7,"Error: list indices must be integers, not str",-20,C,B,D,C

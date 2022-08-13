@@ -1,0 +1,2 @@
+,What is the result of the expression below? >>> 7 // 2,What is the result of the expression below?   >>> 5 % 3,What is the result of the expression below?   >>> 3 - 2 ** 4 % 3 * (4 + 1),"What is the data type of the expression below in Python?   >>> ""5 / 2""",Variables,Is there an error in the program below?,Getting Input from the User,Type Conversions,Strings
+Lecture 2,3,2,-2,string,700,"Yes, on the first line",30,"D) 4, 5",CSE 8A is so so so much fun!'
