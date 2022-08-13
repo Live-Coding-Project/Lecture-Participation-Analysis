@@ -1,0 +1,506 @@
+,Timestamp,Email Address,Review 1,Review 2,Booleans #1,Booleans #2,If-Else,Nested Ifs,If-elif-else: Write a function!,If without Else,What is one key idea that you learned in today's class? (2- 3 sentences),What questions do you still have about today's lecture? OR What did you find the most confusing about today's lecture?
+0,2022-04-07 14:35:33.091,vcono@ucsd.edu,A,,,,,,,,,
+1,2022-04-07 14:36:20.194,rkakutan@ucsd.edu,A,,,,,,,,,
+2,2022-04-07 14:37:54.488,elzhao@ucsd.edu,A,,,,,,,,,
+3,2022-04-07 14:38:16.356,mtenglam@ucsd.edu,D,,,,,,,,,
+4,2022-04-07 14:38:32.023,jiz122@ucsd.edu,C,,,,,,,,,
+5,2022-04-07 14:38:37.687,lfreiman@ucsd.edu,A,C,,,,,,,,
+6,2022-04-07 14:38:39.801,zil066@ucsd.edu,D,,,,,,,,,
+7,2022-04-07 14:38:41.974,eekgasit@ucsd.edu,A,C,,,,,,,,
+8,2022-04-07 14:38:51.939,mag042@ucsd.edu,D,C,,,,,,,,
+9,2022-04-07 14:38:56.178,npmorrison@ucsd.edu,A,C,,,,,,,,
+10,2022-04-07 14:39:08.127,ohoke@ucsd.edu,C,,,,,,,,,
+11,2022-04-07 14:39:08.899,v7patel@ucsd.edu,B,C,False,,,,,,,
+12,2022-04-07 14:39:09.810,jul086@ucsd.edu,D,C,,,,,,,,
+13,2022-04-07 14:39:13.920,elzhao@ucsd.edu,,C,,,,,,,,
+14,2022-04-07 14:39:14.857,mmsantacruz@ucsd.edu,D,C,,,,,,,,
+15,2022-04-07 14:39:23.040,jmontanez@ucsd.edu,C,C,,,,,,,,
+16,2022-04-07 14:39:24.431,nhong@ucsd.edu,D,,,,,,,,,
+17,2022-04-07 14:39:24.457,ygonzale@ucsd.edu,C,C,False,,,,,,,
+18,2022-04-07 14:39:27.552,ssreenivasan@ucsd.edu,D,C,,,,,,,,
+19,2022-04-07 14:39:28.542,ejxiong@ucsd.edu,A,C,,,,,,,,
+20,2022-04-07 14:39:32.161,v7patel@ucsd.edu,B,C,,,,,,,,
+21,2022-04-07 14:39:34.230,nachiang@ucsd.edu,A,,,,,,,,,
+22,2022-04-07 14:39:36.660,hchavarria@ucsd.edu,A,C,,,,,,,,
+23,2022-04-07 14:39:37.469,ckeggen@ucsd.edu,D,C,,,,,,,,
+24,2022-04-07 14:39:43.890,wel020@ucsd.edu,A,,,,,,,,,
+25,2022-04-07 14:39:45.931,y1ouyang@ucsd.edu,A,,,,,,,,,
+26,2022-04-07 14:39:47.239,ssaavedracamacho@ucsd.edu,D,,,,,,,,,
+27,2022-04-07 14:39:54.595,redejer@ucsd.edu,D,C,,,,,,,,
+28,2022-04-07 14:39:55.426,cdmiranda@ucsd.edu,D,C,,,,,,,,
+29,2022-04-07 14:40:02.243,c1chi@ucsd.edu,B,C,,,,,,,,
+30,2022-04-07 14:40:10.018,asraj@ucsd.edu,A,C,,,,,,,,
+31,2022-04-07 14:40:14.245,s1sherman@ucsd.edu,D,C,,,,,,,,
+32,2022-04-07 14:40:16.220,jbeller@ucsd.edu,C,C,False,,,,,,,
+33,2022-04-07 14:40:18.125,zsecrest@ucsd.edu,D,C,,,,,,,,
+34,2022-04-07 14:40:36.250,rkakutan@ucsd.edu,A,C,,,,,,,,
+35,2022-04-07 14:40:36.847,s1ha@ucsd.edu,D,C,,,,,,,,
+36,2022-04-07 14:40:41.385,kat009@ucsd.edu,D,C,,,,,,,,
+37,2022-04-07 14:40:45.653,cacasares@ucsd.edu,A,,,,,,,,,
+38,2022-04-07 14:40:47.996,x6xu@ucsd.edu,A,A,,,,,,,,
+39,2022-04-07 14:40:48.762,astamaria@ucsd.edu,A,,,,,,,,,
+40,2022-04-07 14:41:26.948,allugo@ucsd.edu,D,C,,,,,,,,
+41,2022-04-07 14:41:29.155,asj001@ucsd.edu,A,D,,,,,,,,
+42,2022-04-07 14:41:35.576,drcoronel@ucsd.edu,A,D,,,,,,,,
+43,2022-04-07 14:43:09.958,cacasares@ucsd.edu,,C,,,,,,,,
+44,2022-04-07 14:43:50.127,kaqian@ucsd.edu,A,,,,,,,,,
+45,2022-04-07 14:44:21.599,ars004@ucsd.edu,A,C,,,,,,,,
+46,2022-04-07 14:45:52.638,nachiang@ucsd.edu,,C,,,,,,,,
+47,2022-04-07 14:45:59.040,kevillanueva@ucsd.edu,A,C,False,1.0,The program will result in an error,,,,,
+48,2022-04-07 14:49:25.815,aiocampo@ucsd.edu,C,,,,,,,,,
+49,2022-04-07 14:49:48.422,c3tsai@ucsd.edu,A,D,False,1.0,42.0,It’s Rainy! SLOW DOWN!,"def number(n):
+    if n<0:
+        return ""Negative""
+    elif n==0:
+        return ""Zero""
+    else:
+        return ""Positive""
+print(number(-12))","500, 1000","I learned about boolean expressions and else if statements. There are and, or and not expressions. ",
+50,2022-04-07 14:50:26.556,aalonsobaltazar@ucsd.edu,A,C,,,,,,,,
+51,2022-04-07 14:50:49.713,aiocampo@ucsd.edu,,C,,,,,,,,
+52,2022-04-07 14:51:16.699,kat009@ucsd.edu,,,False,1.0,,,,,,
+53,2022-04-07 14:51:31.448,kcancel@ucsd.edu,A,C,,,,,,,,
+54,2022-04-07 14:53:41.567,dashen@ucsd.edu,A,C,False,1.0,42.0,It’s Rainy! SLOW DOWN!," def compare(num):
+        if num == 0:
+            a=Zero
+        elif num > 0:
+              a= Positive
+         elif num <0:
+               a= Negative
+         return a","500, 1000","I learned boolean expression which contains True and False. I also learned if, elif and else function. They can be used with boolean expressions.","I am confused about the last review question of 2.1 on stepik. It shows correct on stepik, but I can't execute it via IDLE."
+55,2022-04-07 14:55:31.590,zil066@ucsd.edu,D,,False,0.0,,,,,,
+56,2022-04-07 14:55:40.007,aiocampo@ucsd.edu,,,,0.0,,,,,,
+57,2022-04-07 14:55:47.951,egaver@ucsd.edu,A,C,False,1.0,,,,,,
+58,2022-04-07 14:55:50.908,v7patel@ucsd.edu,,,False,1.0,,,,,,
+59,2022-04-07 14:56:02.338,ssreenivasan@ucsd.edu,,,True,1.0,,,,,,
+60,2022-04-07 14:56:07.086,m2mercado@ucsd.edu,B,A,False,1.0,,,,,,
+61,2022-04-07 14:56:07.191,elzhao@ucsd.edu,,,False,,,,,,,
+62,2022-04-07 14:56:12.708,jmlai@ucsd.edu,,,False,,,,,,,
+63,2022-04-07 14:56:13.238,allugo@ucsd.edu,,,False,,,,,,,
+64,2022-04-07 14:56:19.748,lfreiman@ucsd.edu,,,False,,,,,,,
+65,2022-04-07 14:56:23.052,ohoke@ucsd.edu,,,False,1.0,,,,,,
+66,2022-04-07 14:56:31.328,ars004@ucsd.edu,A,C,False,1.0,,,,,,
+67,2022-04-07 14:56:32.113,psandeep@ucsd.edu,D,C,False,1.0,42.0,It’s Rainy! SLOW DOWN!,"def return(num)
+if num == 0:
+return ""Zero""
+elif num > 0:
+return ""Positive""
+elif num < 0:
+return ""Negative"" ","500, 1000",if statements and how to fill out the parameters and return them in order to come to a conclusion. Also using booleans partnered with if statements in order to acheive results.,
+68,2022-04-07 14:56:44.479,isereiva@ucsd.edu,C,C,False,0.0,,,,,,
+69,2022-04-07 14:56:46.255,ssaavedracamacho@ucsd.edu,,,True,,,,,,,
+70,2022-04-07 14:56:48.643,nachiang@ucsd.edu,,,False,1.0,,,,,,
+71,2022-04-07 14:56:50.318,x6xu@ucsd.edu,,,False,,,,,,,
+72,2022-04-07 14:56:51.697,y1ouyang@ucsd.edu,A,C,False,1.0,,,,,,
+73,2022-04-07 14:56:53.548,wel020@ucsd.edu,,,False,1.0,,,,,,
+74,2022-04-07 14:56:54.602,cdmiranda@ucsd.edu,,,False,,,,,,,
+75,2022-04-07 14:56:56.573,hal092@ucsd.edu,A,,False,1.0,,,,,,
+76,2022-04-07 14:56:58.319,ckeggen@ucsd.edu,,,True,1.0,,,,,,
+77,2022-04-07 14:57:02.806,lfreiman@ucsd.edu,,,,1.0,,,,,,
+78,2022-04-07 14:57:04.422,ejxiong@ucsd.edu,,,False,0.0,,,,,,
+79,2022-04-07 14:57:04.689,salabdul@ucsd.edu,B,A,False,0.0,,,,,,
+80,2022-04-07 14:57:08.731,jmontanez@ucsd.edu,,,False,1.0,,,,,,
+81,2022-04-07 14:57:08.904,c1chi@ucsd.edu,,,,0.0,-42.0,,,,,
+82,2022-04-07 14:57:10.221,npmorrison@ucsd.edu,,,False,1.0,,,,,,
+83,2022-04-07 14:57:10.832,mag042@ucsd.edu,D,C,False,1.0,,,,,,
+84,2022-04-07 14:57:11.485,nhong@ucsd.edu,,,True,1.0,,,,,,
+85,2022-04-07 14:57:12.920,jiz122@ucsd.edu,C,C,False,1.0,42.0,Thank You!,,"500, 1000",The key ideas I laerned today is the Booleans. I learned the operators and T/F.,
+86,2022-04-07 14:57:17.736,nlgonzales@ucsd.edu,,,False,0.0,,,,,,
+87,2022-04-07 14:57:20.298,asj001@ucsd.edu,,,True,0.0,,,,,,
+88,2022-04-07 14:57:21.616,x6xu@ucsd.edu,,,,1.0,,,,,,
+89,2022-04-07 14:57:23.237,rkakutan@ucsd.edu,A,C,False,,,,,,,
+90,2022-04-07 14:57:27.689,zsecrest@ucsd.edu,,,False,1.0,,,,,,
+91,2022-04-07 14:57:28.612,x4bai@ucsd.edu,A,C,False,,,,,,,
+92,2022-04-07 14:57:33.170,redejer@ucsd.edu,,,,1.0,,,,,,
+93,2022-04-07 14:57:46.525,mmsantacruz@ucsd.edu,,,True,0.0,,,,,,
+94,2022-04-07 14:57:55.800,x4bai@ucsd.edu,A,C,False,1.0,,,,,,
+95,2022-04-07 14:58:02.487,redejer@ucsd.edu,,,False,,,,,,,
+96,2022-04-07 14:58:11.952,jul086@ucsd.edu,,,False,0.0,,,,,,
+97,2022-04-07 14:58:15.666,ssaavedracamacho@ucsd.edu,,,True,1.0,,,,,,
+98,2022-04-07 14:58:15.806,elzhao@ucsd.edu,,,,1.0,,,,,,
+99,2022-04-07 14:58:17.102,s1ha@ucsd.edu,,,False,1.0,,,,,,
+100,2022-04-07 14:58:27.719,rkakutan@ucsd.edu,A,C,False,1.0,,,,,,
+101,2022-04-07 14:58:28.448,c1chi@ucsd.edu,,,False,0.0,,,,,,
+102,2022-04-07 14:59:45.481,allugo@ucsd.edu,,,,0.0,,,,,,
+103,2022-04-07 14:59:48.736,asraj@ucsd.edu,,,False,0.0,,,,,,
+104,2022-04-07 14:59:51.690,qlao@ucsd.edu,D,C,False,0.0,,,,,,
+105,2022-04-07 15:00:06.276,kaqian@ucsd.edu,,,False,1.0,,,,,,
+106,2022-04-07 15:00:11.329,hchavarria@ucsd.edu,,,False,1.0,,,,,,
+107,2022-04-07 15:01:33.879,ygonzale@ucsd.edu,,,False,1.0,,,,,,
+108,2022-04-07 15:02:27.646,drcoronel@ucsd.edu,,,True,0.0,,,,,,
+109,2022-04-07 15:03:21.666,cacasares@ucsd.edu,,,False,1.0,,,,,,
+110,2022-04-07 15:03:56.744,zju@ucsd.edu,A,C,False,1.0,,,,,,
+111,2022-04-07 15:05:22.786,amaves@ucsd.edu,A,C,False,0.0,42.0,It’s Rainy! SLOW DOWN!,"def mystery(n):
+    if n == 0:
+        mystery = ('Zero')
+    if n > 0:
+        mystery = ('Positive')
+    if n < 0:
+        myserty = ('Negative')
+    return mystery
+print(mystery(0))","500, 1000","how to incorporate booleans into my code ot produce different outputs based on my inputs. I also learned how to use terms like not, if, and else when it comes to determining what outputs will be executed.",No questions currently.
+112,2022-04-07 15:06:16.818,aiocampo@ucsd.edu,,,,1.0,,,,,,
+113,2022-04-07 15:06:42.290,rkakutan@ucsd.edu,A,C,False,1.0,42.0,,,,,
+114,2022-04-07 15:07:17.301,aiocampo@ucsd.edu,,,,,42.0,,,,,
+115,2022-04-07 15:07:35.217,mag042@ucsd.edu,D,C,False,1.0,42.0,,,,,
+116,2022-04-07 15:07:38.099,elzhao@ucsd.edu,,,,,42.0,,,,,
+117,2022-04-07 15:07:42.585,jmlai@ucsd.edu,,,,,The program will not print anything,,,,,
+118,2022-04-07 15:07:42.924,x4bai@ucsd.edu,A,C,False,1.0,42.0,,,,,
+119,2022-04-07 15:07:43.640,nhong@ucsd.edu,,,,,,,,,,
+120,2022-04-07 15:07:44.883,cacasares@ucsd.edu,,,,,42.0,,,,,
+121,2022-04-07 15:07:45.214,zil066@ucsd.edu,,,,,42.0,,,,,
+122,2022-04-07 15:07:45.814,npmorrison@ucsd.edu,,,,,42.0,,,,,
+123,2022-04-07 15:07:49.100,c1chi@ucsd.edu,,,,,42.0,,,,,
+124,2022-04-07 15:07:52.368,mmsantacruz@ucsd.edu,,,,,42.0,,,,,
+125,2022-04-07 15:07:52.887,x6xu@ucsd.edu,,,,,42.0,,,,,
+126,2022-04-07 15:07:53.589,asraj@ucsd.edu,,,,,42.0,,,,,
+127,2022-04-07 15:07:54.324,redejer@ucsd.edu,,,,,42.0,,,,,
+128,2022-04-07 15:07:55.789,v7patel@ucsd.edu,,,,,42.0,,,,,
+129,2022-04-07 15:07:57.921,vcono@ucsd.edu,,D,,,,,,,,
+130,2022-04-07 15:07:58.887,nachiang@ucsd.edu,,,,,42.0,,,,,
+131,2022-04-07 15:08:00.931,asj001@ucsd.edu,,,,,42.0,,,,,
+132,2022-04-07 15:08:05.506,zsecrest@ucsd.edu,,,,,42.0,,,,,
+133,2022-04-07 15:08:06.561,cdmiranda@ucsd.edu,,,,,42.0,,,,,
+134,2022-04-07 15:08:07.171,nlgonzales@ucsd.edu,,,,,42.0,,,,,
+135,2022-04-07 15:08:08.990,ejxiong@ucsd.edu,,,,,42.0,,,,,
+136,2022-04-07 15:08:09.077,m2mercado@ucsd.edu,,,,,42.0,,,,,
+137,2022-04-07 15:08:16.379,isereiva@ucsd.edu,,,,,42.0,,,,,
+138,2022-04-07 15:08:18.382,egaver@ucsd.edu,,,,,42.0,,,,,
+139,2022-04-07 15:08:22.350,salabdul@ucsd.edu,,,,,42.0,,,,,
+140,2022-04-07 15:08:26.201,vcono@ucsd.edu,,,,,42.0,,,,,
+141,2022-04-07 15:08:34.684,ars004@ucsd.edu,A,C,False,1.0,42.0,,,,,
+142,2022-04-07 15:08:37.981,y1ouyang@ucsd.edu,A,C,False,1.0,42.0,,,,,
+143,2022-04-07 15:08:47.428,vcono@ucsd.edu,,,False,,,,,,,
+144,2022-04-07 15:08:48.393,s1ha@ucsd.edu,,,,,42.0,,,,,
+145,2022-04-07 15:08:53.431,jbeller@ucsd.edu,,,None,0.0,42.0,,,,,
+146,2022-04-07 15:09:14.824,vcono@ucsd.edu,,,,1.0,,,,,,
+147,2022-04-07 15:09:44.125,x4bai@ucsd.edu,A,C,None,1.0,42.0,It’s Rainy! SLOW DOWN!,,,,
+148,2022-04-07 15:11:35.384,ygonzale@ucsd.edu,,,,,42.0,Drive Safely!,,,,
+149,2022-04-07 15:13:25.585,rkakutan@ucsd.edu,A,C,False,1.0,42.0,It’s Rainy! SLOW DOWN!,,,,
+150,2022-04-07 15:13:51.546,m2mercado@ucsd.edu,,,,,,Drive Safely!,,,,
+151,2022-04-07 15:14:22.616,asraj@ucsd.edu,,,,,,It’s Rainy! SLOW DOWN!,,,,
+152,2022-04-07 15:14:53.964,jmontanez@ucsd.edu,,,,,42.0,It’s Rainy! SLOW DOWN!,,,,
+153,2022-04-07 15:14:59.150,jbeller@ucsd.edu,,,,,,Drive Safely!,,,,
+154,2022-04-07 15:15:04.748,isereiva@ucsd.edu,,,,,,It’s Rainy! SLOW DOWN!,,,,
+155,2022-04-07 15:16:53.332,kat009@ucsd.edu,,,,,42.0,It’s Rainy! SLOW DOWN!,,"500, 1000",,
+156,2022-04-07 15:17:25.618,accalibuso@ucsd.edu,A,C,False,0.0,42.0,It’s Rainy! SLOW DOWN!,"def positive_or_negative(number):
+    if number == 0:
+        return ""Zero""
+    elif number > 0:
+        return ""Positive""
+    else:
+        return ""Negative""
+
+number = float(input(""Type a number: ""))
+print(positive_or_negative(number))","500, 1000","I learned that the not boolean operator inverts the value of a boolean expression. I also learned that the order precedence of boolean operators is not, and, and then or.       ",
+157,2022-04-07 15:18:04.259,jiz122@ucsd.edu,C,C,False,1.0,42.0,Thank You!,"def num_size (num) :
+ if num == 0:
+        num = ""Zero""
+    elif  num > 0 :
+        num =""Positive""
+    else: 
+        num = ""Negative""
+    return num","500, 1000",The key ideas I laerned today is the Booleans. I learned the operators and the way to distinguish T/F.,
+158,2022-04-07 15:18:39.132,krcooper@ucsd.edu,C,,False,0.0,42.0,Drive Safely!,,,,
+159,2022-04-07 15:18:40.037,ruh004@ucsd.edu,C,C,False,1.0,42.0,It’s Rainy! SLOW DOWN!,,"500, 1000",I learned more about what the meaning of the print and the return. ,
+160,2022-04-07 15:18:42.639,yuz178@ucsd.edu,A,C,False,1.0,42.0,It’s Rainy! SLOW DOWN!,,"500, 1000",I've learned the difference between return and print.,I find how the else if statement a bit confusing and if statement without the else.
+161,2022-04-07 15:18:42.816,zju@ucsd.edu,,,False,1.0,42.0,It’s Rainy! SLOW DOWN!,,,,
+162,2022-04-07 15:18:42.939,c6luo@ucsd.edu,B,D,False,1.0,42.0,It’s Rainy! SLOW DOWN!,"def funct(num):
+    if float(num) == 0:
+        return ""Zero""
+    elif float(num) > 0:
+        return ""Positive""
+    else:
+        return ""Negative""","500, 1000",Conditionals are very essential in coding. Conditionals such as If and Elif enable us to create more complex function that changes methods and will be executed when receiving different inputs.,"I have found the boolean statement some what confusing when it include multiple not , and , and or."
+163,2022-04-07 15:18:44.447,lnieto@ucsd.edu,C,,False,0.0,42.0,It’s Rainy! SLOW DOWN!,,,,
+164,2022-04-07 15:18:45.027,tscao@ucsd.edu,A,C,False,1.0,The program will result in an error,It’s Rainy! SLOW DOWN!,,,,
+165,2022-04-07 15:18:46.785,kpbrewster@ucsd.edu,A,C,False,0.0,42.0,,,,,
+166,2022-04-07 15:18:47.211,mcmckelv@ucsd.edu,C,C,False,1.0,42.0,It’s Rainy! SLOW DOWN!,,,One key idea I learned was how I can do either/or and true/false statements when writing a program. It was a bit hard to wrap my head around boolean statements but I can see how it will be very useful!,
+167,2022-04-07 15:18:47.789,vxto@ucsd.edu,A,C,False,1.0,42.0,It’s Rainy! SLOW DOWN!,,"500, 1000",I learned about return. I also learned that there is a difference with return and print.,I'm still a bit confused about print and return but I'm getting the hang of it.
+168,2022-04-07 15:18:48.097,hstringer@ucsd.edu,A,C,False,0.0,42.0,It’s Rainy! SLOW DOWN!,,,"I learned about different kinds of conditional statements (if, else, booleans)",
+169,2022-04-07 15:18:50.220,y1ouyang@ucsd.edu,A,C,False,1.0,42.0,It’s Rainy! SLOW DOWN!,,,Use of if else and elif function ,Why there will be a none when we use print
+170,2022-04-07 15:18:50.691,echarneski@ucsd.edu,C,C,False,1.0,42.0,It’s Rainy! SLOW DOWN!,"def function_msg(float):
+       if float == 0
+             msg = ""zero""
+       elif float > 0
+             msg = ""positive""
+       else float < 0
+             msg = ""negative""
+       return msg",,,
+171,2022-04-07 15:18:51.349,v7patel@ucsd.edu,,,,,,It’s Rainy! SLOW DOWN!,"def check(number):
+   if number == 0:
+      return('Zero')
+   elif number > 0:
+      return('Positive')
+   else:
+      return(""Negative)","500, 1000",One key idea that I learned in class was how to use conditional statments. Conditional statmetns or for multi way answers.,
+172,2022-04-07 15:18:51.431,cahuynh@ucsd.edu,D,C,False,1.0,42.0,It’s Rainy! SLOW DOWN!,"def number(float):
+    if float == 0 :
+        msg = ""Zero""
+    if float > 0 :
+        msg = ""Positive""
+    if float < 0 :
+        msg = ""Negative""
+    return msg
+print (number(float(input())))","500, 1000","A key idea I learned today was that you can put an if statement inside another if, one more thing is that you cannot call your function before it is defined.",No questions. 
+173,2022-04-07 15:18:52.878,anc023@ucsd.edu,A,C,False,0.0,42.0,Thank You!,"Def function(number):
+        If number == 0
+              Msg = “zero”
+        If number < 0
+              Msg = “negative”
+        Else:
+              Msg = “positive”
+Print (int(12))","500, 1000",I learned about the key concept of Boolean operations. I also learned a new operation known as if/else. You do not need an else for if statements.,N/a
+174,2022-04-07 15:18:55.399,kaqian@ucsd.edu,,,,,42.0,,,,,
+175,2022-04-07 15:19:00.529,qiw026@ucsd.edu,A,C,False,0.0,42.0,It’s Rainy! SLOW DOWN!,,Error: Cannot have an if statement within another if statement,If Elif else,No
+176,2022-04-07 15:19:00.965,larcinas@ucsd.edu,A,C,False,1.0,42.0,It’s Rainy! SLOW DOWN!,"def exercise(number):
+    float(input)
+    if number == 0:
+        return ""Zero""
+    else: 
+        if number > 0:
+            return ""Positive""
+        else:
+            if number < 0:
+                return ""Negative""","500, 1000",One key idea is that I learned that if statements can be nested within if statements to add more complexity to a program. They are helpful for different conditions in a program. ,What I found confusing was the elif conditional 
+177,2022-04-07 15:19:02.175,hyek@ucsd.edu,A,C,False,1.0,42.0,It’s Rainy! SLOW DOWN!,,,One key idea that I learned in today's class was that python can make 2 way decisions by utilizing If/Else. This idea can be turned into making multivariable decisions with Else If or into a one way decision with If without else.,I found the concept of the Else If the most confusing about Today's lecture.
+178,2022-04-07 15:19:05.714,sshamm@ucsd.edu,,,False,,42.0,,,,"I learned about booleans and if, else",I found nothing in particular confusing.
+179,2022-04-07 15:19:28.451,ssenanayake@ucsd.edu,D,C,False,0.0,42.0,It’s Rainy! SLOW DOWN!,,,,
+180,2022-04-07 15:20:06.852,nhong@ucsd.edu,,,,,,,,,I learned that there are different Boolean statements that use if and else statements. Boolean statements check is statements are true or false. There is also an order on how statements are checked.,"I'm still confused about what would be returned if that are multiple and, not, or or statements. "
+181,2022-04-07 15:20:41.984,z2lan@ucsd.edu,A,D,False,0.0,,,,,good,no
+182,2022-04-07 15:20:58.910,kagong@ucsd.edu,A,D,False,1.0,42.0,It’s Rainy! SLOW DOWN!,"def mystery(num):
+    if num == 0 :
+        return ""Zero""
+    elif num > 0:
+        return ""Positive""
+    else:
+        return ""Negative""
+
+print(mystery(12))
+print(mystery(-32))
+print(mystery(0))
+
+Answers: Positive, Negative, Zero","500, 1000","Using if, else, elif to define a function",No
+183,2022-04-07 15:22:19.496,zhg006@ucsd.edu,A,C,False,1.0,42.0,It’s Rainy! SLOW DOWN!,,"500, 1000",I learned the if statement. I learned the else statement.,No question for now.
+184,2022-04-07 15:22:52.928,wel020@ucsd.edu,,,,,,,,,The difference in return and print in defin functions and how Boolean question being tested,The most confusing part for me is the operator order for Boolean questions 
+185,2022-04-07 15:31:13.218,s1sherman@ucsd.edu,,,Error,1.0,42.0,,,,,
+186,2022-04-07 15:31:21.582,allugo@ucsd.edu,,,,,42.0,Drive Safely!,,,I learned about if/else statements. I also learned more about how to make my own function.,I'm still a little confused on following the flow of lines.
+187,2022-04-07 15:43:09.912,redejer@ucsd.edu,,,,,,,,,A key thing I learned was the explicit difference between return and print statements. Print is important to show outputs to users while return is important to store data into a computer's memory.,Do if/else statements work elsewhere aside from with boolean statement?
+188,2022-04-07 15:43:20.403,nbhoot@ucsd.edu,A,,False,1.0,42.0,It’s Rainy! SLOW DOWN!,"def func(num):
+      if num==0:
+             return ""zero""
+      elif num>0:
+             return ""Positive""
+      elif num<0:
+             return ""Negative""
+","500, 1000",I learned about nested if loops. I also learned. about conditional statements,
+189,2022-04-07 15:44:23.061,ssenanayake@ucsd.edu,,,,,,,,,"One key idea I learned is the use of If and Else. You are able to define the If function. If that function is true, it will do whatever the ""If"" says and if it is False it will do the ""Else""",I found the return vs print a little bit confusing.
+190,2022-04-07 15:44:28.037,kaqian@ucsd.edu,,,,,,,,,"I learned what boolean statements are and the operators that can be used with them. Boolean statements return true/false, and can be executed with relational or boolean operators.",I am still confused about what the difference is between print and return. 
+191,2022-04-07 15:45:46.531,rkakutan@ucsd.edu,A,C,False,1.0,42.0,It’s Rainy! SLOW DOWN!,"def exercise(num):
+if num == 0:
+msg = ""Zero""
+else:
+if num > 0:
+msg = ""Positive""
+else:
+if num < 0:
+msg = ""Negative""
+return msg
+print(exercise(num))","500, 1000","I learned how if/else statements are used in programming, and how they are useful when different things happen depending on the input value so that the programs are able to execute the correct statement depending on the situation. ",None
+192,2022-04-07 15:46:57.145,jwhiteman@ucsd.edu,A,,,,,,,,,
+193,2022-04-07 15:47:53.050,wkennardy@ucsd.edu,D,,,,,,,,,
+194,2022-04-07 15:48:05.832,vtan@ucsd.edu,A,D,,,,,,,,
+195,2022-04-07 15:48:10.021,jwhiteman@ucsd.edu,A,C,,,,,,,,
+196,2022-04-07 15:49:34.459,wkennardy@ucsd.edu,A,C,,,,,,,,
+197,2022-04-07 15:49:43.151,rdwong@ucsd.edu,A,C,,,,,,,,
+198,2022-04-07 15:49:51.294,jwhiteman@ucsd.edu,A,C,,,,,,,,
+199,2022-04-07 15:49:54.787,cal017@ucsd.edu,A,C,False,1.0,42.0,It’s Rainy! SLOW DOWN!,,,,
+200,2022-04-07 15:54:12.818,cal017@ucsd.edu,,,,,,,"def number_type(number):
+    if number == 0:
+        msg = ""zero""
+    elif number > 0:
+        msg = ""positive""
+    else: 
+        msg = ""negative""
+    return msg","500, 1000",I learned about booleans and how they can be used to get true/false statements in programs. As well as use those booleans with if/else statements to get two-way decisions.,
+201,2022-04-07 16:01:37.014,jwhiteman@ucsd.edu,,,False,,,,,,,
+202,2022-04-07 16:07:23.280,jwhiteman@ucsd.edu,,,False,0.0,,,,,,
+203,2022-04-07 16:08:48.360,vtan@ucsd.edu,,,False,1.0,,,,,,
+204,2022-04-07 16:09:03.970,wkennardy@ucsd.edu,,,False,1.0,,,,,,
+205,2022-04-07 16:11:11.710,argonzalez@ucsd.edu,A,C,False,1.0,42.0,It’s Rainy! SLOW DOWN!,"def number(digit):
+    if digit == 0
+        msg = ""Zero""
+    else:
+        if digit > 0
+            msg = ""Positive""
+        else:
+            msg = ""Negative""
+    return msg
+print (number(0))",Error: Cannot have an if statement within another if statement,About boolean operators and how to use them. We also learned about if and else statements and how they are used.,I was somewhat confused about the nesting of if statements.
+206,2022-04-07 16:11:59.126,rdwong@ucsd.edu,,,False,1.0,,,,,,
+207,2022-04-07 16:15:26.717,jwhiteman@ucsd.edu,,,,,42.0,,,,,
+208,2022-04-07 16:20:56.459,vtan@ucsd.edu,,,,,42.0,It’s Rainy! SLOW DOWN!,,,,
+209,2022-04-07 16:21:00.383,rdwong@ucsd.edu,,,,,42.0,,,,,
+210,2022-04-07 16:21:29.583,wkennardy@ucsd.edu,,,,,42.0,It’s Rainy! SLOW DOWN!,,,,
+211,2022-04-07 16:21:52.942,jwhiteman@ucsd.edu,,,,,42.0,,,,,
+212,2022-04-07 16:22:28.021,jwhiteman@ucsd.edu,,,,,,Drive Safely!,,,,
+213,2022-04-07 16:27:53.202,eekgasit@ucsd.edu,A,C,False,0.0,42.0,It’s Rainy! SLOW DOWN!,"def sign(num):
+    if num > 0:
+        print(""Positive"")
+    elif num < 0:
+        print(""Negative"")
+    else:
+        print(""Zero"")","500, 1000","I learned about the order of operations for booleans. not comes first, followed by and and then or.",Are similarly prioritized boolean operators evaluated from left to right?
+214,2022-04-07 16:33:18.957,hwrhee@ucsd.edu,A,C,False,1.0,42.0,It’s Rainy! SLOW DOWN!,"def num_type (num):
+       if num == 0:
+          msg = ""Zero""
+      elif num > 0:
+          msg = ""Positive""
+     elif num < 0
+          msg = ""Negative""
+      return msg
+print (num_type(12))","500, 1000","Nested if statements allow for more specification of conditional statements, and else statements are the ""catch-all"" for if the prior if and elif statements result as ""False""",I'm still confused on the difference between printing and returning. 
+215,2022-04-07 16:48:48.039,jwhiteman@ucsd.edu,,,,,,,"def compute_string(number):
+    if number ==0:
+      string = Zero
+    elif number >0
+      string=  Postive
+    else:
+      string= Negative
+return string
+ print(compute_string(12))
+print(compute_string(-32))
+print(compute_string(0))","500, 1000",,
+216,2022-04-07 16:49:40.569,rdwong@ucsd.edu,,,,,,Drive Safely!,,,,
+217,2022-04-07 16:50:08.597,jwhiteman@ucsd.edu,,,,,,,,,The key idea that I learn today is ruining multiple things of code. I learned to use things like elif and if and also == and <>.,I didn't find anything confusing today as I feel everything was very clear maybe the only thing is what is the difference between if and else or elif.
+218,2022-04-07 16:50:14.077,jortegon@ucsd.edu,A,C,False,1.0,42.0,Thank You!,"Def sign(number) : 
+   If number == 0 : 
+       Msg = “Your number is zero” 
+    Elif number > 0 : 
+       Msg = “your number is zero” 
+    Else :
+        Msg= “your number is zero” 
+Return msg ","500, 1000","I learned that if and else can be used to expand more on probability cases. As well as, booleans can be used for “and” “or” “not.” ","Found confusing our Nested If problem, not sure if I did the calculation right in my head for the last two false statements. "
+219,2022-04-07 16:50:25.069,rdwong@ucsd.edu,,,,,,,I dont understand this question ,"500, 1000",I learned about booleans and the precedence of operations. I also learned about if else statements. ,im very confused about the elif function. 
+220,2022-04-07 16:50:30.244,mmn004@ucsd.edu,A,C,False,1.0,42.0,It’s Rainy! SLOW DOWN!,"def check_num(num):
+    if num == 0:
+        num_type = ""Your number is zero""
+    elif num > 0:
+        num_type = ""Your number is positive""
+    else:
+        num_type = ""Your number is negative""
+    return num_type
+
+print(check_num(12))
+print(check_num(-32))
+print(check_num(0))",Error: Cannot have an if statement within another if statement,I've learned how to utilize if statements. With if statements I have also learned how to use them along with else and elif statements.,
+221,2022-04-07 16:52:33.015,wkennardy@ucsd.edu,,,,,,,"def check_num(numbers):
+    if numbers == 0:
+        msg= ""ZERO""
+    elif numbers > 0:
+        msg = "" Your number is positive""
+    else:
+        msg =""Your number is negative""
+    return msg
+print(check_num(12))
+print(check_num(-32))
+print(check_num(0))","500, 1000","Returning a function is important in future coding since the lines are getting longer and more complicated. We want to make sure that the codes from the above lines could be used later on, without keep repeating and rewriting the codes.",None
+222,2022-04-07 16:55:39.377,jum004@ucsd.edu,A,C,False,0.0,42.0,It’s Rainy! SLOW DOWN!,,,"I learned about boolean statements, and that they are rooted in ""true or false"" statements. ",
+223,2022-04-07 16:58:17.653,npmorrison@ucsd.edu,A,C,False,1.0,42.0,It’s Rainy! SLOW DOWN!,"def num_sign(float_num):
+       if float_num == 0:
+              return ""Zero""
+       elif float_num > 0:
+              return ""Positive""
+       else:
+               return ""Negative""
+
+num_sign(12)","500, 1000","Today I learned how to construct statements containing if and else, which ask the code to test the boolean value of an expression, and if it is true do one thing, but if it is false do another thing. Nested if statements and elif statements allow you to make more than two conditions.",The most confusing thing today for me was the boolean operators and determining the true or false value of multiple boolean expressions.
+224,2022-04-07 17:07:27.324,vtan@ucsd.edu,,,,,,,"Def num_type(number)
+      If number == 0  
+          Type = “zero” 
+      Elif number >0 
+          Type = “positive” 
+      Else number <0
+          Type = “negative” 
+      Return type 
+Print (num_type(12))
+Print (num_type(-32))
+Print (num_type(0)) ","500, 1000","One key idea that I learned today aside from functions, python also extends to different types of statements. For instance, conditional statements that include Booleans, if/else/elif statements will help the user achieve different things and in more efficient ways. ",
+225,2022-04-07 17:19:15.776,pbodenshot@ucsd.edu,D,C,False,0.0,42.0,Thank You!,,,,
+226,2022-04-07 18:17:32.829,lnieto@ucsd.edu,,,,,,,,,"How if/else statements lead to two different outputs. If you want to compare more than two different options then you can use multiple if/else statements, nested ifs, or elif.",The most confusing part of the lecture was how print and return work in certain circumstances.
+227,2022-04-07 18:17:33.421,vmei@ucsd.edu,A,C,False,1.0,42.0,It’s Rainy! SLOW DOWN!,"num = float(input(""Enter a number: ""))
+if num == 0:
+    r = ""Zero""
+elif num > 0:
+    r = ""Positive""
+elif num < 0:
+    r = ""Negative""
+print(r)","0, 500",I learned that there was an order to the boolean operators as well. I also learned that I can use elif to list multiple decisions.,"Do I always need a return? for when I want to def a function, on the next line, do I need to write return, or will whatever I have there still be evaluated?"
+228,2022-04-07 18:46:20.325,s1ha@ucsd.edu,,,,,,It’s Rainy! SLOW DOWN!,"def number(n):
+    if int(n) == 0:
+         return (""Zero"")
+    elif int(n) > 0:
+        return (""Positive"")
+    else:
+        return (""Negative"")
+        
+print(number(-12))
+print(number(-32))
+print(number(0))","500, 1000",One key idea that I learned in today's class is that booleans consist of True and False. ,
+229,2022-04-07 20:50:06.069,mmsantacruz@ucsd.edu,,,,,,,,,"I learned about Boolean expressions and the operators for it, as well as how the addition of and, or, and not affects the output. I also learned about if/else statements.","I found the and, or, and not part of the Boolean expressions the most confusing. I think I understood the main idea, but I would want to go over more examples."
+230,2022-04-07 21:07:40.347,ssreenivasan@ucsd.edu,,,,,42.0,It’s Rainy! SLOW DOWN!,"num = float(input())
+def sign (num):
+     if num == 0:
+           sign = ""Zero""
+     elif num > 0:
+           sign = ""Positive""
+     elif num < 0:
+           sign = ""Negative""
+     return sign","500, 1000",If statements can be used to create conditions within functions in Python. These can be accompanied by elif and else statements to produce different outputs based on different conditions and whether or not those conditions are satisfied.,"What outputs do ""and"" and ""or"" operators produce with booleans? True or False?"
+231,2022-04-07 21:43:43.162,zil066@ucsd.edu,,,,,,It’s Rainy! SLOW DOWN!,,"500, 1000","How to define if, else if and some similar functions. ",no questions
+232,2022-04-07 21:53:23.462,c2ngo@ucsd.edu,,,,,,,"def excercise(num):
+    if num == 0:
+        value = ""Zero""
+    else:
+        if num >= 0:
+            value = ""Positive""
+            else:
+                if num <= 0:
+                    value ""Negative""
+print (num(12))
+print (num(-32))
+print (num(0))
+",Error: Cannot have an if statement within another if statement,I learned about booleans and the importance of indenting and making sure the values are in the right spacing. I learned this because I ran into many indentation errors.,I don't know if it is me typing my information wrong but the auto-indentation is wrong for me and I have a hard time going back and figuring out where I need to add or take away indentations for my code to compute properly.
+233,2022-04-07 21:56:01.239,hskang@ucsd.edu,A,C,True,1.0,42.0,It’s Rainy! SLOW DOWN!,,,I learned that there are many different ways to write the same code. In the speed limit example there were many different ways to relay the message slow down when a car was driving too fast for the condition,I found the last section about if without else confusing. I don't understand the advantages of using this method.
+234,2022-04-07 21:59:07.665,lmoricz@ucsd.edu,D,C,False,1.0,42.0,It’s Rainy! SLOW DOWN!,"def sign(number)
+     if number = 0:
+          msg = ""Zero""
+     if number < 0:
+          msg = ""Positive""
+     if number > 0:
+          msg = ""Negative""
+","500, 1000",I learned what Booleans are.,MOre practice on nesting if or else statements.
+235,2022-04-07 22:14:08.432,j8cao@ucsd.edu,,,,,,,"def number(x):
+    if x == 0:
+        return ""Zero""
+    if x > 0:
+        return ""Positive""
+    if x < 0:
+        return ""Negative""
+
+print (number(0))","500, 1000",I learned that there needs to be a print statement in order to actually display the return statement from the function. It is also possible to have statements within another statement.,
+236,2022-04-07 23:09:05.945,nachiang@ucsd.edu,,,,,,,,,I learned about the types of boolean expressions and how to use if/else/elifs. I also learned how to control function flow to make the code more efficient and work without errors. ,I found the concept of nested if/else and printing vs returning functions the most confusing. 
+237,2022-04-07 23:57:30.893,jfoo@ucsd.edu,,,,,,,,,I learned that booleans can be used to test cases. This is very important in ensuring that your code is successful. ,I was most confused about the elif statements. 
+238,2022-04-08 00:04:26.594,zhw011@ucsd.edu,A,C,False,0.0,42.0,Drive Safely!,"def x(num): if num=0: msg=""Zero""; elif num>0: msg=""Positive""; else: msg=""Negative"" ; return msg; print(x(num))","500, 1000","The logic of if, else, and elif.",No.
+239,2022-04-08 00:59:43.314,tschalge@ucsd.edu,A,C,False,1.0,42.0,It’s Rainy! SLOW DOWN!,"def positive_negative_func(num):
+    num = float(num) 
+    if num == 0:
+        num = ""Zero""
+    elif num > 0:
+        num = ""Positive""
+    else:
+        num = ""Negative""
+    return num
+
+x= input('Enter a Number: ')
+print(positive_negative_func(x))","500, 1000","I learned what else, elif, and else statements are and how to use them to make functions. I also learned about Booleans operators and how the produce a true or false output.",I am still confused on the order of Boolean operators when there are multiple in an else/if statement.

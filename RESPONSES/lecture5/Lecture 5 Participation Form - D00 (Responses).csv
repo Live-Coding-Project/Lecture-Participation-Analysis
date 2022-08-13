@@ -1,0 +1,311 @@
+,Timestamp,Email Address,Review Exercise,Big idea #1,Big idea #2,Big idea #3,Big idea #4,Big idea #5,What is one key idea that you learned in today's class? (2- 3 sentences),What questions do you still have about today's lecture? OR What did you find the most confusing about today's lecture?
+0,2022-04-12 15:40:32.381,orusso@ucsd.edu,"100, 100, 200",,,,,,,
+1,2022-04-12 15:41:31.257,vtan@ucsd.edu,"0, 100, 200",,,,,,,
+2,2022-04-12 15:41:54.020,ajett@ucsd.edu,"100, 100, 200",,,,,,,
+3,2022-04-12 15:41:58.644,kel015@ucsd.edu,Syntax Error: Else is missing in the if-elif-else statement,,,,,,,
+4,2022-04-12 15:41:58.742,wha@ucsd.edu,"100, 100, 200",,,,,,,
+5,2022-04-12 15:41:59.928,rmerino@ucsd.edu,"100, 100, 200",,,,,,,
+6,2022-04-12 15:42:00.637,jtgonzales@ucsd.edu,Syntax Error: Else is missing in the if-elif-else statement,,,,,,,
+7,2022-04-12 15:42:01.015,ksleung@ucsd.edu,"0, 100, 200",,,,,,,
+8,2022-04-12 15:42:01.342,spaull@ucsd.edu,"100, 100, 200",,,,,,,
+9,2022-04-12 15:42:04.007,mhle@ucsd.edu,"100, 100, 200",,,,,,,
+10,2022-04-12 15:42:08.624,mareece@ucsd.edu,"0, 100, 200",,,,,,,
+11,2022-04-12 15:42:17.258,yic070@ucsd.edu,"100, 100, 200",,,,,,,
+12,2022-04-12 15:42:20.729,liz007@ucsd.edu,"100, 100, 200",,,,,,,
+13,2022-04-12 15:42:31.765,akwolfe@ucsd.edu,Syntax Error: Else is missing in the if-elif-else statement,,,,,,,
+14,2022-04-12 15:42:33.651,anslyker@ucsd.edu,"100, 100, 200",,,,,,,
+15,2022-04-12 15:42:33.684,yuc096@ucsd.edu,"100, 100, 200",,,,,,,
+16,2022-04-12 15:42:39.399,ktl001@ucsd.edu,"100, 100, 200",,,,,,,
+17,2022-04-12 15:42:40.398,chartman@ucsd.edu,"0, 100, 200",,,,,,,
+18,2022-04-12 15:42:40.973,dcui@ucsd.edu,"100, 100, 200",,,,,,,
+19,2022-04-12 15:42:42.729,lduga@ucsd.edu,"0, 100, 200",5.0,IndexError: list index out of range,,,,,
+20,2022-04-12 15:42:43.376,arodrigues@ucsd.edu,"100, 100, 200",,,,,,,
+21,2022-04-12 15:42:43.421,e1lee@ucsd.edu,"100, 100, 200",,,,,,,
+22,2022-04-12 15:42:46.014,xw001@ucsd.edu,Syntax Error: Else is missing in the if-elif-else statement,,,,,,,
+23,2022-04-12 15:42:46.887,yiw080@ucsd.edu,"100, 100, 200",,,,,,,
+24,2022-04-12 15:42:47.215,hchu@ucsd.edu,"0, 100, 200",,,,,,,
+25,2022-04-12 15:42:48.773,kmochizuki@ucsd.edu,"100, 100, 200",,,,,,,
+26,2022-04-12 15:42:49.327,c9williams@ucsd.edu,"0, 100, 200",,,,,,,
+27,2022-04-12 15:42:49.489,kaalfaro@ucsd.edu,"100, 100, 200",,,,,,,
+28,2022-04-12 15:42:50.688,nduque@ucsd.edu,"0, 100, 200",,,,,,,
+29,2022-04-12 15:42:50.848,glepage@ucsd.edu,"0, 100, 200",,,,,,,
+30,2022-04-12 15:42:51.765,erko@ucsd.edu,"100, 100, 200",,,,,,,
+31,2022-04-12 15:42:53.305,kpompa@ucsd.edu,"0, 100, 200",,,,,,,
+32,2022-04-12 15:42:54.408,melai@ucsd.edu,"100, 100, 200",,,,,,,
+33,2022-04-12 15:42:55.091,niho@ucsd.edu,"0, 0, 200",5.0,IndexError: list index out of range,B,"False, True, True, False","[""Doris"", ""Sofia"", ""Isabella"", ""Carl"", ""Esther"", ""Doris""]",how lists work,I'm still curious how to code AI with python
+34,2022-04-12 15:42:56.184,arommid@ucsd.edu,"100, 100, 200",,,,,,,
+35,2022-04-12 15:42:56.451,miz015@ucsd.edu,"0, 100, 200",,,,,,,
+36,2022-04-12 15:42:56.528,voswal@ucsd.edu,Syntax Error: Else is missing in the if-elif-else statement,,,,,,,
+37,2022-04-12 15:42:57.204,weh009@ucsd.edu,"0, 100, 200",,,,,,,
+38,2022-04-12 15:42:59.174,mbannai@ucsd.edu,"100, 100, 200",,,,,,,
+39,2022-04-12 15:42:59.220,swiraja@ucsd.edu,"0, 0, 200",,,,,,,
+40,2022-04-12 15:43:00.187,chuffman@ucsd.edu,"100, 100, 200",,,,,,,
+41,2022-04-12 15:43:01.279,jpenaloz@ucsd.edu,"0, 100, 200",,,,,,,
+42,2022-04-12 15:43:03.670,h9johnson@ucsd.edu,"100, 100, 200",,,,,,,
+43,2022-04-12 15:43:04.802,jiparais@ucsd.edu,"0, 100, 200",,,,,,,
+44,2022-04-12 15:43:11.568,shy020@ucsd.edu,"100, 100, 200",,,,,,,
+45,2022-04-12 15:43:14.653,rsuresh@ucsd.edu,"100, 100, 200",,,,,,,
+46,2022-04-12 15:43:26.281,voswal@ucsd.edu,"100, 100, 200",,,,,,,
+47,2022-04-12 15:43:27.234,kmaramba@ucsd.edu,"100, 100, 200",,,,,,,
+48,2022-04-12 15:43:36.995,srachapudi@ucsd.edu,"100, 100, 200",,,,,,,
+49,2022-04-12 15:43:43.989,rdwong@ucsd.edu,"0, 100, 200",,,,,,,
+50,2022-04-12 15:44:30.269,rdwong@ucsd.edu,"100, 100, 200",,,,,,,
+51,2022-04-12 15:44:36.387,myk001@ucsd.edu,"100, 100, 200",,,,,,,
+52,2022-04-12 15:44:54.446,akwolfe@ucsd.edu,"100, 100, 200",,,,,,,
+53,2022-04-12 15:45:14.236,kpompa@ucsd.edu,"100, 100, 200",,,,,,,
+54,2022-04-12 15:45:18.002,niho@ucsd.edu,"100, 100, 200","[""Angela"", ""Sofia"", ""Isabella"", ""Carl"", ""Esther""]",IndexError: list index out of range,B,"False, True, True, False","[""Doris"", ""Sofia"", ""Isabella"", ""Carl"", ""Esther"", ""Doris""]",how lists work,How do i code AI with python
+55,2022-04-12 15:45:33.725,tnduong@ucsd.edu,"100, 100, 200",,,,,,,
+56,2022-04-12 15:45:50.411,j6xu@ucsd.edu,"100, 100, 200",,,,,,,
+57,2022-04-12 15:47:09.363,xw001@ucsd.edu,"100, 100, 200",,,,,,,
+58,2022-04-12 15:47:15.237,ammendoza@ucsd.edu,"100, 100, 200",,,,,,,
+59,2022-04-12 15:50:48.650,lduga@ucsd.edu,"100, 100, 200",5.0,IndexError: list index out of range,A,"False, False, False, False","[""Doris"", ""Sofia"", ""Isabella"", ""Carl"", ""Esther"", ""Doris""]",if and elif order is VERY important and list and how to concatenate or divide them,
+60,2022-04-12 15:51:01.082,arodrigues@ucsd.edu,,5.0,IndexError: list index out of range,A,"False, False, False, False","[""Doris"", ""Sofia"", ""Isabella"", ""Carl"", ""Esther"", ""Doris""]",Lists are very powerful as they can store a collection of things. They can be sliced and we can look for just one- specific element in that list which is very useful!,I do not have any questions and did not find the lecture confusing.
+61,2022-04-12 15:54:29.030,arommid@ucsd.edu,,5.0,,,,,,
+62,2022-04-12 15:57:41.841,asawyer@ucsd.edu,"100, 100, 200",5.0,,,"False, True, True, False",,,
+63,2022-04-12 16:05:10.152,arodrigues@ucsd.edu,,"TypeError: can only concatenate list (not ""str"") to list",,,,,,
+64,2022-04-12 16:07:30.831,e1lee@ucsd.edu,,"TypeError: can only concatenate list (not ""str"") to list",,,,,,
+65,2022-04-12 16:07:37.261,xw001@ucsd.edu,"100, 100, 200","TypeError: can only concatenate list (not ""str"") to list",,,,,,
+66,2022-04-12 16:07:37.570,kmaramba@ucsd.edu,,"TypeError: can only concatenate list (not ""str"") to list",,,,,,
+67,2022-04-12 16:07:38.563,kmochizuki@ucsd.edu,,"TypeError: can only concatenate list (not ""str"") to list",,,,,,
+68,2022-04-12 16:07:41.840,melai@ucsd.edu,"100, 100, 200","TypeError: can only concatenate list (not ""str"") to list",,,,,,
+69,2022-04-12 16:07:42.140,srachapudi@ucsd.edu,,"TypeError: can only concatenate list (not ""str"") to list",IndexError: list index out of range,,,,,
+70,2022-04-12 16:07:42.782,orusso@ucsd.edu,"100, 100, 200","TypeError: can only concatenate list (not ""str"") to list",11 will be printed,,,,,
+71,2022-04-12 16:07:43.862,asawyer@ucsd.edu,,"TypeError: can only concatenate list (not ""str"") to list",IndexError: list index out of range,,,,"One key idea that I learned in class today was that you can't concatenate lists with strings. You must make them the same datatype in order to ""glue"" them together ",indexing with lists 
+72,2022-04-12 16:07:44.115,tnduong@ucsd.edu,,"TypeError: can only concatenate list (not ""str"") to list",,,,,,
+73,2022-04-12 16:07:44.565,akwolfe@ucsd.edu,,"[""Angela"", ""Sofia"", ""Isabella"", ""Carl"", ""Esther""]",,,,,,
+74,2022-04-12 16:07:44.853,weh009@ucsd.edu,"100, 100, 200","TypeError: can only concatenate list (not ""str"") to list",,,,,,
+75,2022-04-12 16:07:46.080,ajett@ucsd.edu,"100, 100, 200","TypeError: can only concatenate list (not ""str"") to list",,,,,,
+76,2022-04-12 16:07:46.354,wha@ucsd.edu,"100, 100, 200","TypeError: can only concatenate list (not ""str"") to list",IndexError: list index out of range,A,"False, True, True, False","[""Angela"", ""Sofia"", ""Isabella"", ""Carl"", ""Esther"", ""Doris""]",,
+77,2022-04-12 16:07:46.811,ktl001@ucsd.edu,,"TypeError: can only concatenate list (not ""str"") to list",,,,,,
+78,2022-04-12 16:07:47.816,arommid@ucsd.edu,,"[""Esther"", ""Sofia"", ""Isabella"", ""Carl""]",,,,,,
+79,2022-04-12 16:07:48.001,mareece@ucsd.edu,,"TypeError: can only concatenate list (not ""str"") to list",,,,,,
+80,2022-04-12 16:07:48.409,jtgonzales@ucsd.edu,,"TypeError: can only concatenate list (not ""str"") to list",,,,,,
+81,2022-04-12 16:07:49.733,j6xu@ucsd.edu,,"TypeError: can only concatenate list (not ""str"") to list",,,,,,
+82,2022-04-12 16:07:50.503,chartman@ucsd.edu,"100, 100, 200","TypeError: can only concatenate list (not ""str"") to list",,,,,,
+83,2022-04-12 16:07:50.518,h9johnson@ucsd.edu,"100, 100, 200","TypeError: can only concatenate list (not ""str"") to list",,,,,,
+84,2022-04-12 16:07:53.881,jpenaloz@ucsd.edu,,"TypeError: can only concatenate list (not ""str"") to list",,,,,,
+85,2022-04-12 16:07:56.489,erko@ucsd.edu,,"TypeError: can only concatenate list (not ""str"") to list",,,,,,
+86,2022-04-12 16:07:59.626,vtan@ucsd.edu,,"TypeError: can only concatenate list (not ""str"") to list",,,,,,
+87,2022-04-12 16:07:59.848,dcui@ucsd.edu,,"TypeError: can only concatenate list (not ""str"") to list",,,,,,
+88,2022-04-12 16:07:59.895,chuffman@ucsd.edu,,"TypeError: can only concatenate list (not ""str"") to list",,,,,,
+89,2022-04-12 16:08:02.582,voswal@ucsd.edu,,"TypeError: can only concatenate list (not ""str"") to list",,,,,,
+90,2022-04-12 16:08:02.910,swiraja@ucsd.edu,,"TypeError: can only concatenate list (not ""str"") to list",,,,,,
+91,2022-04-12 16:08:05.676,miz015@ucsd.edu,,"TypeError: can only concatenate list (not ""str"") to list",,,,,,
+92,2022-04-12 16:08:06.279,yic070@ucsd.edu,,"TypeError: can only concatenate list (not ""str"") to list",,,,,,
+93,2022-04-12 16:08:06.911,glepage@ucsd.edu,,"TypeError: can only concatenate list (not ""str"") to list",,,,,,
+94,2022-04-12 16:08:07.190,rmerino@ucsd.edu,"100, 100, 200",5.0,,,,,,
+95,2022-04-12 16:08:07.314,c9williams@ucsd.edu,,"TypeError: can only concatenate list (not ""str"") to list",,,,,,
+96,2022-04-12 16:08:12.822,jiparais@ucsd.edu,"100, 100, 200","TypeError: can only concatenate list (not ""str"") to list",,,,,,
+97,2022-04-12 16:08:13.458,ahrogers@ucsd.edu,"100, 100, 200","TypeError: can only concatenate list (not ""str"") to list",,,,,,
+98,2022-04-12 16:08:13.554,rdwong@ucsd.edu,,"TypeError: can only concatenate list (not ""str"") to list",,,,,,
+99,2022-04-12 16:08:14.783,yuc096@ucsd.edu,,"TypeError: can only concatenate list (not ""str"") to list",,,,,,
+100,2022-04-12 16:08:14.907,liz007@ucsd.edu,,"TypeError: can only concatenate list (not ""str"") to list",,,,,,
+101,2022-04-12 16:08:15.821,kaalfaro@ucsd.edu,,5.0,,,,,,
+102,2022-04-12 16:08:16.213,myk001@ucsd.edu,"100, 100, 200",5.0,,,,,,
+103,2022-04-12 16:08:16.336,mhle@ucsd.edu,"100, 100, 200","TypeError: can only concatenate list (not ""str"") to list",,,,,,
+104,2022-04-12 16:08:18.246,sil049@ucsd.edu,"100, 100, 200","TypeError: can only concatenate list (not ""str"") to list",IndexError: list index out of range,,,,,
+105,2022-04-12 16:08:19.459,nduque@ucsd.edu,,"[""Angela"", ""Sofia"", ""Isabella"", ""Carl"", ""Esther""]",,,,,,
+106,2022-04-12 16:08:20.580,hchu@ucsd.edu,,"[""Esther"", ""Sofia"", ""Isabella"", ""Carl""]",,,,,,
+107,2022-04-12 16:08:21.244,anslyker@ucsd.edu,"100, 100, 200","TypeError: can only concatenate list (not ""str"") to list",,,,,,
+108,2022-04-12 16:08:24.637,kpompa@ucsd.edu,,"TypeError: can only concatenate list (not ""str"") to list",,,,,,
+109,2022-04-12 16:08:26.175,spaull@ucsd.edu,"100, 100, 200","TypeError: can only concatenate list (not ""str"") to list",,,,,,
+110,2022-04-12 16:08:26.341,mbannai@ucsd.edu,"100, 100, 200","TypeError: can only concatenate list (not ""str"") to list",,,,,,
+111,2022-04-12 16:08:28.952,erguerrero@ucsd.edu,"100, 100, 200","TypeError: can only concatenate list (not ""str"") to list",,,,,,
+112,2022-04-12 16:08:33.651,rsuresh@ucsd.edu,,"TypeError: can only concatenate list (not ""str"") to list",,,,,,
+113,2022-04-12 16:08:43.042,yiw080@ucsd.edu,,"TypeError: can only concatenate list (not ""str"") to list",,,,,,
+114,2022-04-12 16:08:44.160,key010@ucsd.edu,,"[""Esther"", ""Sofia"", ""Isabella"", ""Carl""]",11 will be printed,B,,,,
+115,2022-04-12 16:09:01.169,ijjones@ucsd.edu,"100, 100, 200","TypeError: can only concatenate list (not ""str"") to list",IndexError: list index out of range,A,"False, False, False, False","[""Doris"", ""Sofia"", ""Isabella"", ""Carl"", ""Esther"", ""Doris""]",python begins counting at 0. I need to make sure that when I want the index of something in a list I have the correct range. ,Still not sure what the colons do.  Are they supposed to split the list in half?
+116,2022-04-12 16:09:26.284,kel015@ucsd.edu,,"TypeError: can only concatenate list (not ""str"") to list",,,,,,
+117,2022-04-12 16:09:30.727,akwolfe@ucsd.edu,,"TypeError: can only concatenate list (not ""str"") to list",,,,,,
+118,2022-04-12 16:12:48.548,e1lee@ucsd.edu,,,IndexError: list index out of range,,,,,
+119,2022-04-12 16:14:39.461,asawyer@ucsd.edu,,,,A,"False, True, True, False","[""Doris"", ""Sofia"", ""Isabella"", ""Carl"", ""Esther"", ""Doris""]",,
+120,2022-04-12 16:19:59.310,sil049@ucsd.edu,"100, 100, 200","TypeError: can only concatenate list (not ""str"") to list",IndexError: list index out of range,C,"False, False, False, False","[""Doris"", ""Sofia"", ""Isabella"", ""Carl"", ""Esther"", ""Doris""]",I learned about a new datatype - list and how to index and slice it. I also learned about how to mutate a list.,No
+121,2022-04-12 16:20:13.072,tnduong@ucsd.edu,,,IndexError: list index out of range,,,,,
+122,2022-04-12 16:20:25.064,jiparais@ucsd.edu,,,7 will be printed,,,,,
+123,2022-04-12 16:20:28.551,yuc096@ucsd.edu,,,IndexError: list index out of range,,,,,
+124,2022-04-12 16:20:28.704,yic070@ucsd.edu,,,IndexError: list index out of range,D,,,,
+125,2022-04-12 16:20:33.623,key010@ucsd.edu,,,11 will be printed,,,,,
+126,2022-04-12 16:20:33.691,yiw080@ucsd.edu,,,IndexError: list index out of range,,,,,
+127,2022-04-12 16:20:34.150,ktl001@ucsd.edu,,,IndexError: list index out of range,,,,,
+128,2022-04-12 16:20:35.491,ajett@ucsd.edu,"100, 100, 200","TypeError: can only concatenate list (not ""str"") to list",IndexError: list index out of range,,,,,
+129,2022-04-12 16:20:36.801,mhle@ucsd.edu,"100, 100, 200","TypeError: can only concatenate list (not ""str"") to list",IndexError: list index out of range,,,,,
+130,2022-04-12 16:20:37.608,spaull@ucsd.edu,"100, 100, 200","TypeError: can only concatenate list (not ""str"") to list",IndexError: list index out of range,,,,,
+131,2022-04-12 16:20:39.578,chartman@ucsd.edu,"100, 100, 200","TypeError: can only concatenate list (not ""str"") to list",IndexError: list index out of range,,,,,
+132,2022-04-12 16:20:39.831,wha@ucsd.edu,"100, 100, 200","TypeError: can only concatenate list (not ""str"") to list",IndexError: list index out of range,,,,,
+133,2022-04-12 16:20:41.919,jpenaloz@ucsd.edu,,,IndexError: list index out of range,,,,,
+134,2022-04-12 16:20:48.957,chuffman@ucsd.edu,,,IndexError: list index out of range,,,,,
+135,2022-04-12 16:20:49.799,c9williams@ucsd.edu,,,2 will be printed,,,,,
+136,2022-04-12 16:20:49.879,dcui@ucsd.edu,,,IndexError: list index out of range,,,,,
+137,2022-04-12 16:20:50.413,kmochizuki@ucsd.edu,,,IndexError: list index out of range,,,,,
+138,2022-04-12 16:20:52.955,akwolfe@ucsd.edu,,,11 will be printed,,,,,
+139,2022-04-12 16:20:55.604,myk001@ucsd.edu,"100, 100, 200","TypeError: can only concatenate list (not ""str"") to list",IndexError: list index out of range,,,,,
+140,2022-04-12 16:20:57.299,j6xu@ucsd.edu,,,IndexError: list index out of range,,,,,
+141,2022-04-12 16:20:57.306,kmaramba@ucsd.edu,,,IndexError: list index out of range,,,,,
+142,2022-04-12 16:21:01.199,erguerrero@ucsd.edu,,,11 will be printed,,,,,
+143,2022-04-12 16:21:04.370,orusso@ucsd.edu,"100, 100, 200","TypeError: can only concatenate list (not ""str"") to list",11 will be printed,,"False, False, True, False",,"One key idea that I learned is how to create lists, for example for grocery shopping or listing out names in the classroom. Building on that, I also learned what the rules are for concatenating list and slicing lists.",
+144,2022-04-12 16:21:04.772,hchu@ucsd.edu,,"TypeError: can only concatenate list (not ""str"") to list",IndexError: list index out of range,,,,,
+145,2022-04-12 16:21:04.780,xw001@ucsd.edu,"100, 100, 200","TypeError: can only concatenate list (not ""str"") to list",IndexError: list index out of range,,,,,
+146,2022-04-12 16:21:05.092,taren@ucsd.edu,"100, 100, 200","TypeError: can only concatenate list (not ""str"") to list",IndexError: list index out of range,,,,,
+147,2022-04-12 16:21:06.563,kpompa@ucsd.edu,,,IndexError: list index out of range,,,,,
+148,2022-04-12 16:21:07.835,liz007@ucsd.edu,,,IndexError: list index out of range,,,,,
+149,2022-04-12 16:21:08.069,arommid@ucsd.edu,,,IndexError: list index out of range,,,,,
+150,2022-04-12 16:21:11.331,nduque@ucsd.edu,"100, 100, 200","TypeError: can only concatenate list (not ""str"") to list",IndexError: list index out of range,,,,,
+151,2022-04-12 16:21:11.717,erko@ucsd.edu,,,IndexError: list index out of range,,,,,
+152,2022-04-12 16:21:12.134,mareece@ucsd.edu,,,IndexError: list index out of range,,,,,
+153,2022-04-12 16:21:12.917,miz015@ucsd.edu,,,IndexError: list index out of range,,,,,
+154,2022-04-12 16:21:15.665,h9johnson@ucsd.edu,"100, 100, 200","TypeError: can only concatenate list (not ""str"") to list",IndexError: list index out of range,,,,,
+155,2022-04-12 16:21:16.758,ahrogers@ucsd.edu,"100, 100, 200","TypeError: can only concatenate list (not ""str"") to list",IndexError: list index out of range,,,,,
+156,2022-04-12 16:21:16.961,vtan@ucsd.edu,,,IndexError: list index out of range,,,,,
+157,2022-04-12 16:21:17.206,kaalfaro@ucsd.edu,,,IndexError: list index out of range,,,,,
+158,2022-04-12 16:21:20.175,voswal@ucsd.edu,,,IndexError: list index out of range,,,,,
+159,2022-04-12 16:21:21.858,melai@ucsd.edu,"100, 100, 200","TypeError: can only concatenate list (not ""str"") to list",IndexError: list index out of range,,,,,
+160,2022-04-12 16:21:21.947,ksleung@ucsd.edu,"100, 100, 200","TypeError: can only concatenate list (not ""str"") to list",11 will be printed,,,,,
+161,2022-04-12 16:21:24.017,rmerino@ucsd.edu,"100, 100, 200","TypeError: can only concatenate list (not ""str"") to list",7 will be printed,,,,,
+162,2022-04-12 16:21:24.957,jtgonzales@ucsd.edu,,,11 will be printed,,,,,
+163,2022-04-12 16:21:25.431,rdwong@ucsd.edu,,,11 will be printed,,,,,
+164,2022-04-12 16:21:28.097,glepage@ucsd.edu,,,IndexError: list index out of range,,,,,
+165,2022-04-12 16:21:31.784,swiraja@ucsd.edu,,,11 will be printed,,,,,
+166,2022-04-12 16:21:31.877,rsuresh@ucsd.edu,,,IndexError: list index out of range,,,,,
+167,2022-04-12 16:21:33.240,anslyker@ucsd.edu,"100, 100, 200","TypeError: can only concatenate list (not ""str"") to list",IndexError: list index out of range,,,,,
+168,2022-04-12 16:21:36.491,mbannai@ucsd.edu,"100, 100, 200","TypeError: can only concatenate list (not ""str"") to list",IndexError: list index out of range,,,,,
+169,2022-04-12 16:22:02.640,orusso@ucsd.edu,"100, 100, 200","TypeError: can only concatenate list (not ""str"") to list",IndexError: list index out of range,,,,"One key idea that I learned is how to create lists, for example for grocery shopping or listing out names in the classroom. Building on that, I also learned what the rules are for concatenating list and slicing lists.",
+170,2022-04-12 16:22:14.526,kel015@ucsd.edu,,,IndexError: list index out of range,,,,,
+171,2022-04-12 16:23:00.038,rdwong@ucsd.edu,,,IndexError: list index out of range,,,,,
+172,2022-04-12 16:24:26.465,akwolfe@ucsd.edu,,,IndexError: list index out of range,,,,,
+173,2022-04-12 16:26:10.368,cbishop@ucsd.edu,"100, 100, 200","TypeError: can only concatenate list (not ""str"") to list",IndexError: list index out of range,C,"False, False, False, False","[""Doris"", ""Sofia"", ""Isabella"", ""Carl"", ""Esther"", ""Doris""]","The uses and ways to manipulate lists in python. Now I can create lists, slice lists, use list indexes and append lists. ","The most confusing part is keeping track of indexes, it is tough when it starts at zero."
+174,2022-04-12 16:26:58.849,ammendoza@ucsd.edu,"100, 100, 200","TypeError: can only concatenate list (not ""str"") to list",IndexError: list index out of range,,,,,
+175,2022-04-12 16:29:57.060,srachapudi@ucsd.edu,,,,D,"False, True, True, False",,,
+176,2022-04-12 16:30:09.151,d4sanchez@ucsd.edu,"100, 100, 200","TypeError: can only concatenate list (not ""str"") to list",IndexError: list index out of range,A,"False, False, False, False","[""Doris"", ""Sofia"", ""Isabella"", ""Carl"", ""Esther"", ""Doris""]",Concatenation.  I was not aware that you cannot amend a list and a string together even if the list contains all strings.,None
+177,2022-04-12 16:30:28.937,djlakhani@ucsd.edu,"100, 100, 200","TypeError: can only concatenate list (not ""str"") to list",IndexError: list index out of range,,,,,
+178,2022-04-12 16:31:39.783,sil049@ucsd.edu,"100, 100, 200","TypeError: can only concatenate list (not ""str"") to list",IndexError: list index out of range,A,"False, False, False, False","[""Doris"", ""Sofia"", ""Isabella"", ""Carl"", ""Esther"", ""Doris""]",I learned a new datatype - list and how to use it. I also learned about the index and how to slice lists based on indice.,No.
+179,2022-04-12 16:32:10.225,djlakhani@ucsd.edu,,,,D,,,,
+180,2022-04-12 16:33:22.276,key010@ucsd.edu,,,,C,"False, False, True, False","[""Angela"", ""Sofia"", ""Isabella"", ""Carl"", ""Esther"", ""Doris""]","One key idea that I learned in class today is that when indexing a list, [0] actually represents the first term in the list which may not seem obvious at first. Secondly, I learned that lists can be combined, added to, and spliced. ",Can you store number values in lists and use them for computations later in ones code?
+181,2022-04-12 16:35:18.510,kpan@ucsd.edu,"100, 100, 200","TypeError: can only concatenate list (not ""str"") to list",IndexError: list index out of range,A,"False, False, False, False","[""Doris"", ""Sofia"", ""Isabella"", ""Carl"", ""Esther"", ""Doris""]",I learned how to create lists in python. I also learned how to index and slice lists. ,
+182,2022-04-12 16:35:23.650,hac018@ucsd.edu,"100, 100, 200","TypeError: can only concatenate list (not ""str"") to list",IndexError: list index out of range,A,"False, False, False, False","[""Doris"", ""Sofia"", ""Isabella"", ""Carl"", ""Esther"", ""Doris""]","List is useful in for storing a lot of variables. However, variables have to be the same datatype in a list. They have to be either double, int, strings, or Booleans. We could manipulate list for convenient data storage.",How do I store different types of data inside of my list?
+183,2022-04-12 16:38:18.374,ammendoza@ucsd.edu,"100, 100, 200","TypeError: can only concatenate list (not ""str"") to list",IndexError: list index out of range,A,,,,
+184,2022-04-12 16:39:24.793,tnduong@ucsd.edu,,,,A,,,,
+185,2022-04-12 16:39:35.433,cbishop@ucsd.edu,"100, 100, 200","TypeError: can only concatenate list (not ""str"") to list",IndexError: list index out of range,D,"False, False, False, False","[""Doris"", ""Sofia"", ""Isabella"", ""Carl"", ""Esther"", ""Doris""]",,
+186,2022-04-12 16:40:19.099,ejreyes@ucsd.edu,"100, 100, 200","TypeError: can only concatenate list (not ""str"") to list",IndexError: list index out of range,C,"False, False, False, False","[""Doris"", ""Sofia"", ""Isabella"", ""Carl"", ""Esther"", ""Doris""]",I learned more about indexing and using the colon operator. Lists might still need some work.,
+187,2022-04-12 16:40:56.676,e1lee@ucsd.edu,,,,A,,,,
+188,2022-04-12 16:41:06.240,e1lee@ucsd.edu,,,,,"False, False, False, False",,,
+189,2022-04-12 16:41:28.216,mbannai@ucsd.edu,"100, 100, 200","TypeError: can only concatenate list (not ""str"") to list",IndexError: list index out of range,A,,,,
+190,2022-04-12 16:42:55.119,shy020@ucsd.edu,"100, 100, 200","TypeError: can only concatenate list (not ""str"") to list",IndexError: list index out of range,C,"False, False, False, False","[""Doris"", ""Sofia"", ""Isabella"", ""Carl"", ""Esther"", ""Doris""]",I learned how to use the list. I learned how to modify it and find the index of it.,no
+191,2022-04-12 16:42:59.690,kel015@ucsd.edu,,,,D,,,,
+192,2022-04-12 16:43:11.338,cbishop@ucsd.edu,"100, 100, 200","TypeError: can only concatenate list (not ""str"") to list",IndexError: list index out of range,A,"False, False, False, False","[""Doris"", ""Sofia"", ""Isabella"", ""Carl"", ""Esther"", ""Doris""]",,
+193,2022-04-12 16:43:13.845,kmochizuki@ucsd.edu,,,,D,,,,
+194,2022-04-12 16:43:17.699,chartman@ucsd.edu,,,,A,,,,
+195,2022-04-12 16:43:19.181,yiw080@ucsd.edu,,,,A,,,,
+196,2022-04-12 16:43:20.483,tnduong@ucsd.edu,,,,A,,,,
+197,2022-04-12 16:43:31.119,ktl001@ucsd.edu,,,,A,,,,
+198,2022-04-12 16:43:35.187,djlakhani@ucsd.edu,,,,D,"False, False, False, False","[""Doris"", ""Sofia"", ""Isabella"", ""Carl"", ""Esther"", ""Doris""]",,
+199,2022-04-12 16:43:39.050,yuc096@ucsd.edu,,,,D,,,,
+200,2022-04-12 16:43:52.299,mareece@ucsd.edu,,,,A,,,,
+201,2022-04-12 16:43:52.382,erko@ucsd.edu,,,,A,,,,
+202,2022-04-12 16:44:01.554,yuc096@ucsd.edu,,,,A,,,,
+203,2022-04-12 16:44:05.107,h9johnson@ucsd.edu,"100, 100, 200","TypeError: can only concatenate list (not ""str"") to list",IndexError: list index out of range,A,,,"We learned listing in class today. How to create a list, combine lists, index a list, slice a list, ",
+204,2022-04-12 16:44:05.151,ksleung@ucsd.edu,"100, 100, 200","TypeError: can only concatenate list (not ""str"") to list",IndexError: list index out of range,A,,,,
+205,2022-04-12 16:44:05.247,erguerrero@ucsd.edu,,,,A,,,,
+206,2022-04-12 16:44:05.502,jpenaloz@ucsd.edu,,,,B,,,,
+207,2022-04-12 16:44:06.115,mhle@ucsd.edu,"100, 100, 200","TypeError: can only concatenate list (not ""str"") to list",IndexError: list index out of range,A,"False, False, False, False",,,
+208,2022-04-12 16:44:07.182,rsuresh@ucsd.edu,,,,A,,,,
+209,2022-04-12 16:44:07.774,liz007@ucsd.edu,,,,A,,,,
+210,2022-04-12 16:44:09.355,kpompa@ucsd.edu,,,,A,,,,
+211,2022-04-12 16:44:09.919,kmaramba@ucsd.edu,,,,A,,,,
+212,2022-04-12 16:44:10.782,akwolfe@ucsd.edu,,,,D,,,,
+213,2022-04-12 16:44:15.145,j6xu@ucsd.edu,,,,A,,,,
+214,2022-04-12 16:44:16.332,dcui@ucsd.edu,,,,D,,,,
+215,2022-04-12 16:44:25.272,anslyker@ucsd.edu,"100, 100, 200","TypeError: can only concatenate list (not ""str"") to list",IndexError: list index out of range,A,,,,
+216,2022-04-12 16:44:26.957,c9williams@ucsd.edu,,,,B,,,,
+217,2022-04-12 16:44:32.139,rdwong@ucsd.edu,,,,A,,,,
+218,2022-04-12 16:44:35.966,swiraja@ucsd.edu,,,,A,,,,
+219,2022-04-12 16:44:37.016,ajett@ucsd.edu,"100, 100, 200","TypeError: can only concatenate list (not ""str"") to list",IndexError: list index out of range,A,,,,
+220,2022-04-12 16:44:37.256,hchu@ucsd.edu,,,,A,,,,
+221,2022-04-12 16:44:38.212,orusso@ucsd.edu,"100, 100, 200","TypeError: can only concatenate list (not ""str"") to list",IndexError: list index out of range,A,,,,
+222,2022-04-12 16:44:39.077,vtan@ucsd.edu,,,,D,,,,
+223,2022-04-12 16:44:41.279,melai@ucsd.edu,"100, 100, 200","TypeError: can only concatenate list (not ""str"") to list",IndexError: list index out of range,A,,,,
+224,2022-04-12 16:44:41.285,kaalfaro@ucsd.edu,,,,A,,,,
+225,2022-04-12 16:44:42.321,rmerino@ucsd.edu,"100, 100, 200",5.0,IndexError: list index out of range,D,,,,
+226,2022-04-12 16:44:44.294,djlakhani@ucsd.edu,,,,,,"[""Doris"", ""Sofia"", ""Isabella"", ""Carl"", ""Esther"", ""Doris""]","Two datatypes cannot be concatenated (eg. string and list)
+lists can be sliced",
+227,2022-04-12 16:44:46.185,glepage@ucsd.edu,,,,B,,,,
+228,2022-04-12 16:44:46.432,jtgonzales@ucsd.edu,,,,A,,,,
+229,2022-04-12 16:44:55.475,liz007@ucsd.edu,,,,,,"[""Angela"", ""Sofia"", ""Isabella"", ""Carl"", ""Esther"", ""Doris""]",,
+230,2022-04-12 16:45:19.023,chuffman@ucsd.edu,,,,A,,,,
+231,2022-04-12 16:45:36.484,miz015@ucsd.edu,,,,A,"False, False, True, False","[""Doris"", ""Sofia"", ""Isabella"", ""Carl"", ""Esther"", ""Angela""]",I learned how to compile lists in python. Additionally I have also learned how to slice lists as well as add to them. ,I think it is very confusing when it comes to assigning a number and a negative number to lists but I think I understand it now. 
+232,2022-04-12 16:47:31.088,maliissa@ucsd.edu,"100, 100, 200","TypeError: can only concatenate list (not ""str"") to list",IndexError: list index out of range,A,"False, False, True, False","[""Doris"", ""Sofia"", ""Isabella"", ""Carl"", ""Esther"", ""Angela""]",The usefulness of lists in organizing huge chunks of data.,None!
+233,2022-04-12 16:47:33.750,e1lee@ucsd.edu,,,,,,"[""Doris"", ""Sofia"", ""Isabella"", ""Carl"", ""Esther"", ""Doris""]",,
+234,2022-04-12 16:47:50.549,yix024@ucsd.edu,"0, 100, 200","TypeError: can only concatenate list (not ""str"") to list",IndexError: list index out of range,A,"False, False, True, False",Error: Cannot use a list on the right side of an assignment operator,"List, I learned ""list"", and there is range for the list, list can be index out of range, also ""list"" can only concatenate list (not ""str"") to list. ",I don't have questions.
+235,2022-04-12 16:47:55.241,adward@ucsd.edu,"0, 100, 200","TypeError: can only concatenate list (not ""str"") to list",IndexError: list index out of range,A,"False, False, False, False","[""Doris"", ""Sofia"", ""Isabella"", ""Carl"", ""Esther"", ""Angela""]",I learned about the specifications of lists and how we can add people to the lists. We have the ability to choose a specific string of numbers and even include a new string,"I am overall quite confused about this course and what it entails, and feel as though I do not have the abilities to succeed at this point"
+236,2022-04-12 16:48:12.189,chuffman@ucsd.edu,,,,,"False, False, False, False",,,
+237,2022-04-12 16:48:24.807,rcarmody@ucsd.edu,"100, 100, 200","[""Angela"", ""Sofia"", ""Isabella"", ""Carl"", ""Esther""]",IndexError: list index out of range,A,"False, False, False, False","[""Doris"", ""Sofia"", ""Isabella"", ""Carl"", ""Esther"", ""Angela""]",I learned the different syntax used in slicing lists properly.,I think I will need to work with defining and adding lists more to be comfortable.
+238,2022-04-12 16:48:28.023,kpompa@ucsd.edu,,,,A,"False, False, True, False",,"i learned about lists, and slicing lists ",
+239,2022-04-12 16:48:29.006,erguerrero@ucsd.edu,,,,,"False, False, False, False",,,
+240,2022-04-12 16:48:35.503,ktl001@ucsd.edu,,,,,"False, False, False, False","[""Doris"", ""Sofia"", ""Isabella"", ""Carl"", ""Esther"", ""Doris""]",,
+241,2022-04-12 16:48:36.250,mareece@ucsd.edu,,,,,"False, False, False, False",,Lists and how to manipulate them ,I found navigating the list items the most confusing part about lecture
+242,2022-04-12 16:48:44.918,mhle@ucsd.edu,"100, 100, 200","TypeError: can only concatenate list (not ""str"") to list",IndexError: list index out of range,A,"False, False, False, False","[""Doris"", ""Sofia"", ""Isabella"", ""Carl"", ""Esther"", ""Doris""]",One key idea that I learned today was how to create lists and all of the different operations that come with it. I learned how to locate a certain element on the list with indexing. ,The most confusing thing I learned how to do. was slicing. 
+243,2022-04-12 16:48:46.693,yuc096@ucsd.edu,,,,,"False, False, False, False","[""Doris"", ""Sofia"", ""Isabella"", ""Carl"", ""Esther"", ""Doris""]",The nth number in a list can be shown as list_name[n - 1],No
+244,2022-04-12 16:48:51.734,erko@ucsd.edu,,,,,"False, False, True, False",,,
+245,2022-04-12 16:48:55.380,e1lee@ucsd.edu,,,,,,,One key idea I learned in todays class is how to create lists. I also learned certain functions in order to edit and utilize these lists.,What i found most confusing about todays lecture was the indexing of lists and why we start from zero instead of one.
+246,2022-04-12 16:49:08.985,j6xu@ucsd.edu,,,,,"False, False, True, False",,,
+247,2022-04-12 16:49:09.808,djlakhani@ucsd.edu,,,,,"False, False, False, False",,,
+248,2022-04-12 16:49:10.584,tnduong@ucsd.edu,,,,,"False, False, False, False",,,
+249,2022-04-12 16:49:13.803,ecoulson@ucsd.edu,"100, 100, 200","TypeError: can only concatenate list (not ""str"") to list",IndexError: list index out of range,A,"False, False, False, False","[""Angela"", ""Sofia"", ""Isabella"", ""Carl"", ""Esther"", ""Doris""]","I learned that you cannot add a list and a string together. In order to concatenate a list, the two things either have to be strings or lists. ","why does [0:3] mean first, second, and third person and not first, second, third, and fourth since 0 is the first person?  "
+250,2022-04-12 16:49:16.145,erguerrero@ucsd.edu,,,,,,"[""Doris"", ""Sofia"", ""Isabella"", ""Carl"", ""Esther"", ""Angela""]",,
+251,2022-04-12 16:49:29.512,wha@ucsd.edu,"100, 100, 200","TypeError: can only concatenate list (not ""str"") to list",IndexError: list index out of range,A,"False, False, False, False","[""Angela"", ""Sofia"", ""Isabella"", ""Carl"", ""Esther"", ""Doris""]","One key idea I learned in today's class is how to create a list. Also how items in a list starts with 0 so the first item is 0, but we can also go backwards like -1 represents the last item. In addition, like strings we can only add lists to lists. ",no questions or confusions
+252,2022-04-12 16:49:32.626,kpompa@ucsd.edu,,,,,,"[""Doris"", ""Sofia"", ""Isabella"", ""Carl"", ""Esther"", ""Angela""]",,
+253,2022-04-12 16:49:33.611,vtan@ucsd.edu,,,,,"False, True, True, False",,,
+254,2022-04-12 16:49:34.976,taren@ucsd.edu,"0, 100, 200","TypeError: can only concatenate list (not ""str"") to list",IndexError: list index out of range,A,"False, False, True, False",Error: Cannot use a list on the right side of an assignment operator,I learnt how to create a list and how to print what I want in the list ,"No, I don't have any questions."
+255,2022-04-12 16:49:37.298,spaull@ucsd.edu,"100, 100, 200","TypeError: can only concatenate list (not ""str"") to list",IndexError: list index out of range,A,"False, False, True, False","[""Doris"", ""Sofia"", ""Isabella"", ""Carl"", ""Esther"", ""Angela""]",One key Idea that I learned in today's class was how to create a list which uses the square brackets and commas to separate the entries. I also learned how to count the placement of the items in the list. ,I found that slicing was the most confusing part about today's lecture 
+256,2022-04-12 16:49:39.053,kel015@ucsd.edu,,,,,"False, False, False, False","[""Doris"", ""Sofia"", ""Isabella"", ""Carl"", ""Esther"", ""Doris""]",One key idea I learned was how to create a list in python. This could be useful when I want to keep multiple strings within a variable.,The slicing of the lists of the lecture today was the most confusing part.
+257,2022-04-12 16:49:39.347,hbzhang@ucsd.edu,"100, 100, 200","TypeError: can only concatenate list (not ""str"") to list",IndexError: list index out of range,A,"False, False, False, False",Error: Cannot use a list on the right side of an assignment operator,first how to list command works. Lists can include integer and string together.,"for example if there are 4 words in a list, then is it same if we want to pick the 4th variables in the list by type word[4] or we can also type word[3:4]"
+258,2022-04-12 16:49:39.876,jmchiu@ucsd.edu,"100, 100, 200","TypeError: can only concatenate list (not ""str"") to list",IndexError: list index out of range,A,"False, False, False, False","[""Doris"", ""Sofia"", ""Isabella"", ""Carl"", ""Esther"", ""Doris""]","I learned about using lists and the various ways we can extract data from the collection. I learned what len() does in a list code. I also learned how to use ""in"" and ""not in"" operators.",
+259,2022-04-12 16:49:40.115,rdwong@ucsd.edu,,,,,,,"I learned about slicing. In addition, I learned about indexes. ",I'm still a bit confused about slicing. 
+260,2022-04-12 16:49:41.064,yiw080@ucsd.edu,,,,,"False, False, False, False",,"list，how to create, slice the list. List membership and modify the list ",So far no.
+261,2022-04-12 16:49:42.809,nduque@ucsd.edu,"100, 100, 200","TypeError: can only concatenate list (not ""str"") to list",IndexError: list index out of range,A,"False, True, True, False","[""Doris"", ""Sofia"", ""Isabella"", ""Carl"", ""Esther"", ""Doris""]",I learned how to split lists. I also learned that there are multiple things we can do to manipulate a list or obtain information from list using len () and 'in' as well as //.,I think some of the syntax as well as the // split command was a bit confusing.
+262,2022-04-12 16:49:43.725,kpompa@ucsd.edu,,,,,,,,N/a
+263,2022-04-12 16:49:45.952,mlinaresortega@ucsd.edu,"100, 100, 200","TypeError: can only concatenate list (not ""str"") to list",IndexError: list index out of range,A,"False, False, False, False",,"today we learned how to create, index and slice a list. By doing this, we can split a list, look for a location within a list, and add to the existed list when we compute.",
+264,2022-04-12 16:49:46.054,ktl001@ucsd.edu,,,,,,"[""Doris"", ""Sofia"", ""Isabella"", ""Carl"", ""Esther"", ""Doris""]",a shortcut for slicing is having the first number emty will automatically have 0 and having no number at the end automatically sets it to the end of the list,
+265,2022-04-12 16:49:46.238,xw001@ucsd.edu,"100, 100, 200","TypeError: can only concatenate list (not ""str"") to list",IndexError: list index out of range,A,"False, False, False, False","[""Doris"", ""Sofia"", ""Isabella"", ""Carl"", ""Esther"", ""Doris""]","I learned that we have shortcuts for slicing a list. If we leave either the first number or the second number in blank, python assumes we want to start at 0 or end at len(list)-1","The thing that confused me was the review part. I forgot you didn't need to always have an ""else"" in an ""if/elif"" statement."
+266,2022-04-12 16:49:46.499,myk001@ucsd.edu,,,,A,"False, False, False, False",,"1. I have learned how to create and concatenate the list.
+2. I have also learned indexing the list and how to slice the list. ",
+267,2022-04-12 16:49:46.515,jix042@ucsd.edu,"100, 100, 200","TypeError: can only concatenate list (not ""str"") to list",IndexError: list index out of range,A,"False, False, False, False","[""Doris"", ""Sofia"", ""Isabella"", ""Carl"", ""Esther"", ""Doris""]",Today I learned how to make a list and concatenate lists. I also learned to slice lists by using :   .,I have question on slice lists with //.
+268,2022-04-12 16:49:47.140,sol020@ucsd.edu,"100, 100, 200","TypeError: can only concatenate list (not ""str"") to list",IndexError: list index out of range,B,"False, False, True, False","[""Doris"", ""Sofia"", ""Isabella"", ""Carl"", ""Esther"", ""Doris""]","I learned about creating and indexing lists. Also, we learned about generic expression and slicing a list.",Im a little confused about indexing and labeling lists 
+269,2022-04-12 16:49:48.335,jiparais@ucsd.edu,"100, 100, 200","TypeError: can only concatenate list (not ""str"") to list",IndexError: list index out of range,A,"False, False, False, False","[""Doris"", ""Sofia"", ""Isabella"", ""Carl"", ""Esther"", ""Angela""]","One key idea I learned in class is the len( ). (And how to get certain things on lists to print using it). I also learned that in the case of an odd numbered list (given that you do not change anything), the code will provide the shorter half when the len(Namehere) //2 is used.","I found a large portion of the lecture confusing, as it is my first lecture. I am learning the commands as they come in class and it is a bit difficult to keep up."
+270,2022-04-12 16:49:54.030,anslyker@ucsd.edu,"100, 100, 200","TypeError: can only concatenate list (not ""str"") to list",IndexError: list index out of range,A,"False, False, False, False","[""Angela"", ""Sofia"", ""Isabella"", ""Carl"", ""Esther"", ""Doris""]","One key idea I learned about was lists. Lists for a certain name can contain any number of strings, integers or floats and can be added together and sliced. You can also identify certain values in a list based on their index (placement) within the list, with the first starting at zero.
+","I find modifying and mutating confusing, as well as slicing lists in some ways."
+271,2022-04-12 16:49:55.681,mbannai@ucsd.edu,"100, 100, 200","TypeError: can only concatenate list (not ""str"") to list",IndexError: list index out of range,A,"False, False, False, False",,,
+272,2022-04-12 16:49:56.122,mareece@ucsd.edu,,,,,,"[""Doris"", ""Sofia"", ""Isabella"", ""Carl"", ""Esther"", ""Angela""]",,
+273,2022-04-12 16:49:58.307,dcui@ucsd.edu,,,,,,,How to index lists and that list indexes exclude the last number for the end number,
+274,2022-04-12 16:49:59.967,melai@ucsd.edu,"100, 100, 200","TypeError: can only concatenate list (not ""str"") to list",IndexError: list index out of range,A,"False, False, False, False",,"I learned that when slicing, the beginning of the slice is inclusive and the end of the slice is exclusive. ",
+275,2022-04-12 16:50:00.280,yic061@ucsd.edu,"0, 100, 200","TypeError: can only concatenate list (not ""str"") to list",IndexError: list index out of range,A,"False, False, True, False","[""Doris"", ""Sofia"", ""Isabella"", ""Carl"", ""Esther"", ""Angela""]",today we learned about five different list of the python. ,"i confusing lots at today's lecture, I will meeting TA to ask my confusing. "
+276,2022-04-12 16:50:05.648,aml015@ucsd.edu,"100, 100, 200","TypeError: can only concatenate list (not ""str"") to list",IndexError: list index out of range,A,"False, False, True, False","[""Doris"", ""Sofia"", ""Isabella"", ""Carl"", ""Esther"", ""Doris""]",A key idea that I learned today was how to use python to index a list. List indices usually start at zero.,I find slicing a list to be confusing.
+277,2022-04-12 16:50:08.808,jortegon@ucsd.edu,"100, 100, 200","TypeError: can only concatenate list (not ""str"") to list",IndexError: list index out of range,A,"False, False, False, False","[""Angela"", ""Sofia"", ""Isabella"", ""Carl"", ""Esther"", ""Doris""]",Can’t combine a string in for my list membership. As well as can’t have a string with our list without a box ,Like the shortcut for the list 
+278,2022-04-12 16:50:10.333,xig001@ucsd.edu,"100, 100, 200","TypeError: can only concatenate list (not ""str"") to list",IndexError: list index out of range,A,"False, True, True, False",Error: Cannot use a list on the right side of an assignment operator,I learn how to make a list in python. I also learn how to get the part of the list I want and check if a word or number are in my list. ,I have no question.
+279,2022-04-12 16:50:18.829,weh009@ucsd.edu,,,,A,"False, False, False, False","[""Doris"", ""Sofia"", ""Isabella"", ""Carl"", ""Esther"", ""Doris""]",I learned how to splice lists to obtain certain elements inside a list. This is through the use of certain common operators like // + etc. ,Understanding the idea of splicing lens within a list to obtain certain elements inside the particular list.
+280,2022-04-12 16:50:18.878,akwolfe@ucsd.edu,,,,,"True, True, True, True","[""Doris"", ""Sofia"", ""Isabella"", ""Carl"", ""Esther"", ""Angela""]",I learned about making a list with python and adding lists together . Then i learned how to slice it up so I can get the first half or second half.,How can i make subtract from a list rather than make a bigger list
+281,2022-04-12 16:50:20.901,wjh001@ucsd.edu,"100, 100, 200","TypeError: can only concatenate list (not ""str"") to list",IndexError: list index out of range,A,"False, False, False, False","[""Doris"", ""Sofia"", ""Isabella"", ""Carl"", ""Esther"", ""Doris""]",I learned that how to use lens to calculate the number of variables in a list. I also learned that pythons list of numbers starts with 0,I think i like the lens cuz its easy to understand
+282,2022-04-12 16:50:23.750,rmerino@ucsd.edu,"100, 100, 200",5.0,IndexError: list index out of range,A,"False, False, True, False","[""Doris"", ""Sofia"", ""Isabella"", ""Carl"", ""Esther"", ""Doris""]","One key idea I learned i today's class was practically everything about how to code lists in python. From slicing to mutating, lists seem to be a very important concept in python.",I'm still confused on how the slicing function works as well as how to access all the elements in a list.
+283,2022-04-12 16:50:25.644,chuffman@ucsd.edu,,,,,,"[""Doris"", ""Sofia"", ""Isabella"", ""Carl"", ""Esther"", ""Angela""]","I learned how to make lists. Specifically, I learned that you can only concatenate lists with lists",
+284,2022-04-12 16:50:29.080,kmochizuki@ucsd.edu,,,,,"False, False, False, False","[""Doris"", ""Sofia"", ""Isabella"", ""Carl"", ""Esther"", ""Angela""]",that you can also use +=,why use the generic formula instead of just -1
+285,2022-04-12 16:50:48.896,chartman@ucsd.edu,,,,,"False, False, False, False","[""Doris"", ""Sofia"", ""Isabella"", ""Carl"", ""Esther"", ""Angela""]","lists can only be added to other lists, not strings to lists.",where slicing in python stops is odd and a bit confusing.
+286,2022-04-12 16:51:10.613,rsuresh@ucsd.edu,,,,,"False, False, False, False",,"One key idea that I learned in today's class was the slicing ability for splitting a list in half. I had understood the concept of splitting lists using the index numbers, but did not consider dividing the list, and that too the fact that a regular divide returns float and would not work.","The most confusing part about todays lecture was in turn, the integer division of the splicing, and how it can be done for an odd number list."
+287,2022-04-12 16:51:16.226,ammendoza@ucsd.edu,"100, 100, 200","TypeError: can only concatenate list (not ""str"") to list",IndexError: list index out of range,A,"False, False, True, False","[""Doris"", ""Sofia"", ""Isabella"", ""Carl"", ""Esther"", ""Angela""]",To make sure your indents are in the right hand place. Also there are minor errors that can mess up your whole code.,
+288,2022-04-12 16:51:40.409,ksleung@ucsd.edu,"100, 100, 200","TypeError: can only concatenate list (not ""str"") to list",IndexError: list index out of range,A,"False, False, False, False","[""Doris"", ""Sofia"", ""Isabella"", ""Carl"", ""Esther"", ""Angela""]",We learned all about lists today. This includes what they are and how to modify them.,I think I am still confused about index placement but not too much so.
+289,2022-04-12 16:51:54.572,h4zheng@ucsd.edu,"100, 100, 200","TypeError: can only concatenate list (not ""str"") to list",IndexError: list index out of range,A,"False, False, True, False","[""Doris"", ""Sofia"", ""Isabella"", ""Carl"", ""Esther"", ""Angela""]","That we should remember to differentiate ""list"" and ""string"" while coding in python.",None.
+290,2022-04-12 16:51:56.748,voswal@ucsd.edu,,,IndexError: list index out of range,A,"True, True, True, True","[""Doris"", ""Sofia"", ""Isabella"", ""Carl"", ""Esther"", ""Angela""]",lists and how to manipulate lists,slicing lists
+291,2022-04-12 16:52:05.515,jpenaloz@ucsd.edu,,,,,"False, True, True, False","[""Doris"", ""Sofia"", ""Isabella"", ""Carl"", ""Esther"", ""Doris""]",One thing I learned in class today was how to slice a list. To do this you need to provide a range (ex:) wait_list [0:3] for python to split the list.,"I found the slicing of the list a little confusing once I had to think about doing, for example, len(wl)//2 for part of the range."
+292,2022-04-12 16:52:49.955,ajett@ucsd.edu,"100, 100, 200","TypeError: can only concatenate list (not ""str"") to list",IndexError: list index out of range,A,"False, False, False, False","[""Doris"", ""Sofia"", ""Isabella"", ""Carl"", ""Esther"", ""Angela""]",One key idea I learned today is how to utilize slicing in Python. Slicing can be used to easily truncate a list to one half of it using particular expressions (len(list) // 2) to easily get the first or second half of a list without having to explicitly know the full length of the list.,"If negative indices are used in slicing, how does Python read it to determine where to start and stop?"
+293,2022-04-12 16:55:48.484,obandopadhyay@ucsd.edu,"100, 100, 200",5.0,IndexError: list index out of range,A,"False, False, True, False","[""Doris"", ""Sofia"", ""Isabella"", ""Carl"", ""Esther"", ""Doris""]",how to concatenate lists and use indices,nothing
+294,2022-04-12 17:01:30.214,michung@ucsd.edu,Syntax Error: Else is missing in the if-elif-else statement,5.0,11 will be printed,A,"False, False, False, False","[""Doris"", ""Sofia"", ""Isabella"", ""Carl"", ""Esther"", ""Doris""]",new python functions,
+295,2022-04-12 17:16:58.143,h9johnson@ucsd.edu,"100, 100, 200","TypeError: can only concatenate list (not ""str"") to list",IndexError: list index out of range,A,"False, False, False, False",,"We learned listing in class today. How to create a list, combine lists, the index of a list, slicing a list, and list membership ",We quickly went over mutating a list so I'm still quite confused on that 
+296,2022-04-12 17:33:33.338,zuzermeno@ucsd.edu,"100, 100, 200","TypeError: can only concatenate list (not ""str"") to list",IndexError: list index out of range,A,"False, False, False, False","[""Doris"", ""Sofia"", ""Isabella"", ""Carl"", ""Esther"", ""Doris""]",One key idea was the splitting of the list. I never realized how creating one and concating it would be easy and using the shortcuts presented makes it's it easier to slice and know what list we split.,"I'm still a little confused on conditionals because of the whole if, elif, else."
+297,2022-04-12 17:37:48.318,hchu@ucsd.edu,,,,,"False, False, True, False",,,
+298,2022-04-12 17:39:43.348,qiw027@ucsd.edu,"100, 100, 200","TypeError: can only concatenate list (not ""str"") to list",IndexError: list index out of range,A,"False, False, False, False","[""Doris"", ""Sofia"", ""Isabella"", ""Carl"", ""Esther"", ""Doris""]","How to use ""list"" in python and how to edit ""list"".",No
+299,2022-04-12 17:44:42.632,rdauble@ucsd.edu,"100, 100, 200","TypeError: can only concatenate list (not ""str"") to list",IndexError: list index out of range,A,"False, False, False, False","[""Doris"", ""Sofia"", ""Isabella"", ""Carl"", ""Esther"", ""Angela""]","I learned how to create, index, and slice lists. I also learned what mistakes can cause errors when concatenating lists. ",
+300,2022-04-12 18:13:20.999,ahrogers@ucsd.edu,"100, 100, 200","TypeError: can only concatenate list (not ""str"") to list",IndexError: list index out of range,A,"False, False, False, False","[""Doris"", ""Sofia"", ""Isabella"", ""Carl"", ""Esther"", ""Angela""]",I learned how to create lists in python and even slice and or check for list membership.,introducing len() to to the lists was pretty confusing and difficult for me. 
+301,2022-04-12 18:15:29.758,hchu@ucsd.edu,,,,,,"[""Doris"", ""Sofia"", ""Isabella"", ""Carl"", ""Esther"", ""Angela""]","That by storing strings or numbers in a list helps me to call for certain string or number later on in the coding process. Also, it's convenient to store multiple variables in the list.",I'm still confused about the range of the list.
+302,2022-04-12 18:36:10.265,liz007@ucsd.edu,,,,,,,"I learned about lists, specifically about how to combine lists and how to slice a list. I also learned about how to add something to my list and how to use the in or not in statement to check if something is already in my list.",I think I kind of missed the part about empty lists so I was wondering what are they used for.
+303,2022-04-12 20:14:17.568,tnduong@ucsd.edu,,,,,,"[""Doris"", ""Sofia"", ""Isabella"", ""Carl"", ""Esther"", ""Doris""]",,
+304,2022-04-12 20:17:09.120,tnduong@ucsd.edu,,,,,,,One key idea that I learned in today's class is the concept of lists in python. The lists store difference values such as numbers or strings. Also learned the range and position of the values in the list.,Nothing
+305,2022-04-12 20:20:43.024,cwalstromvangor@ucsd.edu,"100, 100, 200",5.0,IndexError: list index out of range,D,"False, False, False, False","[""Doris"", ""Sofia"", ""Isabella"", ""Carl"", ""Esther"", ""Angela""]",I learned how to use short cuts when splicing. I no longer need to have a beginning or end when I am splicing. For example [:5] would being at the start without a 0.,I'm still confused about the big idea #5 question. Could we go over it in next class?
+306,2022-04-12 22:15:59.343,mtn011@ucsd.edu,"100, 100, 200","TypeError: can only concatenate list (not ""str"") to list",IndexError: list index out of range,A,"False, False, True, False","[""Doris"", ""Sofia"", ""Isabella"", ""Carl"", ""Esther"", ""Doris""]","We learned how to create and concatenate lists from strings. From here, we made list indices. ",I still have trouble mutating lists. 

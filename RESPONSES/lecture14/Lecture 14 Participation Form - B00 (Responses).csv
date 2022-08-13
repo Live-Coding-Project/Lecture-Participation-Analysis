@@ -1,0 +1,344 @@
+,Timestamp,Email Address,What happens when we print cat_img after loading the image?,1,2,What is one key idea that you learned in today's class? (2- 3 sentences),What questions do you still have about today's lecture? OR What did you find the most confusing about today's lecture?,What is the data type of cat_img?,What will happen when we swap the height and the width in the for loop?
+0,2022-05-12 11:09:42.569,l6tong@ucsd.edu,,it's hide part of image in black,B,,,,
+1,2022-05-12 11:12:46.485,tleaf@ucsd.edu,,,,,,,
+2,2022-05-12 11:12:50.905,mmao@ucsd.edu,It will take you to the file cat_img,,,,,,
+3,2022-05-12 11:12:51.508,vyeh@ucsd.edu,the original image is printed?,,,,,,
+4,2022-05-12 11:12:52.135,l3wang@ucsd.edu,the 2d list of the image will be shown,,,,,,
+5,2022-05-12 11:12:54.551,mnmorales@ucsd.edu, it'll print the original img,,,,,,
+6,2022-05-12 11:12:58.874,mit002@ucsd.edu,We will print the tuple values representing the cat_img at those specific points for each pixel. ,,,,,,
+7,2022-05-12 11:13:14.523,mhagstrum@ucsd.edu,the brightness will be reduced by 0.5 ?,,,,,,
+8,2022-05-12 11:13:18.597,juz001@ucsd.edu,The brightness of the image changes.,,,,,,
+9,2022-05-12 11:13:26.708,sgomezmartinez@ucsd.edu,The original image will print out. ,,,,,,
+10,2022-05-12 11:13:27.258,zbai@ucsd.edu,print the image cat.png,,,,,,
+11,2022-05-12 11:13:31.554,aycastil@ucsd.edu,The image will just print out the cat image,,,,,,
+12,2022-05-12 11:13:32.302,juc010@ucsd.edu,"it will print the string of all the (r,g,b) tuples for every pixel ",,,,,,
+13,2022-05-12 11:13:36.848,cllian@ucsd.edu,"It will print a txt representation of the image, with each tuple representing the RGB values of each pixel.",,,,,,
+14,2022-05-12 11:13:50.438,j3zhong@ucsd.edu,will print 2d list representing the image,,,,,,
+15,2022-05-12 11:13:56.853,zeilliams@ucsd.edu,,,,,,,
+16,2022-05-12 11:14:02.916,ammorrison@ucsd.edu,The image will be printed and will not be as bright as the original image due to the reduce brightness function. ,,,,,,
+17,2022-05-12 11:14:09.976,tferrarimoreno@ucsd.edu,It will print the image in the terminal. ,,,,,,
+18,2022-05-12 11:14:13.612,szbates@ucsd.edu,"it will print the cat image (before being modified) and will like pop up on the screen, and will be stored in the terminal as an unsaved file  ",,,,,,
+19,2022-05-12 11:14:21.381,mec005@ucsd.edu,"error， it should be ""images/cat.img""",,,,,,
+20,2022-05-12 11:14:23.856,r2diaz@ucsd.edu,"We will see the cat image printed in the terminal, it wont be a photo but the individual pixels. ",,,,,,
+21,2022-05-12 11:14:25.105,capena@ucsd.edu,,,,,,,
+22,2022-05-12 11:14:26.331,sgaribayzaguilan@ucsd.edu,the image of the cat will appear on the console,,,,,,
+23,2022-05-12 11:14:28.896,jom009@ucsd.edu,I think it would load the cat image within the terminal. ,,,,,,
+24,2022-05-12 11:14:30.458,htobias@ucsd.edu,the 2d list of tuples prints,,,,,,
+25,2022-05-12 11:14:38.941,lcruzpaz@ucsd.edu,We will see neatly written tuples corresponding to the RGB values of the pixels,,,,,,
+26,2022-05-12 11:14:40.194,gmendez@ucsd.edu,there will be an error.,,,,,,
+27,2022-05-12 11:14:41.699,afaisal@ucsd.edu,,,,,,,
+28,2022-05-12 11:14:46.197,c2ding@ucsd.edu,"It will be an error, since cat_img is an image in png format and can't be printed out.",,,,,,
+29,2022-05-12 11:14:46.261,mljimenez@ucsd.edu,it loads that cat with a lower brightness,,,,,,
+30,2022-05-12 11:14:47.426,mzlarsen@ucsd.edu,the image is output in the window but the image will not be saved to the directory,,,,,,
+31,2022-05-12 11:14:51.561,ruchiang@ucsd.edu,it will set cat_img as the image from the repository,,,,,,
+32,2022-05-12 11:14:55.507,tleaf@ucsd.edu,it shows the rgb vales and stores them in a list of rows and columns?,,,,,,
+33,2022-05-12 11:15:00.489,tgrimes@ucsd.edu,"it will load the image called ""cat.png"" and open it in the terminal because cat_img stored the image in that location and is now being called with print()",,,,,,
+34,2022-05-12 11:15:01.298,nthiyagarajan@ucsd.edu,"I think an error would occur because I do not think it is possible to print the cat image directly in the terminal. When we save the image, it will exist under images but I don't think printing it will work.",,,,,,
+35,2022-05-12 11:15:01.830,jsaakian@ucsd.edu,,,,,,,
+36,2022-05-12 11:15:06.747,ajagarlamudi@ucsd.edu,It will show the darkened image ,,,,,,
+37,2022-05-12 11:15:12.018,e5lim@ucsd.edu,"If we print cat_img after the image is loaded, the image will be shown in the terminal.",,,,,,
+38,2022-05-12 11:15:13.493,iandrews@ucsd.edu,"When we print cat_img after loading the image, we will get a 2d list that represents that image.",,,,,,
+39,2022-05-12 11:15:13.686,m5lee@ucsd.edu,It will print a string of tuples of that image,,,,,,
+40,2022-05-12 11:15:14.189,ruchiang@ucsd.edu,it will set the cat img as cat_img from the repository it was saved in ,,,,,,
+41,2022-05-12 11:15:15.869,j1kuo@ucsd.edu,the image of the cat would be printed,,,,,,
+42,2022-05-12 11:15:16.421,s2qi@ucsd.edu,The output will be a 2D list of the pixels of the cat_image.,,,,,,
+43,2022-05-12 11:15:16.841,iangulo@ucsd.edu,,,,,,,
+44,2022-05-12 11:15:19.981,ndriggett@ucsd.edu,It will print the tuples that make up the img.,,,,,,
+45,2022-05-12 11:15:22.704,j6zou@ucsd.edu,It will print the 2D list representation of the cat image. ,,,,,,
+46,2022-05-12 11:15:24.044,hgolay@ucsd.edu,The function with print the image of the cat because the variable stored cat_img as the image of the cat from the CSE8A Images area.,,,,,,
+47,2022-05-12 11:15:30.651,ejs001@ucsd.edu,"I think an error will occur because you need it to be load_img(""images/cat.png""). ",,,,,,
+48,2022-05-12 11:15:31.180,mschaar@ucsd.edu,"It will just print all the (r,g,b) values of cat_img which will be a lot of them. ",,,,,,
+49,2022-05-12 11:15:55.577,ssayson@ucsd.edu,The image will appear. ,,,,,,
+50,2022-05-12 11:15:55.796,r4xiao@ucsd.edu,,,,,,,
+51,2022-05-12 11:15:56.064,rojiang@ucsd.edu,have no idea,,,,,,
+52,2022-05-12 11:15:57.299,jtm002@ucsd.edu,It will display the original cat_img,,,,,,
+53,2022-05-12 11:16:01.098,ewattier@ucsd.edu,Error?,,,,,,
+54,2022-05-12 11:16:01.459,aazarian@ucsd.edu,,I am not sure.,,,,,
+55,2022-05-12 11:16:02.238,k5mendez@ucsd.edu,I think it would give us a preview of the cat image after loading the image.,,,,,,
+56,2022-05-12 11:16:02.720,eqi@ucsd.edu,,"uh
+",,,,,
+57,2022-05-12 11:16:03.675,mglovins@ucsd.edu,"I think an error will occur because it does not appear in the right formatting, the computer does no know where this file is located. It should be written as ""images/cat.png""",,,,,,
+58,2022-05-12 11:16:04.949,a5flores@ucsd.edu,dk,,,,,,
+59,2022-05-12 11:16:05.898,mschaar@ucsd.edu,"It will just print all the (r,g,b) values of cat_img which will be a lot of them.",,,,,,
+60,2022-05-12 11:16:06.978,ayh001@ucsd.edu,,,,,,,
+61,2022-05-12 11:16:15.546,aramoson@ucsd.edu,the image will print,,,,,,
+62,2022-05-12 11:16:23.239,ziyin@ucsd.edu,cat_img will be printed,,,,,,
+63,2022-05-12 11:16:25.877,jdaguio@ucsd.edu,The image will be saved as a file,,,,,,
+64,2022-05-12 11:16:28.207,msitu@ucsd.edu,There will be an error,,,,,,
+65,2022-05-12 11:16:29.249,jforonda@ucsd.edu,I think the image will have an error,,,,,,
+66,2022-05-12 11:16:30.806,kmn003@ucsd.edu,,does it change the height and width of the image?,,,,,
+67,2022-05-12 11:16:32.396,r4xiao@ucsd.edu,the original cat image ,,,,,,
+68,2022-05-12 11:16:35.777,ejxiong@gmail.com,It will print the image cat_img,,,,,,
+69,2022-05-12 11:16:43.279,pfuentes@ucsd.edu,Print the image value,,,,,,
+70,2022-05-12 11:16:46.718,dtorresm@ucsd.edu,we would get the original image,,,,,,
+71,2022-05-12 11:16:47.254,ahipol@ucsd.edu,The image won't be printed,,,,,,
+72,2022-05-12 11:16:47.602,aagamataalmeida@ucsd.edu,,,,,,,
+73,2022-05-12 11:16:58.948,m1sosa@ucsd.edu,I think that when you run the print statement there will be an error bc cat is in img and we are trying to print png?,,,,,,
+74,2022-05-12 11:16:59.248,vrchauhan@ucsd.edu,It will print the image value.,,,,,,
+75,2022-05-12 11:17:09.157,afaisal@ucsd.edu,It will show the cat image,,,,,,
+76,2022-05-12 11:17:20.025,ndong@ucsd.edu,I think there will be an error,,,,,,
+77,2022-05-12 11:17:20.835,x2su@ucsd.edu,Print out the image,,,,,,
+78,2022-05-12 11:17:39.149,x4mao@ucsd.edu,cat_img will printed,,,,,,
+79,2022-05-12 11:17:41.501,mlruiz@ucsd.edu,there will be an error,,,,,,
+80,2022-05-12 11:17:55.404,b1lin@ucsd.edu,,,,,,,
+81,2022-05-12 11:17:55.462,ftaraporevala@ucsd.edu,A 2-d list of tuples representing the pixels will be printed,,,,,,
+82,2022-05-12 11:18:49.673,ayachanin@ucsd.edu,,,,,,,
+83,2022-05-12 11:19:27.780,adobbins@ucsd.edu,,The purpose of the mystery function below includes the use of the parameter img.,,,,,
+84,2022-05-12 11:19:27.977,iyussuf@ucsd.edu,It prints the image,It changes the color of the image,,,,,
+85,2022-05-12 11:20:21.320,adobbins@ucsd.edu,we encounter an error because the image file is not open.,,,,,,
+86,2022-05-12 11:20:34.846,b1lin@ucsd.edu,"When we print cat_img after loading the image, there's nothing shown in the console and the image of cat won't be shown, unless we save the image. ",,,,,,
+87,2022-05-12 11:24:34.444,mwidyadh@ucsd.edu,it prints out every tuple,,,,,,
+88,2022-05-12 11:25:24.515,mil049@ucsd.edu,there is an error,,,,,,
+89,2022-05-12 11:25:33.673,d5pham@ucsd.edu,Error will be printed,,,,,,
+90,2022-05-12 11:26:07.288,ahipol@ucsd.edu,,,,,,1D List of tuples,
+91,2022-05-12 11:26:11.503,mglovins@ucsd.edu,,,,,,2D list of tuples,
+92,2022-05-12 11:26:13.098,hgolay@ucsd.edu,,,,,,2D list of tuples,
+93,2022-05-12 11:26:14.045,juz001@ucsd.edu,,,,,,2D list of tuples,
+94,2022-05-12 11:26:14.677,iandrews@ucsd.edu,,,,,,2D list of tuples,
+95,2022-05-12 11:26:14.875,mec005@ucsd.edu,,,,,,2D list of tuples,
+96,2022-05-12 11:26:14.921,tleaf@ucsd.edu,,,,,,2D list of tuples,
+97,2022-05-12 11:26:15.048,r4xiao@ucsd.edu,,,,,,2D list of tuples,
+98,2022-05-12 11:26:16.387,tferrarimoreno@ucsd.edu,,,,,,2D list of tuples,
+99,2022-05-12 11:26:16.715,r2diaz@ucsd.edu,,,,,,2D list of tuples,
+100,2022-05-12 11:26:16.970,cllian@ucsd.edu,,,,,,2D list of tuples,
+101,2022-05-12 11:26:17.844,ammorrison@ucsd.edu,,,,,,2D list of tuples,
+102,2022-05-12 11:26:17.971,ftaraporevala@ucsd.edu,,,,,,2D list of tuples,
+103,2022-05-12 11:26:18.005,szbates@ucsd.edu,,,,,,2D list of tuples,
+104,2022-05-12 11:26:18.310,mnmorales@ucsd.edu,,,,,,2D list of tuples,
+105,2022-05-12 11:26:19.284,nthiyagarajan@ucsd.edu,,,,,,2D list of tuples,
+106,2022-05-12 11:26:19.890,ajvargas@ucsd.edu,,,,,,2D list of tuples,
+107,2022-05-12 11:26:19.941,mit002@ucsd.edu,,,,,,2D list of tuples,
+108,2022-05-12 11:26:21.407,aazarian@ucsd.edu,,,,,,String of tuples,
+109,2022-05-12 11:26:22.750,ziyin@ucsd.edu,cat_img will be printed,,,,,,
+110,2022-05-12 11:26:23.206,mwidyadh@ucsd.edu,,,,,,2D list of tuples,
+111,2022-05-12 11:26:23.960,mljimenez@ucsd.edu,,,,,,2D list of tuples,
+112,2022-05-12 11:26:24.424,ewattier@ucsd.edu,,,,,,2D list of tuples,
+113,2022-05-12 11:26:25.136,mschaar@ucsd.edu,,,,,,2D list of tuples,
+114,2022-05-12 11:26:27.346,rojiang@ucsd.edu,,,,,,2D list of tuples,
+115,2022-05-12 11:26:27.426,mmao@ucsd.edu,,,,,,2D list of tuples,
+116,2022-05-12 11:26:27.740,c2ding@ucsd.edu,It will print out the 2D lists of the tuples of the image.,,,,,2D list of tuples,
+117,2022-05-12 11:26:30.306,x2su@ucsd.edu,,,,,,2D list of tuples,
+118,2022-05-12 11:26:31.408,jforonda@ucsd.edu,,,,,,String of tuples,
+119,2022-05-12 11:26:32.289,ahipol@ucsd.edu,,,,,,2D list of tuples,
+120,2022-05-12 11:26:32.516,e5lim@ucsd.edu,,,,,,1D List of tuples,
+121,2022-05-12 11:26:32.818,ssayson@ucsd.edu,,,,,,2D list of tuples,
+122,2022-05-12 11:26:32.781,sgomezmartinez@ucsd.edu,,,,,,2D list of tuples,
+123,2022-05-12 11:26:35.430,mnmorales@ucsd.edu,,,,,,2D list of tuples,
+124,2022-05-12 11:26:36.996,j1kuo@ucsd.edu,,,,,,2D list of tuples,
+125,2022-05-12 11:26:39.629,jtm002@ucsd.edu,,,,,,2D list of tuples,
+126,2022-05-12 11:26:42.783,m5lee@ucsd.edu,,,,,,String of tuples,
+127,2022-05-12 11:26:42.862,cechi@ucsd.edu,,,,,,2D list of tuples,
+128,2022-05-12 11:26:43.674,s2qi@ucsd.edu,,,,,,2D list of tuples,
+129,2022-05-12 11:26:46.771,l3wang@ucsd.edu,,,,,,2D list of tuples,
+130,2022-05-12 11:26:47.968,ejxiong@ucsd.edu,,,,,,2D list of tuples,
+131,2022-05-12 11:26:49.831,mhagstrum@ucsd.edu,,,,,,2D list of tuples,
+132,2022-05-12 11:26:50.193,ziyin@ucsd.edu,error,,,,,2D list of tuples,
+133,2022-05-12 11:26:52.535,sgaribayzaguilan@ucsd.edu,,,,,,2D list of tuples,
+134,2022-05-12 11:26:53.114,nneal@ucsd.edu,,,,,,1D List of tuples,
+135,2022-05-12 11:26:53.169,htobias@ucsd.edu,,,,,,2D list of tuples,
+136,2022-05-12 11:26:53.608,j6zou@ucsd.edu,,,,,,String of tuples,
+137,2022-05-12 11:26:54.199,ejs001@ucsd.edu,,,,,,2D list of tuples,
+138,2022-05-12 11:26:54.573,yil175@ucsd.edu,indefinite,,,,,2D list of tuples,
+139,2022-05-12 11:26:54.691,vyeh@ucsd.edu,,,,,,String of tuples,
+140,2022-05-12 11:26:55.311,jdaguio@ucsd.edu,,,,,,1D List of tuples,
+141,2022-05-12 11:26:55.857,aramoson@ucsd.edu,,,,,,String of tuples,
+142,2022-05-12 11:26:57.111,zbai@ucsd.edu,,,,,,1D List of tuples,
+143,2022-05-12 11:26:58.838,ayachanin@ucsd.edu,,itll print it over and over again,,,,,
+144,2022-05-12 11:26:59.482,dtorresm@ucsd.edu,,,,,,2D list of tuples,
+145,2022-05-12 11:26:59.876,msitu@ucsd.edu,,,,,,1D List of tuples,
+146,2022-05-12 11:27:04.966,mzlarsen@ucsd.edu,,,,,,2D list of tuples,
+147,2022-05-12 11:27:06.506,capena@ucsd.edu,,,,,,2D list of tuples,
+148,2022-05-12 11:27:12.368,ayh001@ucsd.edu,,,,,,2D list of tuples,
+149,2022-05-12 11:27:13.470,tgrimes@ucsd.edu,,,,,,2D list of tuples,
+150,2022-05-12 11:27:14.225,aycastil@ucsd.edu,,,,,,2D list of tuples,
+151,2022-05-12 11:27:14.484,gmendez@ucsd.edu,,,,,,2D list of tuples,
+152,2022-05-12 11:27:15.063,afaisal@ucsd.edu,,,,,,2D list of tuples,
+153,2022-05-12 11:27:16.238,vrchauhan@ucsd.edu,,,,,,2D list of tuples,
+154,2022-05-12 11:27:16.284,jom009@ucsd.edu,,,,,,2D list of tuples,
+155,2022-05-12 11:27:16.406,mil049@ucsd.edu,,,,,,2D list of tuples,
+156,2022-05-12 11:27:20.720,ajagarlamudi@ucsd.edu,,,,,,2D list of tuples,
+157,2022-05-12 11:27:21.376,juc010@ucsd.edu,,,,,,2D list of tuples,
+158,2022-05-12 11:27:23.668,eqi@ucsd.edu,it prints the image,,,,,2D list of tuples,
+159,2022-05-12 11:27:25.949,ndong@ucsd.edu,,,,,,2D list of tuples,
+160,2022-05-12 11:27:26.299,m1sosa@ucsd.edu,,,,,,2D list of tuples,
+161,2022-05-12 11:27:29.079,ruchiang@ucsd.edu,,,,,,2D list of tuples,
+162,2022-05-12 11:27:31.444,kmn003@ucsd.edu,,,,,,2D list of tuples,
+163,2022-05-12 11:27:32.288,k5mendez@ucsd.edu,,,,,,2D list of tuples,
+164,2022-05-12 11:27:38.156,pfuentes@ucsd.edu,,,,,,2D list of tuples,
+165,2022-05-12 11:27:38.339,adobbins@ucsd.edu,,,,,,2D list of tuples,
+166,2022-05-12 11:27:38.366,ruchiang@ucsd.edu,,,,,,2D list of tuples,
+167,2022-05-12 11:29:09.637,ndriggett@ucsd.edu ,,,,,,2D list of tuples,
+168,2022-05-12 11:29:18.803,mlruiz@ucsd.edu,,,,,,1D List of tuples,
+169,2022-05-12 11:30:07.548,dmontoto@ucsd.edu,,,,,,2D list of tuples,
+170,2022-05-12 11:33:22.218,d5pham@ucsd.edu,,,,,,2D list of tuples,
+171,2022-05-12 11:36:01.479,snunga@ucsd.edu,,,,,,String of tuples,
+172,2022-05-12 11:36:55.566,ayachanin@ucsd.edu,,,B,,,,
+173,2022-05-12 11:38:19.906,ayachanin@ucsd.edu,,,,i learned basic image transformation. i learned how code can be used to alter pictures,I was confused most about the image to file,,
+174,2022-05-12 11:39:06.118,ziz047@ucsd.edu,it prints the image,converts image to list in a txt file,C,,,2D list of tuples,
+175,2022-05-12 11:40:40.448,cpitman@ucsd.edu,We get a 2d list of the tuples for each pixel.,It turns the top left quarter of the image to black pixels.,D,"You can apply basic transformations on individual pixels to get certain effects. For example, you can divide the values inside the tuples in half to reduce brightness. However, you must address each of the three values at the same time because tuples are immutable.",Why are tuples immutable? This just seems incovenient.,,
+176,2022-05-12 11:48:12.860,jsaakian@ucsd.edu,,,,,,,will change output
+177,2022-05-12 11:48:14.569,juc010@ucsd.edu,,,,,,,error out of range
+178,2022-05-12 11:48:16.699,mljimenez@ucsd.edu,,,,,,,"error, out of range"
+179,2022-05-12 11:48:18.532,tleaf@ucsd.edu,,,,,,,index out o range error
+180,2022-05-12 11:48:18.877,vrchauhan@ucsd.edu,,,,,,,It will be an error
+181,2022-05-12 11:48:24.031,ejs001@ucsd.edu,,,,,,,It will throw an error because the index will be out of bounds.
+182,2022-05-12 11:48:26.984,zbai@ucsd.edu,,,,,,,"only (from left to right, top to down) 600*600 will change"
+183,2022-05-12 11:48:29.167,aazarian@ucsd.edu,,,,,,,The image will be distorted.
+184,2022-05-12 11:48:29.522,c2ding@ucsd.edu,,,,,,,It will cause the error: index out of range.
+185,2022-05-12 11:48:31.957,juz001@ucsd.edu,,,,,,,An error would occur.
+186,2022-05-12 11:48:36.224,j6zou@ucsd.edu,,,,,,,The result will be an error of the loop out of index.
+187,2022-05-12 11:48:37.359,ruchiang@ucsd.edu,,,,,,,nothing. aren't width and height just arbitrary variables?
+188,2022-05-12 11:48:40.636,aycastil@ucsd.edu,,,,,,,The function will switch the order of the output
+189,2022-05-12 11:48:40.748,ahipol@ucsd.edu,,,,,,,the length of the two will be swapped
+190,2022-05-12 11:48:41.960,ajvargas@ucsd.edu,,,,,,,i think there will be an error 
+191,2022-05-12 11:48:45.577,sgaribayzaguilan@ucsd.edu,,,,,,,the image dimensions will change
+192,2022-05-12 11:48:46.265,r4xiao@ucsd.edu,,,,,,,the image will not totally transform 
+193,2022-05-12 11:48:46.650,l3wang@ucsd.edu,,,,,,,"the range of for loop will swap. since height<width, thee second for loop's list will be out of index"
+194,2022-05-12 11:48:47.249,j3zhong@ucsd.edu,,,,,,2D list of tuples,we won't go through the entire 2d list if width is > height
+195,2022-05-12 11:48:48.239,vrchauhan@ucsd.edu,,,,,,,It would be an error
+196,2022-05-12 11:48:49.082,ejxiong@ucsd.edu,,,,,,,Out of bounds
+197,2022-05-12 11:48:52.088,mglovins@ucsd.edu,,,,,,,"error, the range is out of bounds"
+198,2022-05-12 11:48:53.264,msitu@ucsd.edu,,,,,,,There will be an error because it is out of range.
+199,2022-05-12 11:48:57.235,ndriggett@ucsd.edu ,,,,,,,The range will be out of bounds
+200,2022-05-12 11:48:58.750,capena@ucsd.edu,,,,,,,"will be an error, out of range"
+201,2022-05-12 11:49:01.583,rojiang@ucsd.edu,,,,,,,out of range?
+202,2022-05-12 11:49:04.163,iandrews@ucsd.edu,,,,,,,This will result in a range that is out of bounds. This is because the width is longer than the length so iterating the rows through the length of the width will result in this error. 
+203,2022-05-12 11:49:04.170,hgolay@ucsd.edu,,,,,,,"The image will be messed up because row corresponds to height while column corresponds to width, which is backwards in our code"
+204,2022-05-12 11:49:05.875,nthiyagarajan@ucsd.edu,,,,,,,I think the range will be out of bounds
+205,2022-05-12 11:49:06.390,mschaar@ucsd.edu,,,,,,,It will be something like an out of bounds error?
+206,2022-05-12 11:49:06.400,mmao@ucsd.edu,,,,,,,It will change the dimensions/swap the value of the area we are trying to target. 
+207,2022-05-12 11:49:07.820,mahmadi@ucsd.edu,,,,,,,I am nor sure 
+208,2022-05-12 11:49:12.978,jtm002@ucsd.edu,,,,,,,We will get an out of bounds error
+209,2022-05-12 11:49:16.462,vyeh@ucsd.edu,,,,,,,it wouldn't work/error
+210,2022-05-12 11:49:17.892,b1lin@ucsd.edu,,,,,,2D list of tuples,It would turn out to be an error. 
+211,2022-05-12 11:49:22.234,mzlarsen@ucsd.edu,,"the top left corner will be black, we apply a black filter to this section of the image",,,,,
+212,2022-05-12 11:49:22.483,mhagstrum@ucsd.edu,,,,,,,it will be undefined 
+213,2022-05-12 11:49:23.937,tgrimes@ucsd.edu,,,,,,,you will darken up to [600] for r and then [800] for c which will be an error I think
+214,2022-05-12 11:49:24.333,m5lee@ucsd.edu,,,,,,,It should run correctly since looping through the height is going through the rows and looping through the width is going through the columns
+215,2022-05-12 11:49:25.178,nanaranj@ucsd.edu,,,,,,,"If we swap the height and the width in the for loop, then the range would be out of bounds"
+216,2022-05-12 11:49:26.333,s2qi@ucsd.edu,,,,,,,There will be nothing changed
+217,2022-05-12 11:49:26.971,tferrarimoreno@ucsd.edu,,,,,,2D list of tuples,
+218,2022-05-12 11:49:27.605,cllian@ucsd.edu,,,,,,,"It start modifying only 600 out of 800 of the pixels in each row, then will produce an error because the index for the row is out of the range."
+219,2022-05-12 11:49:28.109,nneal@ucsd.edu,,,,,,,"the image dimensions will be switched to width by height, some of the image will not have reduce brightness"
+220,2022-05-12 11:49:28.379,ayh001@ucsd.edu,,,,,,,It will be out of range
+221,2022-05-12 11:49:28.618,ammorrison@ucsd.edu,,,,,,,Option 1
+222,2022-05-12 11:49:30.076,ssayson@ucsd.edu,,,,,,,"The program will throw an error, the error will be range is out of bounds. "
+223,2022-05-12 11:49:31.746,mit002@ucsd.edu,,The mystery function will turn a quarter of the image completely black from the left corner.,,,,,Range out of bounds error
+224,2022-05-12 11:49:42.328,a5flores@ucsd.edu,,,A,,,String of tuples,
+225,2022-05-12 11:49:42.362,k5mendez@ucsd.edu,,,,,,,It would run the code properly.
+226,2022-05-12 11:49:51.527,m1sosa@ucsd.edu,,,,,,,not within the range
+227,2022-05-12 11:49:51.699,gmendez@ucsd.edu,,,,,,,"out of bound
+"
+228,2022-05-12 11:49:52.048,jdaguio@ucsd.edu,,,,,,,There will be an error
+229,2022-05-12 11:49:53.157,ammorrison@ucsd.edu,,,,,,,the  range will be out of bounds
+230,2022-05-12 11:49:53.396,j1kuo@ucsd.edu,,,,,,,error
+231,2022-05-12 11:49:53.950,aagamataalmeida@ucsd.edu,,The purpose of the mystery function is to ,,,,2D list of tuples,The range will not be correct
+232,2022-05-12 11:49:54.208,sgomezmartinez@ucsd.edu,,,,,,,When we switch it it will create an error.
+233,2022-05-12 11:49:54.667,ewattier@ucsd.edu,,,,,,,error? for range
+234,2022-05-12 11:49:55.669,szbates@ucsd.edu,,,,,,,range would be out of bounds?
+235,2022-05-12 11:49:56.195,afaisal@ucsd.edu,,,,,,,out of bounds
+236,2022-05-12 11:49:56.895,dtorresm@ucsd.edu,,,,,,,I'm not sure but I think it wont have na effect on squares but will throw an error for the original
+237,2022-05-12 11:49:58.663,mil049@ucsd.edu,,,,,,,It will be out of bounds
+238,2022-05-12 11:50:00.782,ziyin@ucsd.edu,,,,,,,It out of bound the for loop since the range of width is greater than the range of width.
+239,2022-05-12 11:50:01.048,e5lim@ucsd.edu,,,,,,,"Since the width of the image is greater than the height of the image, the range will go out of bounds."
+240,2022-05-12 11:50:04.662,jom009@ucsd.edu,,,,,,,Out of bounds error
+241,2022-05-12 11:50:04.676,ajagarlamudi@ucsd.edu,,,,,,,out of bounds error
+242,2022-05-12 11:50:08.370,aramoson@ucsd.edu,,,,,,,range will be out of bounds
+243,2022-05-12 11:50:09.133,r2diaz@ucsd.edu,,,,,,,it will shift the cat to be transformed
+244,2022-05-12 11:50:09.837,ndong@ucsd.edu,,,,,,,there will be an error.
+245,2022-05-12 11:50:10.845,kmn003@ucsd.edu,,,,,,,some of the range will not be in bounds
+246,2022-05-12 11:50:14.351,pfuentes@ucsd.edu,,,,,,,We will get an error and some will not have reduced brightness
+247,2022-05-12 11:50:43.873,adobbins@ucsd.edu,,,,,,,the range will be out of bounds and encounter an error or it will be switched instead of being vertical the brightness will be changed horizontally.
+248,2022-05-12 11:50:48.846,x2su@ucsd.edu,,,,,,,error
+249,2022-05-12 11:51:16.761,mahmadi@ucsd.edu,,,,,,,
+250,2022-05-12 11:51:23.228,d5pham@ucsd.edu,,,,,,,out of bounds rror
+251,2022-05-12 11:51:42.912,mahmadi@ucsd.edu,,,,,,2D list of tuples,
+252,2022-05-12 11:52:09.525,ayachanin@ucsd.edu,,,,,,,?
+253,2022-05-12 11:52:33.479,capena@ucsd.edu,,,,,,,
+254,2022-05-12 11:54:34.096,jforonda@ucsd.edu,,it declares a variable and assigns a value 0 to it.,,,,,
+255,2022-05-12 11:54:41.847,ammorrison@ucsd.edu,,,,I learned about pixels. I also learned about rows and columns. ,I am confused about 2D lists ,,
+256,2022-05-12 11:55:51.580,nanaranj@ucsd.edu,"cat_img stores the result from the load_img function, therefore if we print load_img, the load_img function returns a 2D list",,,,,2D list of tuples,
+257,2022-05-12 11:58:58.002,ftaraporevala@ucsd.edu,,It takes the top-left quarter of the image and changes all the pixels there to black,,,,,
+258,2022-05-12 12:00:52.259,dherrerameza@ucsd.edu,,,B,,,2D list of tuples,
+259,2022-05-12 12:06:36.595,eqi@ucsd.edu,,,B,,,,
+260,2022-05-12 12:06:44.582,anc022@ucsd.edu,it will,,,,,2D list of tuples,it will be out of range
+261,2022-05-12 12:11:14.251,iyussuf@ucsd.edu,,,,,,2D list of tuples,It changes the orientation of the image
+262,2022-05-12 12:11:41.622,ronoy@ucsd.edu,"It will still print the image, I think?",,,,,,
+263,2022-05-12 12:11:54.507,ronoy@ucsd.edu,,,,,,2D list of tuples,
+264,2022-05-12 12:12:36.468,ronoy@ucsd.edu,,,,,,,"Then the row and column values would be different since they were switched, I think."
+265,2022-05-12 12:12:57.369,x2su@ucsd.edu,,  ,B,tuple,,,
+266,2022-05-12 12:13:07.602,a5flores@ucsd.edu,it will take you to the cat image ,,B,"When brightness is not effected. also, when it will print 2d",,2D list of tuples,the original image will print
+267,2022-05-12 12:14:28.023,ronoy@ucsd.edu,,"I am behind, so I'm not entirely sure what it does. Yet at least. ",,,,,
+268,2022-05-12 12:14:39.523,htobias@ucsd.edu,,make the top left quarter of the image black,,,,,
+269,2022-05-12 12:14:51.554,snunga@ucsd.edu,,,B,,,,
+270,2022-05-12 12:15:56.159,htobias@ucsd.edu,,,,I learned about images. You can measure length and width and change the tuples with for loops. ,,,
+271,2022-05-12 12:16:13.731,aazarian@ucsd.edu,,,B,I learned about 2d lists more in depth.,,,
+272,2022-05-12 12:16:51.853,l6tong@ucsd.edu,,,,how to choose area,,,
+273,2022-05-12 12:17:02.244,lcruzpaz@ucsd.edu,,it makes the image at row 8 and collum 8 into a while pixel,,,,,
+274,2022-05-12 12:17:17.089,lcruzpaz@ucsd.edu,,,,,,1D List of tuples,
+275,2022-05-12 12:19:11.181,Bdeleon@ucsd.edu,,,C,,,,
+276,2022-05-12 12:20:39.762,iyussuf@ucsd.edu,,"The purpose is to change the height, width, and color of the image.",B,I learned about images in python. I also learned about tuples.,I think lists of tuples are still a bit confusing.,,
+277,2022-05-12 12:20:43.680,aramoson@ucsd.edu,,the purpose of the mystery function is to change the color of the image,B,i learned when to call for an image in a file as opposed to calling it from the workspace.,I am still confused on how to change a specific region of an image.,,
+278,2022-05-12 12:20:55.433,sgaribayzaguilan@ucsd.edu,,,,Today i learned more about images. One key thing that is going to help me with my lab and PA is that i need to add images/ before my filename to run it.,Is the double bracket the only thing that differs between 2D and 1D tuples?,,
+279,2022-05-12 12:21:12.090,j3zhong@ucsd.edu,,the mystery function is trying to change a pixel of a specific image by changing the values that give the pixel its specific color ,A,"one key idea that i learned is that we use range functions and nested for loops to run through a 2d list based on their height and width. this allows us to go through the entire 2d list of a picture/image, looking at individual tuples one by one ",no questions,,
+280,2022-05-12 12:21:33.984,mahmadi@ucsd.edu,,I am confused ,B,Image Transformation,Checker Pattern,,
+281,2022-05-12 12:21:53.480,mit002@ucsd.edu,,The mystery function will turn a quarter of the image into a black square. ,D,A key idea that I learned is that you can use library function such as height() and width to determine the height and width of an image. you can also use Len(img) and Len(img[r]) to figure out the width by counting the number of items in a row to figure out the number of columns. ,"I was wondering if it was possible calling another function within the image will update the existing function or create a new temporary file that it will update. Otherwise, I was wondering if it was possible to use if statements to make specific portions of an image a certain color and specific portions of the same image another color. ",,
+282,2022-05-12 12:22:01.750,s2qi@ucsd.edu,,,,I learned how to change the color of picture and set up for loop to make a range of the picture.,No question.,,
+283,2022-05-12 12:22:08.914,ajvargas@ucsd.edu,,,,One key idea I learned today was learning about the different libraries we need to have open so that our code can work. I also learned a bit regarding the checker pattern using start and end columns and how we can set that up.,confused with doing the patterns on the images,,
+284,2022-05-12 12:22:14.747,jyl006@ucsd.edu,It will print the cat image,I am not sure ,B,I have learned how to create an image on python,`n/a,1D List of tuples,The image will not bounced 
+285,2022-05-12 12:22:19.349,vrchauhan@ucsd.edu,,,,I learned how to transform an image through code. Like making a checkered pattern or blacking out a certain area. ,No not really,,
+286,2022-05-12 12:22:19.812,tgrimes@ucsd.edu,,,,How to modify images using the CSE8Aimage file an better understanding of 2D lists,Can we access the CSE8AImage file once we pass the class or years later?,,
+287,2022-05-12 12:22:24.487,zbai@ucsd.edu,,,,"Tuples are immutable. If you try to change a tuple object in a tuple, it will throw an error.
+If you see ""[["" and ""]]"", the data type will be 2d list.",N.A,,
+288,2022-05-12 12:22:26.619,szbates@ucsd.edu,,,,how to create an image using create_img!,how to transform part of an image,,
+289,2022-05-12 12:22:51.267,mglovins@ucsd.edu,,,,height goes with the length of columns. widths goes with length of rows. ,"x and y follow row and columns, not like a Cartesian coordinates. ",,
+290,2022-05-12 12:22:51.455,ajagarlamudi@ucsd.edu,,,,I finally understand tuples. And what they are about.,,,
+291,2022-05-12 12:22:52.561,nthiyagarajan@ucsd.edu,,,,"In today's lecture, I learned about modifying images. We specifically learned about how to modify pixels in a certain spot in the image. ",I found specifying the certain part of the image that we want to modify to be confusing,,
+292,2022-05-12 12:23:01.588,lcruzpaz@ucsd.edu,,,,"I learned more in depth on how to control certain spaces of pixels. 
+With nested for loops we can control the RBG values of specific areas of a picture.",I had a good time following along nothing seemed too difficult in lecture.,,
+293,2022-05-12 12:23:01.607,ewattier@ucsd.edu,,,B,how to transform certain parts of an image,,,
+294,2022-05-12 12:23:03.425,ahipol@ucsd.edu,,,,Images contain a 2_D list of tuples. ,Changing the color within images is confusing still.,,
+295,2022-05-12 12:23:05.733,juz001@ucsd.edu,,,,I learned about how to change the brightness of an image.,I don't have any questions,,
+296,2022-05-12 12:23:08.601,ruchiang@ucsd.edu,,no idea :(,A,Learned about more image modification. Definitely need to review the practice review he did in the beginning.,"Super confused, but will try and review. Definitely concerned about how he said we would be lost if we didn't understand today. ",,
+297,2022-05-12 12:23:14.580,tferrarimoreno@ucsd.edu,,,,I learned about images. We also learned a little bit of transformations as well. ,I am just a little confused about the case 8a library and all the imported things. ,,
+298,2022-05-12 12:23:16.108,r4xiao@ucsd.edu,,,,,The rest part of the lecture ,,
+299,2022-05-12 12:23:20.419,nneal@ucsd.edu,,,,Image transformation is super format specific. Especially making sure that ranges are in bounds.,I don't think I have any questions but I will need to review this lecture.,,
+300,2022-05-12 12:23:23.881,afaisal@ucsd.edu,,,,"I learned more about images. More specifically, I learned about date typing images.",Still confused about tuples,,
+301,2022-05-12 12:23:24.327,mil049@ucsd.edu,,I am not sure,B,I learned about images. I also learned about 2D lists of tuples.,do checker,,
+302,2022-05-12 12:23:31.855,sgomezmartinez@ucsd.edu,,,,A key idea that I learned is that I should pay attention to height and width. It's important to keep these things in mind because it can make filters work wrongly.,The most confusing thing was still tuples and how they interact with the rest of the code.,,
+303,2022-05-12 12:23:37.156,pfuentes@ucsd.edu,,It will print out the image ,C,I learned of the different ways we can interact with images using 2d lists. It was also interesting to see how designers/programmers could you python to aid their art!,I guess the part of img to file part.,,
+304,2022-05-12 12:23:41.446,mzlarsen@ucsd.edu,,,A,I learned about how to apply filters to pictures. I also learned about how to apply filters to pictures on only a specific region,I am still a little confused about nested for loops with regard to images,,
+305,2022-05-12 12:23:43.437,mwidyadh@ucsd.edu,,-,B,image transformation and that tuple objects are immutable,the checker image transformation... I think i need to go over it again,,
+306,2022-05-12 12:23:49.968,juc010@ucsd.edu,,,,Today I understood images more and how to modify them. I understand how to use the CSE8A library more. ,I don't think I was very confused at all during today's lecture since it was all broken down very well. But perhaps I will have some confusion when I dive deeper into the PA. ,,
+307,2022-05-12 12:23:51.784,ftaraporevala@ucsd.edu,,,D,"I learned that unless the image folder is open and we format the filename call to include that folder, any call to an image will result in an error. I also learned that tuples are immutable",What I found most confusing was all the functions we created to deal with images,,
+308,2022-05-12 12:23:52.389,m5lee@ucsd.edu,,,,I overall just got a better understanding of how to target specific parts of an image for transformation (or the whole image).  I was struggling a bit on the lab with doing some of the image transformations but this lecture helped to solidify some of those ideas so I feel more confident in completing that now.,No questions,,
+309,2022-05-12 12:23:53.038,ejs001@ucsd.edu,,,,"One key idea that I learned was about how to reduce brightness in an image by making sure to get the correct range. Then, I learned how this image transformation can be applied even further to make certain sections of the image into different colors. ",No questions ,,
+310,2022-05-12 12:24:03.189,mljimenez@ucsd.edu,,,,"One key idea I learned was how to change the brightness on an image, and how to change the color. I also learned more about how rows and columns work. ","I did not find todays lecture to be confusing, and understood what was being taught. ",,
+311,2022-05-12 12:24:04.869,rojiang@ucsd.edu,,,,image transformation,image transformation,,
+312,2022-05-12 12:24:06.927,cllian@ucsd.edu,,,,How to use incremental development to write image transformation programs.,I didn't have any questions personally.,,
+313,2022-05-12 12:24:41.011,m1sosa@ucsd.edu,,,,I learned about how to identify errors in our code. It was interesting to see how small mistakes can lead to big errors in our code as was shown with the cat example. ,N/A ,,
+314,2022-05-12 12:25:01.274,mschaar@ucsd.edu,,To get a portion of img.,D,I learned how to color portions of an image. I also learned how to dim an image.,Nothing really. :),,
+315,2022-05-12 12:25:42.675,r2diaz@ucsd.edu,,,,today we reviewed 2D lists and tuples which i found really helpful! we also went over the basic process/steps to transforming an image. ,The idea of boundary conditions definitely confuses me. ,,
+316,2022-05-12 12:25:49.437,m1sosa@ucsd.edu,,,C,,,,
+317,2022-05-12 12:25:57.520,msitu@ucsd.edu,,,,"You can use print statements to print an image, but only the tuple 2D list representation. If it is a large image, it will print for a very long time and that is not ideal.",I still don't quite know how the files outside of the python code interact with each other to manipulate images.,,
+318,2022-05-12 12:26:04.015,jom009@ucsd.edu,,,,Today A key idea I learned was how to incorporate real images from the CSE8AImage library. A big thing was how to prevent an error when relating to this situation and properly incorporate in the code ,I dont really have anything for right now ,,
+319,2022-05-12 12:26:24.890,c2ding@ucsd.edu,It will print out the 2D lists of the tuples of the image.,It's transforming the top left corner (1/4) area of an 8*8 white pixel to black.,D,"I learned the detailed process of transforming the images. Besides, I learned different methods of loading or creating images.",Nothing confused so far.,2D list of tuples,It will cause the error: list index out of range.
+320,2022-05-12 12:26:28.451,vyeh@ucsd.edu,,It stores all the conditions of what we want to apply/change to the image?,B,Learning about how to do image transformations with using checker patterns as an example of doing that. I can see important it is to pay attention to detail to avoid making errors.,,,
+321,2022-05-12 12:26:40.435,anc022@ucsd.edu,,the mystery function is returning the image to a file,B,"The key idea that I learned is to be more patient, any deetail could make your code full of bug",no,,
+322,2022-05-12 12:26:54.380,hgolay@ucsd.edu,,,,"One key idea I learned in todays lecture was modifying specific areas of an image using start rows, start columns, and the length. I also learned hoe to transform images both from lecture and in lab. Thank you so much and have a great day.",One thing that is still a little bit confusing from lecture is the math aspect of the lecture and the conceptualizing of the code. Other than that nothing super confusing was taught in lecture and professor did a great job of explaining everything throughly.,,
+323,2022-05-12 12:26:55.052,nanaranj@ucsd.edu,,"It creates a white 8x8 square, then turns a certain square in the square black.",D,"i learned that to create a square in an image to be changed, you have to set a start row, start column and level value in order to get the end row and end columns value and change a certain part in the square. We say this method being used in the checkered method that was provided in the lecture.","No questions, there was nothing confusing",,
+324,2022-05-12 12:28:33.139,snunga@ucsd.edu,,,,"With for loops, we can deal with images of any size. We also use tuples, which are immutable, to play around with the pixel values. 2D lists of tuples can represent color information of pixels in images.",How can we incorporate functions when dealing with images? ,,
+325,2022-05-12 12:29:29.062,gmendez@ucsd.edu,,,,I learned about images and how to print them line by line. And how to debug them.,Everything was clear to me.,,
+326,2022-05-12 12:31:16.767,zpires@ucsd.edu,An error is thrown ,it places a white filter over a selected image ,C,Today I learned that tunibles are immutible. This means they cannot be changed.,2D lists and creating an image is still a buit confusing ,2D list of tuples,The index will be out of range
+327,2022-05-12 12:34:49.344,mmao@ucsd.edu,,,D,"One key idea I learned today is how to do basic transformation of an image. This can be done by defining functions and using different parameters like img, levels, height, width, and starting points. The parameters will help define/target certain pixels in the image for the transformation to occur. ",Something I am still confused about is how to reason out how to write the checker pattern with the different colored checker sections.,,
+328,2022-05-12 12:35:50.529,ndong@ucsd.edu,,,,I learned how to find the points or coordinates of an image. I also am more familiar with lists and tuples.,I am a little confused about writing an actual code with the given numbers we get. ,,
+329,2022-05-12 12:44:06.919,alefavebailey@ucsd.edu,an error occurs when printed because the file is not open,,C,,,2D list of tuples,"range will be out of bounds, causing an error"
+330,2022-05-12 13:18:13.517,l3wang@ucsd.edu,,,,I learn about how to deal with image and library. How to darken a picture.,I am a little confused about the difference between pixel and tuple,,
+331,2022-05-12 13:19:44.508,e5lim@ucsd.edu,,,,One key idea I learned in today's class is to start with a small image when writing long codes for filters. The code won't take a long time to run and it can be easier to fix errors.,I don't have any questions about today's lecture.,,
+332,2022-05-12 14:25:12.472,larcinas@ucsd.edu,cat_img loads in ,"I think that this function saves a text file into the images folder and a new image is created in a different size, but all in white. ",B,I learned that images can be transformed by swapping height/width values in python. I also learned that patterns can also be made as a filter. ,I think the most confusing was probably edge cases,2D list of tuples,It will invert!
+333,2022-05-12 15:19:25.968,akhwaja@ucsd.edu,It starts listing the tuples of all of the pixels.,This mystery function will,,"I learned that for Python to understand a type (""Amanda"") as a tuple, you should add a comma after ""Amanda"" like this (""Amanda"", ). This way, it'll be taken as a tuple, not a string.",,2D list of tuples,
+334,2022-05-12 19:05:49.309,s3gill@ucsd.edu,  After you print cat image it shows up as the image of a cat when the code runs. ,The mystery function will print out a image.,C,I learned how to print images. I also learned about the mystery function. ,Nothing yet.,2D list of tuples, If you swap the height and the width then the image will look like it is backwards. 
+335,2022-05-12 20:13:20.647,kygu@ucsd.edu,the image will pop out,mystery function is for creating the img in 2d,B,checker pattern,it's little bit hard to understand the coding logic for 2d,String of tuples,it will change side
+336,2022-05-12 21:01:55.799,yiw125@ucsd.edu,it gonna keep printing the text data,take half of the imageit ,A,I learned transformation of images. How to change the original image and set its position,I still quite confused about those new strings introduced in the class.,2D list of tuples,
+337,2022-05-12 22:07:46.623,b1lin@ucsd.edu,,The mystery function aims to turn the top left quarter of the given image to black. ,D,"In today's class, we reviewed the concepts and applications of images and tuples. Moreover, we also learned how to transform images. ",I'm curious and still a little confused about how could we transform images based on its column instead of row. ,,
+338,2022-05-13 00:15:23.092,adobbins@ucsd.edu,,"This code is first creating an all black 8x8 image (height 8, width 8). It then passes this image to the mystery function, which makes the lower left corner of the image all white. In other words, you can thing of the original image being an all black square, and the mystery function makes the third quadrant all white. Then the data of this image is put into a text file.",A,"I learned that when you change the range of the code you can only manage to run it if it is within the img parameters, but once you pass a certain number you encounter an error. I also learned that you can change the brightness of an img using code functions.",I am still a little confused on the mystery function.,,

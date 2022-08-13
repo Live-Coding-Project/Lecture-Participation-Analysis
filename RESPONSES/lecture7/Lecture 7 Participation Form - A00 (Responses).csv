@@ -1,0 +1,566 @@
+,Timestamp,Email Address,Review 1,Review 2,Big idea #1,Big idea #2,Big Idea #3,"Big idea #4 - Scenario 1: You are writing a loop to validate a password entered by the user. If the user’s password does not meet the criteria (at least 8 characters), you should prompt the user to try again. Which loop will you use here and why?------------------------------------------------------------------------------------------------------------------------------Scenario 2: You want to loop through a list of student names and print their names in a specified format (last, first). Which loop will you use and why?",Big idea #5,What is one key idea that you learned in today's class? (2- 3 sentences),What questions do you still have about today's lecture? OR What did you find the most confusing about today's lecture?
+0,2022-04-19 09:40:30.314,lschoute@ucsd.edu,10.0,,,,,,,,
+1,2022-04-19 09:40:44.672,bwheeloc@ucsd.edu,10.0,True,,,,,,,
+2,2022-04-19 09:40:45.350,chc031@ucsd.edu,2.0,,,,,,,,
+3,2022-04-19 09:41:01.248,hjfernandez@ucsd.edu,10.0,,,,,,,,
+4,2022-04-19 09:41:06.813,jtlee@ucsd.edu,2.0,False,,,,,,,
+5,2022-04-19 09:41:36.564,rbartlett@ucsd.edu,10.0,Error,,,,,,,
+6,2022-04-19 09:52:14.435,anmiao@ucsd.edu,10.0,True,hour <= 0 and hour >= 23,100000000000000000000000000000000000000000 times,8.0,For loops for the first one because i know the number of items before entering the loops. While loops for the second one because I didn know the number of iterations  before entering the loops.,"Any of the three words ""live"", ""love"", and ""laugh"" will be printed but sometimes an error may be thrown","We learned the basics for the loops, while loops, infinite loops and how to using conditional in for loops and range.",No
+7,2022-04-19 09:52:50.574,bthome@ucsd.edu,10.0,,,,,,,,
+8,2022-04-19 09:53:40.410,mbompat@ucsd.edu,2.0,False,,,,,,,
+9,2022-04-19 09:53:42.588,rhuyck@ucsd.edu,2.0,True,,,,,,,
+10,2022-04-19 09:53:57.923,hwolf@ucsd.edu,10.0,False,,,,,,,
+11,2022-04-19 09:53:59.892,tanewman@ucsd.edu,10.0,True,,,,,,,
+12,2022-04-19 09:54:04.187,acramesh@ucsd.edu,3.0,True,,,,,,,
+13,2022-04-19 09:54:04.954,a7rios@ucsd.edu,3.0,,,,,,,,
+14,2022-04-19 09:54:08.256,biw007@ucsd.edu,10.0,,,,,,,,
+15,2022-04-19 09:54:08.972,kzajkowski@ucsd.edu,3.0,,,,,,,,
+16,2022-04-19 09:54:11.499,jfoo@ucsd.edu,2.0,False,,,,,,,
+17,2022-04-19 09:54:11.856,e4li@ucsd.edu,2.0,False,,,,,,,
+18,2022-04-19 09:54:17.964,jnhuynh@ucsd.edu,,False,,,,,,,
+19,2022-04-19 09:54:22.010,rlopezmo@ucsd.edu,2.0,,,,,,,,
+20,2022-04-19 09:54:23.106,nateng@ucsd.edu,10.0,,,,,,,,
+21,2022-04-19 09:54:26.673,kac012@ucsd.edu,2.0,,,,,,,,
+22,2022-04-19 09:54:29.413,chc031@ucsd.edu,2.0,,,,,,,,
+23,2022-04-19 09:54:33.288,kteran@ucsd.edu,10.0,,,,,,,,
+24,2022-04-19 09:54:37.861,basalmon@ucsd.edu,3.0,Error,,,,,,,
+25,2022-04-19 09:54:43.912,bgee@ucsd.edu,50.0,,,,,,,,
+26,2022-04-19 09:54:45.426,e3yu@ucsd.edu,2.0,,,,,,,,
+27,2022-04-19 09:54:50.943,gstilson@ucsd.edu,2.0,False,,,,,,,
+28,2022-04-19 09:54:53.360,lschoute@ucsd.edu,10.0,,,,,,,,
+29,2022-04-19 09:54:55.349,acarbajalsensente@ucsd.edu,10.0,,,,,,,,
+30,2022-04-19 09:54:56.408,jmyint@ucsd.edu,10.0,,,,,,,,
+31,2022-04-19 09:54:57.006,h6dong@ucsd.edu,3.0,,,,,,,,
+32,2022-04-19 09:54:57.291,hjfernandez@ucsd.edu,10.0,,,,,,,,
+33,2022-04-19 09:54:57.379,mimamura@ucsd.edu,3.0,False,,,,,,,
+34,2022-04-19 09:54:58.149,stseo@ucsd.edu,2.0,,,,,,,,
+35,2022-04-19 09:54:59.710,s3cho@ucsd.edu,10.0,Error,,,,,,,
+36,2022-04-19 09:55:01.584,clchou@ucsd.edu,50.0,,,,,,,,
+37,2022-04-19 09:55:03.830,ffalzony@ucsd.edu,2.0,True,,,,,,,
+38,2022-04-19 09:55:11.036,j8cao@ucsd.edu,10.0,True,,,,,,,
+39,2022-04-19 09:55:11.704,dkeovanna@ucsd.edu,50.0,,,,,,,,
+40,2022-04-19 09:55:14.424,cradaell@ucsd.edu,10.0,True,,,,,,,
+41,2022-04-19 09:55:14.640,susmani@ucsd.edu,2.0,False,,,,,,,
+42,2022-04-19 09:55:16.439,ggehr@ucsd.edu,3.0,,,,,,,,
+43,2022-04-19 09:55:18.390,aguzmanramos@ucsd.edu,3.0,,,,,,,,
+44,2022-04-19 09:55:18.402,achiang@ucsd.edu,2.0,,,,,,,,
+45,2022-04-19 09:55:20.925,b4song@ucsd.edu,2.0,,,,,,,,
+46,2022-04-19 09:55:22.458,w3zou@ucsd.edu,2.0,,,,,,,,
+47,2022-04-19 09:55:24.607,cdquinon@ucsd.edu,10.0,False,,,,,,,
+48,2022-04-19 09:55:25.985,tserna@ucsd.edu,2.0,,,,,,,,
+49,2022-04-19 09:55:28.473,namarque@ucsd.edu,10.0,,,,,,,,
+50,2022-04-19 09:55:29.796,kemendoza@ucsd.edu,10.0,,,,,,,,
+51,2022-04-19 09:55:30.007,mcasasjimenez@ucsd.edu,2.0,,,,,,,,
+52,2022-04-19 09:55:30.890,srseay@ucsd.edu,10.0,,,,,,,,
+53,2022-04-19 09:55:36.192,vbatres@ucsd.edu,3.0,False,,,,,,,
+54,2022-04-19 09:55:40.088,j5medina@ucsd.edu,2.0,,,,,,,,
+55,2022-04-19 09:55:42.865,zquan@ucsd.edu,2.0,,,,,,,,
+56,2022-04-19 09:55:44.198,jal050@ucsd.edu,3.0,,,,,,,,
+57,2022-04-19 09:55:44.307,c1brower@ucsd.edu,2.0,,,,,,,,
+58,2022-04-19 09:55:44.613,rushi@ucsd.edu,2.0,,,,,,,,
+59,2022-04-19 09:55:46.683,xixie@ucsd.edu,2.0,,,,,,,,
+60,2022-04-19 09:55:46.907,kstraight@ucsd.edu,3.0,,,,,,,,
+61,2022-04-19 09:55:48.936,zusyed@ucsd.edu,50.0,,,,,,,,
+62,2022-04-19 09:55:49.233,auellis@ucsd.edu,10.0,,,,,,,,
+63,2022-04-19 09:55:49.536,alcedill@ucsd.edu,10.0,,,,,,,,
+64,2022-04-19 09:55:50.049,sjs001@ucsd.edu,3.0,Error,,,,,,,
+65,2022-04-19 09:55:50.351,yug023@ucsd.edu,2.0,,,,,,,,
+66,2022-04-19 09:55:50.460,bto@ucsd.edu,2.0,,,,,,,,
+67,2022-04-19 09:55:50.997,yij013@ucsd.edu,50.0,False,,,,,,,
+68,2022-04-19 09:55:51.553,amphan@ucsd.edu,2.0,,,,,,,,
+69,2022-04-19 09:55:51.726,n1vasque@ucsd.edu,3.0,,,,,,,,
+70,2022-04-19 09:55:52.488,zhc037@ucsd.edu,2.0,,,,,,,,
+71,2022-04-19 09:55:52.580,amcquade@ucsd.edu,3.0,True,,,,,,,
+72,2022-04-19 09:55:52.866,lkenney@ucsd.edu,10.0,,,,,,,,
+73,2022-04-19 09:55:52.882,nateng@ucsd.edu,2.0,,,,,,,,
+74,2022-04-19 09:55:53.530,lhoeg@ucsd.edu,10.0,,,,,,,,
+75,2022-04-19 09:55:53.945,edqueved@ucsd.edu,10.0,,,,,,,,
+76,2022-04-19 09:55:53.963,jmontehe@ucsd.edu,10.0,,,,,,,,
+77,2022-04-19 09:55:54.650,bthome@ucsd.edu,10.0,,,,,,,,
+78,2022-04-19 09:55:55.485,jamarin@ucsd.edu,10.0,True,,,,,,,
+79,2022-04-19 09:55:55.748,sedu@ucsd.edu,2.0,,,,,,,,
+80,2022-04-19 09:55:55.806,yiperez@ucsd.edu,2.0,False,,,,,,,
+81,2022-04-19 09:55:55.813,esquan@ucsd.edu,10.0,False,,,,,,,
+82,2022-04-19 09:55:55.850,mbarawid@ucsd.edu,2.0,,,,,,,,
+83,2022-04-19 09:55:55.986,fmassa@ucsd.edu,10.0,True,,,,,,,
+84,2022-04-19 09:55:56.850,rrangarajan@ucsd.edu,2.0,,,,,,,,
+85,2022-04-19 09:55:57.028,yij002@ucsd.edu,10.0,,,,,,,,
+86,2022-04-19 09:55:57.506,apotapenko@ucsd.edu,3.0,,,,,,,,
+87,2022-04-19 09:56:00.146,jir004@ucsd.edu,10.0,,,,,,,,
+88,2022-04-19 09:56:04.922,pvn002@ucsd.edu,10.0,,,,,,,,
+89,2022-04-19 09:56:09.777,aaali@ucsd.edu,2.0,,,,,,,,
+90,2022-04-19 09:56:10.795,anamador@ucsd.edu,10.0,,,,,,,,
+91,2022-04-19 09:56:13.334,jndixon@ucsd.edu,10.0,,,,,,,,
+92,2022-04-19 09:56:14.293,ccalzadavargas@ucsd.edu,10.0,,,,,,,,
+93,2022-04-19 09:56:14.364,dkprajapati@ucsd.edu,2.0,,,,,,,,
+94,2022-04-19 09:56:15.594,krdocuyanan@ucsd.edu,10.0,,,,,,,,
+95,2022-04-19 09:56:19.624,avgutier@ucsd.edu,10.0,,,,,,,,
+96,2022-04-19 09:56:22.028,siwatsuki@ucsd.edu,2.0,,,,,,,,
+97,2022-04-19 09:56:32.189,ncduarte@ucsd.edu,2.0,Fear,,,,,,,
+98,2022-04-19 09:56:52.137,areal@ucsd.edu,50.0,,,,,,,,
+99,2022-04-19 09:57:52.744,emb009@ucsd.edu,2.0,,,,,,,,
+100,2022-04-19 10:01:05.828,achiang@ucsd.edu,,False,,,,,,,
+101,2022-04-19 10:01:57.552,ggehr@ucsd.edu,2.0,,,,,,,,
+102,2022-04-19 10:05:20.741,lkenney@ucsd.edu,,True,,,,,,,
+103,2022-04-19 10:05:53.434,zquan@ucsd.edu,,True,,,,,,,
+104,2022-04-19 10:06:12.814,edqueved@ucsd.edu,,True,,,,,,,
+105,2022-04-19 10:06:32.141,clchou@ucsd.edu,,Fear,,,,,,,
+106,2022-04-19 10:06:36.945,bgee@ucsd.edu,,Fear,,,,,,,
+107,2022-04-19 10:08:23.378,kochoa@ucsd.edu,10.0,,,,,,,,
+108,2022-04-19 10:08:43.001,chc031@ucsd.edu,,False,,,,,,,
+109,2022-04-19 10:09:04.126,kochoa@ucsd.edu,,Error,,,,,,,
+110,2022-04-19 10:11:37.259,tanewman@ucsd.edu,,,hour >= 0 and hour <= 23,,,,,,
+111,2022-04-19 10:14:54.058,edqueved@ucsd.edu,,,"not (hour >= 0 and hour <= 23), hour < 0 and hour > 23",,,,,,
+112,2022-04-19 10:15:09.876,jamarin@ucsd.edu,,,"hour >= 0 and hour <= 23, hour <= 0 and hour >= 23",,,,,,
+113,2022-04-19 10:15:30.547,acramesh@ucsd.edu,,,"not (hour >= 0 and hour <= 23), hour <= 0 and hour >= 23",,,,,,
+114,2022-04-19 10:15:30.960,sedu@ucsd.edu,,,hour < 0 and hour > 23,,,,,,
+115,2022-04-19 10:15:31.823,edqueved@ucsd.edu,,,,0.0,,,,,
+116,2022-04-19 10:15:53.134,aguzmanramos@ucsd.edu,,False,,,,,,,
+117,2022-04-19 10:16:24.988,mimamura@ucsd.edu,,,hour >= 0 and hour <= 23,,,,,,
+118,2022-04-19 10:17:05.589,chc031@ucsd.edu,,,"hour <= 0 and hour >= 23, hour < 0 and hour > 23",,,,,,
+119,2022-04-19 10:17:06.657,sedu@ucsd.edu,,False,,,,,,,
+120,2022-04-19 10:17:19.762,achiang@ucsd.edu,,,hour >= 0 and hour <= 23,,,,,,
+121,2022-04-19 10:20:16.484,hwolf@ucsd.edu,,,not (hour >= 0 and hour <= 23),0.0,,,,,
+122,2022-04-19 10:20:50.535,jfoo@ucsd.edu,,,"not (hour >= 0 and hour <= 23), hour < 0 and hour > 23",Infinite number of times,,,,,
+123,2022-04-19 10:20:52.491,mbompat@ucsd.edu,,,hour < 0 and hour > 23,0.0,,,,,
+124,2022-04-19 10:20:55.554,acramesh@ucsd.edu,,,,0.0,,,,,
+125,2022-04-19 10:20:56.356,stseo@ucsd.edu,,,,Infinite number of times,,,,,
+126,2022-04-19 10:20:59.893,kzajkowski@ucsd.edu,,,,1.0,,,,,
+127,2022-04-19 10:21:00.180,sedu@ucsd.edu,,,,0.0,,,,,
+128,2022-04-19 10:21:01.403,pvn002@ucsd.edu,,,,0.0,,,,,
+129,2022-04-19 10:21:02.123,rhuyck@ucsd.edu,,,"not (hour >= 0 and hour <= 23), hour <= 0 and hour >= 23",0.0,,,,,
+130,2022-04-19 10:21:02.325,gstilson@ucsd.edu,,,"not (hour >= 0 and hour <= 23), hour < 0 and hour > 23",Infinite number of times,,,,,
+131,2022-04-19 10:21:03.637,e4li@ucsd.edu,,,"not (hour >= 0 and hour <= 23), hour < 0 and hour > 23",0.0,,,,,
+132,2022-04-19 10:21:03.660,chc031@ucsd.edu,,,,0.0,,,,,
+133,2022-04-19 10:21:03.936,apotapenko@ucsd.edu,,,,Infinite number of times,,,,,
+134,2022-04-19 10:21:04.503,n1vasque@ucsd.edu,,,"not (hour >= 0 and hour <= 23), hour >= 0 and hour <= 23",,,,,,
+135,2022-04-19 10:21:05.588,yij013@ucsd.edu,,,,Infinite number of times,,,,,
+136,2022-04-19 10:21:06.195,h6dong@ucsd.edu,,,,0.0,,,,,
+137,2022-04-19 10:21:06.503,kstraight@ucsd.edu,,,,Infinite number of times,,,,,
+138,2022-04-19 10:21:06.924,kac012@ucsd.edu,,,,Infinite number of times,,,,,
+139,2022-04-19 10:21:07.064,fmassa@ucsd.edu,2.0,True,,0.0,,,,,
+140,2022-04-19 10:21:08.433,jamarin@ucsd.edu,,,,0.0,,,,,
+141,2022-04-19 10:21:08.568,jmyint@ucsd.edu,,,,Infinite number of times,,,,,
+142,2022-04-19 10:21:08.949,rlopezmo@ucsd.edu,,,,Infinite number of times,,,,,
+143,2022-04-19 10:21:08.952,ffalzony@ucsd.edu,,,,Infinite number of times,,,,,
+144,2022-04-19 10:21:09.738,hjfernandez@ucsd.edu,2.0,,hour <= 0 and hour >= 23,100000000000000000000000000000000000000000 times,,,,,
+145,2022-04-19 10:21:09.867,aguzmanramos@ucsd.edu,,,,0.0,,,,,
+146,2022-04-19 10:21:10.557,w3zou@ucsd.edu,,,,0.0,,,,,
+147,2022-04-19 10:21:10.844,n1vasque@ucsd.edu,,False,,,,,,,
+148,2022-04-19 10:21:11.697,b4song@ucsd.edu,,,,0.0,,,,,
+149,2022-04-19 10:21:12.438,nateng@ucsd.edu,,,,0.0,,,,,
+150,2022-04-19 10:21:12.877,dkeovanna@ucsd.edu,,False,hour < 0 and hour > 23,0.0,,,,,
+151,2022-04-19 10:21:15.163,alcedill@ucsd.edu,,,,Infinite number of times,,,,,
+152,2022-04-19 10:21:15.694,zusyed@ucsd.edu,,,,Infinite number of times,,,,,
+153,2022-04-19 10:21:15.802,kteran@ucsd.edu,,,,1.0,,,,,
+154,2022-04-19 10:21:16.226,j5medina@ucsd.edu,,,hour <= 0 and hour >= 23,Infinite number of times,,,,,
+155,2022-04-19 10:21:16.827,susmani@ucsd.edu,,,,Infinite number of times,,,,,
+156,2022-04-19 10:21:16.986,zquan@ucsd.edu,,,hour >= 0 and hour <= 23,Infinite number of times,,,,,
+157,2022-04-19 10:21:17.301,aaali@ucsd.edu,,,not (hour >= 0 and hour <= 23),Infinite number of times,,,,,
+158,2022-04-19 10:21:18.203,rushi@ucsd.edu,,,,0.0,,,,,
+159,2022-04-19 10:21:18.269,jir004@ucsd.edu,,,hour < 0 and hour > 23,1.0,,,,,
+160,2022-04-19 10:21:18.309,tserna@ucsd.edu,,,,0.0,,,,,
+161,2022-04-19 10:21:18.584,amphan@ucsd.edu,,,,0.0,,,,,
+162,2022-04-19 10:21:19.650,c1brower@ucsd.edu,,,,0.0,,,,,
+163,2022-04-19 10:21:20.245,jtlee@ucsd.edu,,,,0.0,,,,,
+164,2022-04-19 10:21:20.571,lkenney@ucsd.edu,,,,Infinite number of times,,,,,
+165,2022-04-19 10:21:20.653,bthome@ucsd.edu,,,,0.0,,,,,
+166,2022-04-19 10:21:20.946,namarque@ucsd.edu,,,,Infinite number of times,,,,,
+167,2022-04-19 10:21:21.098,jnhuynh@ucsd.edu,,,,Infinite number of times,,,,,
+168,2022-04-19 10:21:21.245,yij002@ucsd.edu,,,,1.0,,,,,
+169,2022-04-19 10:21:21.808,yug023@ucsd.edu,,,,Infinite number of times,,,,,
+170,2022-04-19 10:21:22.208,n1vasque@ucsd.edu,,,,100000000000000000000000000000000000000000 times,,,,,
+171,2022-04-19 10:21:22.390,bto@ucsd.edu,,True,"not (hour >= 0 and hour <= 23), hour >= 0 and hour <= 23",Infinite number of times,,,,,
+172,2022-04-19 10:21:22.421,a7rios@ucsd.edu,,,,1.0,,,,,
+173,2022-04-19 10:21:22.826,lhoeg@ucsd.edu,,False,hour >= 0 and hour <= 23,1.0,,,,,
+174,2022-04-19 10:21:23.492,basalmon@ucsd.edu,,,,Infinite number of times,,,,,
+175,2022-04-19 10:21:23.744,xixie@ucsd.edu,,True,,1.0,,,,,
+176,2022-04-19 10:21:24.078,zhc037@ucsd.edu,,,,Infinite number of times,,,,,
+177,2022-04-19 10:21:24.142,acarbajalsensente@ucsd.edu,,,,100000000000000000000000000000000000000000 times,,,,,
+178,2022-04-19 10:21:24.176,mimamura@ucsd.edu,,,,0.0,,,,,
+179,2022-04-19 10:21:24.183,cdquinon@ucsd.edu,,,hour >= 0 and hour <= 23,0.0,,,,,
+180,2022-04-19 10:21:25.275,vbatres@ucsd.edu,,,,100000000000000000000000000000000000000000 times,,,,,
+181,2022-04-19 10:21:25.339,mrenteri@ucsd.edu,10.0,,,0.0,,,,,
+182,2022-04-19 10:21:25.419,kochoa@ucsd.edu,,,,Infinite number of times,,,,,
+183,2022-04-19 10:21:25.665,dkprajapati@ucsd.edu,,,,Infinite number of times,,,,,
+184,2022-04-19 10:21:25.808,ggehr@ucsd.edu,,,,Infinite number of times,,,,,
+185,2022-04-19 10:21:26.883,rbartlett@ucsd.edu,,,,Infinite number of times,,,,,
+186,2022-04-19 10:21:27.084,auellis@ucsd.edu,,,hour >= 0 and hour <= 23,Infinite number of times,,,,,
+187,2022-04-19 10:21:28.147,lschoute@ucsd.edu,,,,100000000000000000000000000000000000000000 times,,,,,
+188,2022-04-19 10:21:28.453,anamador@ucsd.edu,,True,hour <= 0 and hour >= 23,Infinite number of times,,,,,
+189,2022-04-19 10:21:28.637,mbarawid@ucsd.edu,,,,Infinite number of times,,,,,
+190,2022-04-19 10:21:29.065,jnhuynh@ucsd.edu,,,,0.0,,,,,
+191,2022-04-19 10:21:29.231,mcasasjimenez@ucsd.edu,,True,not (hour >= 0 and hour <= 23),1.0,,,,,
+192,2022-04-19 10:21:29.543,e3yu@ucsd.edu,,False,hour >= 0 and hour <= 23,0.0,,,,,
+193,2022-04-19 10:21:29.711,sjs001@ucsd.edu,,,"hour >= 0 and hour <= 23, hour < 0 and hour > 23",Infinite number of times,,,,,
+194,2022-04-19 10:21:31.510,kemendoza@ucsd.edu,,,,Infinite number of times,,,,,
+195,2022-04-19 10:21:32.795,srseay@ucsd.edu,,,,1.0,,,,,
+196,2022-04-19 10:21:34.058,rrangarajan@ucsd.edu,,,,Infinite number of times,,,,,
+197,2022-04-19 10:21:35.731,jmontehe@ucsd.edu,,,,0.0,,,,,
+198,2022-04-19 10:21:35.770,biw007@ucsd.edu,,,,Infinite number of times,,,,,
+199,2022-04-19 10:21:36.354,achiang@ucsd.edu,,,,Infinite number of times,,,,,
+200,2022-04-19 10:21:39.115,jal050@ucsd.edu,2.0,,,Infinite number of times,,,,,
+201,2022-04-19 10:21:43.128,j8cao@ucsd.edu,,,,Infinite number of times,,,,,
+202,2022-04-19 10:21:44.823,jndixon@ucsd.edu,,,,100000000000000000000000000000000000000000 times,,,,,
+203,2022-04-19 10:21:49.264,bgee@ucsd.edu,,,hour >= 0 and hour <= 23,,,,,,
+204,2022-04-19 10:21:49.465,s3cho@ucsd.edu,,,not (hour >= 0 and hour <= 23),Infinite number of times,,,,,
+205,2022-04-19 10:21:51.192,siwatsuki@ucsd.edu,,,,0.0,,,,,
+206,2022-04-19 10:21:52.887,avgutier@ucsd.edu,,False,hour >= 0 and hour <= 23,Infinite number of times,,,,,
+207,2022-04-19 10:21:53.308,cradaell@ucsd.edu,,,,0.0,,,,,
+208,2022-04-19 10:21:54.508,clchou@ucsd.edu,,,hour >= 0 and hour <= 23,,,,,,
+209,2022-04-19 10:22:09.738,esquan@ucsd.edu,,,"not (hour >= 0 and hour <= 23), hour <= 0 and hour >= 23",0.0,,,,,
+210,2022-04-19 10:22:22.334,sedu@ucsd.edu,,,,,12.0,,,,
+211,2022-04-19 10:22:42.794,j8cao@ucsd.edu,,,hour <= 0 and hour >= 23,,,,,,
+212,2022-04-19 10:22:53.684,ffalzony@ucsd.edu,,,"not (hour >= 0 and hour <= 23), hour <= 0 and hour >= 23",,,,,,
+213,2022-04-19 10:24:02.287,w3zou@ucsd.edu,,True,hour < 0 and hour > 23,,,,,,
+214,2022-04-19 10:24:33.459,tanewman@ucsd.edu,,,,Infinite number of times,4.0,,,,
+215,2022-04-19 10:24:51.123,bgee@ucsd.edu,,,,Infinite number of times,,,,,
+216,2022-04-19 10:24:52.794,clchou@ucsd.edu,,,,Infinite number of times,,,,,
+217,2022-04-19 10:25:07.396,bwheeloc@ucsd.edu,10.0,True,"hour >= 0 and hour <= 23, hour <= 0 and hour >= 23",1.0,4.0,,,,
+218,2022-04-19 10:26:16.912,jal050@ucsd.edu,2.0,True,"not (hour >= 0 and hour <= 23), hour < 0 and hour > 23",0.0,,,,,
+219,2022-04-19 10:27:12.347,amcquade@ucsd.edu,,,,0.0,,,,,
+220,2022-04-19 10:30:22.607,tanewman@ucsd.edu,,,,,,you would use while loops to test how much it would run,,,
+221,2022-04-19 10:32:27.783,achiang@ucsd.edu,,,,,3.0,,,,
+222,2022-04-19 10:32:34.751,mbompat@ucsd.edu,,,,,3.0,,,,
+223,2022-04-19 10:32:36.446,clchou@ucsd.edu,,,,,4.0,,,,
+224,2022-04-19 10:32:36.950,ccalzadavargas@ucsd.edu,,,,0.0,,,,,
+225,2022-04-19 10:32:40.541,bto@ucsd.edu,,,,,3.0,,,,
+226,2022-04-19 10:32:44.500,sjs001@ucsd.edu,,,,,4.0,,,,
+227,2022-04-19 10:32:45.146,bwheeloc@ucsd.edu,,,,,4.0,,,,
+228,2022-04-19 10:32:46.108,bgee@ucsd.edu,,,,,3.0,,,,
+229,2022-04-19 10:32:47.614,e4li@ucsd.edu,,,,,3.0,,,,
+230,2022-04-19 10:32:52.170,biw007@ucsd.edu,,,,,8.0,,,,
+231,2022-04-19 10:32:52.352,hwolf@ucsd.edu,,,,,3.0,"Scenario #1 - The while loop. The prompt for the user to try again should come up until they make the while loop false (by using a valid number of characters.
+Scenario #2 - The for loop. We want to go through each student ONCE and organize their names correctly. ",,,
+232,2022-04-19 10:32:57.106,n1vasque@ucsd.edu,,,,,8.0,,,,
+233,2022-04-19 10:32:57.106,kteran@ucsd.edu,,,,,4.0,,,,
+234,2022-04-19 10:32:57.265,srseay@ucsd.edu,,,,,4.0,,,,
+235,2022-04-19 10:32:59.817,alcedill@ucsd.edu,,,,,8.0,,,,
+236,2022-04-19 10:33:03.081,j5medina@ucsd.edu,,,,,8.0,,,,
+237,2022-04-19 10:33:03.231,mimamura@ucsd.edu,,,,,3.0,,,,
+238,2022-04-19 10:33:04.117,krdocuyanan@ucsd.edu,,True,hour >= 0 and hour <= 23,1.0,12.0,,,,
+239,2022-04-19 10:33:06.487,gstilson@ucsd.edu,,,,,12.0,,,,
+240,2022-04-19 10:33:07.139,e3yu@ucsd.edu,,,,,3.0,,,,
+241,2022-04-19 10:33:07.885,nateng@ucsd.edu,,True,"not (hour >= 0 and hour <= 23), hour <= 0 and hour >= 23, hour < 0 and hour > 23",0.0,3.0,,,,
+242,2022-04-19 10:33:10.958,jfoo@ucsd.edu,,,,,3.0,,,,
+243,2022-04-19 10:33:12.156,avgutier@ucsd.edu,,,,,4.0,,,,
+244,2022-04-19 10:33:12.451,hjfernandez@ucsd.edu,2.0,,hour <= 0 and hour >= 23,100000000000000000000000000000000000000000 times,8.0,,,,
+245,2022-04-19 10:33:12.498,ffalzony@ucsd.edu,,,,,4.0,,,,
+246,2022-04-19 10:33:14.573,jtlee@ucsd.edu,,,,,3.0,,,,
+247,2022-04-19 10:33:16.577,chc031@ucsd.edu,,,,,3.0,,,,
+248,2022-04-19 10:33:17.786,jnhuynh@ucsd.edu,,,,,12.0,,,,
+249,2022-04-19 10:33:17.861,acarbajalsensente@ucsd.edu,,,,,12.0,,,,
+250,2022-04-19 10:33:21.669,anamador@ucsd.edu,,,,,8.0,,,,
+251,2022-04-19 10:33:22.468,basalmon@ucsd.edu,,,,,8.0,,,,
+252,2022-04-19 10:33:23.053,zquan@ucsd.edu,,,,,8.0,,,,
+253,2022-04-19 10:33:23.890,rushi@ucsd.edu,,,,,3.0,,,,
+254,2022-04-19 10:33:25.837,tserna@ucsd.edu,,,,,4.0,,,,
+255,2022-04-19 10:33:26.484,dkprajapati@ucsd.edu,,,,,3.0,,,,
+256,2022-04-19 10:33:26.956,susmani@ucsd.edu,,,,,3.0,,,,
+257,2022-04-19 10:33:27.077,edqueved@ucsd.edu,,,,,12.0,,,,
+258,2022-04-19 10:33:27.627,kochoa@ucsd.edu,,,,,8.0,,,,
+259,2022-04-19 10:33:27.765,tanewman@ucsd.edu,,,,,,,,I learned how to do while loops but still need more practice. I also found infinite loops kind of confusing. ,Infinite loops were confusing and I think I still need assistance with for loops. 
+260,2022-04-19 10:33:27.915,yij013@ucsd.edu,,,,,4.0,,,,
+261,2022-04-19 10:33:29.356,amcquade@ucsd.edu,,,,,12.0,,,,
+262,2022-04-19 10:33:29.502,aguzmanramos@ucsd.edu,,,,,12.0,,,,
+263,2022-04-19 10:33:29.610,mbarawid@ucsd.edu,,,,,3.0,,,,
+264,2022-04-19 10:33:29.868,xixie@ucsd.edu,,,,,8.0,,,,
+265,2022-04-19 10:33:30.406,siwatsuki@ucsd.edu,,,,,3.0,,,,
+266,2022-04-19 10:33:30.632,fmassa@ucsd.edu,2.0,True,,0.0,8.0,,,,
+267,2022-04-19 10:33:30.769,kzajkowski@ucsd.edu,,,,,3.0,,,,
+268,2022-04-19 10:33:30.795,kstraight@ucsd.edu,,,,,3.0,,,,
+269,2022-04-19 10:33:31.158,stseo@ucsd.edu,,,,,4.0,,,,
+270,2022-04-19 10:33:31.333,kemendoza@ucsd.edu,,,,,4.0,,,,
+271,2022-04-19 10:33:31.757,yug023@ucsd.edu,,,,,3.0,,,,
+272,2022-04-19 10:33:32.120,amphan@ucsd.edu,,,,,12.0,,,,
+273,2022-04-19 10:33:32.593,vbatres@ucsd.edu,,,,,12.0,,,,
+274,2022-04-19 10:33:32.811,cdquinon@ucsd.edu,,,,,8.0,,,,
+275,2022-04-19 10:33:32.851,zusyed@ucsd.edu,,,,,8.0,,,,
+276,2022-04-19 10:33:33.832,cradaell@ucsd.edu,,,,,12.0,,,,
+277,2022-04-19 10:33:34.073,rbartlett@ucsd.edu,,,,,4.0,,,,
+278,2022-04-19 10:33:34.110,dkeovanna@ucsd.edu,,,,,8.0,,,,
+279,2022-04-19 10:33:34.133,yij002@ucsd.edu,,,,,3.0,,,,
+280,2022-04-19 10:33:34.469,rhuyck@ucsd.edu,,,,,3.0,,,,
+281,2022-04-19 10:33:34.544,jmontehe@ucsd.edu,,,,,8.0,,,,
+282,2022-04-19 10:33:35.028,pvn002@ucsd.edu,,,,,8.0,,,,
+283,2022-04-19 10:33:35.120,mcasasjimenez@ucsd.edu,,,,,3.0,,,,
+284,2022-04-19 10:33:35.274,mrenteri@ucsd.edu,,,,,12.0,,,,
+285,2022-04-19 10:33:35.396,lkenney@ucsd.edu,,,,,4.0,,,,
+286,2022-04-19 10:33:35.542,a7rios@ucsd.edu,,,,,4.0,,,,
+287,2022-04-19 10:33:35.682,zhc037@ucsd.edu,,,,,12.0,,,,
+288,2022-04-19 10:33:35.708,jamarin@ucsd.edu,,,,,8.0,,,,
+289,2022-04-19 10:33:35.799,lschoute@ucsd.edu,,,,,3.0,,,,
+290,2022-04-19 10:33:36.267,w3zou@ucsd.edu,,,,,12.0,,,,
+291,2022-04-19 10:33:36.396,areal@ucsd.edu,,,,,12.0,,,,
+292,2022-04-19 10:33:36.688,rlopezmo@ucsd.edu,,,,1.0,3.0,,,,
+293,2022-04-19 10:33:36.755,s3cho@ucsd.edu,,,,,12.0,,,,
+294,2022-04-19 10:33:36.983,acramesh@ucsd.edu,,,,,8.0,,,,
+295,2022-04-19 10:33:37.218,lhoeg@ucsd.edu,,,,,4.0,,,,
+296,2022-04-19 10:33:38.474,c1brower@ucsd.edu,,,,,4.0,,,,
+297,2022-04-19 10:33:38.890,esquan@ucsd.edu,,,,,8.0,,,,
+298,2022-04-19 10:33:39.346,rrangarajan@ucsd.edu,,,,,12.0,,,,
+299,2022-04-19 10:33:40.365,jmyint@ucsd.edu,,,,,8.0,,,,
+300,2022-04-19 10:33:40.391,jal050@ucsd.edu,2.0,True,"not (hour >= 0 and hour <= 23), hour < 0 and hour > 23",0.0,4.0,,,,
+301,2022-04-19 10:33:43.025,jndixon@ucsd.edu,,,,,8.0,,,,
+302,2022-04-19 10:33:54.375,kac012@ucsd.edu,,,,,12.0,,,,
+303,2022-04-19 10:33:55.268,j8cao@ucsd.edu,,,,,3.0,,,,
+304,2022-04-19 10:33:55.485,namarque@ucsd.edu,,,,,8.0,,,,
+305,2022-04-19 10:34:04.292,bthome@ucsd.edu,,,,,4.0,,,,
+306,2022-04-19 10:34:04.993,ccalzadavargas@ucsd.edu,,,,,3.0,,,,
+307,2022-04-19 10:34:05.502,apotapenko@ucsd.edu,,,,,4.0,,,,
+308,2022-04-19 10:34:06.751,ncduarte@ucsd.edu,,,hour >= 0 and hour <= 23,Infinite number of times,3.0,,,,
+309,2022-04-19 10:34:07.087,jir004@ucsd.edu,,,,,3.0,,,,
+310,2022-04-19 10:34:14.382,emb009@ucsd.edu,2.0,False,"not (hour >= 0 and hour <= 23), hour <= 0 and hour >= 23, hour < 0 and hour > 23",Infinite number of times,3.0,,,,
+311,2022-04-19 10:34:19.385,h6dong@ucsd.edu,,,,,3.0,,,,
+312,2022-04-19 10:34:19.454,yiperez@ucsd.edu,,,,Infinite number of times,3.0,,,,
+313,2022-04-19 10:34:30.710,aaali@ucsd.edu,,,,,3.0,,,,
+314,2022-04-19 10:34:36.416,b4song@ucsd.edu,,,,,3.0,,,,
+315,2022-04-19 10:36:54.104,aguzmanramos@ucsd.edu,,,"not (hour >= 0 and hour <= 23), hour <= 0 and hour >= 23",,,,,,
+316,2022-04-19 10:39:38.520,mlruiz@ucsd.edu,3.0,True,,,,,,,
+317,2022-04-19 10:39:59.730,aguzmanramos@ucsd.edu,,,,,,I would use a while loop for scenario 1 because we want the loop to iterate while the condition is through. In scenario 2 I would use a for loop because  i want the list to be my range ,,,
+318,2022-04-19 10:40:34.391,jal050@ucsd.edu,2.0,True,"not (hour >= 0 and hour <= 23), hour < 0 and hour > 23",0.0,3.0,"For scenario 1, I would use a while loop because I want the user to try again before giving them the okay on their password. This could go on a numerous amount of iterations. For scenario 2, I know the amount of iterations based on the list of student names I want to loop through, therefore I would use a for loop.",,,
+319,2022-04-19 10:40:41.612,zquan@ucsd.edu,,,,,,"Scenario 1: while loop/ because I don't know how many times the loop will run until the user enter a valid password.
+Scenario 2: for loop/ because I know the list of student names, so I know the number of iteration the loop will run.",,,
+320,2022-04-19 10:40:43.557,sedu@ucsd.edu,,,,,,"While loop. Because we are asking for a new input for the password if the user input is wrong or does not satisfy the condition of at least 8 characters  (do not know how many iterations we are running).
+
+For loop. Because we are organizing the list of student names in a specified manner (last name, first name), as well as we know how many iterations we are running since it is a list with a specific number of names, so we use a for loop.","Always the word ""live"" will be printed always without any error",,
+321,2022-04-19 10:40:43.706,e4li@ucsd.edu,,,,,,"Scenario 1: while loop because it would test if the password meets the criteria or not, and the while loop will keep prompting the user when the password doesn't meet the criteria.
+Scenario 2: For loop because the for loop will run through all the students names and doesn't need to check for conditions.",,,
+322,2022-04-19 10:40:47.992,mimamura@ucsd.edu,,,,,,"scenario 1: you would use a while loop since you would infinitely run the loop until the requirement (length is at least 8 characters) is satisfied
+scenario 2: a for loop since you just want to run the loop for however many students there are.",,,
+323,2022-04-19 10:40:54.487,susmani@ucsd.edu,,,,,,"1. A while loop because we don't know how many times they may input the wrong password
+2. The for loop because we know how many times it will run through the sequence",,,
+324,2022-04-19 10:40:58.735,mbompat@ucsd.edu,,,,,,"1: While loop because I want the program to keep going until the criteria is satisfied. The number of iterations is unknown/indefinite
+2: For loop because the list of student names is already defined. The number of iterations is as long as the length of the list of students. ",,,
+325,2022-04-19 10:41:03.370,chc031@ucsd.edu,,,,,,"while loop (since the user might try infinite times), for loop (since the it uses finite times to run through the list)",,,
+326,2022-04-19 10:41:03.630,e3yu@ucsd.edu,,,,,,For scenario 1 I would use a while loop because I want the user to input a password infinitely until they meet the requirements. for scenario 2 I would use a for loop because I know how many iterations I must complete in order to get through all the students' names. ,,,
+327,2022-04-19 10:41:08.410,bto@ucsd.edu,,,,,,"1) While loop because if they don't meet the condition, they must be prompted to try again until it meets the criteria and we don't know how many times it would take for the user to enter the correct password. 
+2) I would use a for loop because the number of times we iterate through the list is the length of the list (it will go through all the names, and we know how many names there are in the list) ",,,
+328,2022-04-19 10:41:12.914,stseo@ucsd.edu,,,,,,"Scenario 1: while loop because we do not know how many times I need to enter the password. 
+Scenario 2: For loop because there is a set time of how many times we want to go through a loop. ",,,
+329,2022-04-19 10:41:14.389,jfoo@ucsd.edu,,,,,,"Scenario 1: while loop, because the user can enter the password multiple times which I cannot predict. 
+Scenario 2: for loop, because we know the number of total students on the list",,,
+330,2022-04-19 10:41:14.791,fmassa@ucsd.edu,,,,,3.0,"1) You would use a while loop because the user can enter an invalid password an infinite number of times.
+2) You would use a for loop because you know ahead of time how many students there are, so you can just run the loop for the whole range of students. ",,,
+331,2022-04-19 10:41:19.483,acramesh@ucsd.edu,,,,,,"1. while to keep going until the password meets the criteria
+2. for to stop iterating when the end of the list is reached",,,
+332,2022-04-19 10:41:22.835,h6dong@ucsd.edu,,,,,,"1: while loop
+2: for loop",,,
+333,2022-04-19 10:41:23.880,cradaell@ucsd.edu,,,,,,"1. I would use a while loop because I don’t know how any characters the user will use. 2. I will use a for loop because I have the list of student names, so I know how many elements are in the list, and therefore know how many iterations it will do.",,,
+334,2022-04-19 10:41:24.664,kac012@ucsd.edu,,,,,,"Scenario 1: while loop, because you want to continue running the loop until certain criteria are met in the input. Scenario 2: for loop, because you want to run a section of code on a list, which does not require any specific criteria to be met.",,,
+335,2022-04-19 10:41:25.882,ffalzony@ucsd.edu,,,,,,"For scenario 1, use For Loops because you know how many iterations it would need to make and for scenario 2, you would need to use a while loops",,,
+336,2022-04-19 10:41:26.868,kteran@ucsd.edu,,,,,,1: while loop 2: for loop,,,
+337,2022-04-19 10:41:27.881,yij002@ucsd.edu,,,,,,"Scenario 1: While loops, because it may run infinite number of times.
+Scenario 2: For loops, because you know how many students there are. ",,,
+338,2022-04-19 10:41:29.250,w3zou@ucsd.edu,,,,,,"Scenario 1: while loop (don't know how many times of iteration); Scenario2: for loop, (know the times of iteration, the list of students)",,,
+339,2022-04-19 10:41:30.247,gstilson@ucsd.edu,,,,,,"Scenario #1: Use while loop because you don't know how many times to repeat.
+Scenario #2: Use for loop because you know the length of the list of names.",,,
+340,2022-04-19 10:41:33.078,lkenney@ucsd.edu,,,,,,"scenario 1: while loop because you do not know how many time they will enter an invalid passcode
+scenario 2: for loop because you know how many times you need it to run because you know how many students there are ",,,
+341,2022-04-19 10:41:36.300,a7rios@ucsd.edu,,,,,,im not sure,,,
+342,2022-04-19 10:41:37.106,kzajkowski@ucsd.edu,,,,,,scenario 1- while loop because you do not know how many times they will enter an incorrect password || scenario 2- for loop because there is a finite number of students ,,,
+343,2022-04-19 10:41:39.871,b4song@ucsd.edu,,,,,,SCENARIO 1: while len(pass) <8: scenario 2: for,,,
+344,2022-04-19 10:41:40.042,nateng@ucsd.edu,,,,,,1.While: b/c we don't know how many times they will type it wrong and need to type again. 2.For: b/c we know the len of the list of students that we want to go through ,,,
+345,2022-04-19 10:41:40.204,cdquinon@ucsd.edu,,,,,,"while' because we don't know how many attempts the user will try until they get a password that fits the criteria. 
+'for' the list is already set at a specific number of students. So we know how many iterations to go through. ",,,
+346,2022-04-19 10:41:40.347,jndixon@ucsd.edu,,,,,,"1: I would use a for loop because we know how many iterations (8), and 2: I would use a while loop because there is no set amount of iterations? ",,,
+347,2022-04-19 10:41:41.645,biw007@ucsd.edu,,,,,,"Scenario 1: I will use while loop. Because I don't know that user would input.
+Scenario 2: I will use for loop. Because I already know the input of the program.",,,
+348,2022-04-19 10:41:42.865,jtlee@ucsd.edu,,,,,,"1) while loop because you don't know what the user is going to enter for the password
+2) for loop because you know the number of students on the list already",,,
+349,2022-04-19 10:41:43.054,auellis@ucsd.edu,,,,,,"For scenario 1 you would use a while loop because as long as the password meets that criteria, there can be an infinite number of password inputs. For scenario 2, yuo would use a for loop because you don't want the list to run forever, you only want it to run in the specified format once.",,,
+350,2022-04-19 10:41:43.993,kstraight@ucsd.edu,,,,,,1. while loop. while the password is under 8 characters. 2. for,,,
+351,2022-04-19 10:41:44.041,rushi@ucsd.edu,,,,,,1: While loops since we don't know the number of iterations before entering the loop. 2: For loops since we know the number of iterations is just the number of names in the list.,,,
+352,2022-04-19 10:41:44.217,srseay@ucsd.edu,,,,,,while ,,,
+353,2022-04-19 10:41:44.699,yug023@ucsd.edu,,,,,,"1: while loop because user needs to keep enter the passwords until it is correct
+2: for loop ",,,
+354,2022-04-19 10:41:45.544,dkprajapati@ucsd.edu,,,,,,"
+def position_in_waitlist(wlist, name):
+    for idx in range(len(wlist)):
+        if wlist[idx] == name:
+            return (idx + 1)
+    return -1
+
+",,,
+355,2022-04-19 10:41:45.913,kemendoza@ucsd.edu,,,,,,For scenario 1 you would use a while loop because we won't know how many tries the user will need before their password meets the criteria. For scenario 2 you would use a for loop because you know beforehand the number of students. ,,,
+356,2022-04-19 10:41:46.107,kochoa@ucsd.edu,,,,,,"Scenario 1: I would use a a while loop because I do not know how many times the user will input an invalid number.
+2: I would use a for loop.",,,
+357,2022-04-19 10:41:47.557,acarbajalsensente@ucsd.edu,,,,,,,,,
+358,2022-04-19 10:41:48.064,zhc037@ucsd.edu,,,,,,"Scenario 1: while loop 
+Scenario 2: for loop",,,
+359,2022-04-19 10:41:48.306,esquan@ucsd.edu,,,,,,"1) You would use a while loop, because you do not know the number of iterations that will happen before the user inputs a correct password. 2) for loop, because you know the amount of students on the list and so you know how many iterations you will have.",,,
+360,2022-04-19 10:41:48.361,yij013@ucsd.edu,,,,,,"For scenario 1, I will choose while loop because in order to validate the password, the system has to go through different conditional process. For senator 2, I will choose infinite loop because we don’t know the exact number of students.",,,
+361,2022-04-19 10:41:48.380,mrenteri@ucsd.edu,,,,,,Scenarios 1 will use while loops because we do not know how many attempts the user will take. in scenario 2 we will use the for loop because the length of the list will determine the iterations.,,,
+362,2022-04-19 10:41:48.425,vbatres@ucsd.edu,,,,,,"For the first scenario, you would use the while loop. For the second, you would use the for loop.",,,
+363,2022-04-19 10:41:48.746,pvn002@ucsd.edu,,,,,,"Yes the student should prompt the user to try again with a for loop,",,,
+364,2022-04-19 10:41:49.488,mcasasjimenez@ucsd.edu,,,,,,a while loop would be used for senario #1 and ,,,
+365,2022-04-19 10:41:49.888,jnhuynh@ucsd.edu,,,,,,"1) while:
+
+2) if: ",,,
+366,2022-04-19 10:41:50.219,rbartlett@ucsd.edu,,,,,,"you would use a while loop because it would need to keep asking the user for a password as long as its incorrect 
+
+a for loop because it only needs to be run the length of the list, not an infinte amount of times ",,,
+367,2022-04-19 10:41:50.447,amphan@ucsd.edu,,,,,,Scenario 1: for loop because the user is inputting a password Scenario 2: while loop because its automatic,,,
+368,2022-04-19 10:41:51.405,clchou@ucsd.edu,,,,,,While loops for scenario 1 because you do not know how many time the password will e entered.  For loops for scenario 2 as we have a list and a definte number o names,,,
+369,2022-04-19 10:41:51.571,areal@ucsd.edu,,,,,,for the first scenario I would use while loops since it carries the condition of it being at least 8 characters and will prompt the use to try again if it does not meet that criteria. For the second i would use infinite loops since there are two strings i would attach to combine them ,,,
+370,2022-04-19 10:41:52.086,tserna@ucsd.edu,,,,,,"Scenario 1: I will use a while loop because it should be able to run until the user inputs a password of correct length and we don't know how many times that will take, so a while loop works best.
+
+Scenario 2: I would use a for loop because there are a finite number of items on the list and we just want to go over thr list. ",,,
+371,2022-04-19 10:41:53.429,j8cao@ucsd.edu,,,,,,"Scenario 1: for loop because we are looking for passwords with at least 8 characters, so we have a set number of iterations
+
+Scenario 2: while loop because we do not know how many student names there are",,,
+372,2022-04-19 10:41:54.449,c1brower@ucsd.edu,,,,,,"1 - While loop 
+2 - For loop",,,
+373,2022-04-19 10:41:56.293,zusyed@ucsd.edu,,,,,,"for scenario 1: for loops because one the correct password, then break. 
+for scenario 2: while loops cuz all stdents",,,
+374,2022-04-19 10:41:57.080,namarque@ucsd.edu,,,,,,"1. While loop because I don't know how many times the user will enter until they meet criteria
+2. For loop because I know the number of students",,,
+375,2022-04-19 10:41:57.551,mbarawid@ucsd.edu,,,,,,"Scenario 1: For scenario 1, I would use a for loop because we know the number of items before entering the loop. For example, the scenario states that the password would need to have 8 characters, therefore 8 items will be listed. 
+
+Scenario 2: For scenario 2, I would use a while loop, because we don't know the number of iterations before entering the loop. ",,,
+376,2022-04-19 10:41:57.838,jmontehe@ucsd.edu,,,,,,"1) While loops, because I do not know the number of iterations of the loop. How many errors and individual will create to loops.
+
+2) For Loops. There’s a concrete number of students names.",,,
+377,2022-04-19 10:41:59.034,jmyint@ucsd.edu,,,,,,"1: while, not know how many times pass not meet criteria 2: for know number names/iterations",,,
+378,2022-04-19 10:42:01.195,emb009@ucsd.edu,2.0,False,"not (hour >= 0 and hour <= 23), hour <= 0 and hour >= 23, hour < 0 and hour > 23",Infinite number of times,3.0,"For scenario one, you will use a for loop because you know the number of iterations you want for the loop. Same goes for example 2, you want a specific format which would call for a for loop",,,
+379,2022-04-19 10:42:01.955,dkeovanna@ucsd.edu,,,,,,"Scenario 1: you will use the while loop because the user can input the wrong password any amount of times, so you want to use the loop where you don't know the iterations. Scenario 2: use the for loop because there's a. definite amount of names",,,
+380,2022-04-19 10:42:02.213,sjs001@ucsd.edu,,,,,,"1. I would use the while loop because there is an unknown number of times the user's password does not meet the criteria until it is valid. 
+2. I would use the for loops because we know how many names need to be printed with the list given. ",,,
+381,2022-04-19 10:42:07.037,aaali@ucsd.edu,,,,,,For scenario 1 I would use a for loop because we are given the amount of iterations. For scenario 2 I would use a while loop because we don't know the amount of iterations.,,,
+382,2022-04-19 10:42:07.621,alcedill@ucsd.edu,,,,,,"scenario 1: while loop because you want to run the prompt until desired answer
+scenario 2: for loop",,,
+383,2022-04-19 10:42:10.593,bthome@ucsd.edu,,,,,,#1 I would use while so that they can enter it wrong any number of times. #2 I would use for because if I already have the list of names I should know how many times to run the loop,,,
+384,2022-04-19 10:42:12.956,yiperez@ucsd.edu,,,,,,"scenario 1 - while loop
+scenario 2 - for loop",,,
+385,2022-04-19 10:42:17.833,amcquade@ucsd.edu,,,,,,"1) While loop, because we don't know how many times the password will be entered wrong therefore we need to continue running to program until it is right.
+2) For loop, because there is set list of names and we know the specific order they need to be placed in therefore we know the number of iterations before entering the loop.",,,
+386,2022-04-19 10:42:20.231,rrangarajan@ucsd.edu,,,,,,I will use a while loop for Scenario 1 because it will continue to reoccur until the criteria is met. I will use w for loop in Scenario 2 because it will go through a list to print the output,,,
+387,2022-04-19 10:42:20.317,jamarin@ucsd.edu,,,,,,In the first scenario you will use a while loop because you don't know how many times the code will run. For scenario 2 you will use a for loop because there is a certain amount of times that the code will run.,,,
+388,2022-04-19 10:42:20.593,mlruiz@ucsd.edu,,,,,,"a while loop, infinite",,,
+389,2022-04-19 10:42:23.295,siwatsuki@ucsd.edu,,,"not (hour >= 0 and hour <= 23), hour <= 0 and hour >= 23, hour < 0 and hour > 23",,,"""while""  because it can show the msg again and again till the user satisfy the particular conditions. ""for"" not time to answer",,,
+390,2022-04-19 10:42:24.903,j5medina@ucsd.edu,,,,,,For loop because we only have to write 3 statements. I would use the same loop for the second scenario ,,,
+391,2022-04-19 10:42:25.734,bwheeloc@ucsd.edu,,,,,,"while loop, for loop",,,
+392,2022-04-19 10:42:33.973,n1vasque@ucsd.edu,,,,,,"while loop 
+for loop bc i have list of names",,,
+393,2022-04-19 10:42:35.056,dkprajapati@ucsd.edu,,,,,,y loop,,,
+394,2022-04-19 10:42:38.315,apotapenko@ucsd.edu,,,,,,"Scenario 1: While loop because there can be limitless number of passwords (you don't know the number of iterations)
+Scenario 2: For loop because there already exists a list of student names (you know the number of iterations)",,,
+395,2022-04-19 10:42:39.891,acarbajalsensente@ucsd.edu,50.0,,,,,"while loop, for loop",,,
+396,2022-04-19 10:42:40.786,achiang@ucsd.edu,,,,,,"Scenario 1:
+I will use while loop because we do not know the iteration before entering the loop. We don't know how many times will the users don't meet the criteria.
+
+Scenario 2:
+I will use for loop because you know the amount of students I have. ",,,
+397,2022-04-19 10:42:43.314,s3cho@ucsd.edu,,,,,,"1. While loop
+2.for loop",,,
+398,2022-04-19 10:42:48.372,hjfernandez@ucsd.edu,,,,,,"
+  -maybe use a while loop
+-maybe use a for loop ",,,
+399,2022-04-19 10:42:58.884,rhuyck@ucsd.edu,,,,,,"1.) A while loop because we are not sure how many times that we need to repeat it.
+2.) A for loop because we have a limited number of things within the list.",,,
+400,2022-04-19 10:43:02.785,bgee@ucsd.edu,,,,,,"While loops for scenario 1, because we have unlimited amont of attempt for loops for scenario 2 because we know the number of iterations",,,
+401,2022-04-19 10:43:02.807,lhoeg@ucsd.edu,,,,,,"For scenario #1, I would use the while loop function because we do not know the number of iterations that can validate the password despite it being at least 8 characters, whereas the for loop function would be used for scenario #2 because we do know how many names are in the list.",,,
+402,2022-04-19 10:43:05.343,rlopezmo@ucsd.edu,,,,,,"for scenario 1 I choose a while loop. This is because I dont know how many iterations there will be because I dont know the length of their password
+for scenario 2 I choose a for loop. This is because I know how many iterations there will be because I know the number of students there are",,,
+403,2022-04-19 10:43:16.214,basalmon@ucsd.edu,,,,,,"For scenario 1, I would use a for while loop because the user decides how many characters they are going to input.
+For scenario 2, I would use a for loop because there is a designated list of student names. ",,,
+404,2022-04-19 10:43:17.625,jir004@ucsd.edu,,True,,,,"Scenario 1: I don't know how many characters are being used, so we use a loop.
+Scenario 2: For loops because you know how many students there are",,,
+405,2022-04-19 10:43:43.515,tanewman@ucsd.edu,,,,,,,"Any of the three words ""live"", ""love"", and ""laugh"" will be printed but sometimes an error may be thrown",,
+406,2022-04-19 10:43:53.750,edqueved@ucsd.edu,,,,,,"while loops because we need infinite iterations here until a valid input is given
+for loops because we can iterate through the list",,,
+407,2022-04-19 10:44:21.948,hwolf@ucsd.edu,,,,,,,"Any of the three words ""live"", ""love"", and ""laugh"" will be printed but sometimes an error may be thrown",,
+408,2022-04-19 10:45:02.359,hwolf@ucsd.edu,,,,,,,,While loops can go on for an infinite amount of time. You can use the break function to enter a condition to stop it.,
+409,2022-04-19 10:46:55.463,biw007@ucsd.edu,,,,,,,"Any of the three words ""live"", ""love"", and ""laugh"" will be printed always without any error",,
+410,2022-04-19 10:49:05.183,dkprajapati@ucsd.edu,,,,,,,"Any of the three words ""live"", ""love"", and ""laugh"" will be printed but sometimes an error may be thrown",,
+411,2022-04-19 10:49:54.933,y5zhong@ucsd.edu,2.0,True,"not (hour >= 0 and hour <= 23), hour <= 0 and hour >= 23, hour < 0 and hour > 23",0.0,3.0,1. while loop for I don't know how many characters the user will input. 2. for loop because I have the list and I can know the elements in it. ,"Any of the three words ""live"", ""love"", and ""laugh"" will be printed but sometimes an error may be thrown","The while loop which provides a difference usage compared with for loop. The random.randiant(y, x)",
+412,2022-04-19 10:50:18.216,alicup@ucsd.edu,2.0,False,"not (hour >= 0 and hour <= 23), hour < 0 and hour > 23",1.0,3.0,"In scenario 1, you would use a while loop, because there is not set amount of times that a password can be tried (i.e. unknown amount of iterations), so it should be a while loop until the correct password is input.
+
+In scenario 2, we know the amount of iterations due to the length of the list of student's names. Therefore, we would use a for loop. ","Any of the three words ""live"", ""love"", and ""laugh"" will be printed always without any error","One key idea I learned is about the while loop, which is a loop that can be used when we don't know the number of iterations there will be. It acts like a condition instead of just running through every possible iteration. It can be exited as early as the first or continue infinitely if we wanted it to.",Some questions I still have has to deal with the break function.
+413,2022-04-19 10:50:33.832,mbompat@ucsd.edu,,,,,,,"Any of the three words ""live"", ""love"", and ""laugh"" will be printed but sometimes an error may be thrown","One key idea that I learned today in class are While loops, and how to write a code for it. We also learned how to break the indefinite While loops or how to keep them going. Lastly, how to know whether to use a for loop or a while loop. (Then an introduction of modules)",
+414,2022-04-19 10:50:54.299,sedu@ucsd.edu,,,,,,,"Any of the three words ""live"", ""love"", and ""laugh"" will be printed but sometimes an error may be thrown","How we can, given the circumstance, continuously loop until the user input satisfies the exit condition. This means that we are able to deal with problems where we do not know the number of iterations we will need.",Most confusing thing is dealing with lists within for loops.
+415,2022-04-19 10:51:08.524,namarque@ucsd.edu,,,,,,,,Learning how to use while loops and when to use them vs. for loops was interesting. I learned how to have the loop work for an infinite number of times. ,I found creating the program for loops confusing. I'm not really understanding the syntax and flow of writing the body.
+416,2022-04-19 10:51:48.077,dkprajapati@ucsd.edu,,Fear,,,,,,,
+417,2022-04-19 10:51:55.245,jir004@ucsd.edu,,,,,,,"Any of the three words ""live"", ""love"", and ""laugh"" will be printed always without any error",One key idea that I learned in today's class is for vs while loops. For loops are when we don't know when the number of iterations before entering the loop. While loops are when we do know the numbers of iteration before entering the loop.,"One question I still have about today's lecture are breaks, I am still very confused on what they are and what they do. "
+418,2022-04-19 10:52:02.298,acramesh@ucsd.edu,,,,,,,"Any of the three words ""live"", ""love"", and ""laugh"" will be printed always without any error",I learned how to use while loops. I also learned how to use the break function in these.,The use of the random module is a little confusing.
+419,2022-04-19 10:52:18.088,emb009@ucsd.edu,2.0,False,"not (hour >= 0 and hour <= 23), hour <= 0 and hour >= 23, hour < 0 and hour > 23",Infinite number of times,3.0,"Scenario 1: While loop because you dont know how many interations students will put in
+Scenario 2: You'd use a for loop because you know how many students there are.","Any of the three words ""live"", ""love"", and ""laugh"" will be printed always without any error",one key thing that I learned about was the difference between for loops and while loops. I also learned that control c will tell an infinite loop to stop by interrupting the code. ,I'm still struggling a bit with the for loops and I feel that theres a bit of a disconnect between my comprehension in the lectures to stepik to the PA assignments
+420,2022-04-19 10:52:23.536,acarbajalsensente@ucsd.edu,,,,,,,"Always the word ""live"" will be printed always without any error","One key thing I learned in class is random modules. you're able to print out any numbers or lists with values and if you print out rd.randit, python will print out the list randomly ",for loops and while loops 
+421,2022-04-19 10:52:26.369,aguzmanramos@ucsd.edu,,,,,,,"Any of the three words ""live"", ""love"", and ""laugh"" will be printed but sometimes an error may be thrown",One Idea that I learned today is that while loop are supposed to be used when we don't know how many times an iterations need to be running,The most confusing thing about lecture remains to be indexing and how to properly apply it 
+422,2022-04-19 10:52:30.555,jfoo@ucsd.edu,,,,,,,"Any of the three words ""live"", ""love"", and ""laugh"" will be printed but sometimes an error may be thrown","One key idea I learned in class today is that the position of the ""return"" in a function is very important. Whenever there is a return, it will exit the function. Therefore, in a loop, it can make you leave the loop after only running on iteration. ",The most confusing part of today's lecture was the review for using for loops with range. I still have trouble applying loops to my code. 
+423,2022-04-19 10:52:30.535,jamarin@ucsd.edu,,,,,,,"Any of the three words ""live"", ""love"", and ""laugh"" will be printed but sometimes an error may be thrown","I learned about the differences between while and for loops, and when they should be used.",I still need some clarification on grabbing indexes from lists and properly grabbing values from lists.
+424,2022-04-19 10:52:33.488,mimamura@ucsd.edu,,,,,,,"Any of the three words ""live"", ""love"", and ""laugh"" will be printed but sometimes an error may be thrown","While loops. What do while loops do and how they are different than for loops. While loops can technically run an infinite amount of time. While loops are used when we do not know how many iterations will be needed, so we can use it when the user is inputting something and their input must follow a certain requirement.","no questions, I did not find anything confusing about today's lecture."
+425,2022-04-19 10:52:36.195,kac012@ucsd.edu,,,,,,,,"I learned what situations for and while loops are best used in, depending on what the goal of a program is. I also learned how to import and use modules in Python, such as math or random.","I found using indexes in for loops confusing, as there are a lot of different variables and functions being used at the same time, but I think I understand how to use them."
+426,2022-04-19 10:52:49.516,zyoo@ucsd.edu,3.0,True,hour >= 0 and hour <= 23,0.0,12.0,"1. while loop since it is repeating until you get the correct format
+2. for loop since you know the number of iterations","Any of the three words ""live"", ""love"", and ""laugh"" will be printed always without any error",I learned how while loops generate infinite loops. I also learned that if statements can only loop around once and you need while loops to keep the program going.,I am still confused about lists in general. the first review problem really had me stumped
+427,2022-04-19 10:52:54.030,lkenney@ucsd.edu,,,,,,,"Any of the three words ""live"", ""love"", and ""laugh"" will be printed but sometimes an error may be thrown",One key idea I learned today was the concept of a while loop. It was interesting because it could be run forever.,The most confusing thing about today's lecture was the break in a while loop.
+428,2022-04-19 10:52:57.128,darroyo@ucsd.edu,10.0,Error,"not (hour >= 0 and hour <= 23), hour <= 0 and hour >= 23, hour < 0 and hour > 23",0.0,3.0,"Scenario 1: while
+Scenario 2: for","Any of the three words ""live"", ""love"", and ""laugh"" will be printed always without any error",Today I learned different forms of loops such as while loops and for loops. I also learned breaks and infinite loops. ,I usually find the lecture to be a bit confusing though after review I understand what was explained to me.  
+429,2022-04-19 10:53:17.655,achiang@ucsd.edu,,,,,,,"Any of the three words ""live"", ""love"", and ""laugh"" will be printed but sometimes an error may be thrown","One key idea today is the while loop. I learned that while loop could cause infinite loop, so it must be given conditions to to break the loop. ",I find the loops still a little bit confusing when it is programed with the concept of list. 
+430,2022-04-19 10:53:24.200,i4anders@ucsd.edu,2.0,False,"not (hour >= 0 and hour <= 23), hour >= 0 and hour <= 23",Infinite number of times,3.0,I would use a while loop so it would fail if requirements are met and I could tell the user that they are missing requirements. For scenario 2 I would use a for loop because I know the number of student names.,"Any of the two words ""live"" and ""love"" will be printed always without any error","I learned about while loops, and we did some review with for loops. We also learned about importing modules.",Still confused about for loops on this PA. 
+431,2022-04-19 10:53:32.483,cradaell@ucsd.edu,,,,,,,"Any of the three words ""live"", ""love"", and ""laugh"" will be printed but sometimes an error may be thrown",I learned about infinite loops and how to stop them.,I have no questions about this lecture 
+432,2022-04-19 10:53:34.470,j8cao@ucsd.edu,,,,,,,"Any of the two words ""live"" and ""love"" will be printed always without any error","A key idea I learned is the difference between a for loop and while loop. We use for loops when we know how many times the loops should be run, and we use while loops when we don't know the number of times.",
+433,2022-04-19 10:53:36.783,e3yu@ucsd.edu,,,,,,,"Any of the three words ""live"", ""love"", and ""laugh"" will be printed but sometimes an error may be thrown","Today I learned the key differences between for loops and while loops. It is best to use for loops when we already know how many iterations we want to complete, and it's best to use while loops when we don't know how many iterations we need. ",I thought that modules was the most confusing part of todays lecture 
+434,2022-04-19 10:53:40.990,jmontehe@ucsd.edu,,,,,,,"Any of the two words ""live"" and ""love"" will be printed always without any error",The idea of how for loops are typically used if you are aware of the number of iterations. While loops are used when you do not know the number of iterstions.,For loops. Im still confused
+435,2022-04-19 10:53:41.785,yug023@ucsd.edu,,,,,,,,"while loop can run infinite times. to stop the infinite run, we can put break.",the body part of the for and while loop. 
+436,2022-04-19 10:53:43.405,alicup@ucsd.edu,2.0,False,"not (hour >= 0 and hour <= 23), hour < 0 and hour > 23",1.0,3.0,"In scenario 1, you would use a while loop, because there is not set amount of times that a password can be tried (i.e. unknown amount of iterations), so it should be a while loop until the correct password is input.
+
+In scenario 2, we know the amount of iterations due to the length of the list of student's names. Therefore, we would use a for loop. ","Any of the three words ""live"", ""love"", and ""laugh"" will be printed but sometimes an error may be thrown","One key idea I learned is about the while loop, which is a loop that can be used when we don't know the number of iterations there will be. It acts like a condition instead of just running through every possible iteration. It can be exited as early as the first or continue infinitely if we wanted it to.",Some questions I still have has to deal with the break function.
+437,2022-04-19 10:53:44.006,nateng@ucsd.edu,,,,,,,"Any of the three words ""live"", ""love"", and ""laugh"" will be printed but sometimes an error may be thrown",We've learned while loop and infinite loop.,nope!
+438,2022-04-19 10:53:44.945,mbarawid@ucsd.edu,,False,"not (hour >= 0 and hour <= 23), hour >= 0 and hour <= 23",,,,"Any of the three words ""live"", ""love"", and ""laugh"" will be printed always without any error",,
+439,2022-04-19 10:53:56.088,gstilson@ucsd.edu,,,,,,,"Any of the three words ""live"", ""love"", and ""laugh"" will be printed but sometimes an error may be thrown",I learned how to use while loops when the loop has to run an unknown amount of times. I also learned how to use the modules to call a random integer.,I am still confused on the conditions of a while loop.
+440,2022-04-19 10:54:12.447,rrangarajan@ucsd.edu,,,,,,,"Any of the three words ""live"", ""love"", and ""laugh"" will be printed always without any error","In this class I learned about while loops and how they differ from for loops, and which circumstances to use them. They allow for the code to run an infinite amount of times.",The random command is a bit confusing because we learned it toward the end so it was a bit rushed . 
+441,2022-04-19 10:54:19.292,clchou@ucsd.edu,,,,,,,,"we learned about the difference between for and while loops.  While loops are used when you do not know the number of iterations when entering a loop, while for loops are the opposite",no question
+442,2022-04-19 10:54:35.940,kteran@ucsd.edu,,True,,,,,,One key idea I learned was while loops. While loops are similar to for loops but used when you don't know the number of iterations.,Still confused on how to implement both for and while loops.
+443,2022-04-19 10:54:36.830,xixie@ucsd.edu,,,,,,,"Any of the three words ""live"", ""love"", and ""laugh"" will be printed always without any error",Leaning the concept of while.,N/A.
+444,2022-04-19 10:54:40.396,bthome@ucsd.edu,,,,,,,,that while loops run while their condition is true,some of the stuff he went over at the beginning with range. And some of the examples I felt like were gone over too fast and I don't fully understand them
+445,2022-04-19 10:54:45.436,jal050@ucsd.edu,2.0,True,"not (hour >= 0 and hour <= 23), hour < 0 and hour > 23",0.0,3.0,"For scenario 1, I would use a while loop because I want the user to try again before giving them the okay on their password. This could go on a numerous amount of iterations. For scenario 2, I know the amount of iterations based on the list of student names I want to loop through, therefore I would use a for loop.","Any of the three words ""live"", ""love"", and ""laugh"" will be printed but sometimes an error may be thrown","I learned that while loop is used when you don't know the amount of iterations for the loop, whereas a for loop is definite amount of iterations. I also learned that when while loop is set with only the True condition, the loop runs forever.",I found reviewing for loops and importing modules to be the most confusing in today's lecture.
+446,2022-04-19 10:54:53.524,anamador@ucsd.edu,,,,,,"Scenario 1: I would use for loop 
+Scenario 2: I would use loops with range ","Any of the three words ""live"", ""love"", and ""laugh"" will be printed but sometimes an error may be thrown",One key idea that I learned was while loops are used for when you dont know the number of iterations in the loop while for loops are used for when you do know the number of iterations. I also learned that you can import math functions by using the math and desired function,nothing
+447,2022-04-19 10:54:59.179,kemendoza@ucsd.edu,,,,,,,"Any of the three words ""live"", ""love"", and ""laugh"" will be printed but sometimes an error may be thrown","The key idea I learned today was ""while loops"" which expand on the concept of for loops that we learned last lecture. While loops are different in that they can go on for an infinite amount of times. ",I'm still confused on how to use loops with other python commands (if statements and functions). 
+448,2022-04-19 10:55:05.557,bto@ucsd.edu,,,,,,,"Any of the three words ""live"", ""love"", and ""laugh"" will be printed but sometimes an error may be thrown","I learned that we could use while loops if we don't know how many iterations is necessary. If the condition is true, it will run forever. ","I think writing the white loop by myself is a little confusing, I need to understand the syntax a little better"
+449,2022-04-19 10:55:05.580,esquan@ucsd.edu,,,,,,,"Any of the three words ""live"", ""love"", and ""laugh"" will be printed but sometimes an error may be thrown","I learned about while loops and how they run when a certain condition is specified, as well as how to break them. I also learned about the difference between for loops and while loops.",I found the review of for loops confusing about today's lecture. I still do not completely understand how to make for loops run through many iterations.
+450,2022-04-19 10:55:08.071,sjs001@ucsd.edu,,,,,,,"Always the word ""live"" will be printed always without any error","We learned about using different types of loops to get different outputs. For example, we use a while loop when we do not know the number of iterations before enter a loop and we use a for loop when we do know the number of iterations. ",I would like more time on importing modules
+451,2022-04-19 10:55:21.215,mripchik@ucsd.edu,10.0,False,hour >= 0 and hour <= 23,1.0,4.0,,"Any of the three words ""live"", ""love"", and ""laugh"" will be printed always without any error",I began to learn how to use loops and how to end loops. ,I’m still very confused on loops and when to use them.
+452,2022-04-19 10:55:57.515,basalmon@ucsd.edu,,,,,,,"Any of the three words ""live"", ""love"", and ""laugh"" will be printed but sometimes an error may be thrown",I learned about while loops and how they compare to for loops. We also briefly discussed modules and how to import them. ,I think I'm a little confused by importing modules. 
+453,2022-04-19 10:56:02.873,avgutier@ucsd.edu,,,,,,"Scenario 1: you will use the random loop
+Scenario 2: im not sure possibly while loops","Any of the two words ""live"" and ""love"" will be printed always without any error",One key thing I learned was using while loops in my codes. You have the while with the condition then the body of the loop.,no questions
+454,2022-04-19 10:57:52.696,mrenteri@ucsd.edu,,False,"not (hour >= 0 and hour <= 23), hour < 0 and hour > 23",,,,"Any of the three words ""live"", ""love"", and ""laugh"" will be printed but sometimes an error may be thrown",Today I learned about the function of random.randint. This can be used to generate a random value within the set parameters.,I am still not quite sure how to use while loops. I understand when to use them in comparison to for loops however I still find it fairly confusing.
+455,2022-04-19 10:58:12.427,edqueved@ucsd.edu,,,,,,,"Any of the two words ""live"" and ""love"" will be printed always without any error",,
+456,2022-04-19 10:58:38.650,ggehr@ucsd.edu,,,,,4.0,,"Any of the three words ""live"", ""love"", and ""laugh"" will be printed but sometimes an error may be thrown",,
+457,2022-04-19 11:00:26.539,c1brower@ucsd.edu,,,,,,,"Any of the three words ""live"", ""love"", and ""laugh"" will be printed but sometimes an error may be thrown",I learned the difference between a for loop and a while loop.,Still confused about for loops
+458,2022-04-19 11:00:27.229,siwatsuki@ucsd.edu,,,,,,,"Any of the three words ""live"", ""love"", and ""laugh"" will be printed but sometimes an error may be thrown","""while"" and ""for"" loops are used in different situation for its needs. Unless it does satisfy the conditions, it'll print infinitely. On the other hand, it'll only execute certain times designed by you by using for loop.",don't come up any quickly 
+459,2022-04-19 11:02:05.198,e4li@ucsd.edu,,,,,,,"Any of the three words ""live"", ""love"", and ""laugh"" will be printed but sometimes an error may be thrown","I learned the difference between while loops and for loops. I also learned that for while loops theres not set amount to test and can go on forever while for for loops, theres a end.",none
+460,2022-04-19 11:03:36.037,yij002@ucsd.edu,,False,"not (hour >= 0 and hour <= 23), hour < 0 and hour > 23",,,,"Any of the three words ""live"", ""love"", and ""laugh"" will be printed but sometimes an error may be thrown",I learned a lot about the definition and how to use while loops. I now understand how it is different from for loops and how to break from the loops when needed. ,I have no question. 
+461,2022-04-19 11:09:29.478,amcquade@ucsd.edu,,,"hour <= 0 and hour >= 23, hour < 0 and hour > 23",,,,"Any of the three words ""live"", ""love"", and ""laugh"" will be printed always without any error",One key idea I learned in today's class is while loops. I learned that they are useful when we want a program to continue running as many times as necessary until we get a true statement for our program. ,While I understand the concept of why loops and infinite loops what I found to be most confusing was how to properly set up the codes so that they will run efficiently and output what values we want. 
+462,2022-04-19 11:09:50.188,b4song@ucsd.edu,,,,,,,"Any of the three words ""live"", ""love"", and ""laugh"" will be printed always without any error","while loops are used when you know the conditions of what you're looking for, while for loops can be used if you do not ",i think i get it 
+463,2022-04-19 11:13:57.795,m3diaz@ucsd.edu,10.0,Fear,hour >= 0 and hour <= 23,1.0,4.0,I would use while loop in scenario 1. For second scenario I would for loop because it’s iterating over a sequence.,"Any of the three words ""live"", ""love"", and ""laugh"" will be printed always without any error",One thing I learned is that for loops is when you know the amount of characters. A while loop on the other hand is when you want to iterate a code when the expression is true. ,One thing I found confusing is still the for loops and while loops.
+464,2022-04-19 11:17:14.111,auellis@ucsd.edu,,,,,,,,"I learned to better understand for loops. I also learned about while loops. While loops will go on forever as long as the while loop is satisfied, while the for loop will only go through once unless specified otherwise.",Nothing
+465,2022-04-19 11:21:05.948,mcasasjimenez@ucsd.edu,,,,,,,"Always the word ""live"" will be printed always without any error",While loops is thr key ieda I learned today. It is still confusing to me at some points.,Loops in general are what confuses me. Knowing when to use what kind of loop as a for loop or a while loop is confusing.
+466,2022-04-19 11:27:15.322,jtlee@ucsd.edu,,,"not (hour >= 0 and hour <= 23), hour <= 0 and hour >= 23",,,,"Any of the three words ""live"", ""love"", and ""laugh"" will be printed but sometimes an error may be thrown","One key idea that I learned today in class is how to decide when to use while loops and when to use for loops. For example, if you know how many times something will run/know the number of iterations, it is better to use a for loop. But if you don't know how many times it is going to run/don't know the number of iterations, it is better to use a while loop.","I am still a little confused by what to put in the body of the while loops and for loops or how to end it, especially when they are inside a function. Since professor mentioned in class that ""return"" immediately ends the function, do we always put return outside of the while loop and for loop to ensure the loops will loop normally before ending?"
+467,2022-04-19 11:30:30.751,dkeovanna@ucsd.edu,,,,,,,"Any of the three words ""live"", ""love"", and ""laugh"" will be printed always without any error","codes will run for infinity if you use the true statement at the condition of the loop, because it uses a boolean value to evaluate the loop so a true statement will run it indefinitely. A function terminates once there's a return value, so the else statement can mess up a loop.","I think I might use the break statement if I want to end the code at a certain point, but im not sure."
+468,2022-04-19 11:49:14.862,rhuyck@ucsd.edu,,,,,,,"Any of the three words ""live"", ""love"", and ""laugh"" will be printed always without any error",A key idea that I learned in class was how to use a while loop. I also learned how to break one so that it does not go infinitely.,I found the difference between a while loop and a for loop to be a bit confusing.
+469,2022-04-19 11:57:23.419,rushi@ucsd.edu,,False,"not (hour >= 0 and hour <= 23), hour <= 0 and hour >= 23",,,,"Any of the three words ""live"", ""love"", and ""laugh"" will be printed but sometimes an error may be thrown","The While Loops. If the loop condition is always true, the loop will never end. As long as the loop condition is false, we can exit the loop and print out the final result. And we learned conditions to determine when to use while loops or for loops.",I think the importing modules is quite confusing.
+470,2022-04-19 12:06:55.482,dnkim@ucsd.edu,50.0,True,hour >= 0 and hour <= 23,100000000000000000000000000000000000000000 times,8.0,Scenario 2 because it's more efficient.,"Any of the two words ""live"" and ""love"" will be printed always without any error",Using for loops when you know there is iteration happening. Also index in counting where to begin.,Will go to office hours to ask lol
+471,2022-04-19 12:10:12.606,rglopez@ucsd.edu,2.0,False,not (hour >= 0 and hour <= 23),Infinite number of times,3.0,"1: while
+because you want them to input a correct password, so keep asking them until they do
+2: for
+because we know the number of iterations","Any of the three words ""live"", ""love"", and ""laugh"" will be printed always without any error",A key idea was understanding the difference between for loops and while loops,I still need to understand loops better and how for/if can be implemented into code to output a desired value
+472,2022-04-19 12:21:23.402,yiperez@ucsd.edu,,,,,,,"Any of the three words ""live"", ""love"", and ""laugh"" will be printed always without any error",I learned that we can run infinite loops on python by using the while feature. I also learned that while loops are different from for loops in the way it allows you to choose different prompts depending on conditions. ,I was very lost on the modules section of this lesson. 
+473,2022-04-19 12:24:52.893,zquan@ucsd.edu,,,,,,,"Always the word ""live"" will be printed always without any error","We use while loop when we don't know how many times the loop will run, we use for loop when we know the number of times a loop will run.",I am pretty clear about the lecture materials for today.
+474,2022-04-19 12:39:24.386,kzajkowski@ucsd.edu,,Error,"hour >= 0 and hour <= 23, hour < 0 and hour > 23",,,,"Any of the three words ""live"", ""love"", and ""laugh"" will be printed always without any error",the difference between for and while loops,im still confused on importing modules 
+475,2022-04-19 13:39:36.671,zusyed@ucsd.edu,,,,,,,,the biggest key idea I learned was about how loops can go infinite. They are also not infinite and can break. ,The most confusing part is the for loops 
+476,2022-04-19 14:18:08.722,biw007@ucsd.edu,,,,,,,,"I've learned Break, modulus, and while loops, etc.",Nope
+477,2022-04-19 15:44:10.244,apotapenko@ucsd.edu,,False,"not (hour >= 0 and hour <= 23), hour <= 0 and hour >= 23, hour < 0 and hour > 23",,,,"Any of the three words ""live"", ""love"", and ""laugh"" will be printed but sometimes an error may be thrown","For while loops, if the loop condition is true, then the body of the loop condition will be executed. If the loop condition is false, the function will be terminated.","I'm still confused on when to write a pre-statement before the for loop with range and when not to write one. For example, in question 1, we defined min_pos= 0, however, in the second question, we didn't define any variable like that. Therefore, how do I know when to do that?"
+478,2022-04-19 15:50:00.612,alcedill@ucsd.edu,,False,"not (hour >= 0 and hour <= 23), hour >= 0 and hour <= 23",,,,"Always the word ""live"" will be printed always without any error",with for loops it will continue running until it is false. once the statement is false it will become invalid.,Im still having trouble understanding for loops and range.
+479,2022-04-19 15:53:17.655,kochoa@ucsd.edu,,,,,,,"Always the word ""live"" will be printed always without any error",One key idea that I learned in today’s class is that there is a difference between a for and while loop. A while loop is used when you are not sure how many times something will be repeated. A for loop is used when you are sure of how many times you are going to repeat something.,What I found most confusing was how to implement the for and while loops into a code.
+480,2022-04-19 17:07:38.271,mbarawid@ucsd.edu,,,,,,,,"One key idea that I learned in today's class was the difference between ""for"" and ""while"" loops. For instance, we would utilize ""for"" loops when the coder knows the number of iterations (items) that are present before entering the loop. On the other hand, we would utilize ""while"" loops when the coder does not know the number of iterations before entering the loop. ","I was confused about while loops in general because I still haven't fully grasped ""for"" loops. As a result, when I was trying to follow along with the lecture I was having difficulty understanding the purpose of making the length and parameter = 0, while returning another number such as ""-1."" (This was from the review exercise)."
+481,2022-04-19 17:16:14.750,jnhuynh@ucsd.edu,,,,,,,,While loops can run forever if you don't code in a way to get out of it or forcefully terminate.,"I still don't understand which scenarios favor if and which favor while even though I get the general notion of why one might use one or the other. Also, maybe I missed the last part because I had to get to my next class. I have no idea what Big Idea #5 is about."
+482,2022-04-19 17:29:24.109,fmassa@ucsd.edu,2.0,True,,,3.0,,"Any of the two words ""live"" and ""love"" will be printed always without any error","I learned that you can import different ""knowledge"" into Python, such as mathematics. You can import math and then use math.<object> to get things such as pi, factorials, and powers.","I want more information on break statements. I think that we didn't get to cover the full scope of why you might need one. When I used break statements before, it was just because my code didn't have proper conditions to exit the loop. Is there a situation where a break statement is better than creating more foolproof conditionals?"
+483,2022-04-19 23:07:42.802,krdocuyanan@ucsd.edu,,,,,,,"Any of the three words ""live"", ""love"", and ""laugh"" will be printed but sometimes an error may be thrown","I learned that loops can be printed for a very specific input, such as even or odd numbers",I am still unsure about loops
+484,2022-04-19 23:26:34.246,n1vasque@ucsd.edu,,,,,,,,In todays class i learned the difference of for lops and while lops. For loops are loops are used when you have the information and while loops are used when the users input needs to be checked because the code will keep on running ,nothing i really enjoyed todays lecture! i 
+485,2022-04-19 23:43:34.219,amphan@ucsd.edu,,True,"hour >= 0 and hour <= 23, hour <= 0 and hour >= 23",,,,"Any of the three words ""live"", ""love"", and ""laugh"" will be printed always without any error",The difference between for loops and while loops. How to use for loops and while loops for different functions. ,I think the key idea was the most confusing just because the concept was difficult to understand. 
+486,2022-04-19 23:54:39.421,stseo@ucsd.edu,2.0,True,hour >= 0 and hour <= 23,1.0,8.0,,"Any of the three words ""live"", ""love"", and ""laugh"" will be printed but sometimes an error may be thrown","I learned how to make a more convenient if statement with while loops. I also learned how to get out of the infinite loop with the ""break"". ",Can it be possible to be using both for loop and while loop? 
+487,2022-04-20 09:03:58.096,zhc037@ucsd.edu,,,,,,,,While loop and how to break the while loop. ,
+488,2022-04-20 10:15:05.643,gdwhite@ucsd.edu,2.0,True,"not (hour >= 0 and hour <= 23), hour < 0 and hour > 23",Infinite number of times,4.0,"scenario 1: A while loop that breaks if the user does not satisfy a parameter
+scenario 2: A for loop that returns true once the student's name is found","Any of the three words ""live"", ""love"", and ""laugh"" will be printed always without any error",While loops and their components. When while loops are useful and when for loops are useful.,more review about while loops
